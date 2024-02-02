@@ -55,6 +55,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7EBB7D97
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.WebApp", "src\Softville.Upwork.WebApp\Softville.Upwork.WebApp.csproj", "{AB6CC19D-8E21-40AC-8FEF-D588B7E55C6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.Contracts", "src\Softville.Upwork.Contracts\Softville.Upwork.Contracts.csproj", "{B93CE258-F0A0-4EE9-98B9-3D2E008AD64F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
