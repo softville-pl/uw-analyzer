@@ -9,10 +9,14 @@ namespace Softville.Upwork.BusinessLogic.Processor;
 
 internal record struct UpworkParser
 {
-    [RequiresDynamicCode("Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
-    [RequiresUnreferencedCode("Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
+    private static readonly JsonSerializerOptions? _options = new() {PropertyNameCaseInsensitive = true};
+
+    [RequiresDynamicCode(
+        "Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
+    [RequiresUnreferencedCode(
+        "Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
     public ValueTask<UpworkOffer?> ParseAsync(Stream utf8Json, CancellationToken ct)
     {
-        return JsonSerializer.DeserializeAsync<UpworkOffer>(utf8Json, cancellationToken: ct);
+        return JsonSerializer.DeserializeAsync<UpworkOffer>(utf8Json, _options, cancellationToken: ct);
     }
 }

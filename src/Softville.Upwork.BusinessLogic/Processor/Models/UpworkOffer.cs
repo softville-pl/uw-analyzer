@@ -41,7 +41,7 @@ public class Job
     public int ContractorTier { get; set; }
     public string? Description { get; set; }
     public int AttachmentsCount { get; set; }
-    public List<Question>? Questions { get; set; }
+    public List<QuestionDetail>? Questions { get; set; }
     public Qualifications? Qualifications { get; set; }
     public bool IsPremium { get; set; }
     public List<SegmentationData>? SegmentationData { get; set; }
@@ -75,10 +75,10 @@ public class ExtendedBudgetInfo
     public decimal HourlyBudgetMax { get; set; }
 }
 
-public class Question
+public class QuestionDetail
 {
     public int Position { get; set; }
-    public string? QuestionText { get; set; }
+    public string? Question { get; set; }
 }
 
 public class Qualifications

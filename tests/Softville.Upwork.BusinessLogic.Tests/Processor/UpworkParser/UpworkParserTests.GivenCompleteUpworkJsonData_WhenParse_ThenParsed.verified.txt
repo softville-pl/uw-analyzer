@@ -1,0 +1,211 @@
+﻿{
+  Job: {
+    Ciphertext: ~01597fef36c54365ec,
+    Rid: 1011039267,
+    Uid: 1752776060163973120,
+    Type: 2,
+    Access: 4,
+    Title: Senior Microsoft App Developer (Angular/Windows Forms),
+    Status: 1,
+    Category: {
+      Name: Desktop Application Development,
+      UrlSlug: desktop-application-development
+    },
+    CategoryGroup: {
+      Name: Web, Mobile & Software Dev,
+      UrlSlug: web-mobile-software-dev
+    },
+    HideBudget: false,
+    Budget: {
+      CurrencyCode: USD
+    },
+    CreatedOn: 2024-01-31 19:29:12.645 Utc,
+    PostedOn: 2024-01-31 19:29:13.048 Utc,
+    PublishTime: 2024-01-31 19:29:13.048 Utc,
+    WasRenewed: false,
+    Workload: Less than 30 hrs/week,
+    DurationIdV3: 2,
+    DurationLabel: 1 to 3 months,
+    NotSureProjectDuration: false,
+    NotSureFreelancersToHire: false,
+    NotSureExperienceLevel: false,
+    NumberOfPositionsToHire: 1,
+    ExtendedBudgetInfo: {
+      HourlyBudgetType: 1,
+      HourlyBudgetMin: 20.0,
+      HourlyBudgetMax: 53.0
+    },
+    ContractorTier: 3,
+    Description: Overview:,
+    Questions: [
+      {
+        Question: How many Microsoft apps have you built with wrappers around Angular?
+      },
+      {
+        Position: 1,
+        Question: How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?
+      },
+      {
+        Position: 2,
+        Question: What core coding frameworks have you been working on in the last 5 years (please list top 2)?
+      },
+      {
+        Position: 3,
+        Question: Who is the most notable company that you developed software for directly on your resume?
+      }
+    ],
+    Qualifications: {
+      ShouldHavePortfolio: false,
+      MinHoursWeek: 30,
+      RisingTalent: false,
+      LocationCheckRequired: false,
+      LocalMarket: true
+    },
+    IsPremium: false,
+    SegmentationData: [
+      {
+        Name: Employment,
+        Value: EMPLOYMENT_COMPLEX_PROJECT,
+        Label: Complex project,
+        Type: EMPLOYMENT,
+        SortOrder: 2,
+        TypeUid: 535792587707281410
+      }
+    ],
+    ClientActivity: {
+      LastBuyerActivity: 2024-01-31 21:06:22.966 Utc,
+      TotalApplicants: 22
+    },
+    Annotations: {
+      Tags: [
+        contractToHireSet,
+        searchable,
+        C2HJobsOptInEducation
+      ],
+      CustomFields: {
+        SiteSource: desktop_rjp,
+        PublishTime: 2024-01-31T19:29:13.048Z,
+        TotalTimeJobPostFlowAIv2: 278,
+        SourcingUpdateCount: 0,
+        SourcingUpdateForbidden: false,
+        TotalTimeSpentOnReviewPageAIv2: 118,
+        Type: FJP,
+        FinalInputsAIv2: Some text,
+        JpgV2Prompt: NET Developer,
+        Browser: Chrome,
+        TimeSpentToGetAPIDescriptionAI: 4,
+        Device: Macintosh,
+        StartTimeJobPostFlowAIv2: 1706729073701,
+        GeneratedDescriptionAI: We are looking for a s,
+        InputsSkillsAI: Some text,
+        TotalDescriptionEditingTimeAI: 102,
+        InputsDurationAI: 474250516458926082,
+        InputsTitleAI: Senior Microsoft App Developer (Angular/Windows Forms),
+        FinalDescriptionAI: Text
+      }
+    },
+    IsContractToHire: false
+  },
+  Buyer: {
+    IsPaymentMethodVerified: true,
+    Location: {
+      OffsetFromUtcMillis: -18000000,
+      CountryTimezone: United States (UTC-05:00),
+      City: Philadelphia,
+      Country: United States
+    },
+    Stats: {
+      TotalAssignments: 128,
+      ActiveAssignmentsCount: 14,
+      FeedbackCount: 85,
+      Score: 4.930113497,
+      TotalJobsWithHires: 104,
+      HoursCount: 23268.833339,
+      TotalCharges: {
+        CurrencyCode: USD,
+        Amount: 386531.66
+      }
+    },
+    IsEnterprise: false,
+    Company: {
+      IsEDCReplicated: false,
+      ContractDate: 2018-10-14 Utc,
+      Profile: {
+        Size: 10,
+        Industry: Tech & IT,
+        Visible: true
+      }
+    },
+    Jobs: {
+      PostedCount: 171
+    },
+    AvgHourlyJobsRate: {
+      Amount: 14.921304602670778
+    }
+  },
+  CurrentUserInfo: {
+    Owner: false,
+    FreelancerInfo: {
+      QualificationsMatches: {
+        TotalQualifications: 4,
+        TotalMatches: 4,
+        Matches: [
+          {
+            Qualified: true,
+            ClientPreferred: all,
+            FreelancerValue: IC,
+            FreelancerValueLabel: Not Specified,
+            ClientPreferredLabel: Any
+          },
+          {
+            Qualification: 4,
+            Qualified: true,
+            ClientPreferred: 0,
+            FreelancerValue: 3,
+            FreelancerValueLabel: Fluent,
+            ClientPreferredLabel: Any
+          },
+          {
+            Qualification: 8,
+            Qualified: true,
+            ClientPreferred: ANY,
+            FreelancerValue: 0.00,
+            FreelancerValueLabel: 0.00,
+            ClientPreferredLabel: Any
+          },
+          {
+            Qualification: 10,
+            Qualified: true,
+            ClientPreferred: Any,
+            FreelancerValue: en,
+            FreelancerValueLabel: English
+          }
+        ]
+      },
+      ProfileState: 10,
+      DevProfileCiphertext: ~01256f0be21d7e2c1e
+    }
+  },
+  Paths: {
+    Js: /nx/jobs/search
+  },
+  Ff: {
+    IsRemoveClientTotalSpentCap: true,
+    IsJobDetailsQuickJobPost: true,
+    CFE6770ImprovedQualificationsSection: true,
+    JdShowInvitesCount: true,
+    EnforceMinimumRateInProfile: true,
+    TSV1877IDVatSubmitProposal: true,
+    AG2156TeamsAddRoleFlow: true,
+    CLOB6375ExpandedCompanyProfile: true
+  },
+  Experiments: {
+    IdvOnSubmitProposals: {
+      Soft: false,
+      Hard: false,
+      Idv_Required: false,
+      Idv_Complete: false
+    }
+  },
+  IsVisitor: false
+}
