@@ -1,0 +1,40 @@
+{
+	"date": "2024-01-31T22:12:47.002Z",
+	"rate": {
+		"minimum": 25,
+		"maximum": 50,
+		"currency": "USD"
+	},
+	"linkurl": "https://www.upwork.com/jobs/~01b13187ad2ae4e21c",
+	"developers": {
+		"moreDevsExplicitly": false,
+		"moreDevsImplicitly": 0
+	},
+	"customer": {
+		"location": {
+			"country": "United States",
+			"city": null
+		},
+		"profile": {
+			"industry": null,
+			"size": null
+		}
+	},
+	"businessdomain": "Financial software development, specifically a next generation risk system; including margin calculation, backtest, reporting, and model configuration management.",
+	"technology": {
+		"architecture": "polyglot",
+		"dotnetVersion": null,
+		"backendFrameworks": "ASP.NET WebApi, NLog, Meditr",
+		"frontendFrameworks": null,
+		"databases": null,
+		"cloud": {
+			"provider": null,
+			"services": null
+		},
+		"3party": null
+	},
+	"applicationProcess": null,
+	"unusualRequirements": null,
+	"duties": "Understand complex business systems and workflows; Develop component designs; Analyze, test, design, program, debug, modify and implement system requirements; Collaborate with business units and stakeholders; Plan and estimate development; Develop high performance and business critical applications; Identify root causes and develop solutions; Collaborate on business feature, regression, and integration testing; Execute unit tests.",
+	"cooperation": null
+}

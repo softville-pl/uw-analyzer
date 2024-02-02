@@ -1,0 +1,77 @@
+Based on the description in the json that is between ``` please write answers to the following question in the json format that is explained below. Output only json, nothing more. If you're not sure what to write in the resonse next to any field based on input provided, just write null
+
+{
+	"date" - date & time the offered was submitted, format: datetime
+	"rate": {
+		"minimum" - minimum hourly rate, format: decimal
+		"maximum" - maximum hourly rate, format: decimal
+		"currency" - currency of the hourly rate, format: string
+	}
+	"linkurl" - link to offer which is in format https://www.upwork.com/jobs/{{ciphertext}} where ciffertext can be found in the ciphertext field, format: string
+	"developers": {
+		"moreDevsExplicitly" - whether this job is for more than 1 developer, format: boolean
+		"moreDevsImplicitly" - if the response in "moreDevsExplicitly" is false, evaluate if the description field may need more than 1 developer, format: decimal from 0-100 which means probability in %
+	},
+	"customer": {
+		"location": {
+			"country" - buyer's country, format: string
+			"city" - buyer's city, format: string
+		},
+		"profile": {
+			"industry" - buyer's company industry, format: string
+			"size" - buyer's company size, format: int
+		}
+	}
+	"businessdomain" - short textual description of the business domain of the job offer, what the offer requires to be done, format: string
+	"technology": {
+		"architecture" - what kind of architecture is mentioned (SaaS, microservices, monolith, b\d, etc.), format: string,
+		"dotnetVersion" - version of the .NET framework, format: text
+		"backendFrameworks"- what backend framework are mentioned (ASP.NET WebApi, NLog, Meditr, etc.), format: string
+		"frontendFrameworks" - what frontend technologies (React, Angular, Vue, ASP.NET, Blazor, Mobile, Desktop), format: string,
+		"databases" - what databases (what SQL databases and what NoSQL databases), format: string
+		"cloud": {
+			"provider"- what cloud provider (Azure, AWS or others), format: string,
+			"services"- * what cloud services (VM, Kubernetes, App Services, Serverless, etc.), format: string
+		}
+		"3party" - what 3rd party API integration or knowledge (any API specific), format: string
+	}
+	"applicationProcess"- customer custom application process (CV, cover letter, experience in similar projects, answer to custom questions, link to gh), it may be in "description" field, format: string,
+	"unusualRequirements" - any unusual requirements (certificates, knowledge of some app or platform), format: string
+	"duties" - short textual description of the most important responsibilities of the job, format: string
+	"cooperation" - is it a individual position or joining an existing team is needed, format: string`
+}
+
+```
+
+
+
+```
+
+
+
+
+
+=======v1 
+
+Based on the description in the json that is between ``` please write answers to the following question in the following bullet list. Don't anything more if you'e not sure about any answer add that you're sure by using UNCERTAIN
+
+* date the offer was added
+* minimum rate in $
+* maximum rate in $
+* link to the offer
+* whether for >1 dev
+* if not for > 1 dev, whether theoretically from the description it could be possible to extend it
+* Something about the client (location at least, industry, number of employees)
+* what business domain it is for (CRM, eCommerece) ?
+* what kind of architecture (SaaS, microservices, monolith, b\d, etc.).
+* What version of .NET
+* what backend frameworks (ASP.NET WebApi, NLog, Meditr, etc.).
+* what frontend technologies (React, Angular, Vue, ASP.NET, Blazor, Mobile, Desktop)
+* what databases (what SQL databases and what NoSQL databases)
+* what cloud provider (Azure, AWS or others),
+* what cloud services (VM, Kubernetes, App Services, Serverless, etc.).
+* what 3rd party integration (any API specific)
+* customer custom application process (CV, cover letter, experience in similar projects, answer to custom questions, link to gh)
+* any unusual requirements (certificates, knowledge of some app or platform)
+* text description of the responsibilities of the job 
+* notes
