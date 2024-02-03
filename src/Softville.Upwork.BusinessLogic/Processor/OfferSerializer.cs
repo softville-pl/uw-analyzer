@@ -18,7 +18,7 @@ internal record struct OfferSerializer
         "Calls System.Text.Json.JsonSerializer.SerializeAsync<TValue>(Stream, TValue, JsonSerializerOptions, CancellationToken)")]
     [RequiresDynamicCode(
         "Calls System.Text.Json.JsonSerializer.SerializeAsync<TValue>(Stream, TValue, JsonSerializerOptions, CancellationToken)")]
-    internal async Task<Stream> SerializeAsync(Offer offer, CancellationToken ct)
+    internal async Task<Stream> SerializeAsync(IEnumerable<Offer> offer, CancellationToken ct)
     {
         MemoryStream ms = new();
 

@@ -16,7 +16,7 @@ internal class UpworkProcessor : IUpworkProcessor
     public async Task ProcessOffersAsync(CancellationToken ct)
     {
         string inputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data";
-        string outputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.WebApp\wwwroot\offers";
+        string outputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.WebApp\wwwroot\sample-data";
 
         string regexPattern = @"^\d{19}\.json$"; // Regex pattern for 19-digit number followed by .json extension
 
@@ -27,26 +27,24 @@ internal class UpworkProcessor : IUpworkProcessor
         UpworkParser parser = new();
         OfferSerializer serializer = new();
 
+        List<Offer> offers = new(offerFilePaths.Length);
+
         foreach (string offerFilePath in offerFilePaths)
         {
-#pragma warning disable CA2000
             await using FileStream inputOfferFileStream = File.OpenRead(offerFilePath);
-#pragma warning restore CA2000
             UpworkOffer upworkOffer = await parser.ParseAsync(inputOfferFileStream, ct);
-            // ReSharper disable once DisposeOnUsingVariable
-            await inputOfferFileStream.DisposeAsync();
 
-            Offer offer = upworkOffer.MapToOffer();
-
-            await using Stream offerStream = await serializer.SerializeAsync(offer, ct);
-
-            await using FileStream outputOfferFileStream =
-                new(Path.Join(outputFolder, $"{offer.Uid}.json"), FileMode.OpenOrCreate);
-
-            await offerStream.CopyToAsync(outputOfferFileStream, ct);
-
-            await outputOfferFileStream.FlushAsync(ct);
-            outputOfferFileStream.Close();
+            offers.Add(upworkOffer.MapToOffer());
         }
+
+        await using Stream offerStream = await serializer.SerializeAsync(offers, ct);
+
+        await using FileStream outputOfferFileStream =
+            new(Path.Join(outputFolder, "offers.json"), FileMode.OpenOrCreate);
+
+        await offerStream.CopyToAsync(outputOfferFileStream, ct);
+
+        await outputOfferFileStream.FlushAsync(ct);
+        outputOfferFileStream.Close();
     }
 }
