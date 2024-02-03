@@ -22,15 +22,21 @@ else
             <th>Title</th>
             <th>Category</th>
             <th>Rate</th>
+            <th>Location</th>
         </tr>
         </thead>
         <tbody>
         @foreach (var offer in _offers)
         {
             <tr>
-                <td>@offer.Title</td>
-                <td>@($"{offer.CategoryGroup}/{offer.Category}")</td>
+                <td>
+                    <a href="https://www.upwork.com/jobs/@(offer.CipherText)" target="_blank">@(offer.Title)</a>
+                </td>
                 <td>@($"{offer.Rate.Minimum}-{offer.Rate.Maximum} {offer.Rate.Currency}")</td>
+                <td>
+                    @($"{offer.Customer.Location.City}, {offer.Customer.Location.Country}")
+                </td>
+                <td>@($"{offer.CategoryGroup}/{offer.Category}")</td>
             </tr>
         }
         </tbody>
