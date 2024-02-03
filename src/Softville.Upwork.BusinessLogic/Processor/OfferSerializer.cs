@@ -21,7 +21,9 @@ internal record struct OfferSerializer
     internal async Task<Stream> SerializeAsync(Offer offer, CancellationToken ct)
     {
         MemoryStream ms = new();
+
         await JsonSerializer.SerializeAsync(ms, offer, _options, ct);
+        ms.Position = 0;
 
         return ms;
     }

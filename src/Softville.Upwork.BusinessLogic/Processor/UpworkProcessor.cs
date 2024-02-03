@@ -39,7 +39,6 @@ internal class UpworkProcessor : IUpworkProcessor
             Offer offer = upworkOffer.MapToOffer();
 
             await using Stream offerStream = await serializer.SerializeAsync(offer, ct);
-            offerStream.Position = 0;
 
             await using FileStream outputOfferFileStream =
                 new(Path.Join(outputFolder, $"{offer.Uid}.json"), FileMode.OpenOrCreate);
