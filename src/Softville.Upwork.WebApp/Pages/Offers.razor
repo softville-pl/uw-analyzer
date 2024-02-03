@@ -1,0 +1,48 @@
+﻿@page "/offers"
+@using Softville.Upwork.Contracts
+@inject HttpClient Http
+
+<PageTitle>Weather</PageTitle>
+
+<h1>Weather</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (_offers == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Rate</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var offer in _offers)
+        {
+            <tr>
+                <td>@offer.Title</td>
+                <td>@($"{offer.CategoryGroup}/{offer.Category}")</td>
+                <td>@($"{offer.Rate.Minimum}-{offer.Rate.Maximum} {offer.Rate.Currency}")</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Offer[]? _offers;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _offers = await Http.GetFromJsonAsync<Offer[]>("sample-data/offers.json");
+    }
+
+}
