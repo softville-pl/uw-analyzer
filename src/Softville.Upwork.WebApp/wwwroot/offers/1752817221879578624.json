@@ -1,0 +1,65 @@
+{
+  "Title": "NET Developer",
+  "Uid": "1752817221879578624",
+  "Rid": 1011042486,
+  "Cooperation": {
+    "DurationLabel": "More than 6 months",
+    "Workload": "Less than 30 hrs/week",
+    "StartDate": null,
+    "DeliveryDate": null,
+    "NumberOfPositionsToHire": 1
+  },
+  "CipherText": "~01b13187ad2ae4e21c",
+  "Category": "Web Development",
+  "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+  "Date": "0001-01-01T00:00:00",
+  "Rate": {
+    "Minimum": 25,
+    "Maximum": 50,
+    "Currency": "USD"
+  },
+  "LinkUrl": "~01b13187ad2ae4e21c",
+  "Developers": {
+    "MoreDevsExplicitly": false,
+    "MoreDevsImplicitly": 0
+  },
+  "Customer": {
+    "Location": {
+      "Country": "United States",
+      "City": "N/A"
+    },
+    "Profile": {
+      "Industry": "N/A",
+      "Size": "N/A"
+    },
+    "Stats": {
+      "TotalAssignments": 0,
+      "ActiveAssignmentsCount": 0,
+      "FeedbackCount": 0,
+      "Score": 0,
+      "TotalJobsWithHires": 0,
+      "HoursCount": 0,
+      "TotalCharges": {
+        "CurrencyCode": "USD",
+        "Amount": 0
+      }
+    }
+  },
+  "BusinessDomain": "N/A",
+  "Technology": {
+    "Architecture": "N/A",
+    "DotnetVersion": "N/A",
+    "BackendFrameworks": "N/A",
+    "FrontendFrameworks": "N/A",
+    "Databases": "N/A",
+    "Cloud": {
+      "Provider": "N/A",
+      "Services": "N/A"
+    },
+    "ThirdParty": "N/A"
+  },
+  "ApplicationProcess": "N/A",
+  "UnusualRequirements": "N/A",
+  "Duties": "N/A",
+  "Questions": []
+}

@@ -1,0 +1,69 @@
+{
+  "Title": ".NET development for desktop applications",
+  "Uid": "1752791845230735360",
+  "Rid": 1011040583,
+  "Cooperation": {
+    "DurationLabel": "1 to 3 months",
+    "Workload": "Less than 30 hrs/week",
+    "StartDate": null,
+    "DeliveryDate": null,
+    "NumberOfPositionsToHire": 1
+  },
+  "CipherText": "~011a81b8abe99168cb",
+  "Category": "Desktop Application Development",
+  "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+  "Date": "0001-01-01T00:00:00",
+  "Rate": {
+    "Minimum": 50,
+    "Maximum": 100,
+    "Currency": "USD"
+  },
+  "LinkUrl": "~011a81b8abe99168cb",
+  "Developers": {
+    "MoreDevsExplicitly": false,
+    "MoreDevsImplicitly": 0
+  },
+  "Customer": {
+    "Location": {
+      "Country": "Canada",
+      "City": "Mississauga"
+    },
+    "Profile": {
+      "Industry": "",
+      "Size": "1"
+    },
+    "Stats": {
+      "TotalAssignments": 2,
+      "ActiveAssignmentsCount": 0,
+      "FeedbackCount": 1,
+      "Score": 5,
+      "TotalJobsWithHires": 1,
+      "HoursCount": 0,
+      "TotalCharges": {
+        "CurrencyCode": "USD",
+        "Amount": 75
+      }
+    }
+  },
+  "BusinessDomain": "N/A",
+  "Technology": {
+    "Architecture": "N/A",
+    "DotnetVersion": "N/A",
+    "BackendFrameworks": "N/A",
+    "FrontendFrameworks": "N/A",
+    "Databases": "N/A",
+    "Cloud": {
+      "Provider": "N/A",
+      "Services": "N/A"
+    },
+    "ThirdParty": "N/A"
+  },
+  "ApplicationProcess": "N/A",
+  "UnusualRequirements": "N/A",
+  "Duties": "N/A",
+  "Questions": [
+    "Do you have 8\u002B years of demonstrable.net experience?",
+    "Have you worked on complex and undocumented errors in .net?",
+    "Have you developed a desktop app from scratch?"
+  ]
+}

@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-<!--    <IsTestProject>true</IsTestProject>-->
+    <!--    <IsTestProject>true</IsTestProject>-->
     <PublishAot>false</PublishAot>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <WarningLevel>4</WarningLevel>
@@ -23,16 +23,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Remove="Processor\UpworkParser\upwork-fulldatamodel.json" />
-    <EmbeddedResource Include="Processor\UpworkParser\upwork-fulldatamodel.json" />
+    <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj"/>
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+    <EmbeddedResource Include="Processor\TestData\upwork-fulldatamodel.json"/>
   </ItemGroup>
 
 </Project>

@@ -3,9 +3,8 @@
 
 namespace Softville.Upwork.Contracts;
 
-public class Customer
+public class TotalCharges
 {
-    public required Location Location { get; set; }
-    public required Profile Profile { get; set; }
-    public required Stats Stats { get; set; }
+    public string? CurrencyCode { get; set; }
+    public decimal Amount { get; set; }
 }

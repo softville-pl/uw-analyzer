@@ -2,7 +2,7 @@
 
 public class UpworkOffer
 {
-    public Job? Job { get; set; }
+    public required Job Job { get; set; }
     public Buyer? Buyer { get; set; }
     public CurrentUserInfo? CurrentUserInfo { get; set; }
     public Paths? Paths { get; set; }
@@ -13,7 +13,7 @@ public class UpworkOffer
 
 public class Job
 {
-    public string? Ciphertext { get; set; }
+    public required string Ciphertext { get; set; }
     public long Rid { get; set; }
     public string? Uid { get; set; }
     public int Type { get; set; }
@@ -52,13 +52,13 @@ public class Job
 
 public class Category
 {
-    public string? Name { get; set; }
+    public required string Name { get; set; }
     public string? UrlSlug { get; set; }
 }
 
 public class CategoryGroup
 {
-    public string? Name { get; set; }
+    public required string Name { get; set; }
     public string? UrlSlug { get; set; }
 }
 

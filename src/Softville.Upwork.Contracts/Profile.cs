@@ -6,5 +6,5 @@ namespace Softville.Upwork.Contracts;
 public class Profile
 {
     public required string Industry { get; set; }
-    public int Size { get; set; }
+    public required string Size { get; set; }
 }

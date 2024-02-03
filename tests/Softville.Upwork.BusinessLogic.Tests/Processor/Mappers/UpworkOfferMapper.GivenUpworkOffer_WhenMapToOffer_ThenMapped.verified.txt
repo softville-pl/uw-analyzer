@@ -1,0 +1,66 @@
+﻿{
+  Title: Senior Microsoft App Developer (Angular/Windows Forms),
+  Uid: 1752776060163973120,
+  Rid: 1011039267,
+  Cooperation: {
+    DurationLabel: 1 to 3 months,
+    Workload: Less than 30 hrs/week,
+    NumberOfPositionsToHire: 1
+  },
+  CipherText: ~01597fef36c54365ec,
+  Category: Desktop Application Development,
+  CategoryGroup: Web, Mobile & Software Dev,
+  Rate: {
+    Minimum: 20.0,
+    Maximum: 53.0,
+    Currency: USD
+  },
+  LinkUrl: ~01597fef36c54365ec,
+  Developers: {
+    MoreDevsExplicitly: false
+  },
+  Customer: {
+    Location: {
+      Country: United States,
+      City: Philadelphia
+    },
+    Profile: {
+      Industry: Tech & IT,
+      Size: 10
+    },
+    Stats: {
+      TotalAssignments: 128,
+      ActiveAssignmentsCount: 14,
+      FeedbackCount: 85,
+      Score: 4.930113497,
+      TotalJobsWithHires: 104,
+      HoursCount: 23268.833339,
+      TotalCharges: {
+        CurrencyCode: USD,
+        Amount: 386531.66
+      }
+    }
+  },
+  BusinessDomain: N/A,
+  Technology: {
+    Architecture: N/A,
+    DotnetVersion: N/A,
+    BackendFrameworks: N/A,
+    FrontendFrameworks: N/A,
+    Databases: N/A,
+    Cloud: {
+      Provider: N/A,
+      Services: N/A
+    },
+    ThirdParty: N/A
+  },
+  ApplicationProcess: N/A,
+  UnusualRequirements: N/A,
+  Duties: N/A,
+  Questions: [
+    How many Microsoft apps have you built with wrappers around Angular?,
+    How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?,
+    What core coding frameworks have you been working on in the last 5 years (please list top 2)?,
+    Who is the most notable company that you developed software for directly on your resume?
+  ]
+}
