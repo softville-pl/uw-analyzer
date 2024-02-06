@@ -19,6 +19,8 @@ internal class UpworkProcessor(ILogger<UpworkProcessor> logger) : IUpworkProcess
         string inputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data";
         string outputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.WebApp\wwwroot\sample-data";
 
+        string problematicOffersOutput = Path.Combine(inputFolder, "problematic-offers.json");
+
         string regexPattern = @"^\d{19}\.json$"; // Regex pattern for 19-digit number followed by .json extension
 
         string[] offerFilePaths = Directory.GetFiles(inputFolder, "*.json")
@@ -29,6 +31,7 @@ internal class UpworkProcessor(ILogger<UpworkProcessor> logger) : IUpworkProcess
         OfferSerializer serializer = new();
 
         List<Offer> offers = new(offerFilePaths.Length);
+        List<string> problematicOffers = new();
 
         foreach (string offerFilePath in offerFilePaths)
         {
@@ -44,6 +47,7 @@ internal class UpworkProcessor(ILogger<UpworkProcessor> logger) : IUpworkProcess
             {
                 logger.LogError("'{offerId}' couldn't be processed. Reason {reason}", offerId,
                     e.Message + " -> " + e.InnerException?.Message);
+                problematicOffers.Add(offerId);
             }
         }
 
@@ -56,5 +60,7 @@ internal class UpworkProcessor(ILogger<UpworkProcessor> logger) : IUpworkProcess
 
         await outputOfferFileStream.FlushAsync(ct);
         outputOfferFileStream.Close();
+
+        await File.WriteAllTextAsync(problematicOffersOutput, string.Join(Environment.NewLine, problematicOffers), ct);
     }
 }
