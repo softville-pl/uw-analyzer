@@ -21,5 +21,5 @@ public record UpworkOfferItem
     internal static UpworkOfferItem[] OffersToProcess => JsonSerializer.Deserialize<UpworkOfferItem[]>(
         File.ReadAllText(
             @"d:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data\new-offers.json"),
-        new JsonSerializerOptions {PropertyNameCaseInsensitive = true})!;
+        new JsonSerializerOptions {PropertyNameCaseInsensitive = true})!.DistinctBy(i => i.Ciphertext).ToArray()!;
 }
