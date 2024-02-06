@@ -3,11 +3,12 @@
 
 using System.Diagnostics.CodeAnalysis;
 using System.Text.RegularExpressions;
+using Microsoft.Extensions.Logging;
 using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor;
 
-internal class UpworkProcessor : IUpworkProcessor
+internal class UpworkProcessor(ILogger<UpworkProcessor> logger) : IUpworkProcessor
 {
     [RequiresDynamicCode(
         "Calls Softville.Upwork.BusinessLogic.Processor.UpworkParser.ParseAsync(Stream, CancellationToken)")]
@@ -31,10 +32,19 @@ internal class UpworkProcessor : IUpworkProcessor
 
         foreach (string offerFilePath in offerFilePaths)
         {
-            await using FileStream inputOfferFileStream = File.OpenRead(offerFilePath);
-            UpworkOffer upworkOffer = await parser.ParseAsync(inputOfferFileStream, ct);
+            string offerId = Path.GetFileName(offerFilePath);
+            try
+            {
+                await using FileStream inputOfferFileStream = File.OpenRead(offerFilePath);
+                UpworkOffer upworkOffer = await parser.ParseAsync(inputOfferFileStream, ct);
 
-            offers.Add(upworkOffer.MapToOffer());
+                offers.Add(upworkOffer.MapToOffer());
+            }
+            catch (Exception e)
+            {
+                logger.LogError("'{offerId}' couldn't be processed. Reason {reason}", offerId,
+                    e.Message + " -> " + e.InnerException?.Message);
+            }
         }
 
         await using Stream offerStream = await serializer.SerializeAsync(offers, ct);
