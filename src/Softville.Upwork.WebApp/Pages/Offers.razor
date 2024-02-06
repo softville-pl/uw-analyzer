@@ -22,6 +22,7 @@ else
             <th>Title</th>
             <th>Category</th>
             <th>Rate</th>
+            <th>Date</th>
             <th>Location</th>
         </tr>
         </thead>
@@ -32,6 +33,7 @@ else
                 <td>
                     <a href="https://www.upwork.com/jobs/@(offer.CipherText)" target="_blank">@(offer.Title)</a>
                 </td>
+                <td>@(offer.PublishedTime.ToString("d/M/yy T"))</td>
                 <td>@($"{offer.Rate.Minimum}-{offer.Rate.Maximum} {offer.Rate.Currency}")</td>
                 <td>
                     @($"{offer.Customer.Location.City}, {offer.Customer.Location.Country}")
@@ -48,7 +50,9 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        _offers = await Http.GetFromJsonAsync<Offer[]>("sample-data/offers.json");
+        _offers = (await Http.GetFromJsonAsync<Offer[]>("sample-data/offers.json"))!
+            .OrderByDescending(o => o.PublishedTime)
+            .ToArray();
     }
 
 }

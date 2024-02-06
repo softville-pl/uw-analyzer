@@ -9,7 +9,7 @@ public class Offer
     public required string CipherText { get; set; }
     public required string Category { get; set; }
     public required string CategoryGroup { get; set; }
-    public DateTime Date { get; set; }
+    public DateTime PublishedTime { get; set; }
     public required Rate Rate { get; set; }
     public required string LinkUrl { get; set; }
     public required Developer Developers { get; set; }

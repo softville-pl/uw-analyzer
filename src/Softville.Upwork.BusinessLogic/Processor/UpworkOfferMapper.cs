@@ -21,6 +21,7 @@ internal static class UpworkOfferMapper
             Cooperation = job.MapToCooperation(),
             CipherText = job.Ciphertext,
             Category = job.Category.Name,
+            PublishedTime = job.PublishTime,
             CategoryGroup = job.CategoryGroup.Name,
             Rate = job.ExtendedBudgetInfo.MapToRate(),
             LinkUrl = job.Ciphertext,
