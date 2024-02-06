@@ -16,5 +16,23 @@
   <ItemGroup>
     <ProjectReference Include="..\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj"/>
   </ItemGroup>
+  
+    <ItemGroup>
+    <None Update="appSettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="appSettings.dev.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </None>
+    <None Update="appSettings.stag.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </None>
+    <None Update="appSettings.prod.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </None>
+  </ItemGroup>
 
 </Project>
