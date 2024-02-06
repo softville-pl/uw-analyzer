@@ -2,38 +2,46 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using System.Net;
+using Microsoft.Extensions.Logging;
 
 namespace Softville.Upwork.BusinessLogic.Processor;
 
-public class UpworkProvider
+internal class UpworkProvider(ILogger<UpworkProvider> logger) : IUpworkProvider
 {
-    public async Task Test()
+    public async Task ProvideOffers(CancellationToken ct)
     {
         string outputFolder = @"d:\Misc\Temp\UpworkData\";
 
-
-        using HttpClientHandler handler = new() {AutomaticDecompression = DecompressionMethods.All};
+        using HttpClientHandler handler = new() { AutomaticDecompression = DecompressionMethods.All };
 
         using (HttpClient client = CreateClient(handler))
         {
             foreach (UpworkOfferItem offer in UpworkOfferItem.OffersToProcess)
             {
+                string outputPath = Path.Combine(outputFolder, $"{offer.Id}.json");
+
+                if (Path.Exists(outputPath))
+                {
+                    logger.LogWarning(@"'{offerId}{cipherText}' offer details exists. Skipping.", offer.Ciphertext, offer.Id);
+                    continue;
+                }
+
                 HttpResponseMessage response =
                     await client.GetAsync(
-                        $"https://www.upwork.com/job-details/jobdetails/api/job/{offer.Ciphertext}/summary");
+                        $"https://www.upwork.com/job-details/jobdetails/api/job/{offer.Ciphertext}/summary", ct);
 
                 string content = await response.Content.ReadAsStringAsync();
 
                 if (response.IsSuccessStatusCode)
                 {
-                    await File.WriteAllTextAsync(Path.Combine(outputFolder, $"{offer.Id}.json"), content);
+                    await File.WriteAllTextAsync(outputPath, content);
 
-                    Console.WriteLine($"{offer.Id} request succeeded");
+                    logger.LogInformation("{offerId}{cipherText} request succeeded", offer.Id, offer.Ciphertext);
                 }
                 else
                 {
-                    Console.WriteLine(
-                        $"[FAIL]{offer.Id} request failed with status code:{response.StatusCode}. Response: {content}");
+                    logger.LogError("{offerId}{cipherText} request failed with status code:{statusCode}. Response: {content}",
+                        offer.Id, offer.Ciphertext, response.StatusCode, content);
                 }
             }
         }

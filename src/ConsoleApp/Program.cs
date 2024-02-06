@@ -10,9 +10,12 @@ using Softville.Upwork.BusinessLogic.Processor;
 using IHost host = CreateHostBuilder(args).Build();
 await host.StartAsync();
 
-IUpworkProcessor processor = host.Services.GetRequiredService<IUpworkProcessor>();
+var ct = CancellationToken.None;
 
-await processor.ProcessOffersAsync(CancellationToken.None);
+await host.Services.GetRequiredService<IUpworkProvider>().ProvideOffers(ct);
+
+// IUpworkProcessor processor = host.Services.GetRequiredService<IUpworkProcessor>();
+// await processor.ProcessOffersAsync(ct);
 
 Console.WriteLine("Press any key to continue");
 Console.ReadKey();

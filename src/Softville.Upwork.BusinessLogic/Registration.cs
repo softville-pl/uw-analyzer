@@ -9,5 +9,6 @@ namespace Softville.Upwork.BusinessLogic;
 public static class Registration
 {
     public static IServiceCollection AddBusinessLogic(this IServiceCollection services) =>
-        services.AddScoped<IUpworkProcessor, UpworkProcessor>();
+        services.AddScoped<IUpworkProcessor, UpworkProcessor>()
+        .AddScoped<IUpworkProvider, UpworkProvider>();
 }
