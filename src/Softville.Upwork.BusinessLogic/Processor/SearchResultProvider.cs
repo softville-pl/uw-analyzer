@@ -14,7 +14,7 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
 
     public async Task<List<JobSearch>> SearchAsync(CancellationToken ct)
     {
-        using HttpClient httpClient = httpClientFactory.CreateClient(UpworkHttpClient.DetailsClientName);
+        using HttpClient httpClient = httpClientFactory.CreateClient(UpworkHttpClient.UpworkClientName);
 
         int page = 0;
         int totalCount;

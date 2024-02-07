@@ -22,13 +22,12 @@ public static class Registration
     {
         services
             .Configure<UpworkConfig>(config)
-            .AddHttpClient(UpworkHttpClient.DetailsClientName, UpworkHttpClient.ConfigureDetailsClient)
+            .AddHttpClient(UpworkHttpClient.UpworkClientName, UpworkHttpClient.ConfigureDetailsClient)
             .ConfigurePrimaryHttpMessageHandler(_ =>
                 new HttpClientHandler {AutomaticDecompression = DecompressionMethods.All});
 
         return services
             .AddScoped<IUpworkProcessor, EndToEndUpworkProcessor>()
-            .AddScoped<IUpworkProvider, UpworkProvider>()
             .AddScoped<ISearchResultProvider, SearchResultProvider>();
     }
 }

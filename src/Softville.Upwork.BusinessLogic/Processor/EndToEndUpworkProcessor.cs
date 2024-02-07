@@ -13,7 +13,7 @@ namespace Softville.Upwork.BusinessLogic.Processor;
 internal class EndToEndUpworkProcessor(
     ISearchResultProvider searchProvider,
     IHttpClientFactory httpClientFactory,
-    ILogger<UpworkProcessor> logger)
+    ILogger<EndToEndUpworkProcessor> logger)
     : IUpworkProcessor
 {
     public async Task ProcessOffersAsync(CancellationToken ct)
@@ -23,7 +23,7 @@ internal class EndToEndUpworkProcessor(
         string rawDetailsOutputFolder =
             @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data";
 
-        using HttpClient detailsClient = httpClientFactory.CreateClient(UpworkHttpClient.DetailsClientName);
+        using HttpClient detailsClient = httpClientFactory.CreateClient(UpworkHttpClient.UpworkClientName);
 
         List<Offer> offers = new(foundSearchItems.Count);
         List<string> problematicOffers = new();
