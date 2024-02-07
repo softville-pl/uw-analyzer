@@ -14,7 +14,7 @@ public class UpworkOfferMapper
         await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
 
         UpworkOffer expected =
-            await new BusinessLogic.Processor.UpworkParser().ParseAsync(stream, CancellationToken.None);
+            await new BusinessLogic.Processor.Parsers.UpworkParser().ParseAsync(stream, CancellationToken.None);
 
         await Verify(expected.MapToOffer());
     }

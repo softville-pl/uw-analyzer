@@ -13,9 +13,9 @@ await host.StartAsync();
 
 CancellationToken ct = CancellationToken.None;
 
-await host.Services.GetRequiredService<IUpworkProvider>().ProvideOffers(ct);
+// await host.Services.GetRequiredService<IUpworkProvider>().ProvideOffers(ct);
 
-// await host.Services.GetRequiredService<IUpworkProcessor>().ProcessOffersAsync(ct);
+await host.Services.GetRequiredService<IUpworkProcessor>().ProcessOffersAsync(ct);
 
 Console.WriteLine("Press any key to continue");
 Console.ReadKey();

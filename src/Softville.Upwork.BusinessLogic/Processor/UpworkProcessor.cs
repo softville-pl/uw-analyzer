@@ -4,6 +4,7 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Text.RegularExpressions;
 using Microsoft.Extensions.Logging;
+using Softville.Upwork.BusinessLogic.Processor.Parsers;
 using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor;

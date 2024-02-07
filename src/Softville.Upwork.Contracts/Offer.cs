@@ -18,6 +18,8 @@ public class Offer
     public required Technology Technology { get; set; }
     public required string ApplicationProcess { get; set; }
     public required string UnusualRequirements { get; set; }
+    public required string[] Requirements { get; set; }
     public required string Duties { get; set; }
     public required string[] Questions { get; set; }
+    public int ConnectPrice { get; set; }
 }

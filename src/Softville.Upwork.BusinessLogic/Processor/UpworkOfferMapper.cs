@@ -28,18 +28,21 @@ internal static class UpworkOfferMapper
             Developers = new Developer(),
             Customer = upworkOffer.Buyer.MapToCustomer(),
             BusinessDomain = NA,
-            Technology = new Technology
-            {
-                Architecture = NA,
-                DotnetVersion = NA,
-                BackendFrameworks = NA,
-                FrontendFrameworks = NA,
-                Databases = NA,
-                Cloud = new Cloud {Provider = NA, Services = NA},
-                ThirdParty = NA
-            },
+            Technology =
+                new Technology
+                {
+                    Architecture = NA,
+                    DotnetVersion = NA,
+                    BackendFrameworks = NA,
+                    FrontendFrameworks = NA,
+                    Databases = NA,
+                    Cloud = new Cloud {Provider = NA, Services = NA},
+                    ThirdParty = NA
+                },
             ApplicationProcess = NA,
             UnusualRequirements = NA,
+            Requirements = Array.Empty<string>(),
+            ConnectPrice = 0,
             Duties = NA,
             Questions = job.Questions?.Select(q => q.Question ?? NA)?.ToArray() ?? Array.Empty<string>()
         };

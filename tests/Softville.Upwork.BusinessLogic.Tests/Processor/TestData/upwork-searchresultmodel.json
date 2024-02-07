@@ -1,0 +1,232 @@
+﻿{
+    "url": "\/ab\/jobs\/search\/?contractor_tier=3\u0026hourly_rate=50-\u0026page=3\u0026q=.net\u0026sort=recency\u0026t=0",
+    "searchGuid": "8CAFAA8D-BB9C-4E44-A185-BAD5B3D9126D",
+    "searchResults": {
+        "q": ".net",
+        "paging": {
+            "total": 145,
+            "offset": 100,
+            "count": 50,
+            "resultSetTs": 0
+        },
+        "spellcheck": {
+            "corrected_queries": []
+        },
+        "jobs": [
+            {
+                "title": "Lead Sitecore \/ \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C\/span\u003E Engineer",
+                "createdOn": "2024-01-12T10:31:36+00:00",
+                "type": 2,
+                "ciphertext": "~019bb7b2a2c6f33572",
+                "description": "We are looking for Lead Engineer to join our development team. It\u0027s a long-term project (6+ months) with full-time load (40 hours per week).\n\nJob Description:\nThe Lead Sitecore Developer will specialize in back-end development with a primary focus on \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C\/span\u003E development and Sitecore as a headless CMS. This individual will be responsible for designing and building robust back-end solutions that interact seamlessly with front-end applications through APIs. The role requires a deep understanding of Sitecore CMS, including customizing admin interfaces and implementing workflows. The ideal candidate will excel in a team setting, bringing expertise in CMS development and a commitment to crafting high-quality, scalable web solutions.\n\nResponsibilities:\n\u25cf Design and develop back-end functionalities using \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C\/span\u003E and Sitecore as a headless CMS.\n\u25cf Architect and implement API endpoints for data interactions in Sitecore.\n\u25cf Customize the Sitecore admin interface to enhance content management capabilities.\n\u25cf Develop and implement workflows in Sitecore to streamline content management processes.\n\u25cf Ensure optimized performance and scalability of back-end services in the Sitecore environment.\n\u25cf Write clean, maintainable, and efficient code; conduct code reviews to maintain high quality.\n\u25cf Collaborate with front-end developers to define API specifications and ensure seamless integration.\n\u25cf Diagnose and resolve bugs and performance issues in back-end systems.\n\u25cf Document code, API endpoints, and technical solutions effectively in the Sitecore context.\n\u25cf Stay up-to-date with the latest trends in CMS development, particularly regarding Sitecore.\n\u25cf Participate actively in system architecture design and database design discussions.\n\nRequirements:\n\u25cf At least 8 years of experience in back-end development, with a strong focus on \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C\/span\u003E and\nSitecore CMS.\n\u25cf Profound knowledge of \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C\/span\u003E framework and C# for building APIs.\n\u25cf Extensive experience in customizing Sitecore admin interfaces, implementing workflows, and\nintegrating 3rd-party services into the CMS.\n\u25cf Experience collaborating with front-end and back-end development teams to implement\nSitecore-based solutions.\n\u25cf Should have experience working with Microservice based applications.\n\u25cf Experience with database technologies, preferably SQL Server.\n\u25cf Excellent problem-solving skills and understanding of algorithmic concepts.\n\u25cf Effective communication skills to articulate technical concepts to non-technical audiences.\n\u25cf Ability to work in a fast-paced, deadline-driven environment while maintaining high-quality\nstandards.\n\u25cf Proven ability to collaborate effectively with front-end developers and other team members.\n\nFluent English is required.\n\nWE DON\u0027T WORK WITH AGENCIES!!!",
+                "category2": null,
+                "subcategory2": null,
+                "duration": "More than 6 months",
+                "shortDuration": "6 months+",
+                "durationLabel": "More than 6 months",
+                "engagement": "30+ hrs\/week",
+                "shortEngagement": "30+",
+                "amount": {
+                    "currencyCode": "USD",
+                    "amount": 0
+                },
+                "recno": 1010624703,
+                "uid": "1745755393334956032",
+                "client": {
+                    "paymentVerificationStatus": 1,
+                    "location": {
+                        "country": "Georgia"
+                    },
+                    "totalSpent": 21194,
+                    "totalReviews": 4,
+                    "totalFeedback": 5,
+                    "companyRid": 0,
+                    "companyName": null,
+                    "edcUserId": 0,
+                    "lastContractPlatform": null,
+                    "lastContractRid": 0,
+                    "lastContractTitle": null,
+                    "feedbackText": "5.00 Stars, based on 4 feedbacks",
+                    "companyOrgUid": null,
+                    "hasFinancialPrivacy": false
+                },
+                "freelancersToHire": 1,
+                "relevanceEncoded": "{\u0022position\u0022:\u0022100\u0022}",
+                "enterpriseJob": false,
+                "tierText": "Expert",
+                "tier": "Expert",
+                "tierLabel": "Experience Level",
+                "isSaved": null,
+                "feedback": "",
+                "proposalsTier": "15 to 20",
+                "isApplied": false,
+                "sticky": false,
+                "stickyLabel": "",
+                "jobTs": "1705055496000",
+                "prefFreelancerLocationMandatory": false,
+                "prefFreelancerLocation": [
+                    "Bulgaria",
+                    "Cyprus",
+                    "Czech Republic",
+                    "Estonia",
+                    "Georgia",
+                    "Germany",
+                    "Hungary",
+                    "Latvia",
+                    "Lithuania",
+                    "Montenegro",
+                    "Poland",
+                    "Portugal",
+                    "Romania",
+                    "Slovakia",
+                    "Spain",
+                    "Turkey",
+                    "Ukraine",
+                    "Armenia",
+                    "Moldova"
+                ],
+                "premium": false,
+                "plusBadge": null,
+                "publishedOn": "2024-01-12T10:31:36+00:00",
+                "renewedOn": null,
+                "sandsService": null,
+                "sandsSpec": null,
+                "sandsAttrs": null,
+                "occupation": null,
+                "attrs": [
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626716513550336",
+                        "highlighted": true,
+                        "prettyName": "ASP.NET"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626732825198592",
+                        "highlighted": true,
+                        "prettyName": ".NET Framework"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1192876983507763200",
+                        "highlighted": true,
+                        "prettyName": ".NET Core"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626716534521856",
+                        "highlighted": true,
+                        "prettyName": "ASP.NET Core"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1110580482322976768",
+                        "highlighted": false,
+                        "prettyName": "API"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1110580682663907328",
+                        "highlighted": false,
+                        "prettyName": "RESTful API"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626741293498368",
+                        "highlighted": false,
+                        "prettyName": "Git"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626758192349184",
+                        "highlighted": false,
+                        "prettyName": "Microservice"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "996364627995914246",
+                        "highlighted": false,
+                        "prettyName": "Microsoft SQL Server"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "996364628025274380",
+                        "highlighted": false,
+                        "prettyName": "C#"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626780229222400",
+                        "highlighted": false,
+                        "prettyName": "Sitecore"
+                    },
+                    {
+                        "parentSkillUid": null,
+                        "freeText": null,
+                        "skillType": 3,
+                        "uid": "1031626782364123136",
+                        "highlighted": false,
+                        "prettyName": "SQL"
+                    }
+                ],
+                "isLocal": false,
+                "workType": null,
+                "locations": [],
+                "occupations": {
+                    "category": {
+                        "uid": "531770282580668418",
+                        "prefLabel": "Web, Mobile \u0026 Software Dev"
+                    },
+                    "subcategories": [
+                        {
+                            "uid": "531770282584862733",
+                            "prefLabel": "Web Development"
+                        }
+                    ],
+                    "oservice": {
+                        "uid": "1110580748673863680",
+                        "prefLabel": "Back-End Development"
+                    }
+                },
+                "weeklyBudget": {
+                    "currencyCode": "USD",
+                    "amount": 0
+                },
+                "hourlyBudgetText": "$40.00-$50.00",
+                "hourlyBudget": {
+                    "type": "MANUAL",
+                    "min": 40,
+                    "max": 50
+                },
+                "tags": [],
+                "clientRelation": null,
+                "totalFreelancersToHire": null,
+                "teamUid": null,
+                "multipleFreelancersToHirePredicted": null,
+                "connectPrice": 16
+            }
+        ]
+    }
+}

@@ -9,9 +9,10 @@ namespace Softville.Upwork.BusinessLogic.Processor;
 
 internal static class UpworkHttpClient
 {
-    internal const string Name = "Upwork";
+    internal const string DetailsClientName = "UpworkDetails";
+    internal const string SearchClientName = "UpworkSearch";
 
-    internal static void Configure(IServiceProvider serviceProvider, HttpClient client)
+    internal static void ConfigureDetailsClient(IServiceProvider serviceProvider, HttpClient client)
     {
         IOptions<UpworkConfig> upworkConfig = serviceProvider.GetRequiredService<IOptions<UpworkConfig>>();
 

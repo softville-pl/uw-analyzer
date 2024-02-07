@@ -1,11 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\Softville.Upwork.Contracts\Softville.Upwork.Contracts.csproj"/>
   </ItemGroup>
@@ -14,10 +8,6 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions"/>
     <PackageReference Include="Microsoft.Extensions.Logging"/>
     <PackageReference Include="Microsoft.Extensions.Http"/>
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Integration\"/>
   </ItemGroup>
 
 </Project>

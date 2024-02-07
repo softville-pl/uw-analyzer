@@ -28,6 +28,7 @@
 
   <ItemGroup>
     <EmbeddedResource Include="Processor\TestData\upwork-fulldatamodel.json"/>
+    <EmbeddedResource Include="Processor\TestData\upwork-searchresultmodel.json"/>
   </ItemGroup>
 
 </Project>

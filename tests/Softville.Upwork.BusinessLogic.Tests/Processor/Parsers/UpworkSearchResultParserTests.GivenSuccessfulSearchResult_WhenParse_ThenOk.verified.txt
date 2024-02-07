@@ -1,0 +1,97 @@
+﻿{
+  SearchResults: {
+    Q: .net,
+    Paging: {
+      Total: 145,
+      Offset: 100,
+      Count: 50
+    },
+    Jobs: [
+      {
+        Title: Lead Sitecore / <span class="highlight">.Net</span> Engineer,
+        Ciphertext: ~019bb7b2a2c6f33572,
+        Description:
+We are looking for Lead Engineer to join our development team. It's a long-term project (6+ months) with full-time load (40 hours per week).
+
+Job Description:
+The Lead Sitecore Developer will specialize in back-end development with a primary focus on <span class="highlight">.Net</span> development and Sitecore as a headless CMS. This individual will be responsible for designing and building robust back-end solutions that interact seamlessly with front-end applications through APIs. The role requires a deep understanding of Sitecore CMS, including customizing admin interfaces and implementing workflows. The ideal candidate will excel in a team setting, bringing expertise in CMS development and a commitment to crafting high-quality, scalable web solutions.
+
+Responsibilities:
+● Design and develop back-end functionalities using <span class="highlight">.Net</span> and Sitecore as a headless CMS.
+● Architect and implement API endpoints for data interactions in Sitecore.
+● Customize the Sitecore admin interface to enhance content management capabilities.
+● Develop and implement workflows in Sitecore to streamline content management processes.
+● Ensure optimized performance and scalability of back-end services in the Sitecore environment.
+● Write clean, maintainable, and efficient code; conduct code reviews to maintain high quality.
+● Collaborate with front-end developers to define API specifications and ensure seamless integration.
+● Diagnose and resolve bugs and performance issues in back-end systems.
+● Document code, API endpoints, and technical solutions effectively in the Sitecore context.
+● Stay up-to-date with the latest trends in CMS development, particularly regarding Sitecore.
+● Participate actively in system architecture design and database design discussions.
+
+Requirements:
+● At least 8 years of experience in back-end development, with a strong focus on <span class="highlight">.Net</span> and
+Sitecore CMS.
+● Profound knowledge of <span class="highlight">.NET</span> framework and C# for building APIs.
+● Extensive experience in customizing Sitecore admin interfaces, implementing workflows, and
+integrating 3rd-party services into the CMS.
+● Experience collaborating with front-end and back-end development teams to implement
+Sitecore-based solutions.
+● Should have experience working with Microservice based applications.
+● Experience with database technologies, preferably SQL Server.
+● Excellent problem-solving skills and understanding of algorithmic concepts.
+● Effective communication skills to articulate technical concepts to non-technical audiences.
+● Ability to work in a fast-paced, deadline-driven environment while maintaining high-quality
+standards.
+● Proven ability to collaborate effectively with front-end developers and other team members.
+
+Fluent English is required.
+
+WE DON'T WORK WITH AGENCIES!!!,
+        Id: 1745755393334956032,
+        FreelancersToHire: 1,
+        PublishedOn: DateTime_1,
+        Attrs: [
+          {
+            PrettyName: ASP.NET
+          },
+          {
+            PrettyName: .NET Framework
+          },
+          {
+            PrettyName: .NET Core
+          },
+          {
+            PrettyName: ASP.NET Core
+          },
+          {
+            PrettyName: API
+          },
+          {
+            PrettyName: RESTful API
+          },
+          {
+            PrettyName: Git
+          },
+          {
+            PrettyName: Microservice
+          },
+          {
+            PrettyName: Microsoft SQL Server
+          },
+          {
+            PrettyName: C#
+          },
+          {
+            PrettyName: Sitecore
+          },
+          {
+            PrettyName: SQL
+          }
+        ],
+        IsLocal: false,
+        ConnectPrice: 16
+      }
+    ]
+  }
+}

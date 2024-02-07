@@ -4,9 +4,9 @@
 using System.Diagnostics.CodeAnalysis;
 using System.Text.Json;
 
-namespace Softville.Upwork.BusinessLogic.Processor;
+namespace Softville.Upwork.BusinessLogic.Processor.Parsers;
 
-internal record struct UpworkParser
+internal class UpworkSearchResultParser
 {
     private static readonly JsonSerializerOptions? _options = new() {PropertyNameCaseInsensitive = true};
 
@@ -14,7 +14,7 @@ internal record struct UpworkParser
         "Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
     [RequiresUnreferencedCode(
         "Calls System.Text.Json.JsonSerializer.DeserializeAsync<TValue>(Stream, JsonSerializerOptions, CancellationToken)")]
-    public async ValueTask<UpworkOffer> ParseAsync(Stream utf8Json, CancellationToken ct) =>
-        await JsonSerializer.DeserializeAsync<UpworkOffer>(utf8Json, _options, ct) ??
+    internal static async Task<UpworkSearchResult> ParseSearchResults(Stream utf8Json, CancellationToken ct) =>
+        await JsonSerializer.DeserializeAsync<UpworkSearchResult>(utf8Json, _options, ct) ??
         throw new ArgumentNullException(nameof(utf8Json), "Stream parsed to null offer");
 }

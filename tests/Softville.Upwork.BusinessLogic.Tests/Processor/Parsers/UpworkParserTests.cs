@@ -10,7 +10,7 @@ public class UpworkParserTests
         await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
 
         UpworkOffer actual =
-            await new BusinessLogic.Processor.UpworkParser().ParseAsync(stream, CancellationToken.None);
+            await new BusinessLogic.Processor.Parsers.UpworkParser().ParseAsync(stream, CancellationToken.None);
 
         VerifySettings settings = new();
         settings.DontScrubDateTimes();
