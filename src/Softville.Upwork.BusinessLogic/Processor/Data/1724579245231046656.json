@@ -1,0 +1,248 @@
+{
+  "job": {
+    "ciphertext": "~01fc1579bafdfcbf69",
+    "rid": 1009519534,
+    "uid": "1724579245231046656",
+    "type": 2,
+    "access": 4,
+    "title": ".net developer with specific experience with EDI",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-11-15T00:05:08.067Z",
+    "postedOn": "2023-11-15T00:05:08.647Z",
+    "publishTime": "2023-11-15T00:05:08.647Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 618969,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 55
+    },
+    "contractorTier": 3,
+    "description": "I\u0027m looking to work with an experience .net developer to help build an integration with an EDI provider\n\nThe provider we will be using is OpenText\nhttps://www.opentext.com/products/b2b-edi-integration\nwho have a very specific file format\n\nExperience with EDI is essential.\n\nWe will essentially need to consume these files, map to our domain objects, and call internal APIs to our despatch system.\nI can help with our despatch system, and integrating with that, but it\u0027s the EDI part we will specifically need help with.\n\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "What experience with EDI do you have?"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-12T10:58:27.460Z",
+      "totalApplicants": 35,
+      "totalHired": 1,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "767",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are seeking a skilled .NET developer with specific experience in Electronic Data Interchange (EDI) for a short-term project lasting 1 to 3 months. The ideal candidate should have expertise in EDIFACT, C#, and .NET Core.\n\nAs part of this project, you will be responsible for developing and implementing EDI solutions using the mentioned technologies. Your main tasks will include building and maintaining EDI interfaces, mapping EDI documents, and troubleshooting any issues that may arise.\n\nTo be considered, please submit a detailed proposal outlining how you can contribute to this project. Specifically, describe your experience with EDI and provide examples of past completed projects that highlight your expertise. Additionally, include links to any relevant work samples or code repositories.\n\nWe look forward to reviewing your proposals and finding the right candidate for this exciting opportunity.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-11-15T00:05:08.647Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876970299899904\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221031626733966049280\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "120",
+        "totalTimeSpentOnReviewPageAIv2": "26",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1700005790790",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": ".net developer with specific experience with EDI",
+        "finalDescriptionAI": "I\u0027m looking to work with an experience .net developer to help build an integration with an EDI provider\n\nThe provider we will be using is OpenText\nhttps://www.opentext.com/products/b2b-edi-integration\nwho have a very specific file format\n\nExperience with EDI is essential.\n\nWe will essentially need to consume these files, map to our domain objects, and call internal APIs to our despatch system.\nI can help with our despatch system, and integrating with that, but it\u0027s the EDI part we will specifically need help with.\n\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "Deepcut",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 295,
+      "activeAssignmentsCount": 24,
+      "feedbackCount": 154,
+      "score": 4.654034209,
+      "totalJobsWithHires": 257,
+      "hoursCount": 6748.900016,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 155786.8
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2012-06-24T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 305,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 21.367141261261207
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,245 @@
+{
+  "job": {
+    "ciphertext": "~01d01ca02a642e3992",
+    "rid": 1010252524,
+    "uid": "1738280922176012288",
+    "type": 2,
+    "access": 4,
+    "title": "Online Assessment Development ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-12-22T19:30:42.497Z",
+    "postedOn": "2023-12-22T19:30:43.409Z",
+    "publishTime": "2023-12-22T19:30:43.409Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 3301961,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "2 related web application development projects, the first of which should \u0027lead into\u0027 the second. While both can be built using traditional methods, there is a potential opportunity to leverage AI.\n\nBoth are for a related \u0022organizational maturity assessment\u0022 offered on our consulting firm\u0027s website.\n\nThe current application is written in .net and hosted on Azure, but we are open to changing these to another common language/platform. \n\nDetails are available in the Word Doc accompanying this post. ",
+    "attachments": [
+      {
+        "fileName": "Assessment Design Specifications v2.docx",
+        "length": 2520238,
+        "uri": "/att/download/openings/1738280922176012288/attachments/a67daa59-f6fb-4504-a02b-e318a092a704/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-12T20:14:54.120Z",
+      "totalApplicants": 64,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "337",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced professional to assist us with the development of an online assessment. The project is expected to last for 1 to 3 months. \n\nThe ideal candidate should have expertise in web application development and AI app development. They should be able to design and develop an intuitive and user-friendly online assessment platform. \n\nTo apply for this job, please submit a proposal outlining how you can contribute to the project\u0027s success. Additionally, include links to any past completed projects that showcase your skills and expertise in online assessment development. We are particularly interested in seeing examples of your work related to web application and AI app development. \n\nWe look forward to reviewing your proposals and discussing the project further with qualified candidates.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-12-22T19:30:43.409Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221691099314241679360\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "269",
+        "totalTimeSpentOnReviewPageAIv2": "45",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1703272776139",
+        "finalDescriptionAI": "2 related web application development projects, the first of which should \u0027lead into\u0027 the second. While both can be built using traditional methods, there is a potential opportunity to leverage AI.\n\nBoth are for a related \u0022organizational maturity assessment\u0022 offered on our consulting firm\u0027s website.\n\nThe current application is written in .net and hosted on Azure, but we are open to changing these to another common language/platform. \n\nDetails are available in the Word Doc accompanying this post. ",
+        "inputsTitleAI": "Online Assessment Development ",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "SAN ANSELMO",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 67,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 28,
+      "score": 4.774577868,
+      "totalJobsWithHires": 55,
+      "hoursCount": 1580.500021,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 81381.25
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-09-08T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "HR \u0026 Business Services",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 56,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 47.02616830904806
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

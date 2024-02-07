@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~015bdc5b87c6e87143",
+    "rid": 1010649891,
+    "uid": "1746206661538516992",
+    "type": 2,
+    "access": 4,
+    "title": "Animate Anyone Research Developer",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-13T16:24:46.349Z",
+    "postedOn": "2024-01-13T16:24:46.883Z",
+    "publishTime": "2024-01-13T16:24:46.883Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 8592058,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 150
+    },
+    "contractorTier": 3,
+    "description": "A new AI software called \u0022Animate Anyone\u0022 has come out with a limited release.  The information we have about it is very limited.  After reading online chat conversations, apparently there is a release that has been written in Chinese.  We need a developer who can research the release and give us this software in useable English form.\n\nhttps://www.youtube.com/watch?v=8PCn5hLKNu4\n\nSee this chat thread which mentions a Chinese limited release:\nhttps://github.com/HumanAIGC/AnimateAnyone/issues/57\n\nhttps://www.augustman.com/in/gear/tech/animate-anyone-ai-tool-controversy-details/\n\nhttps://decrypt.co/208614/chinese-tech-giant-alibaba-shows-off-ai-that-can-animate-anyone\n\nhttps://indianexpress.com/article/technology/artificial-intelligence/animate-anyone-deepfake-9055259/\n\nThis is the GitHub page for Animate Anyone:\nhttps://github.com/HumanAIGC/AnimateAnyone\n\nWe think this is someone\u0027s attempt at using it:\nhttps://github.com/guoqincode/Open-AnimateAnyone\nhttps://github.com/MingtaoGuo/AnimateAnyone_unofficial\n\nThe developer should provide us with a finished usable application, with the same quality shown in the Animate Anyone videos.  Please include a time estimation for total costs, as well as an expected completion date in your Upwork bid.\n\nThank you.\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-20T20:20:51.943Z",
+      "totalApplicants": 8,
+      "totalHired": 0,
+      "totalInvitedToInterview": 8,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "752",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced Animate Anyone Research Developer to join our team for a short-term project, lasting less than one month. As an ideal candidate, you should have strong proficiency in JavaScript and AI development, with a solid background in code review and ASP.NET.\n\nYour main responsibility will be to conduct research and develop solutions to animate characters and objects based on user input. You will be expected to work closely with our development team to ensure smooth integration of the animation features into our existing platform.\n\nTo be considered for this role, please submit a detailed proposal outlining how you can contribute to the project. Additionally, we would appreciate if you could provide relevant links to past completed projects that demonstrate your expertise in the field.\n\nWe are excited to collaborate with a talented Animate Anyone Research Developer who can bring innovative ideas to life through animations.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-13T16:24:46.883Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221110580699231408128\u0022},{\u0022skillUid\u0022:\u00221691099314254262272\u0022},{\u0022skillUid\u0022:\u00221031626725422252032\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "407",
+        "totalTimeSpentOnReviewPageAIv2": "196",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705161876773",
+        "finalDescriptionAI": "A new AI software called \u0022Animate Anyone\u0022 has come out with a limited release.  The information we have about it is very limited.  After reading online chat conversations, apparently there is a release that has been written in Chinese.  We need a developer who can research the release and give us this software in useable form.\n\nhttps://www.youtube.com/watch?v=8PCn5hLKNu4\n\nSee this chat thread which mentions a Chinese limited release:\nhttps://github.com/HumanAIGC/AnimateAnyone/issues/57\n\nhttps://www.augustman.com/in/gear/tech/animate-anyone-ai-tool-controversy-details/\n\nhttps://decrypt.co/208614/chinese-tech-giant-alibaba-shows-off-ai-that-can-animate-anyone\n\nhttps://indianexpress.com/article/technology/artificial-intelligence/animate-anyone-deepfake-9055259/\n\nThis is the GitHub page for Animate Anyone:\nhttps://github.com/HumanAIGC/AnimateAnyone\n\nWe think this is someone\u0027s attempt at using it:\nhttps://github.com/guoqincode/Open-AnimateAnyone\nhttps://github.com/MingtaoGuo/AnimateAnyone_unofficial\n\nWhen successful, we should be able to illustrate a character, and animate it using Animate Anyone, just as it shows in the videos\ndemonstrating its usage.\n",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Animate Anyone Research Developer"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Eldon",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 12,
+      "activeAssignmentsCount": 8,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 12,
+      "hoursCount": 30.999999,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 15051.97
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-11-19T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 22,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 79.83935741417282
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

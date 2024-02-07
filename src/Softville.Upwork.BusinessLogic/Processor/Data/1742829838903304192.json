@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~01b4579d0df2913087",
+    "rid": 1010452173,
+    "uid": "1742829838903304192",
+    "type": 2,
+    "access": 4,
+    "title": "Build .Net c# assembly to interface with external REST API",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-04T08:46:28.655Z",
+    "postedOn": "2024-01-04T08:46:29.222Z",
+    "publishTime": "2024-01-04T08:46:29.222Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1004690815,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Looking for an experienced back end c# developer who can create a stand-alone c# assembly that will take our parameters and then interface with an external REST/OAuth/SOAP API and return data and documents to us.\n\nRequired Experience:\n- c#\n- REST API\n- OAuth authentication\n- SOAP\n\nDocumentation on the API will be available from our external partner.\n\nWe are looking for this to be a short term project.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-31T22:42:11.868Z",
+      "totalApplicants": 126,
+      "totalHired": 1,
+      "totalInvitedToInterview": 8,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "935",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled .Net c# developer to build an assembly that will interface with an external REST API. The project is expected to last between 1 to 3 months. \n\nThe successful candidate should be proficient in OAuth, .NET Framework, SOAP API, RESTful API, and C#. \n\nTo apply for this project, please submit a proposal detailing how you can help with the project. Please include any relevant experience you have with building assemblies to interface with REST APIs. Additionally, please provide links to past completed projects that demonstrate your expertise in this area.\n\nWe are excited to find a talented developer who can help us with this project. If you have any questions, please don\u0027t hesitate to ask. We look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-04T08:46:29.222Z",
+        "totalTimeJobPostFlowAIv2": "2500",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221733104400605790217\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221031626763590418432\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "815",
+        "totalTimeSpentOnReviewPageAIv2": "246",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1704355464357",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Build .Net c# assembly to interface with external REST API",
+        "finalDescriptionAI": "Looking for an experienced back end c# developer who can create a stand-alone c# assembly that will take our parameters and then interface with an external REST/OAuth/SOAP API and return data and documents to us.\n\nRequired Experience:\n- c#\n- REST API\n- OAuth authentication\n- SOAP\n\nDocumentation on the API will be available from our external partner.\n\nWe are looking for this to be a short term project."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "Pasadena",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 606
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-07-14T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

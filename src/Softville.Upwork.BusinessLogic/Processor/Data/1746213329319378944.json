@@ -1,0 +1,257 @@
+{
+  "job": {
+    "ciphertext": "~01860e8eef7f4900c9",
+    "rid": 1010650265,
+    "uid": "1746213329319378944",
+    "type": 2,
+    "access": 4,
+    "title": ".Net 4.0 and Azure Blob Storage",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-13T16:51:15.677Z",
+    "postedOn": "2024-01-13T16:51:16.209Z",
+    "publishTime": "2024-01-13T16:51:16.209Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 4376485,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "We have an older asp.net 4.0 web form application (one aspx page). \n\nWe need to add a fileupload (asp:fileupload) control to it, and add one or several files to it and upload to a modern Azure Blob Storage (which we have access to).\n\nOnce the file is selected, it has to show on the page what was selected (like on a table or gridview), and the ability to choose to view or delete them while on that page. \n\nOnce the form is submitted, then they get uploaded successfully. \nThey can be .pdf, or jpeg or docx (have the ability to add more extension in code behind). \n\nI need exactly one page that does this,  no code behind file.. all in one aspx page. And ideally in VB.Net, (not c#).  the code has to be in the script runat server bracket in the head. And the html below. \n\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-13T18:26:08.332Z",
+      "totalApplicants": 28,
+      "totalHired": 1,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "515",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced developer to assist us with a project that involves working with .Net 4.0 and Azure Blob Storage. The project is expected to last less than 1 month.\n\nKey skills required for this project include expertise in .NET Framework, ASP.NET, Microsoft Azure SQL Database, VB.NET, and Microsoft Azure.\n\nIn your proposal, please provide a detailed description of how you can contribute to this project and what your approach would be. Additionally, we would appreciate if you could include links to any relevant past projects that you have completed.\n\nWe are excited to review your proposal and discuss further details about the project with potential candidates.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-13T16:51:16.209Z",
+        "totalTimeJobPostFlowAIv2": "656",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221534904340945649664\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "436",
+        "totalTimeSpentOnReviewPageAIv2": "7",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705164018885",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": ".Net 4.0 and Azure Blob Storage",
+        "finalDescriptionAI": "We have an older asp.net 4.0 web form application (one aspx page). \n\nWe need to add a fileupload (asp:fileupload) control to it, and add one or several files to it and upload to a modern Azure Blob Storage (which we have access to).\n\nOnce the file is selected, it has to show on the page what was selected (like on a table or gridview), and the ability to choose to view or delete them while on that page. \n\nOnce the form is submitted, then they get uploaded successfully. \nThey can be .pdf, or jpeg or docx (have the ability to add more extension in code behind). \n\nI need exactly one page that does this,  no code behind file.. all in one aspx page. And ideally in VB.Net, (not c#).  the code has to be in the script runat server bracket in the head. And the html below. \n\n\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Sioux Falls",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 12,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 8,
+      "score": 4.804513709,
+      "totalJobsWithHires": 9,
+      "hoursCount": 1514.166664,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 89863.51
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-09-02T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 55.00496212218815
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas, Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

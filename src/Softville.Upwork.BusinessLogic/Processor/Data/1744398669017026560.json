@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0176aabd04fb6d4c6b",
+    "rid": 1010535965,
+    "uid": "1744398669017026560",
+    "type": 2,
+    "access": 4,
+    "title": "MS Access and MSSQL Assistance",
+    "status": 1,
+    "category": {
+      "name": "Other - Software Development",
+      "urlSlug": "other-software-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-08T16:40:27.072Z",
+    "postedOn": "2024-01-08T16:40:27.911Z",
+    "publishTime": "2024-01-08T16:40:27.911Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 50837,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "I considered making this job posting two job postings. \n\nISSUE 1 \u2013 I have an old MS Access / MSSQL Server DB that contains some MS Access to MS Excel export functionality that worked fine until we switched over to a new Windows 2022 Server that serves up the MS Access files. While it seems unlikely that the Windows 2022 Server is associated with the MS Access to MS Excel bug, that\u0027s when the issue started. \n\nAnyway, while I used to do a lot of MS Access development, I don\u0027t any more. It would be nice to step through the issue with someone who really knows MS Access. \n\nISSUE 2 \u2013 I have a TSQL app with ~1000 lines of code associated with the same DB. The TSQL does the following: a) Imports pipe-delimited files from a third-party app called \u0022Office Tracker\u0022, b) \u0022Massages the data\u0022 based on various business rules, c) Pushes the data into XML files by invoking a .NET app. (This is old TSQL, JSON didn\u0027t exist when I created it.), d) Invokes another .NET app that pushes the data to a web server, e) Invokes another \u0022emailer\u0022 .NET app that sends out automated emails to clients for upcoming settlement conferences, e) Finally, it invokes the same \u0022emailer\u0022 .NET app that sends emails to clients when there\u0027s a cancellation by one of our attorneys. \n\nIf you think you can help me with only ISSUE 1 or only ISSUE 2, please apply for the position. If you think you can help me with both ISSUE 1 and ISSUE 2, please apply for the position. With ISSUE 2, you have to be willing to work with me. (With ISSUE 1, I\u0027m happy to just pass it off or to work on it jointly.)\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-16T11:57:01.115Z",
+      "totalApplicants": 37,
+      "totalHired": 1,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "1630",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled professional to provide assistance with a project involving Microsoft Access and MSSQL. The project is expected to last for a period of 1 to 3 months. \n\nThe ideal candidate should have a strong background in Microsoft Access programming and be proficient in Microsoft SQL Server, SQL, and Microsoft SQL Server programming. \n\nIn your proposal, please describe how you can contribute to the project and provide examples of similar projects you have completed in the past. We would appreciate it if you could include links to these past projects, so that we can evaluate your work. \n\nWe are looking for someone who can effectively collaborate with our team and provide expert guidance throughout the duration of the project. If you have the required skills and experience, we would love to hear from you.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-08T16:40:27.911Z",
+        "totalTimeJobPostFlowAIv2": "1736",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626758230097920\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221031626759249313792\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "85",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1704730289838",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "MS Access and MSSQL Assistance",
+        "finalDescriptionAI": "I considered making this job posting two job postings. \n\nISSUE 1 \u2013 I have an old MS Access / MSSQL Server DB that contains some MS Access to MS Excel export functionality that worked fine until we switched over to a new Windows 2022 Server that serves up the MS Access files. While it seems unlikely that the Windows 2022 Server is associated with the MS Access to MS Excel bug, that\u0027s when the issue started. \n\nAnyway, while I used to do a lot of MS Access development, I don\u0027t any more. It would be nice to step through the issue with someone who really knows MS Access. \n\nISSUE 2 \u2013 I have a TSQL app with ~1000 lines of code associated with the same DB. The TSQL does the following: a) Imports pipe-delimited files from a third-party app called \u0022Office Tracker\u0022, b) \u0022Massages the data\u0022 based on various business rules, c) Pushes the data into XML files by invoking a .NET app. (This is old TSQL, JSON didn\u0027t exist when I created it.), d) Invokes another .NET app that pushes the data to a web server, e) Invokes another \u0022emailer\u0022 .NET app that sends out automated emails to clients for upcoming settlement conferences, e) Finally, it invokes the same \u0022emailer\u0022 .NET app that sends emails to clients when there\u0027s a cancellation by one of our attorneys. \n\nIf you think you can help me with only ISSUE 1 or only ISSUE 2, please apply for the position. If you think you can help me with both ISSUE 1 and ISSUE 2, please apply for the position. With ISSUE 2, you have to be willing to work with me. (With ISSUE 1, I\u0027m happy to just pass it off or to work on it jointly.)\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-07:00)",
+      "city": "Boulder",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 294,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 151,
+      "score": 4.98026291,
+      "totalJobsWithHires": 225,
+      "hoursCount": 4897.833368,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 71701.18
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2008-07-12T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 247,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 14.415641508202492
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

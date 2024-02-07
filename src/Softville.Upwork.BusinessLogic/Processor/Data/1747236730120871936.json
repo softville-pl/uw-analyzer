@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01ed202c19548f5c9d",
+    "rid": 1010705404,
+    "uid": "1747236730120871936",
+    "type": 2,
+    "access": 4,
+    "title": "SOLIDWORKS API SDK Developer to create Add-In",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-16T12:37:53.448Z",
+    "postedOn": "2024-01-16T12:37:54.114Z",
+    "publishTime": "2024-01-16T12:37:54.114Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 4653534,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We need for a new product a developer who has experience in SolidWorks API SDK to create a Add-In for SolidWorks.\n\nThe project is long-term, but actually is not possible to have it as a full time position. \n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-25T08:54:17.694Z",
+      "totalApplicants": 27,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "58",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled SOLIDWORKS API SDK Developer to create an Add-In for our project. The ideal candidate should have a strong understanding of API integration, the .NET Framework, SolidWorks, software architecture \u0026 design, and C#. \n\nThe project is expected to last for 1 to 3 months, and we are looking for a developer who can commit to this timeline. \n\nTo apply for this position, please submit a proposal outlining your experience and how you can help with the project. We would appreciate it if you could include links to any past completed projects that demonstrate your expertise in SOLIDWORKS API SDK development. \n\nWe are excited to work with a qualified candidate who can deliver high-quality results within the specified timeframe.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-16T12:37:54.114Z",
+        "totalTimeJobPostFlowAIv2": "154",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626781382656000\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626781625925632\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "56",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705408519024",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "SOLIDWORKS API SDK Developer to create Add-In",
+        "finalDescriptionAI": "We need for a new product a developer who has experience in SolidWorks API SDK to create a Add-In for SolidWorks.\n\nThe project is long-term, but actually is not possible to have it as a full time position. \n\n"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (UTC\u002B01:00)",
+      "city": "Stuttgart",
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 34,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 15,
+      "score": 4.999401467,
+      "totalJobsWithHires": 27,
+      "hoursCount": 8486.333334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 197937.15
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-12-08T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 46,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 22.52480929945993
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

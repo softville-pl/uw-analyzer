@@ -1,0 +1,249 @@
+{
+  "job": {
+    "ciphertext": "~01a139936bff0a47e1",
+    "rid": 1010546571,
+    "uid": "1744540321319227392",
+    "type": 2,
+    "access": 4,
+    "title": "Jenkins running in Azure .net",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-09T02:03:19.509Z",
+    "postedOn": "2024-01-09T02:03:19.963Z",
+    "publishTime": "2024-01-09T02:03:19.963Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2715364,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 38,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We have a .NET C# application that runs on an Azure VM. It is built and deployed using Jenkins in Azure. We\u0027d like someone to be a resource for us when we need updates or problems occur. Tasks include modifying the Jenkins files to achieve various deployment goals. Also, possible project in taking the existing CI/CD Jenkins flow and converting it to Azure DevOps.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "United States"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-15T22:37:16.950Z",
+      "totalApplicants": 48,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "252",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced Jenkins expert to help us with a project involving Jenkins running in Azure with .net. The project is expected to last for 1 to 3 months. \n\nKey skills required for this job include Linux, Git, Microsoft Windows, Amazon Web Services, Deployment Automation, DevOps Engineering, C#, Jenkins, Tech \u0026 IT, and Microsoft Azure. \n\nTo apply for this job, please submit a detailed proposal outlining how you can help with the project. We would like to know your experience with Jenkins, Azure, and .net, as well as any relevant certifications you may have. \n\nAdditionally, please include links to past completed projects related to Jenkins and Azure. This will help us assess your expertise and suitability for the job. We look forward to reviewing your proposals and selecting the right candidate for this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-09T02:03:19.963Z",
+        "totalTimeJobPostFlowAIv2": "497",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221270387367928381440\u0022},{\u0022skillUid\u0022:\u00221031626754568470528\u0022,\u0022parentSkillUid\u0022:\u00221270387367928381440\u0022},{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221270387318607560704\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022,\u0022parentSkillUid\u0022:\u00221110580547376631808\u0022},{\u0022skillUid\u0022:\u00221110580710606360576\u0022,\u0022parentSkillUid\u0022:\u00221549040540184350720\u0022},{\u0022skillUid\u0022:\u00221110580494289326080\u0022,\u0022parentSkillUid\u0022:\u00221110580547800256512\u0022},{\u0022skillUid\u0022:\u00221559203831032967168\u0022,\u0022parentSkillUid\u0022:\u00221110580547800256512\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626751103975424\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "248",
+        "totalTimeSpentOnReviewPageAIv2": "49",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1704765301441",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Jenkins running in Azure .net",
+        "finalDescriptionAI": "We have a .NET C# application that runs on an Azure VM. It is built and deployed using Jenkins. We\u0027d like someone to be a resource for us when we need updates or problems occur. Tasks include modifying the Jenkins files to achieve various deployment goals. Also, possible project in taking the existing CI/CD Jenkins flow and converting it to Azure DevOps."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Scottsdale",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 7.5,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 21146.08
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-02-03T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 135
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(United States)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "United States"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01546d09937827ca87",
+    "rid": 1011182500,
+    "uid": "1755207182947926016",
+    "type": 2,
+    "access": 4,
+    "title": "IT Related Projects ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-07T12:29:37.615Z",
+    "postedOn": "2024-02-07T13:49:59.523Z",
+    "publishTime": "2024-02-07T13:49:59.523Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4315460,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "COMPUTER RELATED TECHNICAL EMPLOYEES:\n\nSybest LLC is actively searching for dedicated independent contractors for a range of IT-related projects. If you are passionate about engaging in stimulating work and have the necessary technical skills and dedication, we invite you to submit your resume for consideration in our system for current or future projects. Additionally, we request that you include your preferred hourly billing rate and your portfolio. At Sybest, we engage in a variety of contracts and are in pursuit of independent contractors who are committed to excellence.\n\nShould your expertise align with any descriptions under the Naics codes, please forward your resume/CV along with your portfolio to us.\n541512: Computer Systems Design Services\n541519: Other Computer Related Services\n541511: Custom Computer Programming Services\n518210: Data Processing, Hosting, and Related Services\n519290: Web Search Portals and All Other Information Services\n\nWarmest regards,\nThe Management Team at Sybest LLC\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-07T12:29:37.375Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "25",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a skilled and experienced IT professional to assist with various IT related projects. The ideal candidate will have expertise in TypeScript, Apache HTTP Server, .NET Framework, AngularJS, Graphic Design, PHP, Ruby, Apache Geronimo, and Kotlin. \n\nThe project duration is expected to be more than 6 months, so we are looking for someone who can commit to a long-term engagement. \n\nTo apply for this position, please submit a proposal outlining how you can contribute to the success of our projects. This should include a detailed description of your relevant skills and experience, as well as any past completed projects that showcase your abilities.\n\nPlease provide links to these projects, so we can evaluate the quality of your work. We look forward to reviewing your proposal and considering you for this opportunity.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-07T13:49:59.523Z",
+        "totalTimeJobPostFlowAIv2": "192",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221204836443015462912\u0022,\u0022parentSkillUid\u0022:\u00221204836482861350912\u0022},{\u0022skillUid\u0022:\u00221031626713573343232\u0022,\u0022parentSkillUid\u0022:\u00221204836482861350912\u0022},{\u0022skillUid\u0022:\u0022996364628025274384\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626775913283584\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626712877088768\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626742929276928\u0022},{\u0022skillUid\u0022:\u0022996364628025274385\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "23",
+        "totalTimeSpentOnReviewPageAIv2": "6",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707308782499",
+        "finalDescriptionAI": "COMPUTER RELATED TECHNICAL EMPLOYEES:\n\nSybest LLC is actively searching for dedicated independent contractors for a range of IT-related projects. If you are passionate about engaging in stimulating work and have the necessary technical skills and dedication, we invite you to submit your resume for consideration in our system for current or future projects. Additionally, we request that you include your preferred hourly billing rate and your portfolio. At Sybest, we engage in a variety of contracts and are in pursuit of independent contractors who are committed to excellence.\n\nShould your expertise align with any descriptions under the Naics codes, please forward your resume/CV along with your portfolio to us.\n541512: Computer Systems Design Services\n541519: Other Computer Related Services\n541511: Custom Computer Programming Services\n518210: Data Processing, Hosting, and Related Services\n519290: Web Search Portals and All Other Information Services\n\nWarmest regards,\nThe Management Team at Sybest LLC\n",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "IT Related Projects "
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "San Lorenzo",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 2,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1277.8
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-08-12T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 9,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 8
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~018216e5bd35a48651",
+    "rid": 1011184352,
+    "uid": "1755232950555955200",
+    "type": 2,
+    "access": 4,
+    "title": "Web/HTML UI/UX Designer that also can modify ASP.NET",
+    "status": 1,
+    "category": {
+      "name": "Web \u0026 Mobile Design",
+      "urlSlug": "web-mobile-design"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-07T14:12:01.094Z",
+    "postedOn": "2024-02-07T14:12:01.669Z",
+    "publishTime": "2024-02-07T14:12:01.669Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1004491166,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Looking to re-create a fresh, exciting event registration landing page for https://AnyRegistration.com. This product is for non-profits. The landing page would talk about the event, show a picture,  registration choices, etc. \n\nThis is the specific page that needs help:\nhttps://anyregistration.com/register/young-professionals-retreat-winter-2024/WRVbIKbR\n\nIt needs to be responsive but I need someone that is able to modify the HTML/CSS, etc. in GitHub or VS Code. I don\u0027t want to end up with a design that I then require hours of time to translate to HTML/CSS so someone that knows how to modify the source or can partner with someone that can is ideal.\n\nI have other similar projects if this works well.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-07T14:12:00.875Z",
+      "totalApplicants": 17,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "267",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a talented Web/HTML UI/UX Designer who is also proficient in modifying ASP.NET. This project has a duration of 1 to 3 months and requires someone with a strong skill set in HTML, Web Design, UX \u0026 UI, HTML5, CSS, Software Design, Responsive Design, Website Asset, CSS 3, and Bootstrap.\n\nAs a candidate, please submit a proposal detailing how you can contribute to the project. Describe your experience and expertise in web design and ASP.NET modification. Additionally, please include links to some of your past completed projects that showcase your skills in UI/UX design and ASP.NET modification.\n\nWe are excited to review your proposal and evaluate your suitability for this project. We look forward to seeing your portfolio and how you can contribute to the successful delivery of this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-07T14:12:01.669Z",
+        "totalTimeJobPostFlowAIv2": "466",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221052162209007587329\u0022,\u0022parentSkillUid\u0022:\u00221110580728855777280\u0022},{\u0022skillUid\u0022:\u00221110580698442878976\u0022,\u0022parentSkillUid\u0022:\u00221110580728855777280\u0022},{\u0022skillUid\u0022:\u00221052162208852398101\u0022,\u0022parentSkillUid\u0022:\u00221110580728792862720\u0022},{\u0022skillUid\u0022:\u00221110580726997700608\u0022,\u0022parentSkillUid\u0022:\u00221110580728792862720\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221031626745118703616\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022},{\u0022skillUid\u0022:\u00221031626728807055360\u0022},{\u0022skillUid\u0022:\u00221031626795181916160\u0022},{\u0022skillUid\u0022:\u00221031626720951123968\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "219",
+        "totalTimeSpentOnReviewPageAIv2": "6",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707314654448",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Web/HTML UI/UX Designer that also can modify ASP.NET",
+        "finalDescriptionAI": "Looking to re-create a fresh, exciting event registration landing page for https://AnyRegistration.com. This product is for non-profits. The landing page would talk about the event, show a picture,  registration choices, etc. \n\nThis is the specific page that needs help:\nhttps://anyregistration.com/register/young-professionals-retreat-winter-2024/WRVbIKbR\n\nIt needs to be responsive but I need someone that is able to modify the HTML/CSS, etc. in GitHub or VS Code. I don\u0027t want to end up with a design that I then require hours of time to translate to HTML/CSS so someone that knows how to modify the source or can partner with someone that can is ideal.\n\nI have other similar projects if this works well."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-06:00)",
+      "city": "Nisswa",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 300
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-06-29T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

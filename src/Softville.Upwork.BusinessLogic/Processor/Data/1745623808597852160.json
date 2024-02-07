@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01262904226672596d",
+    "rid": 1010617800,
+    "uid": "1745623808597852160",
+    "type": 2,
+    "access": 4,
+    "title": "Workflow Audit - .Net Core / Ubuntu VM / Containers",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-12T01:48:42.948Z",
+    "postedOn": "2024-01-12T01:48:43.583Z",
+    "publishTime": "2024-01-12T01:48:43.583Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5207204,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "We need an outside perspective to review our web app data import workflow. We are importing bulk data each day from a JSON file inside an S3 bucket that has to be processed inside our DB via dockers.\n\nThe total time is now 9ish hours each day and continues to grow.\n\nWe need a review to see where we can optimize and speed the process.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-14T17:40:43.076Z",
+      "totalApplicants": 28,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "404",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled professional to perform a Workflow Audit for a project involving .NET Core, Ubuntu VM, and Container technologies. The job duration is expected to be less than 1 month. \n\nAs a candidate, we would like you to submit a proposal outlining how you can assist with this project. Please describe your experience and expertise in DevOps, Ubuntu, Docker, and .NET Core. \n\nAdditionally, we would appreciate if you could provide links to past completed projects that showcase your skills in these areas. This will help us evaluate your qualifications and determine if you are the right fit for this job. \n\nWe are excited to collaborate with a talented professional who can offer valuable insights and optimize our workflow.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-12T01:48:43.583Z",
+        "totalTimeJobPostFlowAIv2": "623",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626791662895104\u0022},{\u0022skillUid\u0022:\u00221031626732393185280\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "328",
+        "totalTimeSpentOnReviewPageAIv2": "10",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705024054225",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Workflow Audit - .Net Core / Ubuntu VM / Container",
+        "finalDescriptionAI": "We need an outside perspective to review our web app data import workflow. We are importing bulk data each day from a JSON file inside an S3 bucket that has to be processed inside our DB via dockers.\n\nThe total time is now 9ish hours each day and continues to grow.\n\nWe need a review to see where we can optimize and speed the process."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "New York",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 54,
+      "activeAssignmentsCount": 22,
+      "feedbackCount": 27,
+      "score": 4.750335459,
+      "totalJobsWithHires": 38,
+      "hoursCount": 2316.333308,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 26442.93
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-06-04T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 77,
+      "openCount": 3
+    },
+    "avgHourlyJobsRate": {
+      "amount": 9.675110193597405
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

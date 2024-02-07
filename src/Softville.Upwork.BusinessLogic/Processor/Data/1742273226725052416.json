@@ -1,0 +1,280 @@
+{
+  "job": {
+    "ciphertext": "~01ac7d347f6cdf8666",
+    "rid": 1010418882,
+    "uid": "1742273226725052416",
+    "type": 2,
+    "access": 1,
+    "title": "Building Experiences: Senior software engineer wanted for high-impact agency projects",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-02T19:54:42.117Z",
+    "postedOn": "2024-01-02T22:55:31.755Z",
+    "publishTime": "2024-01-02T22:55:31.755Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2303989,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 59
+    },
+    "contractorTier": 3,
+    "description": "OVERVIEW\n========\nOk here\u2019s the deal\u2026 We run a handful of really cool and exciting brands \u2014 primarily in the event space.\n\nWe have made some big promises to some small but very exciting clients in the performance racing industry. We have a variety of projects that must be completed in a timely manner including 3rd-party integrations, backend services, APIs, Webhooks and mobile apps.\n\nYou\u2019d be working with a very senior team that give clear direction, value good ideas and input, and communicate clearly.\n\nIf you\u0027re passionate about delivering value through software, eager to make an impact, and ready to take on exciting challenges, we want to hear from you. Join us at Standard Behavior, where data meets creativity, and together, we\u0027ll create remarkable experiences for our clients.\n\nBACKGROUND\n==========\nWe are building a mobile app that simplifies the point-of-sale experience for box-office sales. Our clients have specific needs, and many of those needs are not met by their current box-office apps or the solutions leave them with data silos. We are looking to meet those needs for each of our clients.\n\nPROJECT DETAILS\n===============\n- Most backend infrastructure exists (build/deploy, cloud infrastructure, services, observability, test suites, etc.)\n- Backend features supporting this application have NOT been built (this is where you fit in)\n- Mobile app is completely new\n- Integrate with Stripe\n- Project requirements are well-defined\n- Project management will be handled by our team\n- Design-documents will be provided\n- The project is currently full-stack Typescript, but C# and ASP.Net experience will also be accepted\n- The project is hosted entirely in AWS\n\nWORK SITUATION\n==============\n- Work will be totally remote\n- Must be able to communicate through Slack promptly\n- Must track work in project management tool\n- Must understand and communicate through project documentation (Product Requirements Document, Figma, Technical Design Documents)\n- Must be willing to post detailed progress in Slack DAILY\n- Must be willing to demo using Loom regularly\n- Must be willing to Google Meet when needed\n- Must track hours\n\nEXPERIENCE\n==========\n- Design, deploy and maintain software components in a distributed system\n- Object-oriented design\n- Testing\n- Database design and access (we use AWS Aurora Serverless - Postgres and AWS DynamoDB)\n- Security\n- Familiarity with build and deployment pipelines\n- Web development in Node.js (Nest.js) or .Net (ASP.Net)\n\nBONUS POINTS\n============\n- Deep experience with AWS\n- Deep experience with Datadog\n- Deep experience setting up and maintaining CI/CD pipelines\n\nWe will prioritize candidates that:\n- Value communication in a distributed team and in the SDLC.\n- Are able to work across the entire stack",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "What would make you choose to rewrite a piece of code?"
+      },
+      {
+        "position": 1,
+        "question": "Describe the process that you use for committing and integrating changes into a repository."
+      },
+      {
+        "position": 2,
+        "question": "Describe the process you used the last time a system you maintain experienced an outage or degradation of service."
+      },
+      {
+        "position": 3,
+        "question": "How would you describe dependency injection to a junior engineer?"
+      },
+      {
+        "position": 4,
+        "question": "What are the core differences between junior- and senior software engineers?"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": [
+        "Spanish"
+      ]
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-10T00:04:36.761Z",
+      "totalApplicants": 22,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "7010",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "0",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a skilled Node.js engineer to join our team for high-impact agency projects. This is a long-term opportunity lasting more than 6 months. The ideal candidate should have expertise in TypeScript, Amazon DynamoDB, NestJS, Node.js, and Cloud Architecture.\n\nAs a Node.js engineer, your responsibilities will include designing and implementing scalable and efficient backend solutions, integrating with various APIs and databases, and collaborating with cross-functional teams to deliver exceptional user experiences.\n\nTo apply for this position, please submit a proposal outlining how you can contribute to this project. We would like to hear about your relevant experience, skills, and how you envision tackling the challenges involved. Additionally, please include links to any past projects that demonstrate your proficiency in Node.js development.\n\nWe look forward to reviewing your proposals and finding a talented engineer to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-02T22:55:31.755Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626711895621632\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221031626762122412032\u0022},{\u0022skillUid\u0022:\u00221031626762999021568\u0022},{\u0022skillUid\u0022:\u00221270387306804789248\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "241",
+        "totalTimeSpentOnReviewPageAIv2": "63",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1704216420905",
+        "finalDescriptionAI": "OVERVIEW\n========\nOk here\u2019s the deal\u2026 We run a handful of really cool and exciting brands \u2014 primarily in the event space.\n\nWe have made some big promises to some small but very exciting clients in the performance racing industry. We have a variety of projects that must be completed in a timely manner including 3rd-party integrations, backend services, APIs, Webhooks and mobile apps.\n\nYou\u2019d be working with a very senior team that give clear direction, value good ideas and input, and communicate clearly.\n\nIf you\u0027re passionate about delivering value through software, eager to make an impact, and ready to take on exciting challenges, we want to hear from you. Join us at Standard Behavior, where data meets creativity, and together, we\u0027ll create remarkable experiences for our clients.\n\nBACKGROUND\n==========\nWe are building a mobile app that simplifies the point-of-sale experience for box-office sales. Our clients have specific needs, and many of those needs are not met by their current box-office apps or the solutions leave them with data silos. We are looking to meet those needs for each of our clients.\n\nPROJECT DETAILS\n===============\n- Most backend infrastructure exists (build/deploy, cloud infrastructure, services, observability, test suites, etc.)\n- Backend features supporting this application have NOT been built (this is where you fit in)\n- Mobile app is completely new\n- Integrate with Stripe\n- Project requirements are well-defined\n- Project management will be handled by our team\n- Design-documents will be provided\n- The project is currently full-stack Typescript, but C# and ASP.Net experience will also be accepted\n\nWORK SITUATION\n==============\n- Work will be totally remote\n- Must be able to communicate through Slack promptly\n- Must track work in project management tool\n- Must understand and communicate through project documentation (Product Requirements Document, Figma, Technical Design Documents)\n- Must be willing to post detailed progress in Slack DAILY\n- Must be willing to demo using Loom regularly\n- Must be willing to Google Meet when needed\n- Must track hours\n\nEXPERIENCE\n==========\n- Design, deploy and maintain software components in a distributed system\n- Object-oriented design\n- Testing\n- Database design and access (we use AWS Aurora Serverless - Postgres and AWS DynamoDB)\n- Security\n- Familiarity with build and deployment pipelines\n- Web development in Node.js (Nest.js) or .Net (ASP.Net)\n\nBONUS POINTS\n============\n- Deep experience with AWS\n- Deep experience with Datadog\n- Deep experience setting up and maintaining CI/CD pipelines\n\nWe will prioritize candidates that:\n- Value communication in a distributed team and in the SDLC.\n- Are able to work across the entire stack",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Building Experiences: Node.js engineer wanted for high-impact agency projects"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-07:00)",
+      "city": "Midvale",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 70,
+      "activeAssignmentsCount": 28,
+      "feedbackCount": 35,
+      "score": 4.88170365,
+      "totalJobsWithHires": 61,
+      "hoursCount": 15343.333369,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 359362.53
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2015-10-01T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Sales \u0026 Marketing",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 42,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 22.202505922753247
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas, Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": false,
+            "clientPreferred": "es",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": "Spanish"
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

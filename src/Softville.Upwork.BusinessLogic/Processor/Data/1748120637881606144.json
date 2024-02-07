@@ -1,0 +1,263 @@
+{
+  "job": {
+    "ciphertext": "~011e657ece2a5be7ee",
+    "rid": 1010767864,
+    "uid": "1748120637881606144",
+    "type": 2,
+    "access": 4,
+    "title": "Looking for a Backend and integrations Specialist",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-18T23:10:13.516Z",
+    "postedOn": "2024-01-18T23:10:14.020Z",
+    "publishTime": "2024-01-18T23:10:14.020Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2965775,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Logos Capital, LLC is a dynamic and forward-thinking technology company dedicated to providing innovative solutions for businesses across various industries. As we continue to expand our services, we are actively seeking a skilled API Integration Specialist with expertise in Microsoft products to join our talented team.\n\nAs an API Integration Specialist specializing in Microsoft products, you will be responsible for designing, implementing, and maintaining seamless API integrations using Microsoft technologies. Collaborating closely with cross-functional teams, you will contribute to the development and enhancement of API solutions that align with business objectives.\nWe need you to integrate four apps for us, on data gathering for the environment. One of those is iNaturalist which requires knowing how to integrate with the Camara. You might need to have back-end data management experience. We want this project to work in phases. First internations, then testing then the next iteration and integrations from there.\n\nOn the visualization side (front end) need someone who knows how to make an Apple and Android app using Niantic Lightship and AR VPS.\nIf you are passionate about API integration using Microsoft products, possess the required skills, and are eager to contribute to the success of a growing technology company, we invite you to apply. Please submit your resume and a cover letter detailing your relevant experience and why you are the ideal candidate for the API Integration Specialist role.\n\nResponsibilities:\n\nMicrosoft API Integration:\n\n1. Design, develop, and implement API integrations using Microsoft technologies, including Azure API Management, Azure Logic Apps, and Power Automate.\nEnsure efficient and secure integration of Microsoft APIs into existing systems and applications.\nCollaboration and Communication:\n\n2. Work closely with the owner to understand requirements and design effective solutions.\nCommunicate effectively with team members to provide updates, gather feedback, and ensure successful integration outcomes.\nTesting and Quality Assurance:\n\n3. Conduct rigorous testing of Microsoft API integrations to identify and address potential issues.\nCollaborate with QA teams to implement comprehensive testing strategies and ensure high-quality integrations.\n\nQualifications:\nProven experience as an API Integration Specialist with a focus on Microsoft products.\nIn-depth knowledge of Microsoft Azure services, including Azure API Management, Logic Apps, and Power Automate.\nProficiency in programming languages such as C# and familiarity with .NET framework.\nStrong understanding of RESTful APIs, JSON, and API security protocols.\nPrevious experience with Microsoft SQL Server and other relevant Microsoft technologies.\nExcellent problem-solving and troubleshooting skills.\nEffective communication and collaboration skills.\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Asia",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Philippines",
+        "United States"
+      ],
+      "regions": [
+        "Asia",
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-25T23:00:35.355Z",
+      "totalApplicants": 14,
+      "totalHired": 0,
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 0,
+      "invitationsSent": 7
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "878",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are seeking an experienced API Integration Specialist to join our team for a 3 to 6-month project. The ideal candidate will have a strong background in web development, Microsoft Access programming, and Microsoft Azure SQL Database. The main responsibility will be integrating APIs into our existing systems, ensuring smooth communication and data exchange between different platforms. \n\nTo be considered for this project, please submit a proposal outlining how you can contribute to the success of this project. Please provide details about your experience with API integration, specifically with Microsoft Azure. Additionally, we would appreciate if you could include links to any relevant projects you have completed in the past.\n\nWe look forward to reviewing your proposals and selecting the most qualified candidate to help us with this important integration project.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-18T23:10:14.020Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022},{\u0022skillUid\u0022:\u00221031626758230097920\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "326",
+        "totalTimeSpentOnReviewPageAIv2": "777",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705606500615",
+        "finalDescriptionAI": "Logos Capital, LLC is a dynamic and forward-thinking technology company dedicated to providing innovative solutions for businesses across various industries. As we continue to expand our services, we are actively seeking a skilled API Integration Specialist with expertise in Microsoft products to join our talented team.\n\nAs an API Integration Specialist specializing in Microsoft products, you will be responsible for designing, implementing, and maintaining seamless API integrations using Microsoft technologies. Collaborating closely with cross-functional teams, you will contribute to the development and enhancement of API solutions that align with business objectives.\n\nIf you are passionate about API integration using Microsoft products, possess the required skills, and are eager to contribute to the success of a growing technology company, we invite you to apply. Please submit your resume and a cover letter detailing your relevant experience and why you are the ideal candidate for the API Integration Specialist role.\n\nResponsibilities:\n\nMicrosoft API Integration:\n\n1. Design, develop, and implement API integrations using Microsoft technologies, including Azure API Management, Azure Logic Apps, and Power Automate.\nEnsure efficient and secure integration of Microsoft APIs into existing systems and applications.\nCollaboration and Communication:\n\n2. Work closely with software developers, system architects, and business stakeholders to understand requirements and design effective solutions.\nCommunicate effectively with team members to provide updates, gather feedback, and ensure successful integration outcomes.\nTesting and Quality Assurance:\n\n3. Conduct rigorous testing of Microsoft API integrations to identify and address potential issues.\nCollaborate with QA teams to implement comprehensive testing strategies and ensure high-quality integrations.\n\nQualifications:\nProven experience as an API Integration Specialist with a focus on Microsoft products.\nIn-depth knowledge of Microsoft Azure services, including Azure API Management, Logic Apps, and Power Automate.\nProficiency in programming languages such as C# and familiarity with .NET framework.\nStrong understanding of RESTful APIs, JSON, and API security protocols.\nPrevious experience with Microsoft SQL Server and other relevant Microsoft technologies.\nExcellent problem-solving and troubleshooting skills.\nEffective communication and collaboration skills.\n\n",
+        "inputsTitleAI": "Looking for an API Integration Specialist",
+        "inputsDurationAI": "474250516458926081"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Miami",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 67.999998,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 768.01
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-05-05T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 7,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 11.294412096894472
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Asia,Europe),country=(Philippines,United States)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Americas, Asia, Europe, Philippines, United States"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

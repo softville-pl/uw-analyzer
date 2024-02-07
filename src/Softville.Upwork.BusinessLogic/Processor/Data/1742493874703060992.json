@@ -1,0 +1,257 @@
+{
+  "job": {
+    "ciphertext": "~017ef2e22e8152985b",
+    "rid": 1010430968,
+    "uid": "1742493874703060992",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Engineer for NLP startup ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-03T10:31:28.646Z",
+    "postedOn": "2024-01-03T10:31:29.555Z",
+    "publishTime": "2024-01-03T10:31:29.555Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011683968,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Working with an exciting startup in the AI space, you will work as part of the team supporting the development and enhancement of our SaaS product.\nOn a daily basis you\u2019ll be building out new app features, testing your work and deploying this to our cloud infrastructure. You\u2019ll help map out the roadmap for the product with key stakeholders and manage your\ndeliverables.\n\nResponsibilities\n\u25CF Building out new features, from API and database structure right through to the UI.\n\u25CF Ensure adherence to correct processes, clean code, and best practices.\n\u25CF Oversee and maintain web servers, domains and SSLs.\n\u25CF Commitment to deliver features on time.\n\u25CF Support and maintain existing products.\n\u25CF Work in a high paced environment, solve complex problems, and \nimplement the most efficient solutions.\n\nExperience and Skills\n\u25CF Minimum 4 years of experience\n\u25CF Candidate must possess strong skills with these technologies: C#, .Net 6\u002B, SQL, MS SQL Server\nand Vue JS\n\u25CF DevOps experience, provisioning services, managing database servers with Azure is advantageous.\n\u25CF Experience with version control and CI/CD systems (Git, GitHub, Actions, Terraform), essential.\n\u25CF Strong communication, time management, problem solving, and decision making skills, essential.\n\u25CF Great attention to detail, essential.\n\u25CF Passion for new web technologies, essential.\n\u25CF An appreciation for design and user experience would be great",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-02T17:06:46.373Z",
+      "totalApplicants": 61,
+      "totalHired": 0,
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 1,
+      "invitationsSent": 6
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "85",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Full Stack Engineer for NLP startup \u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626755474440192\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:20,\u0022hourlyBudgetMax\u0022:50,\u0022amount\u0022:null}}",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are a fast-growing NLP startup looking for a talented Full Stack Engineer to join our team. This is a long-term project with a duration of more than 6 months. As a Full Stack Engineer, you will play a crucial role in developing our chatbot platform and integrating AI models.\n\nKey skills required for this position include expertise in SQL, .NET Framework, Vue.js, Full-Stack Development, API Development, and Azure DevOps. Experience with machine learning and AI model integration, specifically ChatGPT API Integration, is highly desired.\n\nTo apply for this role, please submit a detailed proposal outlining how you can contribute to our project. We would like to see examples of your past completed projects, so please provide relevant links. Show us your ability to build scalable and efficient solutions, and highlight your experience with NLP and chatbot platforms.\n\nWe look forward to reviewing your proposals and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-03T10:31:29.555Z",
+        "totalTimeJobPostFlowAIv2": "436",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626794477273088\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221204836445183918080\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221623716863997775872\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221484275089215770624\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221691099314245873664\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221253342869935763456\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626755474440192\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "73",
+        "totalTimeSpentOnReviewPageAIv2": "44",
+        "optInDescriptionAIv2": "no",
+        "jpgV2Prompt": "Building out new features, from API and database structure right through to the UI\n Ensure adherence to correct processes, clean code, and best practices.\nOversee and maintain web servers, domains and SSLs.\nCommitment to deliver features on time.\nSupport and maintain existing products.\n\n\u25CF Candidate must possess strong skills with these technologies: C#, .Net 6\u002B, SQL, MS SQL Server\nand Vue JS\n\u25CF DevOps experience, provisioning services, managing database servers with Azure is\nadvantageous.\n\u25CF Experience with version control and CI/CD systems (Git, GitHub, Actions, Terraform), essential.\n\u25CF Strong communication, time management, problem solving, and decision making skills, essential.\n\u25CF Great attention to detail, essential.\n\u25CF Passion for new web technologies, essential.\n\u25CF An appreciation for design and user experience would be great",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1704277451978",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Full Stack Engineer for NLP startup ",
+        "finalDescriptionAI": "Working with an exciting startup in the AI space, you will work as part of the team supporting the development and enhancement of our SaaS product.\nOn a daily basis you\u2019ll be building out new app features, testing your work and deploying this to our cloud infrastructure. You\u2019ll help map out the roadmap for the product with key stakeholders and manage your\ndeliverables.\n\nResponsibilities\n\u25CF Building out new features, from API and database structure right through to the UI.\n\u25CF Ensure adherence to correct processes, clean code, and best practices.\n\u25CF Oversee and maintain web servers, domains and SSLs.\n\u25CF Commitment to deliver features on time.\n\u25CF Support and maintain existing products.\n\u25CF Work in a high paced environment, solve complex problems, and \nimplement the most efficient solutions.\n\nExperience and Skills\n\u25CF Minimum 4 years of experience\n\u25CF Candidate must possess strong skills with these technologies: C#, .Net 6\u002B, SQL, MS SQL Server\nand Vue JS\n\u25CF DevOps experience, provisioning services, managing database servers with Azure is advantageous.\n\u25CF Experience with version control and CI/CD systems (Git, GitHub, Actions, Terraform), essential.\n\u25CF Strong communication, time management, problem solving, and decision making skills, essential.\n\u25CF Great attention to detail, essential.\n\u25CF Passion for new web technologies, essential.\n\u25CF An appreciation for design and user experience would be great"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (Africa/Ca)",
+      "city": null,
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-12-27T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

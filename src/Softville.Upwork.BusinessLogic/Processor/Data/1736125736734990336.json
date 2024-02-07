@@ -1,0 +1,280 @@
+{
+  "job": {
+    "ciphertext": "~01e44c08478b00f036",
+    "rid": 1010142776,
+    "uid": "1736125736734990336",
+    "type": 2,
+    "access": 1,
+    "title": "Blazor .NET 8 Senior Developer needed",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-12-16T20:46:46.181Z",
+    "postedOn": "2023-12-16T20:51:46.688Z",
+    "publishTime": "2023-12-16T20:51:46.688Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 8926843,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 2,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 45,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\n\nThank you very much!\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "How many years of experience do you have as a software developer in general?"
+      },
+      {
+        "position": 1,
+        "question": "How many years of experience do you have in Microsoft .NET (any framework / version)"
+      },
+      {
+        "position": 2,
+        "question": "How many years of experience do you have in Blazor?"
+      },
+      {
+        "position": 3,
+        "question": "How good is your knowledge of the new features offered by Blazor version .NET 8? (this is important)"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": [
+        "Italian"
+      ]
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-16T11:00:56.702Z",
+      "totalApplicants": 34,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "442",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a senior developer with expertise in Blazor and .NET 8 for a project lasting 3 to 6 months. As a Blazor .NET 8 Senior Developer, you will be responsible for developing and maintaining web applications using Blazor and .NET technologies. This includes designing user interfaces, implementing business logic, and integrating with backend systems.\n\nTo be successful in this role, you should have a strong understanding of Blazor and .NET 8, as well as experience in building scalable and performant web applications. Familiarity with frontend technologies such as HTML, CSS, and JavaScript is also required.\n\nIn your proposal, please outline how you can contribute to the project and highlight any relevant experience or certifications you hold. Additionally, include links to past completed projects that demonstrate your proficiency in Blazor and .NET development. We look forward to reviewing your proposals and finding the right candidate for this position.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-12-16T20:51:46.688Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876962720792576\u0022},{\u0022freeText\u0022:\u0022.NET MAUI\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "269",
+        "totalTimeSpentOnReviewPageAIv2": "348",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1702758611884",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Blazor .NET 8 Senior Developer needed",
+        "finalDescriptionAI": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\nThank you very much!\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 180
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-01-16T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 9,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": false,
+            "clientPreferred": "it",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": "Italian"
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

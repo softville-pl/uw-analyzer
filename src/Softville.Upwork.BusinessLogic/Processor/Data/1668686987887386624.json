@@ -1,0 +1,236 @@
+{
+  "job": {
+    "ciphertext": "~01defa801f5fd024c9",
+    "rid": 1005880059,
+    "uid": "1668686987887386624",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack .Net Development with Angular/React",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-06-13T18:29:15.473Z",
+    "postedOn": "2023-06-13T18:29:15.910Z",
+    "publishTime": "2023-06-13T18:29:15.910Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1008091102,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Must Have\n\n\u00B7 Minimum 4-5 years experience in web development technologies\n\n\u00B7 Excellent Communication skills\n\n\u00B7 Well versed in AngularJS/ Angular and .NET\n\n\u00B7 Extensive AngularJS, C#ASP.NET MVC Web API, HTML, CSS Bootstrap, JQuery, AJAX, JavaScript coding debugging experience\n\n\u00B7 Extensive hands on knowledge of UI JavaScript, and workarounds\n\n\u00B7 Experience with responsive design for Web/mobile/desktop applications\n\n\u00B7 Good understanding of browser rendering behavior and performance\n\n\u00B7 Hands on experience in debugging the code using Chrome/Edge Developer Tools\n\n\u00B7 Proficient understanding of cross-browser compatibility issues and ways to work around such issues.\n\nGood to have\n\n\u00B7 Experience of using tools like GIT, JIRA, Visual Studio\n\n\u00B7 Ability to work in an Agile environment\n\n\u00B7 SQL Knowledge\n\n\u00B7 Experience on working with virtual environment.\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2023-12-09T13:28:16.536Z",
+      "totalApplicants": 120,
+      "totalHired": 1,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "optInDescriptionAI": "",
+        "totalTimeSpentOnDescriptionPageAI": "114",
+        "publishTime": "2023-06-13T18:29:15.910Z",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626712877088768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221110580737240190976\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "6",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "25",
+        "device": "Macintosh",
+        "finalDescriptionAI": "Must Have\n\n\u00B7 Minimum 4-5 years experience in web development technologies\n\n\u00B7 Excellent Communication skills\n\n\u00B7 Well versed in AngularJS/ Angular and .NET\n\n\u00B7 Extensive AngularJS, C#ASP.NET MVC Web API, HTML, CSS Bootstrap, JQuery, AJAX, JavaScript coding debugging experience\n\n\u00B7 Extensive hands on knowledge of UI JavaScript, and workarounds\n\n\u00B7 Experience with responsive design for Web/mobile/desktop applications\n\n\u00B7 Good understanding of browser rendering behavior and performance\n\n\u00B7 Hands on experience in debugging the code using Chrome/Edge Developer Tools\n\n\u00B7 Proficient understanding of cross-browser compatibility issues and ways to work around such issues.\n\nGood to have\n\n\u00B7 Experience of using tools like GIT, JIRA, Visual Studio\n\n\u00B7 Ability to work in an Agile environment\n\n\u00B7 SQL Knowledge\n\n\u00B7 Experience on working with virtual environment.\n\n",
+        "inputsTitleAI": "Full Stack .Net Development with Angular/React",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Schaumburg",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 9,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 7,
+      "score": 5,
+      "totalJobsWithHires": 9,
+      "hoursCount": 118.166664,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2578.74
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-04-22T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 6,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 11.826516486917157
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

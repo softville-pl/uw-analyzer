@@ -1,0 +1,242 @@
+{
+  "job": {
+    "ciphertext": "~016bed843a3ba970b3",
+    "rid": 1010480111,
+    "uid": "1743285496184119296",
+    "type": 2,
+    "access": 4,
+    "title": "Ezlynx API Programmer Needed for Automation",
+    "status": 1,
+    "category": {
+      "name": "Scripts \u0026 Utilities",
+      "urlSlug": "scripts-utilities"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-05T14:57:05.833Z",
+    "postedOn": "2024-01-05T14:57:47.412Z",
+    "publishTime": "2024-01-05T14:57:06.427Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 8307712,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 32,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "Integration of Ezlynx API and Other Development Tasks\n\nProject Description:\n\nWe are seeking a skilled developer to assist us in setting up and utilizing the Ezlynx API, as well as provide expertise in other related services such as Twilio and Vonage development. The primary focus of this project is to integrate the Ezlynx API into our insurance agency operations, specifically for adding, deleting, updating contacts, and policies. We are also looking for assistance in configuring the token and secret required to access the Ezlynx API.\n\nScope of Work:\n\nToken and Secret Setup:\n\nAssist in setting up the necessary token and secret for accessing the Ezlynx API.\nCreate an Applicant:\n\nDevelop a Postman collection with working examples to create new applicants in Ezlynx.\nUpdate an Applicant:\n\nProvide examples and guidance on how to update applicant information through the Ezlynx API.\nSearch for Applicants:\n\nImplement functionality in Postman to search for applicants by phone number or email using the Ezlynx API.\nQuery Ezlynx Contacts:\n\nCreate Postman requests to query a list of Ezlynx contacts and provide documentation on how to utilize this feature.\nAdditional Development (Twilio and Vonage):\n\nIf you have experience with Twilio and Vonage development, we may also require assistance with related tasks. Please specify your expertise in these areas.\nRequirements:\n\nPrior experience with Ezlynx API integration is highly preferred.\nStrong knowledge of Postman and API testing is required.\nFamiliarity with Twilio and/or Vonage development is a plus.\nExcellent communication skills to provide clear documentation and guidance.\nDeliverables:\n\nCompleted token and secret setup for Ezlynx API.\nFunctional Postman collection with examples for creating, updating, searching for applicants, and querying contacts.\nDocumentation on how to use the provided Postman collection.\nAny additional work related to Twilio and Vonage development, if applicable.\nTimeline:\n\nWe are flexible regarding the timeline, but we expect timely progress updates and a reasonable timeframe for completion based on the complexity of the tasks.\n\nIf you have the required expertise in Ezlynx API integration and other mentioned services, please submit your proposal with your relevant experience and portfolio. We look forward to collaborating with a skilled developer to streamline our insurance agency operations.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-09T19:53:10.340Z",
+      "totalApplicants": 11,
+      "totalHired": 1,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "433",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-01-05T14:57:47.412Z",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced Ezlynx API programmer to help with the automation of our processes. The project is expected to last for 3 to 6 months.\n\nThe ideal candidate should have a strong background in API development, specifically with Ezlynx. Proficiency in Python, .NET Framework, and JavaScript is also required.\n\nThe main responsibilities for this role include developing and integrating APIs, automating tasks, and improving system efficiency. You will be working closely with our team to understand our requirements and develop solutions accordingly.\n\nTo apply for this position, please submit a proposal detailing your relevant experience and how you can contribute to this project. We would also appreciate links to any past projects you have completed that demonstrate your expertise in Ezlynx API programming and automation.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-05T14:57:06.427Z",
+        "totalTimeJobPostFlowAIv2": "625",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "240",
+        "totalTimeSpentOnReviewPageAIv2": "58",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1704466000419",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Ezlynx API Programmer Needed for Automation",
+        "finalDescriptionAI": "Integration of Ezlynx API and Other Development Tasks\n\nProject Description:\n\nWe are seeking a skilled developer to assist us in setting up and utilizing the Ezlynx API, as well as provide expertise in other related services such as Twilio and Vonage development. The primary focus of this project is to integrate the Ezlynx API into our insurance agency operations, specifically for adding, deleting, updating contacts, and policies. We are also looking for assistance in configuring the token and secret required to access the Ezlynx API.\n\nScope of Work:\n\nToken and Secret Setup:\n\nAssist in setting up the necessary token and secret for accessing the Ezlynx API.\nCreate an Applicant:\n\nDevelop a Postman collection with working examples to create new applicants in Ezlynx.\nUpdate an Applicant:\n\nProvide examples and guidance on how to update applicant information through the Ezlynx API.\nSearch for Applicants:\n\nImplement functionality in Postman to search for applicants by phone number or email using the Ezlynx API.\nQuery Ezlynx Contacts:\n\nCreate Postman requests to query a list of Ezlynx contacts and provide documentation on how to utilize this feature.\nAdditional Development (Twilio and Vonage):\n\nIf you have experience with Twilio and Vonage development, we may also require assistance with related tasks. Please specify your expertise in these areas.\nRequirements:\n\nPrior experience with Ezlynx API integration is highly preferred.\nStrong knowledge of Postman and API testing is required.\nFamiliarity with Twilio and/or Vonage development is a plus.\nExcellent communication skills to provide clear documentation and guidance.\nDeliverables:\n\nCompleted token and secret setup for Ezlynx API.\nFunctional Postman collection with examples for creating, updating, searching for applicants, and querying contacts.\nDocumentation on how to use the provided Postman collection.\nAny additional work related to Twilio and Vonage development, if applicable.\nTimeline:\n\nWe are flexible regarding the timeline, but we expect timely progress updates and a reasonable timeframe for completion based on the complexity of the tasks.\n\nIf you have the required expertise in Ezlynx API integration and other mentioned services, please submit your proposal with your relevant experience and portfolio. We look forward to collaborating with a skilled developer to streamline our insurance agency operations."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Clarkston",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 54.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1140.45
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-09-25T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Retail \u0026 Consumer Goods",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.999938338461916
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

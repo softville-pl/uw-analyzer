@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0164ae1614ad8ea88d",
+    "rid": 1010829143,
+    "uid": "1749366545886187520",
+    "type": 2,
+    "access": 4,
+    "title": "C# .net web Api",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-22T09:41:01.066Z",
+    "postedOn": "2024-01-22T09:41:01.410Z",
+    "publishTime": "2024-01-22T09:41:01.410Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2853469,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We need a  .NET, C# person to helps us resolve problems/review and upgrade code on ONE-TO-ONE basis when needed. The expected time is varies per week but it is no more than 10 hours per week. The person must have:\n10\u002B years experience in .NET/EF\nexperience in Web API project structure\nMulti thread programing\nmulti-tenant setup\nAdvanced software patterns\nWindows worker service\n\n\n\n ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-25T19:26:05.858Z",
+      "totalApplicants": 302,
+      "totalHired": 2,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "740",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced developer who can assist us with a C# .NET Web API project. The project is expected to last for more than 6 months. \n\nThe ideal candidate should have a strong background in API development, .NET Framework, ASP.NET, ASP.NET Web API, and C#. \n\nTo apply for this job, please submit a detailed proposal outlining how you can contribute to the project. We are particularly interested in hearing about your previous experience with similar projects and any relevant certifications you may have. \n\nPlease provide links to past completed projects that showcase your skills and expertise in API development and C# .NET. We look forward to reviewing your proposal and discussing the project further.",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-22T09:41:01.410Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626716563881984\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "252",
+        "totalTimeSpentOnReviewPageAIv2": "325",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705915638728",
+        "finalDescriptionAI": "We need a very experienced C# .net person to helps us resolve problems/review and upgrade code on one-on-one basis when needed. the expected time is varies per week nut it is no more than 10 hours per week. The person must :\n.net 8 core\nEF\nWeb API project structure\nMulti thread programing\n\n ",
+        "inputsTitleAI": "C# .net web Api",
+        "inputsDurationAI": "474250516458926080"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "United States (UTC\u002B02:00)",
+      "city": "Houton",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 72,
+      "activeAssignmentsCount": 24,
+      "feedbackCount": 39,
+      "score": 4.964858641,
+      "totalJobsWithHires": 43,
+      "hoursCount": 4943.833357,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 108149.03
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-03-22T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 38,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 21.531158579461803
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01e926bbec2a87c4aa",
+    "rid": 1010836693,
+    "uid": "1749469989856645120",
+    "type": 2,
+    "access": 4,
+    "title": "Senior Full Stack Engineer (Focus on Backend Java Development)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-22T16:32:04.254Z",
+    "postedOn": "2024-01-22T17:09:31.767Z",
+    "publishTime": "2024-01-22T17:09:31.767Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2084638,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Description:\nSeeking a seasoned Senior Full Stack Engineer with a primary focus on Backend Java Development. This role requires an individual who can work independently, taking ownership of projects and demonstrating expertise in Java programming. The ideal candidate should possess a strong foundation in engineering fundamentals, including algorithms and data structures, system design, Unix systems, Git, and CI/CD.\n\nResponsibilities:\n\n- Take ownership of projects, working independently as a Senior Full Stack Engineer with a primary focus on Backend Java Development.\n- Demonstrate proficiency in at least one strictly typed programming language, with a strong emphasis on Java.\n- Apply a robust foundation in engineering basics, including algorithms \u0026 data structures, system design, Unix systems, Git, and CI/CD processes.\n- Optionally, showcase exposure to at least one modern frontend SPA framework (e.g., Angular, React) with a preference for TypeScript.\n- Optionally, possess stack knowledge in TypeScript, NestJS, React, GitLab, AWS, Terraform (fulfilling all these is not mandatory, but awareness is appreciated).\n- Optional but desired: Familiarity with Quarkus.\n\n\nRequirements:\n\n- Extensive experience and proficiency in Java development, demonstrating the ability to work on Backend-focused projects independently.\n- Strong foundation in engineering basics, encompassing algorithms \u0026 data structures, system design, Unix systems, Git, and CI/CD.\n- Optional exposure to at least one modern frontend SPA framework, preferably with TypeScript.\n- Optional stack knowledge in TypeScript, NestJS, React, GitLab, AWS, Terraform (awareness is valued).\n- Familiarity with Quarkus is optional but desired.\n\nLocation: Remote but candidates from Bangladesh are strongly preferred. European candidates are also welcome to apply. \n\nAvailability: Immediately\n\nWorkload: Fulltime (40 hrs/week)\n\nLanguage: Good proficiency in English",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-04T07:27:17.643Z",
+      "totalApplicants": 189,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "2443",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a Senior Full Stack Engineer with a focus on Backend Java Development to join our team. This is a long-term project, lasting more than 6 months. \n\nAs a Senior Full Stack Engineer, you will be responsible for developing and maintaining our backend Java applications. You should have a strong understanding of TypeScript, .NET Framework, NestJS, Terraform, GitLab, Angular, Java, and React.\n\nTo be considered for this role, please submit a proposal outlining how you can contribute to the project. Please include links to past completed projects that showcase your expertise in backend Java development.\n\nWe look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-22T17:09:31.767Z",
+        "totalTimeJobPostFlowAIv2": "2837",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626762122412032\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626741335441408\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274382\u0022},{\u0022skillUid\u0022:\u00221031626785824423936\u0022},{\u0022freeText\u0022:\u0022Quarkus\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "1164",
+        "totalTimeSpentOnReviewPageAIv2": "12",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705938284695",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Senior Full Stack Engineer (Focus on Backend Java Development)",
+        "finalDescriptionAI": "Description:\nSeeking a seasoned Senior Full Stack Engineer with a primary focus on Backend Java Development. This role requires an individual who can work independently, taking ownership of projects and demonstrating expertise in Java programming. The ideal candidate should possess a strong foundation in engineering fundamentals, including algorithms and data structures, system design, Unix systems, Git, and CI/CD.\n\nResponsibilities:\n\n- Take ownership of projects, working independently as a Senior Full Stack Engineer with a primary focus on Backend Java Development.\n- Demonstrate proficiency in at least one strictly typed programming language, with a strong emphasis on Java.\n- Apply a robust foundation in engineering basics, including algorithms \u0026 data structures, system design, Unix systems, Git, and CI/CD processes.\n- Optionally, showcase exposure to at least one modern frontend SPA framework (e.g., Angular, React) with a preference for TypeScript.\n- Optionally, possess stack knowledge in TypeScript, NestJS, React, GitLab, AWS, Terraform (fulfilling all these is not mandatory, but awareness is appreciated).\n- Optional but desired: Familiarity with Quarkus.\n\n\nRequirements:\n\n- Extensive experience and proficiency in Java development, demonstrating the ability to work on Backend-focused projects independently.\n- Strong foundation in engineering basics, encompassing algorithms \u0026 data structures, system design, Unix systems, Git, and CI/CD.\n- Optional exposure to at least one modern frontend SPA framework, preferably with TypeScript.\n- Optional stack knowledge in TypeScript, NestJS, React, GitLab, AWS, Terraform (awareness is valued).\n- Familiarity with Quarkus is optional but desired.\n\nLocation: Remote but candidates from Bangladesh are strongly preferred. European candidates are also welcome to apply. \n\nAvailability: Immediately\n\nWorkload: Fulltime (40 hrs/week)\n\nLanguage: Good proficiency in English"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "United Arab Emirates (UTC\u002B01:00)",
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "stats": {
+      "totalAssignments": 132,
+      "activeAssignmentsCount": 26,
+      "feedbackCount": 82,
+      "score": 4.973124209,
+      "totalJobsWithHires": 125,
+      "hoursCount": 5816.833344,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 277743.65
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2015-07-08T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 231,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 44.30629945171763
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

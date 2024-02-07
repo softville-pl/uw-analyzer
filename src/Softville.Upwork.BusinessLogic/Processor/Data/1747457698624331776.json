@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01ef2b13c26814cf2f",
+    "rid": 1010722334,
+    "uid": "1747457698624331776",
+    "type": 2,
+    "access": 4,
+    "title": "Vue JS, Kendo UI, Telerik, .net developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-17T03:15:56.484Z",
+    "postedOn": "2024-01-17T03:15:56.907Z",
+    "publishTime": "2024-01-17T03:15:56.907Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1002392223,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Need a developer with the below skills\n\n1) Vue.js\n2)Telerik / Kendo UI\n3)Rest API\n4) .Net core\n\nWho can work on zoom call / remote session - 3 to 4 hours per day",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-17T04:04:13.425Z",
+      "totalApplicants": 31,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 1,
+      "invitationsSent": 4
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "82",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled Vue JS, Kendo UI, Telerik, .net developer to join our team for a project that will last more than 6 months. As a developer, you will be responsible for developing and implementing high-quality software using .NET Core, Vue.js, HTML5, Telerik, and Bootstrap.\n\nTo be successful in this role, you should have a strong understanding of API development and be proficient in using the mentioned technologies. You will be required to collaborate with cross-functional teams to design, develop, and deliver software solutions that meet our clients\u0027 requirements.\n\nTo apply for this position, please submit a proposal that highlights your relevant experience and how you can contribute to the success of this project. Additionally, please include links to past completed projects that demonstrate your skills in Vue JS, Kendo UI, Telerik, and .NET development. We look forward to reviewing your application and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-17T03:15:56.907Z",
+        "totalTimeJobPostFlowAIv2": "209",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626794477273088\u0022},{\u0022skillUid\u0022:\u00221031626745118703616\u0022},{\u0022freeText\u0022:\u0022rest PI\u0022},{\u0022skillUid\u0022:\u00221031626720951123968\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221031626785648263168\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "79",
+        "totalTimeSpentOnReviewPageAIv2": "11",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705461146060",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Vue JS, Kendo UI, Telerik, .net developer",
+        "finalDescriptionAI": "Need a developer with the below skills\n\n1) Vue.js\n2)Telerik / Kendo UI\n3)Rest API\n4) .Net core\n\nWho can work on zoom call / remote session - 3 to 4 hours per day"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 39600000,
+      "countryTimezone": "Australia (UTC\u002B10:00)",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 25,
+      "activeAssignmentsCount": 10,
+      "feedbackCount": 13,
+      "score": 4.866606794,
+      "totalJobsWithHires": 24,
+      "hoursCount": 116.666662,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 3608.86
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-01-02T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 30,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.198515253654893
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

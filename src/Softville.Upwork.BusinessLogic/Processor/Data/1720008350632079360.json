@@ -1,0 +1,249 @@
+{
+  "job": {
+    "ciphertext": "~01fece22e82392a6dc",
+    "rid": 1009260198,
+    "uid": "1720008350632079360",
+    "type": 2,
+    "access": 4,
+    "title": "Senior .NET Architect (Team Lead)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-11-02T09:22:02.172Z",
+    "postedOn": "2024-01-15T01:37:31.341Z",
+    "publishTime": "2023-11-02T09:22:02.764Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2536108,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "**Job Title**: Lead .NET Architect (Microservices Team)\n\n**Company**: EmpowerID - A Pioneer in Cloud Identity Solutions\n**Location**: Remote (must be willing to work full-time on EST or CET time zone). Preference given to applicants legally allowed to work in Europe. This position would be long-term and the expectation is that it is your only job. \n\n**Job Description**:\nEmpowerID is inviting experienced .NET architects to join our team and lead the development of our microservices-based platform. The ideal candidate will have a strong background in microservices architecture, cloud computing, DevOps practices, and deep expertise in the .NET ecosystem.\n\n**Responsibilities**:\n-\tPlay a lead role on our product development team, fostering a culture of innovation, collaboration, and continuous improvement.\n-\tDesign, implement and optimize scalable, maintainable microservices-based architectures for our cloud identity solutions.\n-\tDevelop and maintain high-quality, efficient, and reliable code in C# .NET.\n-\tImplement modern software development practices, such as continuous integration and delivery.\n-\tCollaborate with team members to develop software that meets our clients\u0027 cloud identity requirements.\n-\tImplement robust security and authorization mechanisms using OpenID Connect, OAuth 2.0 and JSON Web Tokens (JWT).\n-\tDesign and optimize efficient, reliable APIs.\n-\tImprove database interactions using modern data access technologies.\n-\tContainerize applications and deploying them to Azure Kubernetes.\n-\tMonitor application performance and troubleshoot problems.\n-\tEnsure high code quality, best practices, and consistent development standards across the team.\n\n**Required Skills and Qualifications**:\n-\tAt least 3 years of experience in a team lead role mentoring developers, designing architectures, and performing code reviews.\n-\t8\u002B years of experience in software development, with at least 5 years of experience in .NET development.\n-\tStrong background in microservices architecture, cloud computing, and DevOps practices.\n-\tExperience with Azure services such as Azure Service Bus, Azure Active Directory, and Azure DevOps.\n-\tProficient with C# .NET.\n-\tStrong experience with ASP.NET Core and RESTful API development.\n-\tDeep understanding of authentication and authorization using OAuth 2.0 and JSON Web Tokens (JWT).\n-\tExperience with Docker and containerization technologies.\n-\tExperience with agile development methodologies, including continuous integration and delivery.\n-\tStrong communication and problem-solving skills.\n-\tBachelor\u0027s or Master\u0027s degree in Computer Science or related field.\n\n**Preferred Skills and Qualifications**:\n-\tExperience with Large Language Models and Artificial Intelligence (AI) technologies, including machine learning and natural language processing (e.g. OpenAI, ChatGPT, Langchain, etc.).\n-\tUnderstanding of the application of AI in enhancing software solutions and optimizing operations.\n-\tExperience with Identity and Access Management\n\n**Hiring Process**: \nApplicants for this position will be asked to perform a paid hands-on coding test that can be completed in 14 hours or less. The hiring process will also include technical and HR interviews.\n\nEmpowerID is excited about bringing onboard a skilled .NET architect with a passion for cloud identity solutions, microservices architecture, and cloud computing. If you\u0027re eager to work on cutting-edge software projects in the identity space, we invite you to apply now!",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Please detail your experience with designing and implementing microservices architectures, specifically within the .NET ecosystem."
+      },
+      {
+        "position": 1,
+        "question": "List the Azure services you\u2019ve worked with extensively and how they were integrated into your solutions."
+      },
+      {
+        "position": 2,
+        "question": "Describe your role and contributions to a mission-critical, high-complexity application that you\u0027ve worked on, emphasizing any .NET microservices you developed or architected."
+      },
+      {
+        "position": 3,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-29T18:16:55.963Z",
+      "totalApplicants": 55,
+      "totalHired": 10,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-11-02T09:22:02.764Z",
+        "reuse": "1672619042682372096",
+        "sourcingUpdateCount": "2",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-01-15T01:37:31.341Z",
+        "browser": "Edge",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Dublin",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 445,
+      "activeAssignmentsCount": 148,
+      "feedbackCount": 217,
+      "score": 4.802247147,
+      "totalJobsWithHires": 179,
+      "hoursCount": 89851.666743,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2709988
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2015-11-29T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 238,
+      "openCount": 8
+    },
+    "avgHourlyJobsRate": {
+      "amount": 29.05274308896857
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

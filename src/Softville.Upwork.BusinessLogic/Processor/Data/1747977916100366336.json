@@ -1,0 +1,267 @@
+{
+  "job": {
+    "ciphertext": "~01fbfbcb51f5350378",
+    "rid": 1010756259,
+    "uid": "1747977916100366336",
+    "type": 2,
+    "access": 1,
+    "title": "Senior Back-End Engineer: .NET Enthusiast for Scalable Solutions",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-18T13:43:06.073Z",
+    "postedOn": "2024-01-18T13:43:07.166Z",
+    "publishTime": "2024-01-18T13:43:07.166Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 5412402,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 3,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "About First Digital Trust:\n\nFirst Digital Trust is a technology-driven financial institution in Hong Kong pioneering digital asset management and custody. We\u0027re trailblazers in our field and believe in leveraging technology to deliver innovative financial solutions.\n\nWho We\u0027re Looking For:\n\nTalented Back-End Engineers with a strong .NET background. If you\u0027re driven by designing and building scalable systems and have a passion for engineering excellence, we\u0027d like to meet you.\n\nWhat\u0027s Special Here:\n\n* Focus on Engineering: Deeply engage in creating robust solutions using .NET.\n* Balanced System Design: Challenges that are stimulating yet manageable.\n* Event-Driven Design:  Make our systems not just reactive, but proactively efficient.\n* Tech Edge: We\u0027re riding the wave of the latest technologies, especially those championed by CNCF.\n* Scalability Central: Build systems designed to grow effectively and sustainably.\n\nYour Role:\n\n* Develop and maintain scalable, high-performance back-end systems using .NET.\n* Keep up with the latest in technology and software design, applying them to real-world problems.\n* Collaborate in a team environment where innovation and skill development are valued.\n\nWhy It\u2019s Great Here:\n\n* You have a passion for .NET and enjoy tackling challenges in scalable software development.\n* You appreciate a workplace that balances engaging engineering problems with achievable solutions.\n* You\u0027re eager to be part of a team that values growth, both personal and in the systems you build.\n\nJoin Us!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": [
+        "Vietnam"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-24T21:50:29.557Z",
+      "totalApplicants": 42,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-18T13:43:07.166Z",
+        "reuse": "1725126053160087552",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "40",
+        "type": "RJP",
+        "urgency": "2",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Estonia (UTC\u002B02:00)",
+      "city": "Veibri",
+      "country": "Estonia"
+    },
+    "stats": {
+      "totalAssignments": 20,
+      "activeAssignmentsCount": 11,
+      "feedbackCount": 4,
+      "score": 4.993140343,
+      "totalJobsWithHires": 14,
+      "hoursCount": 12951.000045,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 501547.91
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-08-07T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 42,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 32.38129708461444
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe),country=(Vietnam)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Europe, Vietnam"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

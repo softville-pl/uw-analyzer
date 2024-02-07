@@ -1,0 +1,291 @@
+{
+  "job": {
+    "ciphertext": "~01f1551e922ffd4bab",
+    "rid": 1009793139,
+    "uid": "1729641441588969472",
+    "type": 2,
+    "access": 4,
+    "title": "eCommerce Migration: ASP.net to WP/WooCommerce",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-11-28T23:20:29.725Z",
+    "postedOn": "2023-11-28T23:20:30.184Z",
+    "publishTime": "2023-11-28T23:20:30.184Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Hours to be determined",
+    "companyRecno": 1010175900,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Our business group has been utilizing ASP.NET website services for quite some time but has been experiencing issues of developmental growth and restrictions with site visibility, SEO, \u0026 SEM effectiveness. Therefore, we would like to migrate or clone our current website, NorMed.com, to a new platform with more design capabilities and customizable e-commerce capabilities.\n\nTo complete this project, we are looking for qualified website developers with experience migrating ASP.NET websites to a new platform such as WordPress/WooCommerce. We have approximately 1200 products with corresponding photos, plus some group shots and descriptive pages. In addition, we have a limited number of static pages and content. Our total site has approximately 790 pages. Note we require a result that, as closely as possible, mirrors our current site visually and functionally. Such functionality includes our own custom formula-based pricing.\n\nIf you are interested in collaborating with us, please provide the following information within your proposal:\n- Your experience with ASP.NET\n- Explanation of previous experience/projects that were also ASP.NET migrations to WordPress/WooCommerce with URLs for reference\n- Scope of work project overview, including a stepped approach for a successful launch\n- Samples of other projects that highlight your skills as a web\u00A0developer\n- After reviewing our site (www.normed.com), how long will this project take?\n- Estimated quote for the entire project?",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you have experience with migrating ASP.NET to other e-commerce platforms? (Yes/No)\nIf yes, please provide details of the most recent project and the URL."
+      },
+      {
+        "position": 1,
+        "question": "Describe your scope of work project overview, including a stepped approach for a successful launch."
+      },
+      {
+        "position": 2,
+        "question": "Provide samples of other projects that highlight your skills as a web developer."
+      },
+      {
+        "position": 3,
+        "question": "After reviewing our site, how long will this project take?"
+      },
+      {
+        "position": 4,
+        "question": "Estimated quote for the entire project? Hourly or Fixed?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 10,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-07T00:50:15.708Z",
+      "totalApplicants": 1,
+      "totalHired": 1,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 2,
+      "invitationsSent": 25
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "31",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced web developer to assist with the conversion/migration of an eCommerce website from ASP.net to WooCommerce. The project is expected to last for 3 to 6 months.\n\nThe ideal candidate should have extensive experience in web development, particularly in ASP.NET and eCommerce website development. Proficiency in website optimization, responsive design, and WooCommerce is also required. Additionally, knowledge of WordPress and website redesign is highly desirable.\n\nThe main objective of this project is to seamlessly migrate the existing website to WooCommerce while ensuring a smooth transition and minimal disruption to the user experience. The candidate should be able to propose a detailed plan outlining their approach and strategies for achieving this goal.\n\nTo be considered for this position, please submit your proposal, including a description of how you can assist with the project. We also encourage you to provide links to past completed projects that demonstrate your expertise in eCommerce website conversion/migration and WooCommerce implementation.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-11-28T23:20:30.184Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221045317707950489600\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221110580555693936640\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221052162209007587329\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221204836482932654080\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626796331155456\u0022},{\u0022skillUid\u0022:\u00221052162208999198724\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221031626733781499904\u0022},{\u0022freeText\u0022:\u0022full stack website\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "26",
+        "totalTimeSpentOnReviewPageAIv2": "870",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1701213430486",
+        "finalDescriptionAI": "We are looking for help converting our current e-commerce website from ASP to WooCommerce.  We have approximately 1200 products with corresponding photos plus some group shots and descriptive pages.  In addition, we have a limited number of static pages and content.  Our total site has approximately 790 pages.\n\nIf you are interested in working with us on this project, please review our website, normed.com, and reply with a detailed explanation of the steps/process that you would undertake to convert this site to WooCommerce on WordPress.  Include a detailed explanation of your previous experience specifically doing this type of conversion and be prepared to provide references from the previous site owners. \n\nNote we require a result that, as closely as possible, mirrors our current site both visually as well as functionally.  Such functionality includes our own custom formula-based pricing.\n\nLastly please indicate what you will need to prepare a budget for this process. \n",
+        "inputsTitleAI": "eCommerce Website Conversion/Migration \u2013 ASP.net to WooCommerce",
+        "inputsDurationAI": "474250516458926081"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 52.99
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-10-05T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Science \u0026 Medicine",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

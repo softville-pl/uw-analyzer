@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01a269747ce8a89259",
+    "rid": 1010863235,
+    "uid": "1749851624391680000",
+    "type": 2,
+    "access": 4,
+    "title": "Full-Stack Engineer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-23T17:48:32.922Z",
+    "postedOn": "2024-01-23T18:03:28.682Z",
+    "publishTime": "2024-01-23T18:03:28.682Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 8462253,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 10,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Full-Stack Engineer (React/C#/.NET \u0026 Node.js/PostgreSQL) - Senior Level with AWS DevOps Expertise\n\nAbout the Role:\nAs a Senior Full-Stack Engineer with AWS DevOps mastery, you\u0027ll be a critical force in crafting and deploying our MVP Product. \n\nResponsibilities:\nFront-End: \nDevelop and maintain dynamic, user-centric interfaces using React and cutting-edge libraries.\nImplement clean, maintainable, and testable code following best practices.\nTranslate UI/UX designs into pixel-perfect reality, fostering exceptional user experiences.\nStay ahead of the curve with evolving React trends and technologies.\nBack-End: \nMastermind architecting and building RESTful APIs in both C# and Node.js, prioritizing code clarity and performance.\nIntegrate effortlessly with diverse APIs and third-party services.\nDesign and implement complex business logic and data transformations within backend services.\nCraft and optimize PostgreSQL schemas for maximum efficiency and scalability.\nDevOps Expertise: \nDesign and define AWS infrastructure-as-code using CloudFormation, Terraform, or similar tools.\nImplement CI/CD pipelines with automation tools like Jenkins or AWS Code Pipeline.\nConfigure and manage infrastructure deployments through infrastructure automation practices.\nMonitor and troubleshoot cloud infrastructure and applications proactively.\nLeverage AWS services like EC2, S3, Lambda, and others to optimize deployments and costs.\nGeneral: \nChampion the entire software development lifecycle, from requirements gathering and design to development, testing, and deployment.\nWrite comprehensive unit and integration tests for both front-end and back-end code.\nCollaborate seamlessly with cross-functional teams (designers, product managers, QA) to ensure smooth product development.\nProactively identify and solve technical challenges with innovative solutions.\n\n\nQualifications:\nRequired: \n5\u002B years of experience as a full-stack engineer.\nStrong proficiency in React and related libraries (Redux, Jest, etc.).\nSolid understanding of C# and .NET framework/core.\nProven expertise in Node.js and Express framework.\nIn-depth experience with PostgreSQL database development and optimization.\n2\u002B years of hands-on experience with AWS DevOps tools and services.\nExcellent written and verbal English communication skills.\nAbility to work independently and as part of a team.\n\nAdvantage \nExperience with containerization technologies like Docker and Kubernetes.\nKnowledge of security and data privacy best practices.\nExperience with microservices architecture and API design.\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-24T08:27:39.292Z",
+      "totalApplicants": 166,
+      "totalHired": 0,
+      "totalInvitedToInterview": 14,
+      "unansweredInvites": 0,
+      "invitationsSent": 8
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "9",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled Full-Stack Engineer to join our team for a 3 to 6-month project. As a Full-Stack Engineer, you will be responsible for developing and maintaining our web applications. \n\nKey skills required for this role include expertise in PostgreSQL, .NET Framework, JavaScript, React, and C#. The ideal candidate should have a strong understanding of database management systems, front-end development, and back-end programming. \n\nTo apply, please submit a proposal detailing how you can contribute to this project. Tell us about your experience with similar projects and how you can help us achieve our goals. We would also appreciate links to any relevant past completed projects that showcase your skills. \n\nWe are excited to work with a talented Full-Stack Engineer who can deliver high-quality work within the specified timeframe.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-23T18:03:28.682Z",
+        "totalTimeJobPostFlowAIv2": "165",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628000108546\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "8",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1706031947087",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Full-Stack Engineer",
+        "finalDescriptionAI": "Full-Stack Engineer (React/C#/.NET \u0026 Node.js/PostgreSQL) - Senior Level with AWS DevOps Expertise\n\nAbout the Role:\nAs a Senior Full-Stack Engineer with AWS DevOps mastery, you\u0027ll be a critical force in crafting and deploying our MVP Product. \n\nResponsibilities:\nFront-End: \nDevelop and maintain dynamic, user-centric interfaces using React and cutting-edge libraries.\nImplement clean, maintainable, and testable code following best practices.\nTranslate UI/UX designs into pixel-perfect reality, fostering exceptional user experiences.\nStay ahead of the curve with evolving React trends and technologies.\nBack-End: \nMastermind architecting and building RESTful APIs in both C# and Node.js, prioritizing code clarity and performance.\nIntegrate effortlessly with diverse APIs and third-party services.\nDesign and implement complex business logic and data transformations within backend services.\nCraft and optimize PostgreSQL schemas for maximum efficiency and scalability.\nDevOps Expertise: \nDesign and define AWS infrastructure-as-code using CloudFormation, Terraform, or similar tools.\nImplement CI/CD pipelines with automation tools like Jenkins or AWS Code Pipeline.\nConfigure and manage infrastructure deployments through infrastructure automation practices.\nMonitor and troubleshoot cloud infrastructure and applications proactively.\nLeverage AWS services like EC2, S3, Lambda, and others to optimize deployments and costs.\nGeneral: \nChampion the entire software development lifecycle, from requirements gathering and design to development, testing, and deployment.\nWrite comprehensive unit and integration tests for both front-end and back-end code.\nCollaborate seamlessly with cross-functional teams (designers, product managers, QA) to ensure smooth product development.\nProactively identify and solve technical challenges with innovative solutions.\n\n\nQualifications:\nRequired: \n5\u002B years of experience as a full-stack engineer.\nStrong proficiency in React and related libraries (Redux, Jest, etc.).\nSolid understanding of C# and .NET framework/core.\nProven expertise in Node.js and Express framework.\nIn-depth experience with PostgreSQL database development and optimization.\n2\u002B years of hands-on experience with AWS DevOps tools and services.\nExcellent written and verbal English communication skills.\nAbility to work independently and as part of a team.\n\nAdvantage \nExperience with containerization technologies like Docker and Kubernetes.\nKnowledge of security and data privacy best practices.\nExperience with microservices architecture and API design.\n\n"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (UTC\u002B01:00)",
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 38,
+      "activeAssignmentsCount": 23,
+      "feedbackCount": 12,
+      "score": 4.878320284,
+      "totalJobsWithHires": 31,
+      "hoursCount": 1597.333332,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 35655.25
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-10-25T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 45,
+      "openCount": 4
+    },
+    "avgHourlyJobsRate": {
+      "amount": 11.459555518747543
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

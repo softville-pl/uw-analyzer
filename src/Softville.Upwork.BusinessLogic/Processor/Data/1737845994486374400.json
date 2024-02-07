@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01f2d73be66ec6cd07",
+    "rid": 1010229815,
+    "uid": "1737845994486374400",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Software Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-12-21T14:42:27.623Z",
+    "postedOn": "2023-12-21T14:42:28.533Z",
+    "publishTime": "2023-12-21T14:42:28.533Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1001562218,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Duration: Minimum Three Months Retainer Contract (with potential for a longer-term extension)\n\nWe are tech and consulting services company with clients in the EU, UK and USA. We are seeking a talented and experienced software developer to join our team on a retainer contract basis for a minimum period of three months. We wish to appoint an individual contractor and not a company/team.\n\nAs a pivotal member of our development team, you will be responsible for architecting and building robust web applications using .NET Core and ReactJS (TypeScript), as well as developing on our mobile application using .NET Core and React Native. This role requires experience with reporting technologies and familiarity with Laravel is an advantage , as our reporting tool is currently built on this platform.\n\nKey Responsibilities:\n\u2022\tDevelop and maintain web applications using .NET Core and ReactJS (TypeScript)\n\u2022\tDevelop and maintain our mobile application using .NET Core and React Native\n\u2022\tManage AWS resources and infrastructure\n\u2022\tDocumentation including: Code Documentation; API Documentation; System Architecture Documentation; Version Control and Change Logs\n\u2022\tManage reporting tasks \n\nRequirements :\n\u2022\tProven experience in software development with expertise in: .NET Core, ReactJS (TypeScript) and React Native\n\u2022\tUnderstanding of AWS and the ability to manage resources and infrastructure\n\u2022\tAbility to commit a minimum of 8 hours a day, 5 days a week, with occasional additional hours compensated separately\n\u2022\tFluent in English with strong communication skills\n\u2022\tResponsiveness to team requests and excellent teamwork skills\n\u2022\tProficiency in MS Office applications\n\u2022\tExperience with Laravel is preferred but not essential\n\u2022\tPrior work references are essential\n\nAdditional Information:\n\u2022\tThis position offers the opportunity for successful completion of the initial contract to potentially lead to an extended longer term position\n\u2022\tCompensation will be commensurate with experience and skills\n\nIf you are a motivated and skilled software developer with a solid understanding of the above technologies and are looking to contribute to a dynamic team, we invite you to apply by 30 December 2023.\n\nWe appreciate your interest in joining our team and look forward to reviewing your application.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-16T10:24:33.736Z",
+      "totalApplicants": 5,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "69",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled Dot Net and React JS Web App Developer to join our team for a project lasting 3 to 6 months. The ideal candidate should have a strong background in web development, API integration, and have expertise in .NET Framework, ASP.NET, PHP, responsive design, and desktop application development.\n\nYour responsibilities will include developing and maintaining web applications, integrating APIs, and ensuring high-quality code. You should be proficient in both front-end and back-end development, with a solid understanding of React JS.\n\nTo be considered for this role, please submit a proposal detailing how you can contribute to the project. Feel free to include links to your past completed projects showcasing your skills and expertise.\n\nWe look forward to reviewing your proposals and working with a talented developer who can help us successfully complete this project.",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-12-21T14:42:28.533Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626731394940928\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221052162209007587329\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274385\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580737240190976\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "44",
+        "totalTimeSpentOnReviewPageAIv2": "64",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1702473805658",
+        "finalDescriptionAI": "We are seeking a skilled software developer to contribute to our team on a retainer contract basis for a minimum of three months. The role involves building web applications using Dot Net and React JS technologies. The position requires 8 hours a day, 5 days a week commitment, with occasional additional hours compensated separately.\n\nThe ideal candidate should possess fluency in English, be responsive to team requests, and demonstrate proficiency in MS Office applications, including MS Teams. Prior work references are essential. Successful completion of the initial contract may lead to an extended or permanent position. ",
+        "inputsTitleAI": "Dot Net and React JS Web App Developer Required",
+        "inputsDurationAI": "474250516458926081"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "South Africa (UTC\u002B02:00)",
+      "city": "Cape Town",
+      "country": "South Africa"
+    },
+    "stats": {
+      "totalAssignments": 13,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 7,
+      "score": 5,
+      "totalJobsWithHires": 13,
+      "hoursCount": 824.666678,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 28965.7
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-09-15T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 32.46269155063399
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

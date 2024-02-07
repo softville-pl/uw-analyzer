@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~010e31b2771d80c6ed",
+    "rid": 1010459143,
+    "uid": "1742933551657418752",
+    "type": 2,
+    "access": 4,
+    "title": "Advanced Excel Developer",
+    "status": 1,
+    "category": {
+      "name": "Data Analysis \u0026 Testing",
+      "urlSlug": "data-analysis-testing"
+    },
+    "categoryGroup": {
+      "name": "Data Science \u0026 Analytics",
+      "urlSlug": "data-science-analytics"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-04T15:38:35.841Z",
+    "postedOn": "2024-01-04T15:38:36.695Z",
+    "publishTime": "2024-01-04T15:38:36.695Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 1009930925,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Job Title: Advanced Excel Developer\n\nPosition Overview:\nWe are seeking a highly skilled and experienced Advanced Excel Developer to join our dynamic team. The ideal candidate will have a strong background in developing advanced Excel solutions, with expertise in building macros and applications integrated within Excel using VBA, C#, and .Net to continuously improve a homegrown solution that is heavily relied on by real-estate appraisers. The successful candidate will be crucial in enhancing our workflow solutions, data and analysis capabilities, automating complex tasks, and improving overall efficiency.\n\nResponsibilities:\n\u2022 Excel Solution Development:\n\u2022 Design, develop, and implement advanced Excel solutions to meet business requirements.\n\u2022 Create and optimize macros, scripts, and applications within Excel using VBA, C#, and .Net.\n\u2022 Automation and Integration:\n\u2022 Streamline and automate manual processes to improve productivity.\n\u2022 Integrate Excel with external systems and databases for seamless data flow.\n\u2022 Data Analysis and Reporting:\n\u2022 Collaborate with stakeholders to understand data analysis needs and develop customized reports and dashboards.\n\u2022 Implement advanced data analysis techniques to derive actionable insights.\n\u2022 Troubleshooting and Debugging:\n\u2022 Identify and resolve issues related to Excel applications, macros, and integrations.\n\u2022 Perform debugging and testing to ensure the reliability and accuracy of developed solutions.\n\u2022 Documentation:\n\u2022 Maintain comprehensive documentation for all developed solutions, including code, processes, and user guides.\n\u2022 Training and Support:\n\u2022 Provide training and support to end-users on utilizing Excel-based tools and applications.\n\u2022 Collaborate with other teams to ensure smooth adoption of developed solutions.\n\u2022 Innovative Thinking:\n\u2022 Demonstrate a proactive and innovative approach to problem-solving and solution development.\n\u2022 Ability to think creatively and propose novel ideas to enhance Excel-based processes.\n\u2022 Challenge the Status Quo:\n\u2022 Exhibit a willingness to challenge existing practices and explore new, more efficient solutions.\n\u2022 Drive continuous improvement by identifying opportunities for innovation and optimization.\n\u2022 Effective Communication:\n\u2022 Strong verbal and written communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.\n\u2022 Foster open communication and collaboration within the team and with business users.\n\u2022 Adaptability:\n\u2022 Thrive in a dynamic work environment and demonstrate adaptability to changing project requirements.\n\u2022 Openness to learning new technologies and methodologies to stay at the forefront of Excel development best practices.\n\u2022 Interpersonal Skills:\n\u2022 Ability to work effectively with strong personalities and diverse teams.\n\u2022 Navigate through challenging situations with diplomacy and tact.\n\u2022 Client-Focused Collaboration:\n\u2022 Work closely with business users to understand their needs and tailor solutions to meet specific requirements.\n\u2022 Build and maintain positive working relationships with stakeholders at all levels.\n\u2022 Problem-Solving and Decision-Making:\n\u2022 Exhibit strong problem-solving skills, making sound decisions based on data and analysis.\n\u2022 Comfortable navigating ambiguity and making decisions in the best interest of project goals.\n\u2022 Time Management and Prioritization:\n\u2022 Effectively manage multiple tasks and priorities to meet project deadlines.\n\u2022 Ability to balance short-term and long-term objectives efficiently.\n\nQualifications:\n\u2022 Bachelor\u0027s degree in Computer Science, Information Technology, or a related field.\n\u2022 Proven experience as an Advanced Excel Developer, with a minimum of 5 years of hands-on experience.\n\u2022 Strong proficiency in VBA, C#, .Net, and other relevant programming languages.\n\u2022 In-depth knowledge of Excel functions, formulas, and data manipulation techniques.\n\u2022 Experience in designing and implementing complex macros, applications, and integrations within Excel.\n\u2022 Solid understanding of data analysis and reporting principles.\n\u2022 Excellent problem-solving and debugging skills.\n\u2022 Strong communication and collaboration skills.\n\nPreferred Qualifications:\n\u2022 Commercial Real Estate experience is a plus, preferably in Valuation / Property appraisals.\n\u2022 Experience with SQL for database queries and manipulation.\n\u2022 Familiarity with business intelligence tools.\n\u2022 Knowledge of version control systems.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-09T01:06:19.702Z",
+      "totalApplicants": 36,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 1,
+      "invitationsSent": 3
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "107",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an experienced Advanced Excel Developer to join our team for a project lasting 3 to 6 months. As an Excel Developer, you will be responsible for developing advanced Excel solutions, creating complex formulas and macros, and designing and implementing data analysis tools.\n\nThe ideal candidate should have a strong background in API integration, data analysis, Python, SQL, and data visualization tools such as Microsoft Power BI. You should also have experience in creating interactive dashboards and conducting operations analytics.\n\nTo be considered for this role, please submit a proposal outlining how you can assist with this project. Additionally, please include links to past completed projects that showcase your Excel development skills and your ability to create data analysis tools and visualizations.\n\nWe look forward to reviewing your proposal and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-04T15:38:36.695Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221253342889003069440\u0022,\u0022parentSkillUid\u0022:\u00221253342872674643968\u0022},{\u0022skillUid\u0022:\u00221225465936942960640\u0022,\u0022parentSkillUid\u0022:\u00221253342872645283840\u0022},{\u0022skillUid\u0022:\u00221031626729515892736\u0022,\u0022parentSkillUid\u0022:\u00221253342872645283840\u0022},{\u0022skillUid\u0022:\u00221052162208890146823\u0022,\u0022parentSkillUid\u0022:\u00221110580540728659968\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221253342872683032576\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022,\u0022parentSkillUid\u0022:\u00221253342872683032576\u0022},{\u0022skillUid\u0022:\u00221031626759018627072\u0022,\u0022parentSkillUid\u0022:\u00221253342872691421184\u0022},{\u0022skillUid\u0022:\u00221031626758615973888\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "83",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1703176524453",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Advanced Excel Developer",
+        "finalDescriptionAI": "Job Title: Advanced Excel Developer\n\nPosition Overview:\nWe are seeking a highly skilled and experienced Advanced Excel Developer to join our dynamic team. The ideal candidate will have a strong background in developing advanced Excel solutions, with expertise in building macros and applications integrated within Excel using VBA, C#, and .Net to continuously improve a homegrown solution that is heavily relied on by real-estate appraisers. The successful candidate will be crucial in enhancing our workflow solutions, data and analysis capabilities, automating complex tasks, and improving overall efficiency.\n\nResponsibilities:\n\u2022 Excel Solution Development:\n\u2022 Design, develop, and implement advanced Excel solutions to meet business requirements.\n\u2022 Create and optimize macros, scripts, and applications within Excel using VBA, C#, and .Net.\n\u2022 Automation and Integration:\n\u2022 Streamline and automate manual processes to improve productivity.\n\u2022 Integrate Excel with external systems and databases for seamless data flow.\n\u2022 Data Analysis and Reporting:\n\u2022 Collaborate with stakeholders to understand data analysis needs and develop customized reports and dashboards.\n\u2022 Implement advanced data analysis techniques to derive actionable insights.\n\u2022 Troubleshooting and Debugging:\n\u2022 Identify and resolve issues related to Excel applications, macros, and integrations.\n\u2022 Perform debugging and testing to ensure the reliability and accuracy of developed solutions.\n\u2022 Documentation:\n\u2022 Maintain comprehensive documentation for all developed solutions, including code, processes, and user guides.\n\u2022 Training and Support:\n\u2022 Provide training and support to end-users on utilizing Excel-based tools and applications.\n\u2022 Collaborate with other teams to ensure smooth adoption of developed solutions.\n\u2022 Innovative Thinking:\n\u2022 Demonstrate a proactive and innovative approach to problem-solving and solution development.\n\u2022 Ability to think creatively and propose novel ideas to enhance Excel-based processes.\n\u2022 Challenge the Status Quo:\n\u2022 Exhibit a willingness to challenge existing practices and explore new, more efficient solutions.\n\u2022 Drive continuous improvement by identifying opportunities for innovation and optimization.\n\u2022 Effective Communication:\n\u2022 Strong verbal and written communication skills, with the ability to convey complex technical concepts to non-technical stakeholders.\n\u2022 Foster open communication and collaboration within the team and with business users.\n\u2022 Adaptability:\n\u2022 Thrive in a dynamic work environment and demonstrate adaptability to changing project requirements.\n\u2022 Openness to learning new technologies and methodologies to stay at the forefront of Excel development best practices.\n\u2022 Interpersonal Skills:\n\u2022 Ability to work effectively with strong personalities and diverse teams.\n\u2022 Navigate through challenging situations with diplomacy and tact.\n\u2022 Client-Focused Collaboration:\n\u2022 Work closely with business users to understand their needs and tailor solutions to meet specific requirements.\n\u2022 Build and maintain positive working relationships with stakeholders at all levels.\n\u2022 Problem-Solving and Decision-Making:\n\u2022 Exhibit strong problem-solving skills, making sound decisions based on data and analysis.\n\u2022 Comfortable navigating ambiguity and making decisions in the best interest of project goals.\n\u2022 Time Management and Prioritization:\n\u2022 Effectively manage multiple tasks and priorities to meet project deadlines.\n\u2022 Ability to balance short-term and long-term objectives efficiently.\n\nQualifications:\n\u2022 Bachelor\u0027s degree in Computer Science, Information Technology, or a related field.\n\u2022 Proven experience as an Advanced Excel Developer, with a minimum of 5 years of hands-on experience.\n\u2022 Strong proficiency in VBA, C#, .Net, and other relevant programming languages.\n\u2022 In-depth knowledge of Excel functions, formulas, and data manipulation techniques.\n\u2022 Experience in designing and implementing complex macros, applications, and integrations within Excel.\n\u2022 Solid understanding of data analysis and reporting principles.\n\u2022 Excellent problem-solving and debugging skills.\n\u2022 Strong communication and collaboration skills.\n\nPreferred Qualifications:\n\u2022 Commercial Real Estate experience is a plus, preferably in Valuation / Property appraisals.\n\u2022 Experience with SQL for database queries and manipulation.\n\u2022 Familiarity with business intelligence tools.\n\u2022 Knowledge of version control systems."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (America/N)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 1466.000001,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 42566.6
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-09-18T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 4,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 28.025920854006873
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

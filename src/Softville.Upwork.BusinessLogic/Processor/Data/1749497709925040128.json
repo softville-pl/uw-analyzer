@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~01e12de12e38fdb98d",
+    "rid": 1010839461,
+    "uid": "1749497709925040128",
+    "type": 2,
+    "access": 4,
+    "title": "FB Ads Library Scraper:",
+    "status": 1,
+    "category": {
+      "name": "ERP/CRM Software",
+      "urlSlug": "erp-crm-software"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-22T18:22:13.085Z",
+    "postedOn": "2024-01-22T18:22:14.160Z",
+    "publishTime": "2024-01-22T18:22:14.160Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001719318,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We aim to develop a Data Scraping Software designed to extract information from the Facebook Ads library utilizing its API, facilitating the identification of successful products based on customizable filters. These filters should be easily adjustable for each search, and the extracted product data should be automatically exported to an Excel spreadsheet.\n\nFor instance, we envision creating a tool similar to this: https://bigspy.com/adspy/facebook/?app_type=3, tailored to our needs, featuring a not-user-friendly interface suitable for individuals familiar with PCs and basic programming, we dont want any fancy design.\n\nOur platform should offer customizable filters, allowing users to refine searches based on E-commerce platforms (e.g., Shopify, WooCommerce), country/region, language, marketing objectives (e.g., \u0027buy now,\u0027 \u0027order now\u0027), ad attributes (image, video, carousel, format, etc.), engagement metrics (likes, comments, shares, impressions), landing page types (purchase), date ranges, ad spend, and the number of active ads circulating (specifically for a product and for the entire business). The goal is to provide a simpler yet robust solution for efficient data extraction.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-22T18:36:56.276Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "6",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced FB Ads Library Scraper who can assist us with a project lasting 1 to 3 months. The ideal candidate should have a strong background in Python, .NET Framework, PHP, HTML5, CSS, Business Applications Development, JavaScript, Sales \u0026 Marketing, and Java. \n\nAs a candidate, we would like you to submit a detailed proposal outlining how you can help with the project. Please include a description of your relevant experience and expertise in FB Ads Library Scraper. Additionally, we would appreciate links to any past completed projects that showcase your skills in this domain.\n\nWe are excited to review your proposal and look forward to working with a talented professional who can effectively and efficiently scrape the FB Ads Library.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-22T18:22:14.160Z",
+        "totalTimeJobPostFlowAIv2": "254",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221504884979789725696\u0022,\u0022parentSkillUid\u0022:\u00221270387300731437056\u0022},{\u0022skillUid\u0022:\u00221110580625235496960\u0022,\u0022parentSkillUid\u0022:\u00221549040535956492288\u0022},{\u0022skillUid\u0022:\u0022996364628025274382\u0022,\u0022parentSkillUid\u0022:\u00221270387300748214272\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221270387300748214272\u0022},{\u0022skillUid\u0022:\u0022996364628025274385\u0022,\u0022parentSkillUid\u0022:\u00221270387300748214272\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022,\u0022parentSkillUid\u0022:\u00221270387300748214272\u0022},{\u0022skillUid\u0022:\u00221031626745118703616\u0022,\u0022parentSkillUid\u0022:\u00221270387300748214272\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "5",
+        "totalTimeSpentOnReviewPageAIv2": "9",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705947478000",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "FB Ads Library Scraper:",
+        "finalDescriptionAI": "We aim to develop a Data Scraping Software designed to extract information from the Facebook Ads library utilizing its API, facilitating the identification of successful products based on customizable filters. These filters should be easily adjustable for each search, and the extracted product data should be automatically exported to an Excel spreadsheet.\n\nFor instance, we envision creating a tool similar to this: https://bigspy.com/adspy/facebook/?app_type=3, tailored to our needs, featuring a not-user-friendly interface suitable for individuals familiar with PCs and basic programming, we dont want any fancy design.\n\nOur platform should offer customizable filters, allowing users to refine searches based on E-commerce platforms (e.g., Shopify, WooCommerce), country/region, language, marketing objectives (e.g., \u0027buy now,\u0027 \u0027order now\u0027), ad attributes (image, video, carousel, format, etc.), engagement metrics (likes, comments, shares, impressions), landing page types (purchase), date ranges, ad spend, and the number of active ads circulating (specifically for a product and for the entire business). The goal is to provide a simpler yet robust solution for efficient data extraction."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Spain (UTC\u002B01:00)",
+      "city": "Valencia",
+      "country": "Spain"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1775
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-10-05T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

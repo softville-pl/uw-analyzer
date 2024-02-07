@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~013b1def00ba791eda",
+    "rid": 1010858926,
+    "uid": "1749804620993695744",
+    "type": 2,
+    "access": 4,
+    "title": "New Relic Setup Consultant",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-23T14:41:46.446Z",
+    "postedOn": "2024-01-23T14:41:47.153Z",
+    "publishTime": "2024-01-23T14:41:47.153Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001332801,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 38,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "We have a SAAS application with the UI in REact, Middle layer in .NET core and the DB  in MS SQL 2019 hosted on Windows VMs.\nWe would like to have this entire infra setup for monitoring and distributed tracing and logs through New Relic. \nThis should also include setting up relevant alerts for various errors and Dashboards for easy viewing of issues.\nThe ability to integrate the code through Codestrem and GIT will also be needed.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-24T13:29:30.425Z",
+      "totalApplicants": 5,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 2,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "374",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a New Relic Setup Consultant to join our team for a project that will last 1 to 3 months. As a New Relic Setup Consultant, you will be responsible for setting up and configuring New Relic, an application performance monitoring software, in our existing environment. \n\nKey skills for this project include experience with Git, Azure App Service, automated monitoring, New Relic, and Microsoft Azure. \n\nTo apply for this position, please submit a proposal detailing how you can help with this project. Specifically, we are looking for candidates who can demonstrate their expertise in setting up and configuring New Relic, as well as their ability to integrate it with Azure App Service and Git. \n\nAdditionally, please include links to any past completed projects that showcase your experience with New Relic setup and configuration. We look forward to reviewing your proposals and discussing this project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-23T14:41:47.153Z",
+        "totalTimeJobPostFlowAIv2": "965",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626762512482304\u0022,\u0022parentSkillUid\u0022:\u00221270387318607560704\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580547376631808\u0022},{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221270387318607560704\u0022},{\u0022skillUid\u0022:\u00221270387293257187328\u0022,\u0022parentSkillUid\u0022:\u00221110580547800256512\u0022},{\u0022freeText\u0022:\u0022MS SQL\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022},{\u0022skillUid\u0022:\u00221484275082106425344\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "367",
+        "totalTimeSpentOnReviewPageAIv2": "8",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1706019940051",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "New Relic Setup Consultant",
+        "finalDescriptionAI": "We have a SAAS application with the UI in REact, Middle layer in .NET core and the DB  in MS SQL 2019 hosted on Windows VMs.\nWe would like to have this entire infra setup for monitoring and distributed tracing and logs through New Relic. \nThis should also include setting up relevant alerts for various errors and Dashboards for easy viewing of issues.\nThe ability to integrate the code through Codestrem and GIT will also be needed."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "India (UTC)",
+      "city": "Faridabad",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-08-16T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 6,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

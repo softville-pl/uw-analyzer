@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01e5febb45c3afcc5d",
+    "rid": 1010448998,
+    "uid": "1742764652770787328",
+    "type": 2,
+    "access": 4,
+    "title": "Looking for a senior ASP.NET full stack developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-04T04:27:27.077Z",
+    "postedOn": "2024-01-04T04:27:27.826Z",
+    "publishTime": "2024-01-04T04:27:27.826Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1008141578,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking an experienced and talented Senior ASP.NET Developer to join our dynamic team. As a Senior ASP.NET Developer, you will be responsible for leading the development and maintenance of our web applications, ensuring high performance and responsiveness.\n\nKey Responsibilities:\n\n- Design, develop, and maintain robust and scalable ASP.NET applications.\n - Collaborate with cross-functional teams to define, design, and ship new features.\n - Lead code reviews and provide mentorship to junior developers, fostering a collaborative and innovative environment.\n - Troubleshoot, debug, and optimize application code to meet performance and security standards.\n - Stay abreast of industry trends and technologies to ensure our applications leverage the latest advancements.\n - Participate in architectural discussions and contribute to the overall system architecture.\n - Work closely with stakeholders to understand business requirements and translate them into technical solutions.\n - Implement best practices in software development, code versioning, and deployment processes.\n\nQualifications:\n\n - Bachelor\u0027s degree in Computer Science or related field.\n - Proven experience as a Senior ASP.NET Developer, with a strong portfolio of successful projects.\n-  Solid understanding of the ASP.NET framework, C#, and related technologies.\n - Experience with front-end technologies such as HTML, CSS, JavaScript, and jQuery.\n - Strong problem-solving skills and ability to work independently or in a team.\n - Excellent communication and interpersonal skills.\nIf you are a self-motivated individual with a passion for delivering high-quality software solutions, we invite you to apply for this challenging and rewarding position. Join us in shaping the future of our technology stack and contribute to the success of our innovative projects.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-15T22:29:03.694Z",
+      "totalApplicants": 164,
+      "totalHired": 1,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "198",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are currently seeking a senior ASP.NET full stack developer for a project with a duration of 1 to 3 months. The ideal candidate should have strong expertise in API development, .NET Framework, ASP.NET, JavaScript, C#, and ASP.NET MVC.\n\nAs a developer, your responsibilities will include developing and maintaining web applications, designing and implementing APIs, and collaborating with the team to ensure successful project completion. We are looking for someone with excellent problem-solving skills, a strong attention to detail, and the ability to work independently.\n\nTo apply for this position, please submit a proposal outlining how you can contribute to the project. We encourage you to include links to past completed projects that showcase your skills and experience in ASP.NET development. We look forward to reviewing your application and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-04T04:27:27.826Z",
+        "totalTimeJobPostFlowAIv2": "389",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "135",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1704342056649",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Looking for a senior ASP.NET full stack developer",
+        "finalDescriptionAI": "We are seeking an experienced and talented Senior ASP.NET Developer to join our dynamic team. As a Senior ASP.NET Developer, you will be responsible for leading the development and maintenance of our web applications, ensuring high performance and responsiveness.\n\nKey Responsibilities:\n\n- Design, develop, and maintain robust and scalable ASP.NET applications.\n - Collaborate with cross-functional teams to define, design, and ship new features.\n - Lead code reviews and provide mentorship to junior developers, fostering a collaborative and innovative environment.\n - Troubleshoot, debug, and optimize application code to meet performance and security standards.\n - Stay abreast of industry trends and technologies to ensure our applications leverage the latest advancements.\n - Participate in architectural discussions and contribute to the overall system architecture.\n - Work closely with stakeholders to understand business requirements and translate them into technical solutions.\n - Implement best practices in software development, code versioning, and deployment processes.\n\nQualifications:\n\n - Bachelor\u0027s degree in Computer Science or related field.\n - Proven experience as a Senior ASP.NET Developer, with a strong portfolio of successful projects.\n-  Solid understanding of the ASP.NET framework, C#, and related technologies.\n - Experience with front-end technologies such as HTML, CSS, JavaScript, and jQuery.\n - Strong problem-solving skills and ability to work independently or in a team.\n - Excellent communication and interpersonal skills.\nIf you are a self-motivated individual with a passion for delivering high-quality software solutions, we invite you to apply for this challenging and rewarding position. Join us in shaping the future of our technology stack and contribute to the success of our innovative projects."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 10800000,
+      "countryTimezone": "Kazakhstan (Asia/Bagh)",
+      "city": "Kostanay",
+      "country": "Kazakhstan"
+    },
+    "stats": {
+      "totalAssignments": 63,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 55,
+      "score": 4.959827486,
+      "totalJobsWithHires": 61,
+      "hoursCount": 64.333333,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 6084.71
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-04-27T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 78,
+      "openCount": 5
+    },
+    "avgHourlyJobsRate": {
+      "amount": 30.683937982818332
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

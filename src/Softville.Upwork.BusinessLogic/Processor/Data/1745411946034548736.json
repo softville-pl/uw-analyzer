@@ -1,0 +1,254 @@
+{
+  "job": {
+    "ciphertext": "~01b6b2b67bee400be4",
+    "rid": 1010602464,
+    "uid": "1745411946034548736",
+    "type": 2,
+    "access": 1,
+    "title": "Azure Cloud Expert",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-11T11:46:51.354Z",
+    "postedOn": "2024-01-11T11:46:51.811Z",
+    "publishTime": "2024-01-11T11:46:51.811Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1213264,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 65
+    },
+    "contractorTier": 3,
+    "description": "Our company operates a SaaS platform on Microsoft Azure in the EAST US region, catering to a large customer base with approximately 50,000 users monthly from more than 50 countries.\n\nWe are seeking to enhance our system in the following ways:\n\n1. Evaluate and refine the existing architecture to bolster its security, scalability, and cost-efficiency.\n2. Develop a comprehensive plan for architectural improvements, both immediate and long-term.\n3. Transition from using Virtual Machines (VM) to Azure App Services.\n4. Consider adopting Linux as a means to reduce expenses.\n5. Optimize our DevOps practices for greater efficiency.\n6. Aim to reduce overall operational costs.\n\nTechnical Info:\n\n- Backend: Currently utilizing .NET 7, with plans to upgrade to .NET 8. Hosted on Windows VM, necessary for specific tasks exceeding two minutes in execution time.\n- Database: Our multi-tenant software manages about 70 databases, each serving multiple customers, all hosted on Windows VM with a dedicated SQL Server.\n- Frontend: Developed in Angular and hosted on the same VM as the backend.\n- CDN: Utilizing Azure CDN.\n- Storage: Employing Azure Blob Storage for data storage needs.\n- Deployment: Managed through TeamCity and Octopus deployment tools.\u0022\n\nKindly respond by sharing your suitability for this role, specifically highlighting how your previous experience in SaaS aligns with the job requirements. Please include specific examples to illustrate your relevant skills and accomplishments.\u0022",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-18T10:47:42.751Z",
+      "totalApplicants": 70,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 0,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "264",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for an Azure Cloud Expert to join our team for a project that is expected to last between 1 to 3 months. As an expert in Azure App Service, Microsoft Azure SQL Database, Cloud Architecture, DevOps, and Microsoft Azure, you will play a crucial role in the successful completion of this project.\n\nYour main responsibilities will include designing, implementing, and maintaining Azure cloud solutions, ensuring optimal performance, scalability, and security. Additionally, you will be involved in troubleshooting and resolving any issues that may arise during the project.\n\nTo apply for this role, please submit a proposal outlining how you can contribute to the project\u0027s success. We encourage you to include links to past completed projects that demonstrate your expertise in Azure cloud technologies. We are excited to review your proposal and discuss how we can work together to achieve our project goals.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-11T11:46:51.811Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221270387306804789248\u0022,\u0022parentSkillUid\u0022:\u00221270387306905452544\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "97",
+        "totalTimeSpentOnReviewPageAIv2": "115",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1704973214627",
+        "finalDescriptionAI": "Our company operates a SaaS platform on Microsoft Azure in the EAST US region, catering to a large customer base with approximately 50,000 users monthly from more than 50 countries.\n\nWe are seeking to enhance our system in the following ways:\n\n1. Evaluate and refine the existing architecture to bolster its security, scalability, and cost-efficiency.\n2. Develop a comprehensive plan for architectural improvements, both immediate and long-term.\n3. Transition from using Virtual Machines (VM) to Azure App Services.\n4. Consider adopting Linux as a means to reduce expenses.\n5. Optimize our DevOps practices for greater efficiency.\n6. Aim to reduce overall operational costs.\n\nTechnical Info:\n\n- Backend: Currently utilizing .NET 7, with plans to upgrade to .NET 8. Hosted on Windows VM, necessary for specific tasks exceeding two minutes in execution time.\n- Database: Our multi-tenant software manages about 70 databases, each serving multiple customers, all hosted on Windows VM with a dedicated SQL Server.\n- Frontend: Developed in Angular and hosted on the same VM as the backend.\n- CDN: Utilizing Azure CDN.\n- Storage: Employing Azure Blob Storage for data storage needs.\n- Deployment: Managed through TeamCity and Octopus deployment tools.\u0022\n\nKindly respond by sharing your suitability for this role, specifically highlighting how your previous experience in SaaS aligns with the job requirements. Please include specific examples to illustrate your relevant skills and accomplishments.\u0022",
+        "inputsTitleAI": "Azure Cloud Expert",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Egypt (UTC\u002B02:00)",
+      "city": "Cairo",
+      "country": "Egypt"
+    },
+    "stats": {
+      "totalAssignments": 60,
+      "activeAssignmentsCount": 8,
+      "feedbackCount": 43,
+      "score": 4.99328846,
+      "totalJobsWithHires": 49,
+      "hoursCount": 1850.333347,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 81144.61
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-01-14T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 44,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 34.56637697401883
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

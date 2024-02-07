@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01ca7201fcd0d8f321",
+    "rid": 1010659174,
+    "uid": "1746427942724993024",
+    "type": 2,
+    "access": 4,
+    "title": "App activate and give app focus",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-14T07:04:03.479Z",
+    "postedOn": "2024-01-14T07:04:03.868Z",
+    "publishTime": "2024-01-14T07:04:03.868Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2495598,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "I use vb.net\nWindows forms\nI have an exe with a window form(EXE1) that starts another exe with a window form called EXE2.\n\nEXE2 starts and takes focus.  ALL GOOD!!\n\nThen, i make EXE2.visible=false, returning me to EXE1.\n\nThen, From EXE1, i reactivate EXE2 with appactivate(processid)\n\nIt works and EXE2 shows.\n\nBUT, EXE2 does not take focus.\n\nI have looked it up in google, but none of the 50 answers works.\n\nHOW do i re-activate EXP2 AND AND give it focus.\n      And, it really works.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-15T22:59:25.148Z",
+      "totalApplicants": 16,
+      "totalHired": 1,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "305",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled developer who can help us with a project involving app activation and giving app focus. The job duration is expected to be less than 1 month. \n\nThe ideal candidate should have expertise in .NET Core and should be able to demonstrate their proficiency in this area. \n\nTo be considered for this role, please submit a detailed proposal outlining how you can assist us with this project. Specifically, we would like to know about your experience in similar projects and how you plan to approach this specific task. \n\nAdditionally, please include links to any relevant past completed projects that showcase your abilities in app activation and focus. \n\nWe look forward to reviewing your proposals and finding the perfect candidate to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-14T07:04:03.868Z",
+        "totalTimeJobPostFlowAIv2": "490",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "302",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705215352725",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "App activate and give app focus",
+        "finalDescriptionAI": "I use vb.net\nWindows forms\nI have an exe with a window form(EXE1) that starts another exe with a window form called EXE2.\n\nEXE2 starts and takes focus.  ALL GOOD!!\n\nThen, i make EXE2.visible=false, returning me to EXE1.\n\nThen, From EXE1, i reactivate EXE2 with appactivate(processid)\n\nIt works and EXE2 shows.\n\nBUT, EXE2 does not take focus.\n\nI have looked it up in google, but none of the 50 answers works.\n\nHOW do i re-activate EXP2 AND AND give it focus.\n      And, it really works."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -7200000,
+      "countryTimezone": "United States (UTC-03:00)",
+      "city": "Reston",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 31,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 23,
+      "score": 4.997204546,
+      "totalJobsWithHires": 29,
+      "hoursCount": 280.833334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 14355.78
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2014-03-16T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 31,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 25.952047416137574
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

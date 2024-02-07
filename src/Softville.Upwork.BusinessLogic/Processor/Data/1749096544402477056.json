@@ -1,0 +1,241 @@
+{
+  "job": {
+    "ciphertext": "~01b03a8e5a6291a2c1",
+    "rid": 1010815900,
+    "uid": "1749096544402477056",
+    "type": 2,
+    "access": 4,
+    "title": "Experienced Back-End Developer for Advanced Shopify Mobile App Project",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-21T15:48:07.720Z",
+    "postedOn": "2024-01-21T15:48:28.711Z",
+    "publishTime": "2024-01-21T15:48:08.207Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4373426,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are currently on the lookout for a talented Back-End Developer to join our team for an exciting project: developing a custom Shopify mobile app with innovative features like AI-based recommendations and social networking integration. The ideal candidate will have a strong background in server-side logic, database management, and API integration.\n\nResponsibilities:\n\n\u2022  Develop and maintain the server-side logic of the mobile app.\nEnsure high performance and responsiveness to requests from the front-end.\n\u2022  Create and manage database schemas that represent and support business processes.\n\u2022  Implement data storage solutions (including databases, key-value stores, blob stores, etc.).\n\u2022  Integrate multiple data sources and databases into one system.\n\u2022  Integrate user-facing elements developed by front-end developers with server-side logic.\n\u2022  Optimize the application for maximum speed and scalability.\nImplement security and data protection measures.\n\u2022  Design and implement data storage solutions.\n\u2022  Collaborate with other team members and stakeholders.\n\nQualifications:\n\n\u2022  Proficient knowledge of a back-end programming language (e.g., Ruby, Python, Java, .NET, Node.js).\n\u2022  Understanding of Shopify\u2019s back-end systems and APIs.\n\u2022  Familiarity with front-end technologies (like HTML, CSS, JavaScript) to understand the front-end developer\u2019s needs.\n\u2022  Management of hosting environment, including database administration and scaling applications to support load changes.\n\u2022  Data migration, transformation, and scripting.\n\u2022  Proficiency in code versioning tools, such as Git.\n\u2022  Understanding of \u201Csession management\u201D in a distributed server environment.\n\u2022  Experience with creating RESTful APIs.\n\u2022  Knowledge of security compliance and best practices.\n\nWhat We Offer:\n\n\u2022  A chance to work on a unique, innovative project in the e-commerce space.\n\u2022  A collaborative and dynamic work environment.\n\u2022  Competitive compensation.\n\nApplication Process:\n\nIf you are interested, please apply with your resume and a cover letter. Additionally, include a portfolio or examples of your previous work, especially highlighting any e-commerce or Shopify-related projects.\n\nWe look forward to your application and potentially welcoming you to our dynamic team!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-21T15:58:50.165Z",
+      "totalApplicants": 78,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "48",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-01-21T15:48:28.711Z",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced back-end developer to join our team for an advanced Shopify mobile app project. This is a long-term position, with a duration of more than 6 months.\n\nThe ideal candidate should have a strong background in back-end development, with expertise in MySQL, Git, data protection, Shopify, Node.js, AWS Amplify, Shopify development, RESTful API, and Ruby on Rails.\n\nAs a back-end developer, your main responsibility will be to develop and maintain the server-side logic of our Shopify mobile app. You will be working closely with our front-end team to ensure seamless integration and a smooth user experience.\n\nTo apply for this position, please submit a proposal detailing your experience and how you can contribute to the project. Additionally, please include links to some of your past completed projects that showcase your back-end development skills.\n\nWe look forward to reviewing your proposals and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-21T15:48:08.207Z",
+        "totalTimeJobPostFlowAIv2": "290",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221031626775930060800\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221270387293991190528\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626779570716672\u0022},{\u0022skillUid\u0022:\u00221691099311548936192\u0022},{\u0022skillUid\u0022:\u00221031626762999021568\u0022},{\u0022skillUid\u0022:\u00221031626730363142144\u0022},{\u0022freeText\u0022:\u0022Shopify API\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "37",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705851797469",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Experienced Back-End Developer for Advanced Shopify Mobile App Project",
+        "finalDescriptionAI": "We are currently on the lookout for a talented Back-End Developer to join our team for an exciting project: developing a custom Shopify mobile app with innovative features like AI-based recommendations and social networking integration. The ideal candidate will have a strong background in server-side logic, database management, and API integration.\n\nResponsibilities:\n\n\u2022  Develop and maintain the server-side logic of the mobile app.\nEnsure high performance and responsiveness to requests from the front-end.\n\u2022  Create and manage database schemas that represent and support business processes.\n\u2022  Implement data storage solutions (including databases, key-value stores, blob stores, etc.).\n\u2022  Integrate multiple data sources and databases into one system.\n\u2022  Integrate user-facing elements developed by front-end developers with server-side logic.\n\u2022  Optimize the application for maximum speed and scalability.\nImplement security and data protection measures.\n\u2022  Design and implement data storage solutions.\n\u2022  Collaborate with other team members and stakeholders.\n\nQualifications:\n\n\u2022  Proficient knowledge of a back-end programming language (e.g., Ruby, Python, Java, .NET, Node.js).\n\u2022  Understanding of Shopify\u2019s back-end systems and APIs.\n\u2022  Familiarity with front-end technologies (like HTML, CSS, JavaScript) to understand the front-end developer\u2019s needs.\n\u2022  Management of hosting environment, including database administration and scaling applications to support load changes.\n\u2022  Data migration, transformation, and scripting.\n\u2022  Proficiency in code versioning tools, such as Git.\n\u2022  Understanding of \u201Csession management\u201D in a distributed server environment.\n\u2022  Experience with creating RESTful APIs.\n\u2022  Knowledge of security compliance and best practices.\n\nWhat We Offer:\n\n\u2022  A chance to work on a unique, innovative project in the e-commerce space.\n\u2022  A collaborative and dynamic work environment.\n\u2022  Competitive compensation.\n\nApplication Process:\n\nIf you are interested, please apply with your resume and a cover letter. Additionally, include a portfolio or examples of your previous work, especially highlighting any e-commerce or Shopify-related projects.\n\nWe look forward to your application and potentially welcoming you to our dynamic team!"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Hoboken",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 122,
+      "activeAssignmentsCount": 36,
+      "feedbackCount": 54,
+      "score": 4.95698692,
+      "totalJobsWithHires": 69,
+      "hoursCount": 31401.000022,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 921868.49
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-09-01T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Retail \u0026 Consumer Goods",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 157,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 28.37183208738001
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

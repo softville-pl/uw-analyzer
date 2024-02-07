@@ -1,0 +1,269 @@
+{
+  "job": {
+    "ciphertext": "~01c036c0a7836f3e9a",
+    "rid": 1010855037,
+    "uid": "1749750401715212288",
+    "type": 2,
+    "access": 4,
+    "title": "Senior C# Web Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-23T11:06:19.548Z",
+    "postedOn": "2024-01-23T11:16:22.871Z",
+    "publishTime": "2024-01-23T11:16:22.871Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007066723,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "THIS IS FOR FILIPINO ONLY!!\n\nJOB HIGHLIGHTS:\nFlexible Working Hours. We will be following core hours from 6:00 PM to 10:00 PM (PH Time)\nFully Remote\nGood working environment and work-life balance\n1 PTO every month after regularization\n8 hrs shift \n\nCOMPANY SUMMARY:\nAJ Tickets has changed how the world connects with its favorite artists, teams, and shows, and we continue to shape innovation daily. We\u0027re not just selling tickets; we\u0027re enriching lives one amazing experience at a time.\n\nPOSITION SUMMARY:\nWe are seeking a talented and experienced software engineer to join our global team. Your main target is to deliver an excellent, innovative SAAS solution that contains complex yet user-friendly and intuitive functionalities. This user experience goes from scoping to application support. In our technology, we use many frameworks and technologies such as .Net, Angular, Azure, Redis, Puppeteer, SignalR, and others.\n\nRESPONSIBILITIES:\nYour main responsibility is to develop software solutions (new, adapted, and extended) to make sure the software products meet the business and functional requirements.\nHereby, take ownership from design, over implementation to testing, and make sure the solutions are aligned with the technology vision, strategy, and architecture.\nParticipate in scoping discussions and collaborate with stakeholders (and teammates) to understand the business requirements.\nCollaborate with cross-functional teams and stakeholders to resolve technical issues within or between teams, ensuring smooth coordination and efficient project delivery\n\nCANDIDATE QUALIFICATIONS\nThe Essentials\nBachelor\u2019s or Master\u2019s degree required in Computer Science, Software Engineering, or a related field.\nA minimum of 5 years of experience as a Full Stack Software Engineer or in a similar role.\nAt least 5 years of proven expertise in C# and related technologies, with a deep understanding of C# principles, architecture, and services. \nA minimum of 3 years of experience with front-end technologies like Angular (10 or later).\nA minimum of 3 years of experience with other front-end technologies like TypeScript, JavaScript, HTML5, CSS, and CSS Media Queries.\nProficiency in SQL Server Database management.\nAt least 2 years of experience with Azure and its resources.\nAdditional Successful Qualifications\nStrong analytical and problem-solving skills, with the ability to identify and address complex technical challenges.\nAbility to review and provide constructive feedback.\nProven track record of delivering high-quality software solutions within deadlines.\nA positive, proactive, and collaborative approach to working in a fast-paced and dynamic environment.\n\nIf you are interested in the opportunity and have the required years of experience, please send an updated resume.\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "How many years of experience do you have with C#? Can you tell me what you know about C# and how to use it?"
+      },
+      {
+        "position": 1,
+        "question": "How many years of experience do you have with Angular? What is the current version of Angular that you are using? What are the directives, components, and modules?"
+      },
+      {
+        "position": 2,
+        "question": "How many years of experience do you have with Azure? Can you tell me what you know about Azure and how to use it?"
+      },
+      {
+        "position": 3,
+        "question": "How many years of experience do you have in Javascript? Can you explain how the asynchronous function works in JavaScript?"
+      },
+      {
+        "position": 4,
+        "question": "How many years of experience do you have in .NET? When was the last time you developed an application and what was it?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Philippines"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-02T13:41:13.506Z",
+      "totalApplicants": 1,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "39",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a Senior C# Web Developer with expertise in Azure Cosmos DB, HTML5, JavaScript, Angular, and C#. This is a long-term project with a duration of more than 6 months. \n\nAs a Senior C# Web Developer, you will be responsible for developing and maintaining web applications using the aforementioned technologies. Your primary focus will be on designing, coding, and implementing scalable and secure solutions. \n\nTo be considered for this position, we require candidates to submit a proposal detailing how they can contribute to the project. Please include a description of your past experiences and relevant skills. Additionally, we would appreciate if you could provide links to some of your completed projects that demonstrate your expertise in C# web development. \n\nWe look forward to reviewing your proposals and working with you on this exciting project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-23T11:16:22.871Z",
+        "totalTimeJobPostFlowAIv2": "381",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626745118703616\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364627995914242\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "35",
+        "totalTimeSpentOnReviewPageAIv2": "190",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1706007599233",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Senior C# Web Developer",
+        "finalDescriptionAI": "THIS IS FOR FILIPINO ONLY!!\n\nJOB HIGHLIGHTS:\nFlexible Working Hours. We will be following core hours from 6:00 PM to 10:00 PM (PH Time)\nFully Remote\nGood working environment and work-life balance\n1 PTO every month after regularization\n8 hrs shift \n\nCOMPANY SUMMARY:\nAJ Tickets has changed how the world connects with its favorite artists, teams, and shows, and we continue to shape innovation daily. We\u0027re not just selling tickets; we\u0027re enriching lives one amazing experience at a time.\n\nPOSITION SUMMARY:\nWe are seeking a talented and experienced software engineer to join our global team. Your main target is to deliver an excellent, innovative SAAS solution that contains complex yet user-friendly and intuitive functionalities. This user experience goes from scoping to application support. In our technology, we use many frameworks and technologies such as .Net, Angular, Azure, Redis, Puppeteer, SignalR, and others.\n\nRESPONSIBILITIES:\nYour main responsibility is to develop software solutions (new, adapted, and extended) to make sure the software products meet the business and functional requirements.\nHereby, take ownership from design, over implementation to testing, and make sure the solutions are aligned with the technology vision, strategy, and architecture.\nParticipate in scoping discussions and collaborate with stakeholders (and teammates) to understand the business requirements.\nCollaborate with cross-functional teams and stakeholders to resolve technical issues within or between teams, ensuring smooth coordination and efficient project delivery\n\nCANDIDATE QUALIFICATIONS\nThe Essentials\nBachelor\u2019s or Master\u2019s degree required in Computer Science, Software Engineering, or a related field.\nA minimum of 5 years of experience as a Full Stack Software Engineer or in a similar role.\nAt least 5 years of proven expertise in C# and related technologies, with a deep understanding of C# principles, architecture, and services. \nA minimum of 3 years of experience with front-end technologies like Angular (10 or later).\nA minimum of 3 years of experience with other front-end technologies like TypeScript, JavaScript, HTML5, CSS, and CSS Media Queries.\nProficiency in SQL Server Database management.\nAt least 2 years of experience with Azure and its resources.\nAdditional Successful Qualifications\nStrong analytical and problem-solving skills, with the ability to identify and address complex technical challenges.\nAbility to review and provide constructive feedback.\nProven track record of delivering high-quality software solutions within deadlines.\nA positive, proactive, and collaborative approach to working in a fast-paced and dynamic environment.\n\nIf you are interested in the opportunity and have the required years of experience, please send an updated resume.\n"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 28800000,
+      "countryTimezone": "Philippines (UTC\u002B08:00)",
+      "city": "Manila",
+      "country": "Philippines"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-01-25T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Philippines)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Philippines"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,238 @@
+{
+  "job": {
+    "ciphertext": "~0193f4cb8e6186fa70",
+    "rid": 1010225229,
+    "uid": "1737762911959138304",
+    "type": 2,
+    "access": 4,
+    "title": "WPF .NET Core Desktop App Development",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2023-12-21T09:12:19.181Z",
+    "postedOn": "2023-12-21T09:12:19.533Z",
+    "publishTime": "2023-12-21T09:12:19.533Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011043418,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 33,
+      "hourlyBudgetMax": 55
+    },
+    "contractorTier": 3,
+    "description": "I\u0027m seeking a skilled developer for an ASP .NET core Version 6 WPF desktop application with an embedded console app.\n\nKey functionalities required are:\n\nUI has to be async multi-thread to maintain real-time inputs and outputs from WPF to console app.\nConsole App should allow the following protocols:\n*SSH\n*Telnet\n*USB or Console Connection\n\nUI should allow scripting Copy and Paste. Example:\nWe have a list of scripts objects , the object structure object=(ScriptName=ipconfig, scriptText=\u201Dipconfig/all\u201D\nWindow or message box contains 1 Textfield(scriptName) and 1 textArea(scripText) to save scriptText and scriptName in your list of scripts.\n\nUI list of Button with content scriptName on click insert scriptText from that object in console screen and execute it.\n\nMake sure you are able to see real-time response from the host on your screen after each command execution. (each command is a line in that scriptText) that means you will insert line by line, and get responses after each line insertion.\n\nThe freelancer will use C# for the terminal application development and WPF for the desktop application. Your experience with open-source terminal applications and Windows PowerShell could make you a standout candidate.\n\nThe application should have an intuitive and user-friendly graphical user interface(GUI). Strong expertise in GUI design is a must. Personal experience with similar applications will be a plus.\n\nIf you are a talented C# developer with a knack for WPF application design, I want to hear from you. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-20T11:53:40.440Z",
+      "totalApplicants": 47,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 4
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "8",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for an experienced developer to assist with the development of a WPF .NET Core desktop application. The project is expected to last between 3 to 6 months. \n\nThe ideal candidate should be proficient in the following skills: .NET Framework, C#, Windows Presentation Foundation, and .NET Core. \n\nAs part of your proposal, please describe how you can contribute to the project and outline your relevant experience. Additionally, we would appreciate if you could include links to past projects that you have completed, specifically those that showcase your expertise in WPF .NET Core desktop app development.\n\nWe look forward to reviewing your proposal and discussing the project further. Thank you for your interest!",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2023-12-21T09:12:19.533Z",
+        "totalTimeJobPostFlowAIv2": "80",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626796670894080\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "6",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1703149858113",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "WPF .NET Core Desktop App Development",
+        "finalDescriptionAI": "I\u0027m seeking a skilled developer for an ASP .NET core Version 6 WPF desktop application with an embedded console app.\n\nKey functionalities required are:\n\nUI has to be async multi-thread to maintain real-time inputs and outputs from WPF to console app.\nConsole App should allow the following protocols:\n*SSH\n*Telnet\n*USB or Console Connection\n\nUI should allow scripting Copy and Paste. Example:\nWe have a list of scripts objects , the object structure object=(ScriptName=ipconfig, scriptText=\u201Dipconfig/all\u201D\nWindow or message box contains 1 Textfield(scriptName) and 1 textArea(scripText) to save scriptText and scriptName in your list of scripts.\n\nUI list of Button with content scriptName on click insert scriptText from that object in console screen and execute it.\n\nMake sure you are able to see real-time response from the host on your screen after each command execution. (each command is a line in that scriptText) that means you will insert line by line, and get responses after each line insertion.\n\nThe freelancer will use C# for the terminal application development and WPF for the desktop application. Your experience with open-source terminal applications and Windows PowerShell could make you a standout candidate.\n\nThe application should have an intuitive and user-friendly graphical user interface(GUI). Strong expertise in GUI design is a must. Personal experience with similar applications will be a plus.\n\nIf you are a talented C# developer with a knack for WPF application design, I want to hear from you. "
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Indian Wells",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-29T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

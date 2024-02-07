@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~01f030eec40253e2cd",
+    "rid": 1010546962,
+    "uid": "1744548377068380160",
+    "type": 2,
+    "access": 4,
+    "title": "MS Teams public vs private call detection",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-09T02:35:20.106Z",
+    "postedOn": "2024-01-09T02:35:20.604Z",
+    "publishTime": "2024-01-09T02:35:20.604Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001293578,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 200
+    },
+    "contractorTier": 3,
+    "description": "We are looking for an expert to develop a solution to identify external MS Teams calls in real-time for our WPF-based application.\n \nCurrently, our application can detect call activities on a laptop but cannot differentiate between internal and external calls. \nThe calls are managed using Microsoft Teams and routed through IPFX, which lacks the visibility to make the difference.\n \nWe have looked into the following solutions without success:\n \nUsing Microsoft Graph and the Call Records API to track the participant ID and cross-reference it with our Active Directory. However, these APIs don\u0027t provide real-time participant ID data and we were not able to identify external callers.\n\nDesigning a tool to monitor the endpoints or network traffic and flag external calls. As the call data transits through Microsoft Teams\u2019 cloud services before reaching the user, the origin of the calls cannot be traced accurately.\n \nIf you have experience in this field, and have been working in a similar environment and found a solution, please contact us",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-15T01:19:36.749Z",
+      "totalApplicants": 3,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "138",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled developer to assist with a project involving MS Teams public vs private call detection. The job duration is expected to be less than 1 month. \n\nThe ideal candidate should have expertise in API, ASP.NET Core, .NET Framework, Microsoft Teams, Network Analysis, and Windows Presentation Foundation. \n\nTo apply for this project, please submit a detailed proposal describing how you can assist with the project. We are particularly interested in your understanding of MS Teams call detection and your approach to differentiating between public and private calls. \n\nAdditionally, please include links to any relevant past completed projects that demonstrate your skills and experience in this field. We look forward to reviewing your proposals and finding the right candidate for this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-09T02:35:20.604Z",
+        "totalTimeJobPostFlowAIv2": "13125",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626796670894080\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716534521856\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221192876982035562496\u0022},{\u0022freeText\u0022:\u0022audiocode\u0022},{\u0022freeText\u0022:\u0022SIP server\u0022},{\u0022skillUid\u0022:\u00221031626762361487360\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "125",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1704754594317",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "MS Teams public vs private call detection",
+        "finalDescriptionAI": "We are looking for an expert to develop a solution to identify external MS Teams calls in real-time for our WPF-based application.\n \nCurrently, our application can detect call activities on a laptop but cannot differentiate between internal and external calls. \nThe calls are managed using Microsoft Teams and routed through IPFX, which lacks the visibility to make the difference.\n \nWe have looked into the following solutions without success:\n \nUsing Microsoft Graph and the Call Records API to track the participant ID and cross-reference it with our Active Directory. However, these APIs don\u0027t provide real-time participant ID data and we were not able to identify external callers.\n\nDesigning a tool to monitor the endpoints or network traffic and flag external calls. As the call data transits through Microsoft Teams\u2019 cloud services before reaching the user, the origin of the calls cannot be traced accurately.\n \nIf you have experience in this field, and have been working in a similar environment and found a solution, please contact us"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 39600000,
+      "countryTimezone": "Australia (UTC\u002B10:00)",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2200
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-08-10T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "HR \u0026 Business Services",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

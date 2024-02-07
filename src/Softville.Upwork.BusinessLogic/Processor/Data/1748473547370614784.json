@@ -1,0 +1,245 @@
+{
+  "job": {
+    "ciphertext": "~018af749dcfad13cac",
+    "rid": 1010789299,
+    "uid": "1748473547370614784",
+    "type": 2,
+    "access": 4,
+    "title": "Quantitative Trading Systems \u0026 FinTech Backend Engineer - .NET/C# Developer Expert ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-19T22:32:33.665Z",
+    "postedOn": "2024-01-19T22:32:35.184Z",
+    "publishTime": "2024-01-19T22:32:35.184Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 4576230,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "NOTE: Please provide a link or attachment of a prior specific trading systems backend project you worked on. \n\nIn this expert-level role, you will be at the forefront of developing and optimizing sophisticated trading algorithms, as well as contributing to other custom applications. Your expertise will extend to engaging in DeFi/crypto projects, crafting risk management tools, and implementing cutting-edge data analysis systems. \n\nA high level of proficiency in .NET/C# development, coupled with significant API experience, is required. \n\nQUALIFICATIONS: \n-Proficiency in .NET, encompassing both VB and C#, is a fundamental requirement. Additional languages such as Python, R, or C\u002B\u002B are a definite plus.\n\n-Significant expertise with FIX, REST, and WebSocket APIs, including proven experience with real-time data streams.\n\n-Proficient in SQL Server Development, encompassing the design and optimization of databases for optimal performance.\n\n-Prior work with multi-threaded parallel processing, solving concurrency/locking issues, benchmarking with BenchmarkDotNet, and/or validation with XUnit test coverage.\n\n-Familiarity, and ideally, prior work building streaming event processing with Reactive Extensions for .NET (Rx) or similar expertise.\n\n-Ideally some experience with data analysis, manipulation, and visualization libraries (e.g., Pandas, NumPy, Matplotlib).\n\n-While not required, proficiency in UI frameworks such as React, Vue.js, MUI, DevExpress/DevExtreme, and familiarity with Angular/HTML for comprehensive front-end development is a valuable asset.\n\n-DevOps \u0026 Version Control experience in Git, Docker, Jenkins, or other solutions is highly beneficial. \n\n-Familiarity with technologies such as DevForce (ORM), PostMan, and Qlik Sense is also highly beneficial.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Please provide a link or attachment of a prior specific trading systems backend project you worked on."
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-30T18:39:50.392Z",
+      "totalApplicants": 32,
+      "totalHired": 1,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "244",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a highly skilled and experienced Quantitative Trading Systems \u0026 FinTech Backend Engineer with expertise in .NET/C# development. The project is expected to last for more than 6 months.\n\nAs the successful candidate, you will be responsible for developing, implementing, and maintaining trading systems and financial technology solutions. You should have a strong understanding of quantitative trading strategies, API integration, and working with financial data.\n\nTo be considered for this role, you must have proficiency in Python, PostgreSQL, SQL, .NET Framework, REST API, NUnit, API integration, C#, and Visual Basic. Experience with trading platforms and financial market data feeds is highly desirable.\n\nPlease submit a proposal detailing your experience and how you can contribute to this project. Additionally, provide links to some of your past completed projects that showcase your skills and expertise in quantitative trading systems and FinTech backend engineering.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-19T22:32:35.184Z",
+        "totalTimeJobPostFlowAIv2": "578",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580482566246400\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u00221031626763468783616\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626759408697344\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u0022996364628000108546\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221691099312962416640\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "223",
+        "totalTimeSpentOnReviewPageAIv2": "34",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1705702974679",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Quantitative Trading Systems \u0026 FinTech Backend Engineer - .NET/C# Developer Expert ",
+        "finalDescriptionAI": "NOTE: Please provide a link or attachment of a prior specific trading systems backend project you worked on. \n\nIn this expert-level role, you will be at the forefront of developing and optimizing sophisticated trading algorithms, as well as contributing to other custom applications. Your expertise will extend to engaging in DeFi/crypto projects, crafting risk management tools, and implementing cutting-edge data analysis systems. \n\nA high level of proficiency in .NET/C# development, coupled with significant API experience, is required. \n\nQUALIFICATIONS: \n-Proficiency in .NET, encompassing both VB and C#, is a fundamental requirement. Additional languages such as Python, R, or C\u002B\u002B are a definite plus.\n\n-Significant expertise with FIX, REST, and WebSocket APIs, including proven experience with real-time data streams.\n\n-Proficient in SQL Server Development, encompassing the design and optimization of databases for optimal performance.\n\n-Prior work with multi-threaded parallel processing, solving concurrency/locking issues, benchmarking with BenchmarkDotNet, and/or validation with XUnit test coverage.\n\n-Familiarity, and ideally, prior work building streaming event processing with Reactive Extensions for .NET (Rx) or similar expertise.\n\n-Ideally some experience with data analysis, manipulation, and visualization libraries (e.g., Pandas, NumPy, Matplotlib).\n\n-While not required, proficiency in UI frameworks such as React, Vue.js, MUI, DevExpress/DevExtreme, and familiarity with Angular/HTML for comprehensive front-end development is a valuable asset.\n\n-DevOps \u0026 Version Control experience in Git, Docker, Jenkins, or other solutions is highly beneficial. \n\n-Familiarity with technologies such as DevForce (ORM), PostMan, and Qlik Sense is also highly beneficial."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-06:00)",
+      "city": "Austin",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 31,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 18,
+      "score": 5,
+      "totalJobsWithHires": 28,
+      "hoursCount": 606.833337,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 24028
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-11-10T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 44,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 35.55674793126931
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

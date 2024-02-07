@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01506c1b14257e0b99",
+    "rid": 1010755579,
+    "uid": "1747968674639519744",
+    "type": 2,
+    "access": 4,
+    "title": "Plan Day API to ASP.Net based ERP System ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-18T13:06:22.610Z",
+    "postedOn": "2024-01-18T13:06:23.116Z",
+    "publishTime": "2024-01-18T13:06:23.116Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1008331060,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are looking for a developer who can write an API to PlanDay. We will want to be able to pull out key information regarding hours worked and pay details from PlanDay and pull this information into our bespoke ERP system. Our ERP system is built using Java, MySQL and ASP.Net. The PlanDay API documentation is here;\n\nhttps://openapi.planday.com/api/hr?version=v1.0",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-25T10:03:43.386Z",
+      "totalApplicants": 60,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "180",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled ASP.Net developer to help us plan and integrate a Day API into our ERP system. The project duration is expected to be less than 1 month. The ideal candidate should have experience in ASP.NET, API integration, MySQL, and JavaScript.\n\nYour main responsibility will be to develop and implement the Day API into our existing ASP.Net based ERP system. This will involve creating the necessary endpoints, handling data transfer, and ensuring seamless integration with our system.\n\nTo apply for this job, please submit a detailed proposal outlining your experience with similar projects and how you can contribute to the successful completion of this task. Additionally, please include links to past completed projects that demonstrate your skills in ASP.NET, API integration, and database management.\n\nWe look forward to reviewing your proposal and discussing the project in more detail.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-18T13:06:23.116Z",
+        "totalTimeJobPostFlowAIv2": "272",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "176",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1705582910071",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Plan Day API to ASP.Net based ERP System ",
+        "finalDescriptionAI": "We are looking for a developer who can write an API to PlanDay. We will want to be able to pull out key information regarding hours worked and pay details from PlanDay and pull this information into our bespoke ERP system. Our ERP system is built using Java, MySQL and ASP.Net. The PlanDay API documentation is here;\n\nhttps://openapi.planday.com/api/hr?version=v1.0"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC\u002B01:00)",
+      "city": "Ross on Wye",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 111.166671,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 820.05
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-05-15T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 7.0003895322186995
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,227 @@
+{
+  "job": {
+    "ciphertext": "~01470f3a7ea2a99a06",
+    "rid": 1010707528,
+    "uid": "1747264993660760064",
+    "type": 2,
+    "access": 4,
+    "title": "GIS Developer",
+    "status": 1,
+    "category": {
+      "name": "Recruiting \u0026 Human Resources",
+      "urlSlug": "recruiting-human-resources"
+    },
+    "categoryGroup": {
+      "name": "Accounting \u0026 Consulting",
+      "urlSlug": "accounting-consulting"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-16T14:30:12.025Z",
+    "postedOn": "2024-01-16T14:30:12.592Z",
+    "publishTime": "2024-01-16T14:30:12.592Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1011882071,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 2,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 55,
+      "hourlyBudgetMax": 58
+    },
+    "contractorTier": 3,
+    "description": "\nThis is a pure dev role so needs a hands on person who has been coding in GIS\nPFB the JD. This is very extensive and as long as someone has the \u201Crequired\u201D skills we can move forward with a client interview/profile review. \n\nPosition Description:\n\u2022\tCollaborate with engineers, geoscientists, data managers, and other software developers to define, build, and deliver solutions to challenging problems in the oil and gas industry.\n\u2022\tWork closely with business stakeholders to implement, deploy, and support geostatistical analysis, geoprocessing, and geocoding tools.\n\u2022\tSupport existing GIS solutions and data workflows.\n\u2022\tIntegrate disparate datasets from dozens of systems and tie them spatially.\nSkills (required)\n\u2022\tBachelor\u2019s or Master\u2019s degree from an accredited university in Computer Science, Geographic Information Science, or related field of study.\n\u2022\tAt least 5 years of experience in GIS and ESRI technologies.\n\u2022\tDomain knowledge of ESRI\u2019s product platform (Desktop, Pro, ArcPy, ArcGIS Server, GeoEvent Server, AGO, Portal, ESRI Javascript API, WebApp Builder, etc.)\n\u2022\tExperience in Python and SQL.\n\u2022\tKnowledge of GIS/geospatial workflows (geostatistical analysis, geoprocessing, geocoding, etc.)\n\u2022\tStrong communication skills and ability to work in a collaborative environment with software developers and domain experts.\n\u2022\tStrong analytical and troubleshooting skills.\nSkills (Good to have)\n\u2022\tProficiency in one or more of the following programming languages: Python, Javascript, C#/.NET, Java\n\u2022\tSQL and/or Oracle Database management (especially ArcSDE)\n\u2022\tPrior work experience in the upstream oil and gas industry\n\u2022\tPrior work experience with large scale data management systems\n\u2022\tExperience working on teams following Agile software development methodologies\n\u2022\tExperience working with surveying and remote sensing datasets (CAD, LiDAR, rasters, etc.)\n\u2022\tExperience participating in the user centered design process\n\u2022\tKnowledge of production systems like ProCount and Aries\n\u2022\tExperience with analytical tools like Spotfire or Tableau\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Please list any certifications related to this project"
+      },
+      {
+        "position": 2,
+        "question": "How would you measure or assess a potential problem?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-01-16T14:45:26.644Z",
+      "totalApplicants": 7,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "firstJobPost",
+        "searchable",
+        "invitePost"
+      ],
+      "customFields": {
+        "siteSource": "desktop_invite_rjp",
+        "publishTime": "2024-01-16T14:30:12.592Z",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "861",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-01-16T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 2,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
