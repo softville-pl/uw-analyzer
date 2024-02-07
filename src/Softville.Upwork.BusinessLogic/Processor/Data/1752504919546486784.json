@@ -1,1 +1,261 @@
-{"job":{"ciphertext":"~010cd2a5e6b195f588","rid":1011021203,"uid":"1752504919546486784","type":2,"access":4,"title":"GraphQL API integration with MYOB API","status":1,"category":{"name":"Web Development","urlSlug":"web-development"},"categoryGroup":{"name":"Web, Mobile \u0026 Software Dev","urlSlug":"web-mobile-software-dev"},"hideBudget":false,"budget":{"currencyCode":"USD","amount":0},"createdOn":"2024-01-31T01:31:47.772Z","postedOn":"2024-01-31T01:31:48.369Z","publishTime":"2024-01-31T01:31:48.369Z","wasRenewed":false,"startDate":null,"deliveryDate":null,"workload":"Less than 30 hrs\/week","companyRecno":2920049,"durationIdV3":2,"durationLabel":"1 to 3 months","notSureProjectDuration":false,"notSureFreelancersToHire":false,"notSureExperienceLevel":false,"numberOfPositionsToHire":1,"extendedBudgetInfo":{"hourlyBudgetType":1,"hourlyBudgetMin":50,"hourlyBudgetMax":80},"contractorTier":3,"description":"We are a parts supply company implementing a new ERP and inventory management platform called Quantum Control (https:\/\/www.componentcontrol.com\/platform\/quantum-control-on-premises). \n\nQuantum Control has a GraphQL WebAPI that we need to use to interface with our accounting platform, MYOB (https:\/\/developer.myob.com\/api\/myob-business-api\/api-overview\/). \n\nWe\u0027re looking for someone with deep API development experience to assist us in creating the connection between Quantum Control and MYOB so that we can manage our business inside Quantum, but all of our accounting inside MYOB. \n\nNote that Quantum Control has an existing \u0022bridge\u0022 between Quickbooks and Quantum, so we may be able to utilise that as the basis for creating this new \u0022bridge\u0022. \n\nExperiencing with basic accounting principles would be of assistance, however we will provide a full specification document showing how data recorded in Quantum should appear in MYOB. \n\nThis is an important project for our organisation and as such, you should expect proper project management, communication and assistance from our end. We will de everything we can to ensure that you have the information and support you need to complete the project successfully. \n\nAvailability during Australian business hours would be an advantage, however we appreciate that this may be a project that you are taking on as freelance work outside of your regular job and as such we will make ourselves available to assist you outside of our business hours if necessary. \n\nWe utilise the Atlassian suite for project management. \n\nA brief breakdown of the project timelines would run as follows: \n\n- By 12 Feb - selection of programmer\n- By 19 Feb - completion of initial discussions and review of API documentation\n- By 26 Feb - completion of Project Specification and commencement of API development work\n- By 25 March - bulk of API work compete and beginning of testing program\n- By 15 April - completion of testing and preparation of \u0022go live\u0022\n- By 1 June - \u0022go live\u0022 and project completion","attachments":null,"questions":[{"position":0,"question":"Include a link to your GitHub profile and\/or website"},{"position":1,"question":"Describe your recent experience with similar projects"}],"qualifications":{"type":1,"location":null,"minOdeskHours":0,"groupRecno":null,"shouldHavePortfolio":false,"tests":null,"minHoursWeek":30,"group":null,"prefEnglishSkill":3,"minJobSuccessScore":80,"risingTalent":true,"locationCheckRequired":false,"countries":["Australia","New Zealand","United States","United Kingdom","Ukraine","Canada"],"regions":null,"states":null,"timezones":null,"localMarket":false,"onSiteType":null,"locations":null,"localDescription":null,"localFlexibilityDescription":null,"earnings":null,"languages":null},"isPremium":false,"segmentationData":[{"name":"Employment","value":"EMPLOYMENT_POSITION","label":"Ongoing project","type":"EMPLOYMENT","sortOrder":1,"typeUid":"535792587707281410","customValue":null,"skill":null}],"clientActivity":{"lastBuyerActivity":"2024-01-31T03:33:27.539Z","totalApplicants":15,"totalHired":0,"totalInvitedToInterview":0,"unansweredInvites":0,"invitationsSent":0},"weeklyRetainerBudget":null,"annotations":{"tags":["contractToHireSet","searchable","C2HJobsOptInEducation"],"customFields":{"totalTimeSpentOnDescriptionPageAI":"457","sourcingUpdateForbidden":"false","type":"RJP","urgency":"2","browser":"Chrome","generatedDescriptionAI":"We are looking for a talented and experienced developer to assist us with integrating a GraphQL API with the MYOB API. The project is expected to last between 1 to 3 months, depending on the complexity and scope of work. \n\nThe ideal candidate should have a strong background in API development and integration, particularly with RESTful APIs. Proficiency in the .NET Framework is required, as well as in-depth knowledge of GraphQL and JSON API. \n\nAs a part of the application process, we ask that candidates submit a proposal outlining how they can contribute to the project\u0027s success. Please include details on your previous experience with similar integrations and any relevant completed projects. Links to past work are highly encouraged.\n\nWe look forward to reviewing your proposal and finding the perfect candidate to help us achieve our integration goals.","timeSpentToGetAPIDescriptionAI":"4","siteSource":"desktop_rjp","publishTime":"2024-01-31T01:31:48.369Z","totalTimeJobPostFlowAIv2":"","inputsSkillsAI":"[{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221031626743004774400\u0022},{\u0022skillUid\u0022:\u00221192876978222940160\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626714059882496\u0022}]","sourcingUpdateCount":"0","totalDescriptionEditingTimeAI":"396","totalTimeSpentOnReviewPageAIv2":"549","device":"Windows","startTimeJobPostFlowAIv2":"1706663689463","finalDescriptionAI":"We are a parts supply company implementing a new ERP and inventory management platform called Quantum Control (https:\/\/www.componentcontrol.com\/platform\/quantum-control-on-premises). \n\nQuantum Control has a GraphQL WebAPI that we need to use to interface with our accounting platform, MYOB (https:\/\/developer.myob.com\/api\/myob-business-api\/api-overview\/). \n\nWe\u0027re looking for someone with deep API development experience to assist us in creating the connection between Quantum Control and MYOB so that we can manage our business inside Quantum, but all of our accounting inside MYOB. \n\nNote that Quantum Control has an existing \u0022bridge\u0022 between Quickbooks and Quantum, so we may be able to utilise that as the basis for creating this new \u0022bridge\u0022. \n\nExperiencing with basic accounting principles would be of assistance, however we will provide a full specification document showing how data recorded in Quantum should appear in MYOB. \n\nThis is an important project for our organisation and as such, you should expect proper project management, communication and assistance from our end. We will de everything we can to ensure that you have the information and support you need to complete the project successfully. \n\nAvailability during Australian business hours would be an advantage, however we appreciate that this may be a project that you are taking on as freelance work outside of your regular job and as such we will make ourselves available to assist you outside of our business hours if necessary. ","inputsTitleAI":"GraphQL API integration with MYOB API","inputsDurationAI":"474250516458926082"}},"isContractToHire":false,"recruitingServices":null},"buyer":{"isPaymentMethodVerified":true,"location":{"offsetFromUtcMillis":-28800000,"countryTimezone":"Australia (UTC-08:00)","city":"Brisbane","country":"Australia"},"stats":{"totalAssignments":49,"activeAssignmentsCount":2,"feedbackCount":42,"score":4.834930742,"totalJobsWithHires":49,"hoursCount":157.833336,"totalCharges":{"currencyCode":"USD","amount":7490.92}},"isEnterprise":false,"company":{"isEDCReplicated":false,"contractDate":"2016-04-18T00:00:00.000Z","profile":{"size":null,"industry":null,"visible":false,"l3Occupations":[]}},"jobs":{"postedCount":61,"openCount":0},"avgHourlyJobsRate":{"amount":18.217887759782254}},"currentUserInfo":{"owner":false,"freelancerInfo":{"qualificationsMatches":{"totalQualifications":7,"totalMatches":3,"matches":[{"qualification":0,"qualified":true,"clientPreferred":"individuals","freelancerValue":"IC","freelancerValueLabel":"Not Specified","clientPreferredLabel":"Freelancers only"},{"qualification":6,"qualified":false,"clientPreferred":"80","freelancerValue":"0","freelancerValueLabel":"0%","clientPreferredLabel":"At least 80%"},{"qualification":4,"qualified":true,"clientPreferred":"3","freelancerValue":"3","freelancerValueLabel":"Fluent","clientPreferredLabel":"Fluent"},{"qualification":7,"qualified":false,"clientPreferred":"true","freelancerValue":"false","freelancerValueLabel":"no","clientPreferredLabel":"yes"},{"qualification":3,"qualified":false,"clientPreferred":"country=(Australia,New Zealand,United States,United Kingdom,Ukraine,Canada)","freelancerValue":"Poland","freelancerValueLabel":"Poland","clientPreferredLabel":"Australia, New Zealand, United States, United Kingdom, Ukraine, Canada"},{"qualification":8,"qualified":false,"clientPreferred":"AT_LEAST_10000","freelancerValue":"0.00","freelancerValueLabel":"0.00","clientPreferredLabel":"At Least 10000"},{"qualification":10,"qualified":true,"clientPreferred":"Any","freelancerValue":"en","freelancerValueLabel":"English","clientPreferredLabel":null}]},"applied":null,"hired":null,"contract":null,"profileState":10,"hourlyRate":{"currencyCode":"USD","amount":56},"devProfileCiphertext":"~01256f0be21d7e2c1e","application":null,"pendingInvite":null}},"paths":{"js":"\/nx\/jobs\/search"},"ff":{"isRemoveClientTotalSpentCap":true,"isJobDetailsQuickJobPost":true,"CFE6770ImprovedQualificationsSection":true,"jdShowInvitesCount":true,"enforceMinimumRateInProfile":true,"TSV1877IDVatSubmitProposal":true,"AG2156TeamsAddRoleFlow":true,"CLOB6375ExpandedCompanyProfile":true},"qt":[],"experiments":{"idvOnSubmitProposals":{"soft":false,"hard":false,"idv_required":false,"idv_complete":false}},"isVisitor":false}
+{
+    "job": {
+        "ciphertext": "~010cd2a5e6b195f588",
+        "rid": 1011021203,
+        "uid": "1752504919546486784",
+        "type": 2,
+        "access": 4,
+        "title": "GraphQL API integration with MYOB API",
+        "status": 1,
+        "category": { "name": "Web Development", "urlSlug": "web-development" },
+        "categoryGroup": {
+            "name": "Web, Mobile \u0026 Software Dev",
+            "urlSlug": "web-mobile-software-dev"
+        },
+        "hideBudget": false,
+        "budget": { "currencyCode": "USD", "amount": 0 },
+        "createdOn": "2024-01-31T01:31:47.772Z",
+        "postedOn": "2024-01-31T01:31:48.369Z",
+        "publishTime": "2024-01-31T01:31:48.369Z",
+        "wasRenewed": false,
+        "startDate": null,
+        "deliveryDate": null,
+        "workload": "Less than 30 hrs/week",
+        "companyRecno": 2920049,
+        "durationIdV3": 2,
+        "durationLabel": "1 to 3 months",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "numberOfPositionsToHire": 1,
+        "extendedBudgetInfo": {
+            "hourlyBudgetType": 1,
+            "hourlyBudgetMin": 50,
+            "hourlyBudgetMax": 80
+        },
+        "contractorTier": 3,
+        "description": "We are a parts supply company implementing a new ERP and inventory management platform called Quantum Control (https://www.componentcontrol.com/platform/quantum-control-on-premises). \n\nQuantum Control has a GraphQL WebAPI that we need to use to interface with our accounting platform, MYOB (https://developer.myob.com/api/myob-business-api/api-overview/). \n\nWe\u0027re looking for someone with deep API development experience to assist us in creating the connection between Quantum Control and MYOB so that we can manage our business inside Quantum, but all of our accounting inside MYOB. \n\nNote that Quantum Control has an existing \u0022bridge\u0022 between Quickbooks and Quantum, so we may be able to utilise that as the basis for creating this new \u0022bridge\u0022. \n\nExperiencing with basic accounting principles would be of assistance, however we will provide a full specification document showing how data recorded in Quantum should appear in MYOB. \n\nThis is an important project for our organisation and as such, you should expect proper project management, communication and assistance from our end. We will de everything we can to ensure that you have the information and support you need to complete the project successfully. \n\nAvailability during Australian business hours would be an advantage, however we appreciate that this may be a project that you are taking on as freelance work outside of your regular job and as such we will make ourselves available to assist you outside of our business hours if necessary. \n\nWe utilise the Atlassian suite for project management. \n\nA brief breakdown of the project timelines would run as follows: \n\n- By 12 Feb - selection of programmer\n- By 19 Feb - completion of initial discussions and review of API documentation\n- By 26 Feb - completion of Project Specification and commencement of API development work\n- By 25 March - bulk of API work compete and beginning of testing program\n- By 15 April - completion of testing and preparation of \u0022go live\u0022\n- By 1 June - \u0022go live\u0022 and project completion",
+        "attachments": null,
+        "questions": [
+            {
+                "position": 0,
+                "question": "Include a link to your GitHub profile and/or website"
+            },
+            {
+                "position": 1,
+                "question": "Describe your recent experience with similar projects"
+            }
+        ],
+        "qualifications": {
+            "type": 1,
+            "location": null,
+            "minOdeskHours": 0,
+            "groupRecno": null,
+            "shouldHavePortfolio": false,
+            "tests": null,
+            "minHoursWeek": 30,
+            "group": null,
+            "prefEnglishSkill": 3,
+            "minJobSuccessScore": 80,
+            "risingTalent": true,
+            "locationCheckRequired": false,
+            "countries": [
+                "Australia",
+                "New Zealand",
+                "United States",
+                "United Kingdom",
+                "Ukraine",
+                "Canada"
+            ],
+            "regions": null,
+            "states": null,
+            "timezones": null,
+            "localMarket": false,
+            "onSiteType": null,
+            "locations": null,
+            "localDescription": null,
+            "localFlexibilityDescription": null,
+            "earnings": null,
+            "languages": null
+        },
+        "isPremium": false,
+        "segmentationData": [
+            {
+                "name": "Employment",
+                "value": "EMPLOYMENT_POSITION",
+                "label": "Ongoing project",
+                "type": "EMPLOYMENT",
+                "sortOrder": 1,
+                "typeUid": "535792587707281410",
+                "customValue": null,
+                "skill": null
+            }
+        ],
+        "clientActivity": {
+            "lastBuyerActivity": "2024-01-31T03:33:27.539Z",
+            "totalApplicants": 15,
+            "totalHired": 0,
+            "totalInvitedToInterview": 0,
+            "unansweredInvites": 0,
+            "invitationsSent": 0
+        },
+        "weeklyRetainerBudget": null,
+        "annotations": {
+            "tags": [
+                "contractToHireSet",
+                "searchable",
+                "C2HJobsOptInEducation"
+            ],
+            "customFields": {
+                "totalTimeSpentOnDescriptionPageAI": "457",
+                "sourcingUpdateForbidden": "false",
+                "type": "RJP",
+                "urgency": "2",
+                "browser": "Chrome",
+                "generatedDescriptionAI": "We are looking for a talented and experienced developer to assist us with integrating a GraphQL API with the MYOB API. The project is expected to last between 1 to 3 months, depending on the complexity and scope of work. \n\nThe ideal candidate should have a strong background in API development and integration, particularly with RESTful APIs. Proficiency in the .NET Framework is required, as well as in-depth knowledge of GraphQL and JSON API. \n\nAs a part of the application process, we ask that candidates submit a proposal outlining how they can contribute to the project\u0027s success. Please include details on your previous experience with similar integrations and any relevant completed projects. Links to past work are highly encouraged.\n\nWe look forward to reviewing your proposal and finding the perfect candidate to help us achieve our integration goals.",
+                "timeSpentToGetAPIDescriptionAI": "4",
+                "siteSource": "desktop_rjp",
+                "publishTime": "2024-01-31T01:31:48.369Z",
+                "totalTimeJobPostFlowAIv2": "",
+                "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221031626743004774400\u0022},{\u0022skillUid\u0022:\u00221192876978222940160\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626714059882496\u0022}]",
+                "sourcingUpdateCount": "0",
+                "totalDescriptionEditingTimeAI": "396",
+                "totalTimeSpentOnReviewPageAIv2": "549",
+                "device": "Windows",
+                "startTimeJobPostFlowAIv2": "1706663689463",
+                "finalDescriptionAI": "We are a parts supply company implementing a new ERP and inventory management platform called Quantum Control (https://www.componentcontrol.com/platform/quantum-control-on-premises). \n\nQuantum Control has a GraphQL WebAPI that we need to use to interface with our accounting platform, MYOB (https://developer.myob.com/api/myob-business-api/api-overview/). \n\nWe\u0027re looking for someone with deep API development experience to assist us in creating the connection between Quantum Control and MYOB so that we can manage our business inside Quantum, but all of our accounting inside MYOB. \n\nNote that Quantum Control has an existing \u0022bridge\u0022 between Quickbooks and Quantum, so we may be able to utilise that as the basis for creating this new \u0022bridge\u0022. \n\nExperiencing with basic accounting principles would be of assistance, however we will provide a full specification document showing how data recorded in Quantum should appear in MYOB. \n\nThis is an important project for our organisation and as such, you should expect proper project management, communication and assistance from our end. We will de everything we can to ensure that you have the information and support you need to complete the project successfully. \n\nAvailability during Australian business hours would be an advantage, however we appreciate that this may be a project that you are taking on as freelance work outside of your regular job and as such we will make ourselves available to assist you outside of our business hours if necessary. ",
+                "inputsTitleAI": "GraphQL API integration with MYOB API",
+                "inputsDurationAI": "474250516458926082"
+            }
+        },
+        "isContractToHire": false,
+        "recruitingServices": null
+    },
+    "buyer": {
+        "isPaymentMethodVerified": true,
+        "location": {
+            "offsetFromUtcMillis": -28800000,
+            "countryTimezone": "Australia (UTC-08:00)",
+            "city": "Brisbane",
+            "country": "Australia"
+        },
+        "stats": {
+            "totalAssignments": 49,
+            "activeAssignmentsCount": 2,
+            "feedbackCount": 42,
+            "score": 4.834930742,
+            "totalJobsWithHires": 49,
+            "hoursCount": 157.833336,
+            "totalCharges": { "currencyCode": "USD", "amount": 7490.92 }
+        },
+        "isEnterprise": false,
+        "company": {
+            "isEDCReplicated": false,
+            "contractDate": "2016-04-18T00:00:00.000Z",
+            "profile": {
+                "size": null,
+                "industry": null,
+                "visible": false,
+                "l3Occupations": []
+            }
+        },
+        "jobs": { "postedCount": 61, "openCount": 0 },
+        "avgHourlyJobsRate": { "amount": 18.217887759782254 }
+    },
+    "currentUserInfo": {
+        "owner": false,
+        "freelancerInfo": {
+            "qualificationsMatches": {
+                "totalQualifications": 7,
+                "totalMatches": 3,
+                "matches": [
+                    {
+                        "qualification": 0,
+                        "qualified": true,
+                        "clientPreferred": "individuals",
+                        "freelancerValue": "IC",
+                        "freelancerValueLabel": "Not Specified",
+                        "clientPreferredLabel": "Freelancers only"
+                    },
+                    {
+                        "qualification": 6,
+                        "qualified": false,
+                        "clientPreferred": "80",
+                        "freelancerValue": "0",
+                        "freelancerValueLabel": "0%",
+                        "clientPreferredLabel": "At least 80%"
+                    },
+                    {
+                        "qualification": 4,
+                        "qualified": true,
+                        "clientPreferred": "3",
+                        "freelancerValue": "3",
+                        "freelancerValueLabel": "Fluent",
+                        "clientPreferredLabel": "Fluent"
+                    },
+                    {
+                        "qualification": 7,
+                        "qualified": false,
+                        "clientPreferred": "true",
+                        "freelancerValue": "false",
+                        "freelancerValueLabel": "no",
+                        "clientPreferredLabel": "yes"
+                    },
+                    {
+                        "qualification": 3,
+                        "qualified": false,
+                        "clientPreferred": "country=(Australia,New Zealand,United States,United Kingdom,Ukraine,Canada)",
+                        "freelancerValue": "Poland",
+                        "freelancerValueLabel": "Poland",
+                        "clientPreferredLabel": "Australia, New Zealand, United States, United Kingdom, Ukraine, Canada"
+                    },
+                    {
+                        "qualification": 8,
+                        "qualified": false,
+                        "clientPreferred": "AT_LEAST_10000",
+                        "freelancerValue": "0.00",
+                        "freelancerValueLabel": "0.00",
+                        "clientPreferredLabel": "At Least 10000"
+                    },
+                    {
+                        "qualification": 10,
+                        "qualified": true,
+                        "clientPreferred": "Any",
+                        "freelancerValue": "en",
+                        "freelancerValueLabel": "English",
+                        "clientPreferredLabel": null
+                    }
+                ]
+            },
+            "applied": null,
+            "hired": null,
+            "contract": null,
+            "profileState": 10,
+            "hourlyRate": { "currencyCode": "USD", "amount": 56 },
+            "devProfileCiphertext": "~01256f0be21d7e2c1e",
+            "application": null,
+            "pendingInvite": null
+        }
+    },
+    "paths": { "js": "/nx/jobs/search" },
+    "ff": {
+        "isRemoveClientTotalSpentCap": true,
+        "isJobDetailsQuickJobPost": true,
+        "CFE6770ImprovedQualificationsSection": true,
+        "jdShowInvitesCount": true,
+        "enforceMinimumRateInProfile": true,
+        "TSV1877IDVatSubmitProposal": true,
+        "AG2156TeamsAddRoleFlow": true,
+        "CLOB6375ExpandedCompanyProfile": true
+    },
+    "qt": [],
+    "experiments": {
+        "idvOnSubmitProposals": {
+            "soft": false,
+            "hard": false,
+            "idv_required": false,
+            "idv_complete": false
+        }
+    },
+    "isVisitor": false
+}

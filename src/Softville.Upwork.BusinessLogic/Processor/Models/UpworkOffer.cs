@@ -83,29 +83,12 @@ public class QuestionDetail
 
 public class Qualifications
 {
-    public int Type { get; set; }
-    public string? Location { get; set; }
-    public int MinOdeskHours { get; set; }
-    public string? GroupRecno { get; set; }
-    public bool ShouldHavePortfolio { get; set; }
-    public string? Tests { get; set; }
+    public bool ShouldHavePortfolio { get; set; } //
     public int MinHoursWeek { get; set; }
-    public string? Group { get; set; }
-    public int PrefEnglishSkill { get; set; }
     public int MinJobSuccessScore { get; set; }
     public bool RisingTalent { get; set; }
     public bool LocationCheckRequired { get; set; }
-    public string? Countries { get; set; }
-    public string? Regions { get; set; }
-    public string? States { get; set; }
-    public string? Timezones { get; set; }
     public bool LocalMarket { get; set; }
-    public string? OnSiteType { get; set; }
-    public string? Locations { get; set; }
-    public string? LocalDescription { get; set; }
-    public string? LocalFlexibilityDescription { get; set; }
-    public string? Earnings { get; set; }
-    public string? Languages { get; set; }
 }
 
 public class SegmentationData

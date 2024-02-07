@@ -1,6 +1,6 @@
 using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
 
-namespace Softville.Upwork.BusinessLogic.Tests.Processor.UpworkParser;
+namespace Softville.Upwork.BusinessLogic.Tests.Processor.Parsers;
 
 public class UpworkParserTests
 {

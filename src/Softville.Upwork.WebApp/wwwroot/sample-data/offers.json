@@ -1,5 +1,83 @@
 [
   {
+    "Title": "Seeking senior ASP.NET and Redis Engineer",
+    "Uid": "1755250063359447040",
+    "Rid": 1011185734,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d970018954c13392",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-07T15:20:01.5Z",
+    "Rate": {
+      "Minimum": 35,
+      "Maximum": 70,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d970018954c13392",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Fort Collins"
+      },
+      "Profile": {
+        "Industry": "Art \u0026 Design",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 32,
+        "ActiveAssignmentsCount": 12,
+        "FeedbackCount": 15,
+        "Score": 4.906647518,
+        "TotalJobsWithHires": 29,
+        "HoursCount": 1213.833337,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 33691.89
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "C#",
+      "SQL",
+      "RESTful API",
+      "API",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "How many years of experience do you have with redis?",
+      "Are you familiar with the error messages that come out and ratios of worker threads to busy threads, etc, and what action to take?"
+    ],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "Web/HTML UI/UX Designer that also can modify ASP.NET",
     "Uid": "1755232950555955200",
     "Rid": 1011184352,
@@ -752,6 +830,164 @@
     "ConnectPrice": 16
   },
   {
+    "Title": ".NET Version Upgrade from 6 to 8",
+    "Uid": "1754596348578979840",
+    "Rid": 1011143243,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d4b4da070036800e",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-05T20:02:24.698Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d4b4da070036800e",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Education",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "ASP.NET MVC",
+      "Angular",
+      "C#",
+      "Microsoft SQL Server",
+      "SQL",
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Include a link to your GitHub profile and/or website",
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "SSO implementation with .NET application",
+    "Uid": "1754576886225547264",
+    "Rid": 1011141463,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~015445260c302b2486",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-05T18:45:03.644Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~015445260c302b2486",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "India",
+        "City": "New Delhi"
+      },
+      "Profile": {
+        "Industry": "",
+        "Size": "1"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 3,
+        "FeedbackCount": 2,
+        "Score": 4.8,
+        "TotalJobsWithHires": 5,
+        "HoursCount": 176.666667,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 2317.43
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "Software Architecture \u0026 Design",
+      "C#",
+      "Microsoft IIS",
+      "OneLogin",
+      "Auth0"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 8
+  },
+  {
     "Title": "Experienced C#/.NET Backend Developer with Angular Experience",
     "Uid": "1754564480543363072",
     "Rid": 1011140297,
@@ -911,6 +1147,80 @@
       "Include a link to your GitHub profile and/or website"
     ],
     "ConnectPrice": 8
+  },
+  {
+    "Title": "Java API Integrations engineer - Europe only",
+    "Uid": "1754531123472809984",
+    "Rid": 1011137211,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01dd670f20d7c1a9be",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-05T15:43:12.918Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01dd670f20d7c1a9be",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Switzerland",
+        "City": "Rolle"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 24,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 16,
+        "Score": 4.915735843,
+        "TotalJobsWithHires": 24,
+        "HoursCount": 267.83333,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 26265.97
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "AWS Lambda",
+      "RESTful API",
+      "Java",
+      "API",
+      "API Development",
+      "SOAP API"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
   },
   {
     "Title": "Senior NinjaTrader developer with C# experience",
@@ -1436,6 +1746,77 @@
     "ConnectPrice": 16
   },
   {
+    "Title": "Azure Functions",
+    "Uid": "1754346799630258176",
+    "Rid": 1011125880,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01dcef732fdba15e96",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-05T03:30:46.696Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01dcef732fdba15e96",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Irvine"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 34,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 32,
+        "Score": 4.986442637,
+        "TotalJobsWithHires": 32,
+        "HoursCount": 120.500001,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 3356.11
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Microsoft Azure",
+      "C#",
+      "Microsoft Visual Studio"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8
+  },
+  {
     "Title": "C#, Desktop App",
     "Uid": "1750569743912513536",
     "Rid": 1010910923,
@@ -1658,6 +2039,97 @@
     ],
     "Duties": "N/A",
     "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Web Developer Needed",
+    "Uid": "1753695333802864640",
+    "Rid": 1011095560,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Hours to be determined",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 2
+    },
+    "CipherText": "~012c13d374961d512a",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-03T08:22:05.131Z",
+    "Rate": {
+      "Minimum": 5,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~012c13d374961d512a",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Country Club Hills"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 3,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 390
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Web Development",
+      "Website Redesign",
+      "Ecommerce Website",
+      "Website Optimization",
+      "WordPress Plugin",
+      "Java",
+      "JavaScript",
+      "PHP",
+      "Website Security",
+      "Microsoft SQL Server",
+      "CSS",
+      "Web Design",
+      "Project Analysis",
+      "Business with 1-9 Employees",
+      "WordPress",
+      "HTML",
+      "HTML5",
+      "API",
+      "Web Application"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "What part of this project most appeals to you?",
+      "What past project or job have you had that is most like this one and why?"
+    ],
     "ConnectPrice": 16
   },
   {
@@ -2362,6 +2834,230 @@
     "ConnectPrice": 8
   },
   {
+    "Title": ".NET Backend developer",
+    "Uid": "1752630259702915072",
+    "Rid": 1011027808,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~011403a91d3985038a",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-31T09:49:52.051Z",
+    "Rate": {
+      "Minimum": 20,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~011403a91d3985038a",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "France",
+        "City": "Paris 04 Hotel-de-Ville"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 105,
+        "ActiveAssignmentsCount": 44,
+        "FeedbackCount": 41,
+        "Score": 4.63377094,
+        "TotalJobsWithHires": 64,
+        "HoursCount": 4460.833364,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 122256.88
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "API",
+      "Microsoft SQL Server"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8
+  },
+  {
+    "Title": "GraphQL API integration with MYOB API",
+    "Uid": "1752504919546486784",
+    "Rid": 1011021203,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~010cd2a5e6b195f588",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-31T01:31:48.369Z",
+    "Rate": {
+      "Minimum": 50,
+      "Maximum": 80,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~010cd2a5e6b195f588",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Australia",
+        "City": "Brisbane"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 49,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 42,
+        "Score": 4.834930742,
+        "TotalJobsWithHires": 49,
+        "HoursCount": 157.833336,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 7490.92
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "API",
+      "API Development",
+      "RESTful API",
+      "GraphQL",
+      "JSON API",
+      "API Integration",
+      "API Documentation"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Include a link to your GitHub profile and/or website",
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Full stack developer needed for my .NET \u002B React.js project",
+    "Uid": "1752451723983699968",
+    "Rid": 1011017851,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d643bb1e2cc165ed",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-30T23:01:58.748Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d643bb1e2cc165ed",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Ukraine",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "React",
+      "Microsoft SQL Server"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "What frameworks have you worked with?"
+    ],
+    "ConnectPrice": 4
+  },
+  {
     "Title": "Azure costing Dashboard",
     "Uid": "1752458496764002304",
     "Rid": 1011018322,
@@ -2592,6 +3288,84 @@
     "ConnectPrice": 16
   },
   {
+    "Title": "CAD Integration Expert",
+    "Uid": "1752168668038152192",
+    "Rid": 1010997069,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Not Sure",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d7f21c2b6a8b4b4c",
+    "Category": "3D Modeling \u0026 CAD",
+    "CategoryGroup": "Engineering \u0026 Architecture",
+    "PublishedTime": "2024-01-30T03:15:39.672Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 120,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d7f21c2b6a8b4b4c",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "SolidWorks",
+      "CAD \u0026 CAM Software",
+      "Autodesk Fusion 360",
+      "Onshape",
+      "C#",
+      "CREO",
+      "Altium Designer",
+      "KiCad",
+      "Software"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "MS Office365 \u0026 SharePoint Integration (consultant)",
     "Uid": "1752135105940480000",
     "Rid": 1010995306,
@@ -2661,6 +3435,84 @@
     "Duties": "N/A",
     "Questions": [],
     "ConnectPrice": 8
+  },
+  {
+    "Title": "Enhancing an existing C# web application",
+    "Uid": "1752111818707464192",
+    "Rid": 1010993996,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01469bf023b5977e15",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-29T23:29:46.791Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01469bf023b5977e15",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Israel",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Military \u0026 Defense",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "MySQL",
+      "Entity Framework",
+      "Amazon Web Services",
+      "Full-Stack Development",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "For the \u0022mandatory\u0022 requirements: do you meet all items with at least 3 years experience?",
+      "For the \u0022Nice to have\u0022 requirements: which do you meet, and with how many years of experience?",
+      "Do you meet all \u0022Non Tech\u0022 requirements?",
+      "Are you willing to conduct a 30-minutes technical coding interview?"
+    ],
+    "ConnectPrice": 12
   },
   {
     "Title": "SR DevOps Engineer w Azure",
@@ -3279,6 +4131,80 @@
     "ConnectPrice": 16
   },
   {
+    "Title": "Development of a Cross-Platform Video Overlay System",
+    "Uid": "1750865282609483776",
+    "Rid": 1010928038,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01f7b8f79d9c75ef21",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-26T12:56:28.368Z",
+    "Rate": {
+      "Minimum": 35,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01f7b8f79d9c75ef21",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Downers Grove"
+      },
+      "Profile": {
+        "Industry": "Health \u0026 Fitness",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 6,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 6,
+        "HoursCount": 694.833334,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 19838.67
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "C#",
+      "Agile Software Development",
+      "Azure DevOps",
+      "Android",
+      "Google Play",
+      "iOS Development"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "Full stack developer",
     "Uid": "1750767673269940224",
     "Rid": 1010922559,
@@ -3348,6 +4274,230 @@
     ],
     "Duties": "N/A",
     "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Full-stack team for AI-based project. Long-term",
+    "Uid": "1750646457551568896",
+    "Rid": 1010917017,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 10
+    },
+    "CipherText": "~01a1693a4ba78b1102",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-25T22:26:57.306Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 80,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a1693a4ba78b1102",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Seattle"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 3,
+        "ActiveAssignmentsCount": 3,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 3,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 45
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "AI Model Integration",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Rewrite IIS/ASP Web app to work with new API via SQL DB in cloud",
+    "Uid": "1750643919667486720",
+    "Rid": 1010916856,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0103bdedf25c61ff5b",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-25T22:16:51.502Z",
+    "Rate": {
+      "Minimum": 35,
+      "Maximum": 95,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0103bdedf25c61ff5b",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Windsor Locks"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 34,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 24,
+        "Score": 4.994832176,
+        "TotalJobsWithHires": 33,
+        "HoursCount": 2774.833356,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 80314.2
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "Microsoft IIS",
+      "API",
+      "Microsoft SQL Server"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "UI/UX Developer with HTML/CSS implementation skills",
+    "Uid": "1726578060396101632",
+    "Rid": 1009626859,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01bcfcba5e8b75f3bc",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2023-11-20T12:27:43.302Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01bcfcba5e8b75f3bc",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Jackson"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 222,
+        "ActiveAssignmentsCount": 7,
+        "FeedbackCount": 95,
+        "Score": 4.684982264,
+        "TotalJobsWithHires": 174,
+        "HoursCount": 5629.600005,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 161346.79
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Front-End Development",
+      "Kendo UI",
+      "HTML5",
+      "jQuery",
+      "JavaScript",
+      "CSS 3",
+      "Bootstrap",
+      "UX \u0026 UI Design"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your recent experience with similar projects"
+    ],
     "ConnectPrice": 16
   },
   {
@@ -4333,6 +5483,85 @@
     "ConnectPrice": 16
   },
   {
+    "Title": "Senior C# Web Developer",
+    "Uid": "1749750401715212288",
+    "Rid": 1010855037,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01c036c0a7836f3e9a",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-23T11:16:22.871Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01c036c0a7836f3e9a",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Philippines",
+        "City": "Manila"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Angular",
+      "HTML5",
+      "Azure Cosmos DB",
+      "C#",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "How many years of experience do you have with C#? Can you tell me what you know about C# and how to use it?",
+      "How many years of experience do you have with Angular? What is the current version of Angular that you are using? What are the directives, components, and modules?",
+      "How many years of experience do you have with Azure? Can you tell me what you know about Azure and how to use it?",
+      "How many years of experience do you have in Javascript? Can you explain how the asynchronous function works in JavaScript?",
+      "How many years of experience do you have in .NET? When was the last time you developed an application and what was it?"
+    ],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "Azure Open AI Expert for GPT 4 Model Implementation",
     "Uid": "1749715804785111040",
     "Rid": 1010852838,
@@ -5091,6 +6320,79 @@
     "ConnectPrice": 12
   },
   {
+    "Title": "Looking for a Backend and integrations Specialist",
+    "Uid": "1748120637881606144",
+    "Rid": 1010767864,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~011e657ece2a5be7ee",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-18T23:10:14.02Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~011e657ece2a5be7ee",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Miami"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 2,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 2,
+        "HoursCount": 67.999998,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 768.01
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Microsoft Azure",
+      "Web Development",
+      "API Integration",
+      "Microsoft Azure SQL Database",
+      "Microsoft Access Programming"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12
+  },
+  {
     "Title": "Create a ThreeJS viewer for visualising engineering CAD files",
     "Uid": "1747979157073108992",
     "Rid": 1010756359,
@@ -5173,6 +6475,82 @@
       "Do you have commercial experience with three.js?",
       "Do you have experience handling engineering CAD files with three.js?"
     ],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Senior Back-End Engineer: .NET Enthusiast for Scalable Solutions",
+    "Uid": "1747977916100366336",
+    "Rid": 1010756259,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 3
+    },
+    "CipherText": "~01fbfbcb51f5350378",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-18T13:43:07.166Z",
+    "Rate": {
+      "Minimum": 35,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01fbfbcb51f5350378",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Estonia",
+        "City": "Veibri"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 20,
+        "ActiveAssignmentsCount": 11,
+        "FeedbackCount": 4,
+        "Score": 4.993140343,
+        "TotalJobsWithHires": 14,
+        "HoursCount": 12951.000045,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 501547.91
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Stack",
+      ".NET Core",
+      "Microservice",
+      "Software Architecture \u0026 Design",
+      "Back-End Development",
+      "C#",
+      "PostgreSQL",
+      "Business with 100-999 Employees"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
     "ConnectPrice": 16
   },
   {
@@ -5392,6 +6770,78 @@
       "Bootstrap",
       "API",
       "Telerik"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Generate Indian horoscope chart based on Date and Time of Birth and co-ordinates of birth place",
+    "Uid": "1747357169609785344",
+    "Rid": 1010715818,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~015907549c939beff5",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-16T20:36:29.061Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~015907549c939beff5",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "India",
+        "City": "MUMBAI"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 45,
+        "ActiveAssignmentsCount": 5,
+        "FeedbackCount": 26,
+        "Score": 5,
+        "TotalJobsWithHires": 37,
+        "HoursCount": 3290.00002,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 131580.92
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      "PHP",
+      "Java",
+      "Python"
     ],
     "Duties": "N/A",
     "Questions": [],
@@ -5994,6 +7444,79 @@
     "ConnectPrice": 8
   },
   {
+    "Title": ".Net 4.0 and Azure Blob Storage",
+    "Uid": "1746213329319378944",
+    "Rid": 1010650265,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01860e8eef7f4900c9",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-13T16:51:16.209Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 80,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01860e8eef7f4900c9",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Sioux Falls"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 12,
+        "ActiveAssignmentsCount": 3,
+        "FeedbackCount": 8,
+        "Score": 4.804513709,
+        "TotalJobsWithHires": 9,
+        "HoursCount": 1514.166664,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 89863.51
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "VB.NET",
+      ".NET Framework",
+      "ASP.NET",
+      "Microsoft Azure SQL Database",
+      "Microsoft Azure"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8
+  },
+  {
     "Title": "Animate Anyone Research Developer",
     "Uid": "1746206661538516992",
     "Rid": 1010649891,
@@ -6137,6 +7660,86 @@
     "Duties": "N/A",
     "Questions": [],
     "ConnectPrice": 12
+  },
+  {
+    "Title": "Lead Sitecore / .Net Engineer",
+    "Uid": "1745755393334956032",
+    "Rid": 1010624703,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~019bb7b2a2c6f33572",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-12T10:31:36.198Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~019bb7b2a2c6f33572",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Georgia",
+        "City": "Tbilisi"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 5,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 21194
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      ".NET Core",
+      "ASP.NET Core",
+      "API",
+      "RESTful API",
+      "Git",
+      "Microservice",
+      "Microsoft SQL Server",
+      "C#",
+      "Sitecore",
+      "SQL"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
   },
   {
     "Title": "Workflow Audit - .Net Core / Ubuntu VM / Containers",
@@ -6808,6 +8411,84 @@
     "ConnectPrice": 8
   },
   {
+    "Title": "Build a responsive web and mobile app financial platform",
+    "Uid": "1744657666387251200",
+    "Rid": 1010552713,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a8cc5fd0ee20dfaa",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-09T09:49:37.352Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a8cc5fd0ee20dfaa",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "Google Analytics",
+      "Adobe Photoshop",
+      "JavaScript",
+      "Web Development",
+      "CSS",
+      "Android",
+      "PHP",
+      "HTML"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "MS Teams public vs private call detection",
     "Uid": "1744548377068380160",
     "Rid": 1010546962,
@@ -6882,6 +8563,158 @@
     "ConnectPrice": 4
   },
   {
+    "Title": "Jenkins running in Azure .net",
+    "Uid": "1744540321319227392",
+    "Rid": 1010546571,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a139936bff0a47e1",
+    "Category": "DevOps \u0026 Solution Architecture",
+    "CategoryGroup": "IT \u0026 Networking",
+    "PublishedTime": "2024-01-09T02:03:19.963Z",
+    "Rate": {
+      "Minimum": 38,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a139936bff0a47e1",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Scottsdale"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 2,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 2,
+        "HoursCount": 7.5,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 21146.08
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Microsoft Windows",
+      "Linux",
+      "Git",
+      "Amazon Web Services",
+      "Tech \u0026 IT",
+      "Deployment Automation",
+      "DevOps Engineering",
+      "Microsoft Azure",
+      "Jenkins",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Senior Backend Engineer Needed ASAP",
+    "Uid": "1744483667575836672",
+    "Rid": 1010543229,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01e24c37cbf2bd227d",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-08T22:18:13.288Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01e24c37cbf2bd227d",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Australia",
+        "City": "Sydney"
+      },
+      "Profile": {
+        "Industry": "",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 8,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 5,
+        "Score": 5,
+        "TotalJobsWithHires": 7,
+        "HoursCount": 24.666667,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 2443.33
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Python",
+      "PHP",
+      "SQL",
+      "API",
+      "MySQL",
+      "Amazon Web Services"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
     "Title": "MS Access and MSSQL Assistance",
     "Uid": "1744398669017026560",
     "Rid": 1010535965,
@@ -6948,6 +8781,234 @@
       "Microsoft SQL Server",
       "SQL",
       "Microsoft SQL Server Programming"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Website Re-Design - Creative",
+    "Uid": "1744326160477630464",
+    "Rid": 1010530354,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~018f20254f1ecaca15",
+    "Category": "Web \u0026 Mobile Design",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-08T11:52:23.051Z",
+    "Rate": {
+      "Minimum": 10,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~018f20254f1ecaca15",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "India",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Web Design",
+      "Web Development",
+      "Adobe Photoshop"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your recent experience with similar projects",
+      "Include a link to your GitHub profile and/or website"
+    ],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Lead Umbraco Engineer",
+    "Uid": "1744056739731521536",
+    "Rid": 1010516932,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~015fb81c4d3f0aa2a6",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-07T18:01:45.278Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~015fb81c4d3f0aa2a6",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Georgia",
+        "City": "Tbilisi"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 5,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 21194
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "API",
+      "RESTful API",
+      "Git",
+      "Microservice",
+      "Microsoft SQL Server",
+      "Umbraco",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Lead .Net / Umbraco Engineer",
+    "Uid": "1743939576557191168",
+    "Rid": 1010511291,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01c57b121f7fefe0be",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-07T10:16:11.426Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01c57b121f7fefe0be",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Georgia",
+        "City": "Tbilisi"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 5,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 21194
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "API",
+      "RESTful API",
+      "Git",
+      "Microservice",
+      "Microsoft SQL Server",
+      "Umbraco",
+      "C#"
     ],
     "Duties": "N/A",
     "Questions": [],
@@ -7627,6 +9688,85 @@
     "ConnectPrice": 16
   },
   {
+    "Title": "Building Experiences: Senior software engineer wanted for high-impact agency projects",
+    "Uid": "1742273226725052416",
+    "Rid": 1010418882,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01ac7d347f6cdf8666",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-02T22:55:31.755Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 59,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01ac7d347f6cdf8666",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Midvale"
+      },
+      "Profile": {
+        "Industry": "Sales \u0026 Marketing",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 70,
+        "ActiveAssignmentsCount": 28,
+        "FeedbackCount": 35,
+        "Score": 4.88170365,
+        "TotalJobsWithHires": 61,
+        "HoursCount": 15343.333369,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 359362.53
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "TypeScript",
+      "Amazon DynamoDB",
+      "NestJS",
+      "Node.js",
+      "Cloud Architecture"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "What would make you choose to rewrite a piece of code?",
+      "Describe the process that you use for committing and integrating changes into a repository.",
+      "Describe the process you used the last time a system you maintain experienced an outage or degradation of service.",
+      "How would you describe dependency injection to a junior engineer?",
+      "What are the core differences between junior- and senior software engineers?"
+    ],
+    "ConnectPrice": 12
+  },
+  {
     "Title": ".net architect enterprise scale",
     "Uid": "1739589879930871808",
     "Rid": 1010297562,
@@ -7848,90 +9988,6 @@
     "ConnectPrice": 16
   },
   {
-    "Title": "Full Stack Software Developer",
-    "Uid": "1737845994486374400",
-    "Rid": 1010229815,
-    "Cooperation": {
-      "DurationLabel": "3 to 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01f2d73be66ec6cd07",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2023-12-21T14:42:28.533Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01f2d73be66ec6cd07",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "South Africa",
-        "City": "Cape Town"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 13,
-        "ActiveAssignmentsCount": 5,
-        "FeedbackCount": 7,
-        "Score": 5,
-        "TotalJobsWithHires": 13,
-        "HoursCount": 824.666678,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 28965.7
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET Core",
-      ".NET Core",
-      "PHP",
-      "Full-Stack Development",
-      "C#",
-      "Laravel",
-      "Responsive Design",
-      "SQL",
-      "React",
-      "Web Development",
-      "API",
-      "Web Application",
-      "Front-End Development",
-      "Mobile App Development",
-      "React Native",
-      "Documentation"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16
-  },
-  {
     "Title": "WPF .NET Core Desktop App Development",
     "Uid": "1737762911959138304",
     "Rid": 1010225229,
@@ -8001,6 +10057,81 @@
     ],
     "Duties": "N/A",
     "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Blazor .NET 8 Senior Developer needed",
+    "Uid": "1736125736734990336",
+    "Rid": 1010142776,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 2
+    },
+    "CipherText": "~01e44c08478b00f036",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2023-12-16T20:51:46.688Z",
+    "Rate": {
+      "Minimum": 45,
+      "Maximum": 70,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01e44c08478b00f036",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United Kingdom",
+        "City": "London"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 3,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 3,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 180
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Core",
+      "Blazor"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "How many years of experience do you have as a software developer in general?",
+      "How many years of experience do you have in Microsoft .NET (any framework / version)",
+      "How many years of experience do you have in Blazor?",
+      "How good is your knowledge of the new features offered by Blazor version .NET 8? (this is important)"
+    ],
     "ConnectPrice": 16
   },
   {
@@ -8150,6 +10281,161 @@
       "Have you developed any desktop application for Windows ?",
       "have you done any scripting on windows powershell ?",
       "have you worked on firewall rules implementation ?"
+    ],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "Software Developer",
+    "Uid": "1734330596963311616",
+    "Rid": 1010038484,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01917479a737470a8b",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2023-12-11T21:59:32.908Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01917479a737470a8b",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United Kingdom",
+        "City": "London"
+      },
+      "Profile": {
+        "Industry": "Health \u0026 Fitness",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 103.5
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      "C#",
+      "Database",
+      "Web Development",
+      "API"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16
+  },
+  {
+    "Title": "eCommerce Migration: ASP.net to WP/WooCommerce",
+    "Uid": "1729641441588969472",
+    "Rid": 1009793139,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Hours to be determined",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01f1551e922ffd4bab",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2023-11-28T23:20:30.184Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 100,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01f1551e922ffd4bab",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Science \u0026 Medicine",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 3,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 2,
+        "Score": 5,
+        "TotalJobsWithHires": 3,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 52.99
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      "Website Redesign",
+      "Ecommerce Website",
+      "Website Optimization",
+      "WooCommerce",
+      "WordPress",
+      "Web Development",
+      "Ecommerce Website Development"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Do you have experience with migrating ASP.NET to other e-commerce platforms? (Yes/No)\nIf yes, please provide details of the most recent project and the URL.",
+      "Describe your scope of work project overview, including a stepped approach for a successful launch.",
+      "Provide samples of other projects that highlight your skills as a web developer.",
+      "After reviewing our site, how long will this project take?",
+      "Estimated quote for the entire project? Hourly or Fixed?"
     ],
     "ConnectPrice": 16
   },

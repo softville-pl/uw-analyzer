@@ -1,0 +1,249 @@
+{
+  "job": {
+    "ciphertext": "~01d970018954c13392",
+    "rid": 1011185734,
+    "uid": "1755250063359447040",
+    "type": 2,
+    "access": 4,
+    "title": "Seeking senior ASP.NET and Redis Engineer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-07T15:20:01.029Z",
+    "postedOn": "2024-02-07T15:20:01.500Z",
+    "publishTime": "2024-02-07T15:20:01.500Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007424734,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re seeking senior ASP.NET and Redis Engineer who can help us resolve REDIS connection timeouts from our IIS servers  in our ASP.Net MVC app when attempting to pull data of ~5k per key. It works 99% of the time, but seems to have clusters of errors. REDIS is reporting nothing in SLOWLOG so we believe it\u0027s client side and we aren\u0027t configured properly. We need someone who has configured REDIS for ASP.Net MVC specifically and has had errors with HM_GET and EXPIRE commands. We\u0027re using AWS elastic cache as our redis host if that changes anything. We prefer to working with individual developers.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "How many years of experience do you have with redis?"
+      },
+      {
+        "position": 1,
+        "question": "Are you familiar with the error messages that come out and ratios of worker threads to busy threads, etc, and what action to take?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-07T16:00:09.070Z",
+      "totalApplicants": 33,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "115",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are currently seeking a senior ASP.NET and Redis engineer to join our team for a project that is expected to last more than 6 months. The ideal candidate should have expertise in API development, SQL, .NET Framework, ASP.NET, RESTful API, JavaScript, and C#.\n\nIn your proposal, please describe how you can contribute to the project and address any relevant experience you have in working with ASP.NET and Redis. We value strong problem-solving skills, attention to detail, and the ability to work collaboratively in a team.\n\nAdditionally, we would appreciate if you could include links to any past completed projects that showcase your skills in ASP.NET and Redis development. This will help us assess your capabilities and determine if you are the right fit for our project.\n\nWe look forward to reviewing your proposal and discussing further details with you.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-07T15:20:01.500Z",
+        "totalTimeJobPostFlowAIv2": "212",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "3",
+        "totalTimeSpentOnReviewPageAIv2": "36",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707318989135",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Seeking senior ASP.NET and Redis Engineer",
+        "finalDescriptionAI": "We\u0027re seeking senior ASP.NET and Redis Engineer who can help us resolve REDIS connection timeouts from our IIS servers  in our ASP.Net MVC app when attempting to pull data of ~5k per key. It works 99% of the time, but seems to have clusters of errors. REDIS is reporting nothing in SLOWLOG so we believe it\u0027s client side and we aren\u0027t configured properly. We need someone who has configured REDIS for ASP.Net MVC specifically and has had errors with HM_GET and EXPIRE commands. We\u0027re using AWS elastic cache as our redis host if that changes anything. We prefer to working with individual developers."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": "Fort Collins",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 32,
+      "activeAssignmentsCount": 12,
+      "feedbackCount": 15,
+      "score": 4.906647518,
+      "totalJobsWithHires": 29,
+      "hoursCount": 1213.833337,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 33691.89
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-02-24T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Art \u0026 Design",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 40,
+      "openCount": 3
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.25555946400902
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
