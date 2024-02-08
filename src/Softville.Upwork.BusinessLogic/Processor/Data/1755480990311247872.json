@@ -1,0 +1,231 @@
+{
+  "job": {
+    "ciphertext": "~01779cd66e4f4535b3",
+    "rid": 1011201105,
+    "uid": "1755480990311247872",
+    "type": 2,
+    "access": 4,
+    "title": "PowerBI Embedded using Clickhouse and Blazor",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-08T06:37:38.448Z",
+    "postedOn": "2024-02-08T06:37:38.852Z",
+    "publishTime": "2024-02-08T06:37:38.852Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 3652393,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We need a proof of concept implementation of a multi tenant PowerBI embedded solution, it should be embedded inside a Blazor application and connected to a single Clickhouse database.\nAt least two users should be supported showing different data from the same Clickhouse database.\nThis should be implemented in a best practice manner with a seperate powerbi workspace and service profile being created for each user.\nA shared report should be used where the dataset is swapped for each user.\nThe Workspaces and service profiles should be created from code, including the dataset configuration for the tenant.\n\nWe would like a second opinion on choice of PowerBI and Clickhouse - if you have any recommendations on alternatives and why they would be better these insights would be very appriciated.\n.NET is a requirement - and the dashboard needs to be embeddable into a Blazor application and its existing Authorization.\n-------\nExpected milestones\n1. Import out existing SQL server database to the new database (possibly clickhouse)\n2. Show case powerBI performance on this new database (sum pr article group, allow simple filtering on dates and workstation)\n3. Create a data ingestion engine (we have alot of servers streaming data to the database) - preferable implemented using WebAPI, endpoints should be able to recieve data for multiple tables, including referential data (Sale with sale lines, employee and workstation)\n4. Create Blazor application as mentioned above.\n5. Create a sales dashboard\n6. future - implement additional data tables and additional dashboards\n  - Membership dashboard\n  - Attendance dashboard\n  - Booking dashboard\n  etc. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-08T06:39:09.623Z",
+      "totalApplicants": 18,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 3,
+      "invitationsSent": 4
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-08T06:37:38.852Z",
+        "reuse": "1746989578688950272",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "639",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Denmark (UTC\u002B01:00)",
+      "city": "Svendborg",
+      "country": "Denmark"
+    },
+    "stats": {
+      "totalAssignments": 7,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 4,
+      "score": 5,
+      "totalJobsWithHires": 7,
+      "hoursCount": 43.833335,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2401.67
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-01-10T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 15,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 46.80615791611567
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

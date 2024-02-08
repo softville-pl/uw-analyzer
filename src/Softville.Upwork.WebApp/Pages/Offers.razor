@@ -22,6 +22,7 @@ else
             <th>Title</th>
             <th>Category</th>
             <th>Rate</th>
+            <th>Connects</th>
             <th>Date</th>
             <th>Location</th>
         </tr>
@@ -36,7 +37,12 @@ else
                 <td>@(offer.PublishedTime.ToString("d/M/yy T"))</td>
                 <td>@($"{offer.Rate.Minimum}-{offer.Rate.Maximum} {offer.Rate.Currency}")</td>
                 <td>
-                    @($"{offer.Customer.Location.City}, {offer.Customer.Location.Country}")
+                    <span title="Connects/Applicants/Interviewing/Sent/Unanswered">
+                        @(offer.ConnectPrice)/@(offer.Activity.TotalApplicants)/@(offer.Activity.TotalInvitedToInterview)/@(offer.Activity.InvitationsSent)/@(offer.Activity.UnansweredInvites)
+                    </span>
+                </td>
+                <td>
+                    <span title="">@(offer.Customer.Location.City),@(offer.Customer.Location.Country) (@(offer.Customer.Stats.Score.ToString("F2"))⭐@(offer.Customer.Stats.TotalCharges?.Amount.ToString("N0"))💲@(offer.Customer.Stats.HoursCount.ToString("F1"))h⌚ @(offer.Customer.Stats.TotalJobsWithHires)👷‍♀️</span>
                 </td>
                 <td>@($"{offer.CategoryGroup}/{offer.Category}")</td>
             </tr>

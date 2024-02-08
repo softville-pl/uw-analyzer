@@ -63,5 +63,13 @@
     How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?,
     What core coding frameworks have you been working on in the last 5 years (please list top 2)?,
     Who is the most notable company that you developed software for directly on your resume?
-  ]
+  ],
+  Activity: {
+    LastBuyerActivity: DateTime_2,
+    TotalApplicants: 22000,
+    TotalHired: 100,
+    TotalInvitedToInterview: 5000,
+    UnansweredInvites: 3000,
+    InvitationsSent: 10000
+  }
 }

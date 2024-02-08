@@ -1,0 +1,232 @@
+{
+  "job": {
+    "ciphertext": "~0195733e31eec98029",
+    "rid": 1011200646,
+    "uid": "1755471184672763904",
+    "type": 2,
+    "access": 4,
+    "title": "Senior .NET Developer with ABP Experience",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-08T05:58:40.553Z",
+    "postedOn": "2024-02-08T05:58:40.876Z",
+    "publishTime": "2024-02-08T05:58:40.876Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1001515741,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 2,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Looking for a Ninja, full-stack, .NET core developer that is experiences in building complex systems, APIs, Distributed system to be within our team.\n\nThe candidate should have a strong understanding of ABP (AspBoilerPlate) https://www.abp.io/ and have a solid experience building application using it.\n\nThe candidate shall be familiar with performance optimization, message queues, caching and other advanced topics.\n\nThe candidate shall be able to design and implement robust and scalable systems.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-08T06:19:49.884Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 3,
+      "invitationsSent": 3
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-08T05:58:40.876Z",
+        "reuse": "1749392456268369920",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "148",
+        "type": "RJP",
+        "browser": "Edge",
+        "device": "Macintosh"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": null,
+      "countryTimezone": "United Arab Emirates (UTC\u002B04:00)",
+      "city": "Dubai",
+      "country": "United Arab Emirates"
+    },
+    "stats": {
+      "totalAssignments": 54,
+      "activeAssignmentsCount": 16,
+      "feedbackCount": 28,
+      "score": 4.982463509,
+      "totalJobsWithHires": 47,
+      "hoursCount": 3638.333336,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 247783.41
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-09-09T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 70,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 26.63393401620967
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

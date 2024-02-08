@@ -44,9 +44,21 @@ internal static class UpworkOfferMapper
             Requirements = Array.Empty<string>(),
             ConnectPrice = 0,
             Duties = NA,
-            Questions = job.Questions?.Select(q => q.Question ?? NA)?.ToArray() ?? Array.Empty<string>()
+            Questions = job.Questions?.Select(q => q.Question ?? NA)?.ToArray() ?? Array.Empty<string>(),
+            Activity = job.ClientActivity.MapToActivity()
         };
     }
+
+    internal static Activity MapToActivity(this ClientActivity activity) =>
+        new()
+        {
+            LastBuyerActivity = activity.LastBuyerActivity,
+            TotalApplicants = activity.TotalApplicants,
+            TotalHired = activity.TotalHired,
+            TotalInvitedToInterview = activity.TotalInvitedToInterview,
+            UnansweredInvites = activity.UnansweredInvites,
+            InvitationsSent = activity.InvitationsSent
+        };
 
     internal static Rate MapToRate(this ExtendedBudgetInfo? budget) =>
         new() {Currency = "USD", Maximum = budget?.HourlyBudgetMax ?? -1, Minimum = budget?.HourlyBudgetMin ?? -1};

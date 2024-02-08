@@ -1,5 +1,173 @@
 [
   {
+    "Title": ".NET8 Senior Full Stack Developer",
+    "Uid": "1755504895914668032",
+    "Rid": 1011202257,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0134301744e40a19e3",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-08T08:12:38.05Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0134301744e40a19e3",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Switzerland",
+        "City": "Zug"
+      },
+      "Profile": {
+        "Industry": "Sales \u0026 Marketing",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 27,
+        "ActiveAssignmentsCount": 8,
+        "FeedbackCount": 16,
+        "Score": 5,
+        "TotalJobsWithHires": 27,
+        "HoursCount": 147.166667,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 26223.69
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Web Application",
+      "Website Redesign",
+      "Full-Stack Development",
+      "Website Optimization",
+      "Database Development",
+      "JavaScript",
+      "Web Development",
+      "HTML",
+      "CSS"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-08T08:23:34.094Z",
+      "TotalApplicants": 57,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 1
+    }
+  },
+  {
+    "Title": "PowerBI Embedded using Clickhouse and Blazor",
+    "Uid": "1755480990311247872",
+    "Rid": 1011201105,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01779cd66e4f4535b3",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-08T06:37:38.852Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01779cd66e4f4535b3",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Denmark",
+        "City": "Svendborg"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 7,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 7,
+        "HoursCount": 43.833335,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 2401.67
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Web Application",
+      "Microsoft Power BI",
+      "Microsoft Power BI Development",
+      "Blazor",
+      "ClickHouse"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-08T06:39:09.623Z",
+      "TotalApplicants": 18,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 4
+    }
+  },
+  {
     "Title": "Insurance Django Application",
     "Uid": "1755378559693008896",
     "Rid": 1011196030,
@@ -69,7 +237,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-08T00:21:20.49Z",
+      "TotalApplicants": 35,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Seeking senior ASP.NET and Redis Engineer",
@@ -147,7 +323,15 @@
       "How many years of experience do you have with redis?",
       "Are you familiar with the error messages that come out and ratios of worker threads to busy threads, etc, and what action to take?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-07T16:00:09.07Z",
+      "TotalApplicants": 33,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "IT Related Projects ",
@@ -224,7 +408,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-07T12:29:37.375Z",
+      "TotalApplicants": 15,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "C# Developer",
@@ -302,7 +494,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-07T11:12:30.646Z",
+      "TotalApplicants": 61,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".NET development for desktop applications",
@@ -376,7 +576,15 @@
       "Have you successfully renamed the namespace at the project/solution level?",
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T20:16:52.709Z",
+      "TotalApplicants": 26,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": ".NET developer needed for modifications on event software",
@@ -445,7 +653,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T17:39:18.612Z",
+      "TotalApplicants": 135,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Infor Visual ERP and SQL Consultant",
@@ -518,7 +734,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 4
+    "ConnectPrice": 4,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-07T14:15:16.737Z",
+      "TotalApplicants": 6,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Dot net developer with experience with TTlock API",
@@ -592,85 +816,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 8
-  },
-  {
-    "Title": ".NET Developer",
-    "Uid": "1754779957307138048",
-    "Rid": 1011154158,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0115f21c51de23a00e",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-06T08:11:59.521Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0115f21c51de23a00e",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United Kingdom",
-        "City": "Manchester"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "10"
-      },
-      "Stats": {
-        "TotalAssignments": 3,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 3,
-        "Score": 5,
-        "TotalJobsWithHires": 3,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 831.5
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "ASP.NET MVC",
-      ".NET Core",
-      "C#",
-      "API",
-      "Microsoft SQL Server",
-      "SQL",
-      "JavaScript",
-      "jQuery"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T08:48:19.525Z",
+      "TotalApplicants": 36,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Expert ASP.net dev wanted. ",
@@ -746,7 +900,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T04:23:52.654Z",
+      "TotalApplicants": 96,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Creatio Developer (Advanced)",
@@ -821,7 +983,15 @@
       "Please list any certifications related to this project",
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T01:55:43.859Z",
+      "TotalApplicants": 14,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "SSO implementation with .NET application",
@@ -898,7 +1068,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T09:21:13.665Z",
+      "TotalApplicants": 6,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Experienced C#/.NET Backend Developer with Angular Experience",
@@ -978,7 +1156,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T18:15:42.211Z",
+      "TotalApplicants": 47,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Experienced C#/.NET Backend Developer",
@@ -1059,7 +1245,15 @@
       "Describe your recent experience with similar projects",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T21:38:41.095Z",
+      "TotalApplicants": 83,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 10,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Java API Integrations engineer - Europe only",
@@ -1133,7 +1327,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T15:56:18.453Z",
+      "TotalApplicants": 61,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Senior NinjaTrader developer with C# experience",
@@ -1208,7 +1410,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T15:01:04.517Z",
+      "TotalApplicants": 12,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Cloud Consultant Solutions  (Architect )",
@@ -1280,7 +1490,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T11:10:09.087Z",
+      "TotalApplicants": 27,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 11,
+      "UnansweredInvites": 11,
+      "InvitationsSent": 30
+    }
   },
   {
     "Title": "Seeking a software engineer (C#, ASP.NET)",
@@ -1356,7 +1574,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T13:01:19.186Z",
+      "TotalApplicants": 131,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Long-Term Full Stack Developer [Angular, JS, C#, .NET, Python, Azure]",
@@ -1434,7 +1660,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T17:37:35.057Z",
+      "TotalApplicants": 95,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 39,
+      "InvitationsSent": 64
+    }
   },
   {
     "Title": "Upgrade from .NET Core 3.1.",
@@ -1510,7 +1744,15 @@
       "Please list any certifications related to this project",
       "What frameworks have you worked with?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T11:15:51.19Z",
+      "TotalApplicants": 81,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Microsoft Word Add-in",
@@ -1583,7 +1825,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T07:43:33.483Z",
+      "TotalApplicants": 12,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 8,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 3
+    }
   },
   {
     "Title": "Software Development Team (.NET, NATIVE DEV, TECNICAL PROJECT MANAGER)",
@@ -1656,7 +1906,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T08:47:39.861Z",
+      "TotalApplicants": 64,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 8,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 8
+    }
   },
   {
     "Title": "Azure Functions",
@@ -1727,7 +1985,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-05T20:13:45.908Z",
+      "TotalApplicants": 17,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "C#, Desktop App",
@@ -1806,7 +2072,15 @@
       "Explain a time when you identified and resolved a trend reversal in financial data. What methods or algorithms did you use, and how did you ensure accuracy and efficiency?",
       "Describe your experience with algorithmic trading, explicitly mentioning any projects where you\u0027ve integrated and used APIs like Alpaca Markets API. What was your role, and what were the outcomes?"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-26T19:51:10.45Z",
+      "TotalApplicants": 4,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "Expert .NET/Javascript Engineer - PDF expert",
@@ -1881,7 +2155,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T00:24:19.312Z",
+      "TotalApplicants": 139,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 11,
+      "UnansweredInvites": 13,
+      "InvitationsSent": 30
+    }
   },
   {
     "Title": "Web3 developer to build graphs for our no-code environment (AI)",
@@ -1952,7 +2234,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-04T19:56:21.451Z",
+      "TotalApplicants": 40,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 17,
+      "UnansweredInvites": 10,
+      "InvitationsSent": 32
+    }
   },
   {
     "Title": "Web Developer Needed",
@@ -2043,7 +2333,15 @@
       "What part of this project most appeals to you?",
       "What past project or job have you had that is most like this one and why?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-03T08:22:04.713Z",
+      "TotalApplicants": 11,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior C# Web Developer",
@@ -2125,7 +2423,15 @@
       "How many years of experience do you have in Javascript? Can you explain how the asynchronous function works in JavaScript?",
       "How many years of experience do you have in .NET? When was the last time you developed an application and what was it?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T14:03:57.6Z",
+      "TotalApplicants": 8,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior C# Engineer with Financial Industry Experience",
@@ -2203,7 +2509,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T14:31:37.167Z",
+      "TotalApplicants": 93,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full Stack .net developer",
@@ -2283,7 +2597,15 @@
       "Your approach to project and task management",
       "How you collaborated with other team members."
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T07:27:14.369Z",
+      "TotalApplicants": 44,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": " Software Development Team for Marketing Platform Automation",
@@ -2363,7 +2685,15 @@
       "Describe your approach to testing and improving QA",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T13:14:56.722Z",
+      "TotalApplicants": 94,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 22,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Malware Removal from Cloud Based Windows Server",
@@ -2436,7 +2766,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 4
+    "ConnectPrice": 4,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T21:15:54.62Z",
+      "TotalApplicants": 10,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "NET Developer",
@@ -2514,7 +2852,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T16:08:06.259Z",
+      "TotalApplicants": 22,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 8,
+      "UnansweredInvites": 10,
+      "InvitationsSent": 30
+    }
   },
   {
     "Title": "Senior Microsoft App Developer (Angular/Windows Forms)",
@@ -2594,7 +2940,15 @@
       "What core coding frameworks have you been working on in the last 5 years (please list top 2)?",
       "Who is the most notable company that you developed software for directly on your resume?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T12:43:05.5Z",
+      "TotalApplicants": 27,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Fully Develop Website ",
@@ -2671,7 +3025,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T23:33:09.189Z",
+      "TotalApplicants": 248,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 13,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 11
+    }
   },
   {
     "Title": "Seeking Experienced C# Developer for .NET Core 8 Crash Diagnosis and Activity Logging",
@@ -2744,7 +3106,15 @@
       "How many years do you work with windows servers and C#?",
       "Do you have experience in solving crashes of service?"
     ],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T08:49:24.791Z",
+      "TotalApplicants": 56,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 7,
+      "InvitationsSent": 15
+    }
   },
   {
     "Title": ".NET Backend developer",
@@ -2815,7 +3185,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T20:44:11.152Z",
+      "TotalApplicants": 49,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "GraphQL API integration with MYOB API",
@@ -2894,7 +3272,15 @@
       "Include a link to your GitHub profile and/or website",
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T03:33:27.539Z",
+      "TotalApplicants": 15,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full stack developer needed for my .NET \u002B React.js project",
@@ -2968,7 +3354,15 @@
     "Questions": [
       "What frameworks have you worked with?"
     ],
-    "ConnectPrice": 4
+    "ConnectPrice": 4,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T16:11:50.225Z",
+      "TotalApplicants": 33,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 14
+    }
   },
   {
     "Title": "Azure costing Dashboard",
@@ -3040,7 +3434,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T23:51:22.49Z",
+      "TotalApplicants": 35,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior Full Stack C#/.NET/Angular Developer Needed",
@@ -3119,7 +3521,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T02:30:15.96Z",
+      "TotalApplicants": 207,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior Angular Developer with .NET and REST API experience",
@@ -3198,7 +3608,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T03:32:26.252Z",
+      "TotalApplicants": 45,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "CAD Integration Expert",
@@ -3276,7 +3694,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T17:22:26.36Z",
+      "TotalApplicants": 10,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "MS Office365 \u0026 SharePoint Integration (consultant)",
@@ -3347,7 +3773,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T16:51:44.105Z",
+      "TotalApplicants": 50,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Enhancing an existing C# web application",
@@ -3425,7 +3859,15 @@
       "Do you meet all \u0022Non Tech\u0022 requirements?",
       "Are you willing to conduct a 30-minutes technical coding interview?"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T14:33:44.152Z",
+      "TotalApplicants": 11,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 7,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 4
+    }
   },
   {
     "Title": "SR DevOps Engineer w Azure",
@@ -3501,7 +3943,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T19:40:12.608Z",
+      "TotalApplicants": 6,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "WinAutomation Robot fix",
@@ -3572,7 +4022,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T18:34:38.931Z",
+      "TotalApplicants": 3,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Full-Stack Engineer (Angular/React Native \u0026 AI/ML)\n",
@@ -3649,7 +4107,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T20:00:32.411Z",
+      "TotalApplicants": 242,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Build an inventory management website for lube business",
@@ -3728,7 +4194,15 @@
       "Describe your approach to testing and improving QA",
       "Please list any certifications related to this project"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T11:48:21.088Z",
+      "TotalApplicants": 7,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "AWS DevOps Scalability and Security",
@@ -3803,7 +4277,15 @@
       "Please list any certifications related to this project",
       "How do you operationalize your projects?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-03T04:55:37.944Z",
+      "TotalApplicants": 67,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full Stack Developer C#/Vue/TypeScript/Tailwind/Postgresql",
@@ -3882,7 +4364,15 @@
       "How many years of work experience do you have with Tailwind CSS?",
       "How many years of work experience do you have with Typescript?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T22:53:11.267Z",
+      "TotalApplicants": 7,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "quickbooks 2015 enterprise ( desktop) SMS software.",
@@ -3969,7 +4459,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T12:46:44.02Z",
+      "TotalApplicants": 4,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "SENIOR AUTOMATION ENGINEER \u2013 Contractor (will work UK Hours)",
@@ -4041,7 +4539,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T07:56:54.167Z",
+      "TotalApplicants": 9,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Development of a Cross-Platform Video Overlay System",
@@ -4115,7 +4621,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-26T17:52:39.811Z",
+      "TotalApplicants": 30,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full stack developer",
@@ -4187,7 +4701,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-26T06:28:35.801Z",
+      "TotalApplicants": 269,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full-stack team for AI-based project. Long-term",
@@ -4260,7 +4782,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T07:46:26.011Z",
+      "TotalApplicants": 97,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 14,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 22
+    }
   },
   {
     "Title": "Rewrite IIS/ASP Web app to work with new API via SQL DB in cloud",
@@ -4333,7 +4863,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T01:18:18.558Z",
+      "TotalApplicants": 60,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "UI/UX Developer with HTML/CSS implementation skills",
@@ -4411,7 +4949,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T12:27:35.197Z",
+      "TotalApplicants": 13,
+      "TotalHired": 2,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior .NET Developer ",
@@ -4489,7 +5035,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T18:09:25.436Z",
+      "TotalApplicants": 60,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior .Net Developer",
@@ -4564,7 +5118,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T09:39:59.598Z",
+      "TotalApplicants": 94,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Point-of-Sale Design and Architecture",
@@ -4636,7 +5198,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T11:19:42.538Z",
+      "TotalApplicants": 38,
+      "TotalHired": 2,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Expert ASP.net dev wanted. ",
@@ -4712,7 +5282,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T17:48:26.004Z",
+      "TotalApplicants": 124,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 47,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Help With A Desktop Software Development",
@@ -4789,7 +5367,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T15:07:22.873Z",
+      "TotalApplicants": 54,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 27,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "C# Backend Dev for Connecting Wallet Address ",
@@ -4868,7 +5454,15 @@
     "Questions": [
       "Please provide a link to a website where you previously built the backend for a similar crypto wallet connection/wallet holding display from a wallet address."
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T21:34:37.51Z",
+      "TotalApplicants": 29,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "NET Developer",
@@ -4946,7 +5540,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-27T13:57:52.024Z",
+      "TotalApplicants": 7,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Software Developer Consultant",
@@ -5027,7 +5629,15 @@
       "Describe your recent experience with similar projects",
       "Please list any certifications related to this project"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T03:23:40.637Z",
+      "TotalApplicants": 67,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 5,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 4
+    }
   },
   {
     "Title": "Migration from Dedicated Server to AWS",
@@ -5099,7 +5709,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T21:16:18.886Z",
+      "TotalApplicants": 58,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Developer who loves VB.NET",
@@ -5176,7 +5794,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T23:53:40.816Z",
+      "TotalApplicants": 52,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 13,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full-Stack Engineer",
@@ -5249,7 +5875,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-24T08:27:39.292Z",
+      "TotalApplicants": 166,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 14,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 8
+    }
   },
   {
     "Title": "Software Specialist",
@@ -5319,7 +5953,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T16:01:39.98Z",
+      "TotalApplicants": 97,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "New Relic Setup Consultant",
@@ -5393,7 +6035,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-24T13:29:30.425Z",
+      "TotalApplicants": 5,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "Senior C# Web Developer",
@@ -5472,7 +6122,15 @@
       "How many years of experience do you have in Javascript? Can you explain how the asynchronous function works in JavaScript?",
       "How many years of experience do you have in .NET? When was the last time you developed an application and what was it?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T13:41:13.506Z",
+      "TotalApplicants": 1,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Azure Open AI Expert for GPT 4 Model Implementation",
@@ -5549,7 +6207,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T12:22:03.497Z",
+      "TotalApplicants": 9,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "FB Ads Library Scraper:",
@@ -5626,7 +6292,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-22T18:36:56.276Z",
+      "TotalApplicants": 15,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior Full Stack Engineer (Focus on Backend Java Development)",
@@ -5702,7 +6376,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-04T07:27:17.643Z",
+      "TotalApplicants": 189,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": ".NET and Angular Developer",
@@ -5775,7 +6457,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T18:43:45.261Z",
+      "TotalApplicants": 128,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 5,
+      "UnansweredInvites": 4,
+      "InvitationsSent": 9
+    }
   },
   {
     "Title": "C# .net web Api",
@@ -5848,7 +6538,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T19:26:05.858Z",
+      "TotalApplicants": 302,
+      "TotalHired": 2,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Experienced Back-End Developer for Advanced Shopify Mobile App Project",
@@ -5925,7 +6623,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-21T15:58:50.165Z",
+      "TotalApplicants": 78,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Quantitative Trading Systems \u0026 FinTech Backend Engineer - .NET/C# Developer Expert ",
@@ -6005,7 +6711,15 @@
     "Questions": [
       "Please provide a link or attachment of a prior specific trading systems backend project you worked on."
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T18:39:50.392Z",
+      "TotalApplicants": 32,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "API and Web Application Development Consultant",
@@ -6083,7 +6797,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-22T16:39:42.27Z",
+      "TotalApplicants": 3,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".Net Core Developer",
@@ -6159,7 +6881,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-19T14:44:00.199Z",
+      "TotalApplicants": 36,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "IOS Swift Developer",
@@ -6230,7 +6960,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-30T14:52:16.084Z",
+      "TotalApplicants": 50,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "Looking for a Backend and integrations Specialist",
@@ -6303,7 +7041,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T23:00:35.355Z",
+      "TotalApplicants": 14,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 7
+    }
   },
   {
     "Title": "Create a ThreeJS viewer for visualising engineering CAD files",
@@ -6388,7 +7134,15 @@
       "Do you have commercial experience with three.js?",
       "Do you have experience handling engineering CAD files with three.js?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-22T15:08:23.763Z",
+      "TotalApplicants": 23,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Senior Back-End Engineer: .NET Enthusiast for Scalable Solutions",
@@ -6464,7 +7218,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-24T21:50:29.557Z",
+      "TotalApplicants": 42,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Plan Day API to ASP.Net based ERP System ",
@@ -6536,7 +7298,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T10:03:43.386Z",
+      "TotalApplicants": 60,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".NET Windows forms developer",
@@ -6612,7 +7382,15 @@
       "Do you have bachelor degree in IT?",
       "Please list any certifications related to this project"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-18T15:00:31.302Z",
+      "TotalApplicants": 50,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Vue JS, Kendo UI, Telerik, .net developer",
@@ -6686,7 +7464,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-17T04:04:13.425Z",
+      "TotalApplicants": 31,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 4
+    }
   },
   {
     "Title": "Generate Indian horoscope chart based on Date and Time of Birth and co-ordinates of birth place",
@@ -6758,7 +7544,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-19T16:02:51.651Z",
+      "TotalApplicants": 4,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "GIS Developer",
@@ -6842,7 +7636,15 @@
       "Please list any certifications related to this project",
       "How would you measure or assess a potential problem?"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-16T14:45:26.644Z",
+      "TotalApplicants": 7,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "SOLIDWORKS API SDK Developer to create Add-In",
@@ -6915,7 +7717,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-25T08:54:17.694Z",
+      "TotalApplicants": 27,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior Full stack (.NET / Next.js)",
@@ -6990,7 +7800,15 @@
       "Describe your recent experience with similar projects",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-21T12:58:16.369Z",
+      "TotalApplicants": 40,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "SaaS Data Enhancement",
@@ -7059,7 +7877,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T13:04:38.109Z",
+      "TotalApplicants": 25,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 24,
+      "UnansweredInvites": 6,
+      "InvitationsSent": 31
+    }
   },
   {
     "Title": "Senior .NET Architect (Team Lead)",
@@ -7138,7 +7964,15 @@
       "Describe your role and contributions to a mission-critical, high-complexity application that you\u0027ve worked on, emphasizing any .NET microservices you developed or architected.",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T18:16:55.963Z",
+      "TotalApplicants": 55,
+      "TotalHired": 10,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "Process mining software experienced project director.",
@@ -7211,7 +8045,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T00:32:19.494Z",
+      "TotalApplicants": 21,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Crystal Report Developer ",
@@ -7285,7 +8127,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-03T11:21:44.272Z",
+      "TotalApplicants": 19,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "App activate and give app focus",
@@ -7354,7 +8204,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T22:59:25.148Z",
+      "TotalApplicants": 16,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".Net 4.0 and Azure Blob Storage",
@@ -7427,7 +8285,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-13T18:26:08.332Z",
+      "TotalApplicants": 28,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Animate Anyone Research Developer",
@@ -7499,7 +8365,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-20T20:20:51.943Z",
+      "TotalApplicants": 8,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 8,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".Net Lead with experience in Umbraco, ABP and Elsa needed",
@@ -7572,7 +8446,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-21T09:34:47.341Z",
+      "TotalApplicants": 14,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 19
+    }
   },
   {
     "Title": "Lead Sitecore / .Net Engineer",
@@ -7652,7 +8534,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T07:31:26.4Z",
+      "TotalApplicants": 18,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 2
+    }
   },
   {
     "Title": "Workflow Audit - .Net Core / Ubuntu VM / Containers",
@@ -7724,7 +8614,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-14T17:40:43.076Z",
+      "TotalApplicants": 28,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".Net Developer",
@@ -7795,7 +8693,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-22T19:18:43.297Z",
+      "TotalApplicants": 220,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Elastic Search experience for .NET project",
@@ -7868,7 +8774,15 @@
       "Describe your recent experience with similar projects",
       "Please list any certifications related to this project"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-29T19:58:29.852Z",
+      "TotalApplicants": 21,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior Angular/.NET Developer with Cypress experience",
@@ -7947,7 +8861,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-17T02:48:01.929Z",
+      "TotalApplicants": 6,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Azure Cloud Expert",
@@ -8020,7 +8942,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-18T10:47:42.751Z",
+      "TotalApplicants": 70,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "Job Title: Full-Stack Developer \u2013 Lead for Waste Management Beneficial Reuse Platform\n",
@@ -8097,7 +9027,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-26T22:10:53.656Z",
+      "TotalApplicants": 95,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Senior .NET/C# Developer",
@@ -8170,7 +9108,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T01:56:43.48Z",
+      "TotalApplicants": 129,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Review set up of project on Azure C sharp",
@@ -8243,7 +9189,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-06T16:19:24.48Z",
+      "TotalApplicants": 57,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 5,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Build a responsive web and mobile app financial platform",
@@ -8321,7 +9275,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-01T11:58:40.173Z",
+      "TotalApplicants": 52,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "MS Teams public vs private call detection",
@@ -8395,7 +9357,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 4
+    "ConnectPrice": 4,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T01:19:36.749Z",
+      "TotalApplicants": 3,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Jenkins running in Azure .net",
@@ -8473,7 +9443,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T22:37:16.95Z",
+      "TotalApplicants": 48,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "MS Access and MSSQL Assistance",
@@ -8545,7 +9523,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-16T11:57:01.115Z",
+      "TotalApplicants": 37,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Website Re-Design - Creative",
@@ -8619,7 +9605,15 @@
       "Describe your recent experience with similar projects",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-08T11:52:19.42Z",
+      "TotalApplicants": 1,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Lead Umbraco Engineer",
@@ -8696,7 +9690,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-10T11:35:33.837Z",
+      "TotalApplicants": 12,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Lead .Net / Umbraco Engineer",
@@ -8773,7 +9775,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-10T11:45:30.73Z",
+      "TotalApplicants": 12,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 5
+    }
   },
   {
     "Title": "C# Fluent UI Developer for Desktop App and ASP.NET Expert for Inventory Management Software",
@@ -8848,7 +9858,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-08T19:45:14.848Z",
+      "TotalApplicants": 30,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 13,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Ezlynx API Programmer Needed for Automation",
@@ -8922,7 +9940,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-09T19:53:10.34Z",
+      "TotalApplicants": 11,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full Stack Developer",
@@ -8998,7 +10024,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-23T13:52:43.564Z",
+      "TotalApplicants": 83,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Sr. Full-Stack - .NET/Angular Engineer",
@@ -9072,7 +10106,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-09T23:02:03.935Z",
+      "TotalApplicants": 205,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 9,
+      "UnansweredInvites": 10,
+      "InvitationsSent": 28
+    }
   },
   {
     "Title": "Build .Net c# assembly to interface with external REST API",
@@ -9145,7 +10187,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T22:42:11.868Z",
+      "TotalApplicants": 126,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 8,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Looking for a senior ASP.NET full stack developer",
@@ -9219,7 +10269,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T22:29:03.694Z",
+      "TotalApplicants": 164,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full Stack Engineer for NLP startup ",
@@ -9297,7 +10355,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T17:06:46.373Z",
+      "TotalApplicants": 61,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 6
+    }
   },
   {
     "Title": "Building Experiences: Senior software engineer wanted for high-impact agency projects",
@@ -9376,7 +10442,15 @@
       "How would you describe dependency injection to a junior engineer?",
       "What are the core differences between junior- and senior software engineers?"
     ],
-    "ConnectPrice": 12
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-10T00:04:36.761Z",
+      "TotalApplicants": 22,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": ".net architect enterprise scale",
@@ -9450,7 +10524,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-02T08:22:19.064Z",
+      "TotalApplicants": 60,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 4
+    }
   },
   {
     "Title": "Online Assessment Development ",
@@ -9520,7 +10602,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-12T20:14:54.12Z",
+      "TotalApplicants": 64,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Only Vue.js with Web API .Net core. No php folks and SQL. Other will be reported.Long term project: ",
@@ -9597,7 +10687,15 @@
       "Vue.js experience is mandatory. If you have please feel free to apply. And explain of you worked on Vue.js pinia insyead vuex",
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-12T04:17:36.033Z",
+      "TotalApplicants": 30,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 11,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 5
+    }
   },
   {
     "Title": "WPF .NET Core Desktop App Development",
@@ -9669,7 +10767,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-20T11:53:40.44Z",
+      "TotalApplicants": 47,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 4
+    }
   },
   {
     "Title": "Blazor .NET 8 Senior Developer needed",
@@ -9744,7 +10850,15 @@
       "How many years of experience do you have in Blazor?",
       "How good is your knowledge of the new features offered by Blazor version .NET 8? (this is important)"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-16T11:00:56.702Z",
+      "TotalApplicants": 34,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Windows Application",
@@ -9825,7 +10939,15 @@
       "have you done any scripting on windows powershell ?",
       "have you worked on firewall rules implementation ?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-09T13:58:13.328Z",
+      "TotalApplicants": 12,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 6
+    }
   },
   {
     "Title": "Software Developer",
@@ -9898,7 +11020,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-17T23:50:01.776Z",
+      "TotalApplicants": 3,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 5
+    }
   },
   {
     "Title": "eCommerce Migration: ASP.net to WP/WooCommerce",
@@ -9980,7 +11110,15 @@
       "After reviewing our site, how long will this project take?",
       "Estimated quote for the entire project? Hourly or Fixed?"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-07T00:50:15.708Z",
+      "TotalApplicants": 1,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 25
+    }
   },
   {
     "Title": "Software Engineer to Create POC using Amazon Textract and ASP.NET Core Web API ",
@@ -10057,7 +11195,15 @@
     "Questions": [
       "Describe your recent experience with similar projects"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-11T16:20:06.547Z",
+      "TotalApplicants": 39,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "SharePoint \u0026 Power Platform Developer ( Bilingual -Chinese and English Speaking) ",
@@ -10138,7 +11284,15 @@
       "Describe your recent experience with similar projects",
       "Please list any certifications related to this project"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2023-11-29T05:04:43.405Z",
+      "TotalApplicants": 9,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   },
   {
     "Title": "C# dot net developer windows application ",
@@ -10227,7 +11381,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 8
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-12T11:04:25.795Z",
+      "TotalApplicants": 22,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 8,
+      "InvitationsSent": 27
+    }
   },
   {
     "Title": ".net developer with specific experience with EDI",
@@ -10302,7 +11464,15 @@
       "What experience with EDI do you have?",
       "Include a link to your GitHub profile and/or website"
     ],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-12T10:58:27.46Z",
+      "TotalApplicants": 35,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "Full Stack .Net Development with Angular/React",
@@ -10379,7 +11549,15 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2023-12-09T13:28:16.536Z",
+      "TotalApplicants": 120,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
   },
   {
     "Title": "VB Dot Net / Office automation / SQL Server Windows forms expert developer required",
@@ -10453,6 +11631,14 @@
     ],
     "Duties": "N/A",
     "Questions": [],
-    "ConnectPrice": 16
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-15T16:00:12.628Z",
+      "TotalApplicants": 23,
+      "TotalHired": 2,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 1
+    }
   }
 ]

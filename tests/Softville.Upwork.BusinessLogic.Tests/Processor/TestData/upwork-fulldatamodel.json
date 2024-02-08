@@ -100,11 +100,11 @@
         ],
         "clientActivity": {
             "lastBuyerActivity": "2024-01-31T21:06:22.966Z",
-            "totalApplicants": 22,
-            "totalHired": 0,
-            "totalInvitedToInterview": 0,
-            "unansweredInvites": 0,
-            "invitationsSent": 0
+            "totalApplicants": 22000,
+            "totalHired": 100,
+            "totalInvitedToInterview": 5000,
+            "unansweredInvites": 3000,
+            "invitationsSent": 10000
         },
         "weeklyRetainerBudget": null,
         "annotations": {
@@ -121,7 +121,7 @@
                 "sourcingUpdateForbidden": "false",
                 "totalTimeSpentOnReviewPageAIv2": "3",
                 "type": "FJP",
-"finalInputsAIv2": "Some text",
+                "finalInputsAIv2": "Some text",
                 "jpgV2Prompt": "NET Developer",
                 "browser": "Chrome",
                 "timeSpentToGetAPIDescriptionAI": "4",

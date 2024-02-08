@@ -45,7 +45,7 @@ public class Job
     public Qualifications? Qualifications { get; set; }
     public bool IsPremium { get; set; }
     public List<SegmentationData>? SegmentationData { get; set; }
-    public ClientActivity? ClientActivity { get; set; }
+    public required ClientActivity ClientActivity { get; set; }
     public Annotations? Annotations { get; set; }
     public bool IsContractToHire { get; set; }
 }
