@@ -2,7 +2,6 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using System.Text;
-using System.Text.RegularExpressions;
 using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Common.Extensions;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
@@ -92,19 +91,12 @@ internal class EndToEndUpworkProcessor(
             }
         }
 
-
         string problematicOffersOutput = Path.Combine(inputFolder, "problematic-offers.json");
-
-        string regexPattern = @"^\d{19}\.json$"; // Regex pattern for 19-digit number followed by .json extension
-
-        string[] offerFilePaths = Directory.GetFiles(inputFolder, "*.json")
-            .Where(file => Regex.IsMatch(Path.GetFileName(file), regexPattern))
-            .ToArray();
 
         await using Stream offerStream = await serializer.SerializeAsync(offers, ct);
 
         await using FileStream outputOfferFileStream =
-            new(Path.Join(outputFolder, "offers.json"), FileMode.OpenOrCreate);
+            new(Path.Join(outputFolder, "offers.json"), FileMode.Truncate);
 
         await offerStream.CopyToAsync(outputOfferFileStream, ct);
 
