@@ -105,12 +105,12 @@ public class SegmentationData
 
 public class ClientActivity
 {
-    public DateTime LastBuyerActivity { get; set; }
-    public int TotalApplicants { get; set; }
-    public int TotalHired { get; set; }
-    public int TotalInvitedToInterview { get; set; }
-    public int UnansweredInvites { get; set; }
-    public int InvitationsSent { get; set; }
+    public DateTime? LastBuyerActivity { get; set; }
+    public int? TotalApplicants { get; set; }
+    public int? TotalHired { get; set; }
+    public int? TotalInvitedToInterview { get; set; }
+    public int? UnansweredInvites { get; set; }
+    public int? InvitationsSent { get; set; }
 }
 
 public class Annotations
@@ -155,8 +155,6 @@ public class Buyer
 
 public class Location
 {
-    public int OffsetFromUtcMillis { get; set; }
-    public string? CountryTimezone { get; set; }
     public string? City { get; set; }
     public string? Country { get; set; }
 }

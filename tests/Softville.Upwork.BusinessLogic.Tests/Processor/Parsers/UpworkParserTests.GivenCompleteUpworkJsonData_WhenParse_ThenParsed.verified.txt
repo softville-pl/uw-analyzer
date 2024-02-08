@@ -74,7 +74,11 @@
     ],
     ClientActivity: {
       LastBuyerActivity: 2024-01-31 21:06:22.966 Utc,
-      TotalApplicants: 22
+      TotalApplicants: 22000,
+      TotalHired: 100,
+      TotalInvitedToInterview: 5000,
+      UnansweredInvites: 3000,
+      InvitationsSent: 10000
     },
     Annotations: {
       Tags: [
@@ -109,8 +113,6 @@
   Buyer: {
     IsPaymentMethodVerified: true,
     Location: {
-      OffsetFromUtcMillis: -18000000,
-      CountryTimezone: United States (UTC-05:00),
       City: Philadelphia,
       Country: United States
     },

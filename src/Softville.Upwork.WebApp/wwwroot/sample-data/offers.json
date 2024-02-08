@@ -168,6 +168,88 @@
     }
   },
   {
+    "Title": "Senior .NET Developer with ABP Experience",
+    "Uid": "1755471184672763904",
+    "Rid": 1011200646,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 2
+    },
+    "CipherText": "~0195733e31eec98029",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-08T05:58:40.876Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0195733e31eec98029",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United Arab Emirates",
+        "City": "Dubai"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 54,
+        "ActiveAssignmentsCount": 16,
+        "FeedbackCount": 28,
+        "Score": 4.982463509,
+        "TotalJobsWithHires": 47,
+        "HoursCount": 3638.333336,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 247783.41
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET Core",
+      ".NET Core",
+      "SQL",
+      "PostgreSQL",
+      "Microsoft Azure",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-08T06:19:49.884Z",
+      "TotalApplicants": 15,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 3
+    }
+  },
+  {
     "Title": "Insurance Django Application",
     "Uid": "1755378559693008896",
     "Rid": 1011196030,
@@ -3117,49 +3199,49 @@
     }
   },
   {
-    "Title": ".NET Backend developer",
-    "Uid": "1752630259702915072",
-    "Rid": 1011027808,
+    "Title": "Fullstack .NET Developer",
+    "Uid": "1752668252665438208",
+    "Rid": 1011030254,
     "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Hours to be determined",
       "StartDate": null,
       "DeliveryDate": null,
       "NumberOfPositionsToHire": 1
     },
-    "CipherText": "~011403a91d3985038a",
+    "CipherText": "~01082b2280c59f3ffe",
     "Category": "Web Development",
     "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-31T09:49:52.051Z",
+    "PublishedTime": "2024-01-31T12:25:10.11Z",
     "Rate": {
-      "Minimum": 20,
-      "Maximum": 60,
+      "Minimum": 25,
+      "Maximum": 50,
       "Currency": "USD"
     },
-    "LinkUrl": "~011403a91d3985038a",
+    "LinkUrl": "~01082b2280c59f3ffe",
     "Developers": {
       "MoreDevsExplicitly": false,
       "MoreDevsImplicitly": 0
     },
     "Customer": {
       "Location": {
-        "Country": "France",
-        "City": "Paris 04 Hotel-de-Ville"
+        "Country": "Germany",
+        "City": "N/A"
       },
       "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
+        "Industry": "N/A",
+        "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 105,
-        "ActiveAssignmentsCount": 44,
-        "FeedbackCount": 41,
-        "Score": 4.63377094,
-        "TotalJobsWithHires": 64,
-        "HoursCount": 4460.833364,
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 122256.88
+          "Amount": 0
         }
       }
     },
@@ -3179,18 +3261,24 @@
     "ApplicationProcess": "N/A",
     "UnusualRequirements": "N/A",
     "Requirements": [
-      ".NET Framework",
-      "API",
-      "Microsoft SQL Server"
+      "ASP.NET Core",
+      "ASP.NET",
+      "C#"
     ],
     "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 8,
+    "Questions": [
+      "Design Patterns/Domain-Driven Design: Describe a project using Design Patterns or Domain-Driven Design. Which patterns/principles did you use?",
+      "Microservices Development and .NET: Share an example of a microservices project with .NET Core/.NET 6\u002B. How did you ensure efficiency, scalability, and maintainability?",
+      "Agile Mindset and Teamwork: Provide an instance where your agile mindset and teamwork were crucial. How did you incorporate feedback and continuous improvement?",
+      "Describe your recent experience with similar projects",
+      "What frameworks have you worked with?"
+    ],
+    "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-02-01T20:44:11.152Z",
-      "TotalApplicants": 49,
-      "TotalHired": 1,
-      "TotalInvitedToInterview": 12,
+      "LastBuyerActivity": "1753-01-01T00:00:00",
+      "TotalApplicants": 0,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     }
@@ -4470,6 +4558,92 @@
     }
   },
   {
+    "Title": "wordpress website upgrade, Cpanel configuration ",
+    "Uid": "1751105956857991168",
+    "Rid": 1010942430,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01fd83f8c826892121",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-27T04:52:49.678Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01fd83f8c826892121",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Pakistan",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 15
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Google Analytics",
+      "Java",
+      "PHP",
+      "SQL",
+      "Python",
+      "Database",
+      "WordPress",
+      "cPanel",
+      "Analytics"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-31T07:57:56.864Z",
+      "TotalApplicants": 8,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 8
+    }
+  },
+  {
     "Title": "SENIOR AUTOMATION ENGINEER \u2013 Contractor (will work UK Hours)",
     "Uid": "1750909304112340992",
     "Rid": 1010931300,
@@ -5544,6 +5718,86 @@
     "Activity": {
       "LastBuyerActivity": "2024-01-27T13:57:52.024Z",
       "TotalApplicants": 7,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    }
+  },
+  {
+    "Title": "Looking for talented full stack developers to help with our USD accounts for freelancers!",
+    "Uid": "1750110134838235136",
+    "Rid": 1010879215,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~015b6deae232f247a6",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-24T10:55:46.91Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~015b6deae232f247a6",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "New York"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 2,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 2,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 812.18
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "PHP",
+      "React",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-01-24T10:55:46.422Z",
+      "TotalApplicants": 32,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,

@@ -1,6 +1,7 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+using System.Data.SqlTypes;
 using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor;
@@ -52,12 +53,12 @@ internal static class UpworkOfferMapper
     internal static Activity MapToActivity(this ClientActivity activity) =>
         new()
         {
-            LastBuyerActivity = activity.LastBuyerActivity,
-            TotalApplicants = activity.TotalApplicants,
-            TotalHired = activity.TotalHired,
-            TotalInvitedToInterview = activity.TotalInvitedToInterview,
-            UnansweredInvites = activity.UnansweredInvites,
-            InvitationsSent = activity.InvitationsSent
+            LastBuyerActivity = activity.LastBuyerActivity ?? SqlDateTime.MinValue.Value,
+            TotalApplicants = activity.TotalApplicants ?? 0,
+            TotalHired = activity.TotalHired ?? 0,
+            TotalInvitedToInterview = activity.TotalInvitedToInterview ?? 0,
+            UnansweredInvites = activity.UnansweredInvites ?? 0,
+            InvitationsSent = activity.InvitationsSent ?? 0
         };
 
     internal static Rate MapToRate(this ExtendedBudgetInfo? budget) =>
