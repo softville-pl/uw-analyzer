@@ -34,7 +34,8 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
 
         if (Math.Abs(foundOffers.Count - totalCount) > 1)
         {
-            throw new InvalidOperationException($"Found less items '{foundOffers.Count}' that expected '{totalCount}'");
+            logger.LogError("Found less items '{foundCount}' that expected '{totalCount}'", foundOffers.Count,
+                totalCount);
         }
 
         return foundOffers;
