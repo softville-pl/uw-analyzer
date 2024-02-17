@@ -1,0 +1,248 @@
+{
+  "job": {
+    "ciphertext": "~017181ba5aa3ac483b",
+    "rid": 1011310138,
+    "uid": "1757431138685882368",
+    "type": 2,
+    "access": 4,
+    "title": "Senior Software Engineer - Transactional Data Integration Specialist",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T15:46:49.942Z",
+    "postedOn": "2024-02-13T15:46:50.686Z",
+    "publishTime": "2024-02-13T15:46:50.686Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1011592843,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a highly skilled developer to spearhead the creation of a transaction report generation system. This critical path project entails extracting transaction records from XML files for each customer, enriching the data through REST API calls, generating reports per customer or group, and dispatching them via email with signed URLs for secure downloading from an S3 bucket. The ideal candidate must possess expertise in Python, .NET, and AWS services, along with a proactive approach to overcoming challenges, as not all XML file values are fully understood upfront.\n\nResponsibilities:\n1. Develop a robust system to extract transaction records from XML files for each customer, catering to the uncertainty of fully understanding all XML values upfront.\n2. Implement logic to enrich the extracted data through REST API calls, ensuring flexibility to accommodate varying data structures.\n3. Design a flexible reporting mechanism capable of generating reports per customer or group, considering the dynamic nature of input data.\n4. Integrate email functionality to automate the dispatch of reports to designated recipients securely.\n5. Implement secure signed URLs for downloading reports from an S3 bucket, ensuring data integrity and confidentiality.\n6. Incorporate monitoring using CloudWatch alarms, particularly focusing on SQS failed queues, to maintain system reliability and performance.\n7. Ensure scalability, reliability, and performance of the system, considering the critical nature of the project and the tight timeline.\n8. Collaborate closely with stakeholders to gather requirements, refine the solution, and address any challenges encountered during development.\n9. Document the system architecture, codebase, and deployment procedures comprehensively to facilitate maintenance and future enhancements.\n\nRequirements:\n1. Proficiency in Python and .NET programming languages, with a strong track record of delivering high-quality solutions under tight deadlines.\n2. Extensive experience with RESTful API integration, handling varying data structures, and ensuring data integrity.\n3. In-depth knowledge of AWS services, including S3, SES, CloudWatch, and SQS, with a focus on implementing monitoring solutions for critical applications.\n4. Familiarity with XML parsing techniques and the ability to adapt to evolving requirements and data structures.\n5. Expertise in secure file handling and URL signing to safeguard sensitive information.\n6. Proven ability to design and implement scalable, maintainable software solutions, with a focus on meeting project objectives within stringent timelines.\n7. Excellent communication skills and the ability to collaborate effectively with team members and stakeholders.\n8. Experience with version control systems, preferably Git, to manage codebase changes efficiently.\n9. Previous experience in developing transactional systems or reporting solutions is highly desirable.\n10. Any previous knowledge of card-acquiring concepts will secure the project\n\nAdditional Information:\n- The project timeline and milestones will be discussed, emphasizing the urgency and critical nature of the project.\n- The successful candidate will face challenges associated with uncertain XML data structures and tight deadlines, requiring adaptability and proactive problem-solving skills.\n- Opportunities for additional projects working with a dynamic startup team await the selected candidate.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you have any experience working with payment transactional data?"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-13T19:14:14.910Z",
+      "totalApplicants": 37,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "55",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are seeking a Senior Software Engineer with expertise in transactional data integration. This is a short-term project, with an estimated duration of 1 to 3 months.\n\nThe ideal candidate will have strong experience in Python and the .NET Framework, as well as a deep understanding of Amazon DynamoDB and Amazon Web Services. Proficiency in RESTful API development, GitHub, AWS Lambda, C#, and software architecture \u0026 design is also required.\n\nAs a Transactional Data Integration Specialist, your main responsibility will be to design and develop efficient and scalable solutions for integrating transactional data across various systems. You will work closely with our team to understand requirements, identify bottlenecks, and propose innovative solutions.\n\nTo apply for this role, please submit a proposal outlining your relevant experience and how you can contribute to this project. Additionally, please provide links to some of your past completed projects that demonstrate your expertise in transactional data integration and related technologies.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T15:46:50.686Z",
+        "totalTimeJobPostFlowAIv2": "628",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626711895621632\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626718476484608\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626741322858496\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "38",
+        "totalTimeSpentOnReviewPageAIv2": "90",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707838580533",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Senior Software Engineer - Transactional Data Integration Specialist",
+        "finalDescriptionAI": "We are seeking a highly skilled developer to spearhead the creation of a transaction report generation system. This critical path project entails extracting transaction records from XML files for each customer, enriching the data through REST API calls, generating reports per customer or group, and dispatching them via email with signed URLs for secure downloading from an S3 bucket. The ideal candidate must possess expertise in Python, .NET, and AWS services, along with a proactive approach to overcoming challenges, as not all XML file values are fully understood upfront.\n\nResponsibilities:\n1. Develop a robust system to extract transaction records from XML files for each customer, catering to the uncertainty of fully understanding all XML values upfront.\n2. Implement logic to enrich the extracted data through REST API calls, ensuring flexibility to accommodate varying data structures.\n3. Design a flexible reporting mechanism capable of generating reports per customer or group, considering the dynamic nature of input data.\n4. Integrate email functionality to automate the dispatch of reports to designated recipients securely.\n5. Implement secure signed URLs for downloading reports from an S3 bucket, ensuring data integrity and confidentiality.\n6. Incorporate monitoring using CloudWatch alarms, particularly focusing on SQS failed queues, to maintain system reliability and performance.\n7. Ensure scalability, reliability, and performance of the system, considering the critical nature of the project and the tight timeline.\n8. Collaborate closely with stakeholders to gather requirements, refine the solution, and address any challenges encountered during development.\n9. Document the system architecture, codebase, and deployment procedures comprehensively to facilitate maintenance and future enhancements.\n\nRequirements:\n1. Proficiency in Python and .NET programming languages, with a strong track record of delivering high-quality solutions under tight deadlines.\n2. Extensive experience with RESTful API integration, handling varying data structures, and ensuring data integrity.\n3. In-depth knowledge of AWS services, including S3, SES, CloudWatch, and SQS, with a focus on implementing monitoring solutions for critical applications.\n4. Familiarity with XML parsing techniques and the ability to adapt to evolving requirements and data structures.\n5. Expertise in secure file handling and URL signing to safeguard sensitive information.\n6. Proven ability to design and implement scalable, maintainable software solutions, with a focus on meeting project objectives within stringent timelines.\n7. Excellent communication skills and the ability to collaborate effectively with team members and stakeholders.\n8. Experience with version control systems, preferably Git, to manage codebase changes efficiently.\n9. Previous experience in developing transactional systems or reporting solutions is highly desirable.\n10. Any previous knowledge of card-acquiring concepts will secure the project\n\nAdditional Information:\n- The project timeline and milestones will be discussed, emphasizing the urgency and critical nature of the project.\n- The successful candidate will face challenges associated with uncertain XML data structures and tight deadlines, requiring adaptability and proactive problem-solving skills.\n- Opportunities for additional projects working with a dynamic startup team await the selected candidate."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Cyprus (Africa/Ca)",
+      "city": null,
+      "country": "Cyprus"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 67,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1952.7
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-12-19T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 4,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 37.08955223880597
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

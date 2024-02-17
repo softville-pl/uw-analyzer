@@ -1,0 +1,255 @@
+{
+  "job": {
+    "ciphertext": "~0155b4a2c2c412f408",
+    "rid": 1011313188,
+    "uid": "1757464042950512640",
+    "type": 2,
+    "access": 1,
+    "title": "C# .netCore Developer to help server-to-server Android In-App Purchase Verification",
+    "status": 1,
+    "category": {
+      "name": "Contract Manufacturing",
+      "urlSlug": "contract-manufacturing"
+    },
+    "categoryGroup": {
+      "name": "Engineering \u0026 Architecture",
+      "urlSlug": "engineering-architecture"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T17:57:34.974Z",
+    "postedOn": "2024-02-13T17:57:35.483Z",
+    "publishTime": "2024-02-13T17:57:35.483Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2842173,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 95
+    },
+    "contractorTier": 3,
+    "description": "Job Task Description:\n\nWe are seeking an experienced C# .Net Core developer to assist us with server-to-server Android in-app purchase verification. Our team has successfully implemented a server-to-server receipt verification mechanism for Apple and now aims to extend these capabilities to include Google Play Store purchases.\n\nResponsibilities:\n\n- Implement server-to-server verification for Android in-app purchases made through Google Play Store.\n- Work closely with our development team to integrate this new verification mechanism into our existing bespoke server, which hosts several services.\n- Ensure that the process seamlessly authenticates Google Play Store receipts, enabling us to process orders on our bespoke server accurately.\n\nRequirements:\n\n- Proficiency in C# and .Net Core development.\n- Experience with server-to-server communication and API integrations.\n- Familiarity with Android in-app purchase workflows and Google Play Developer API.\n- Ability to extend existing codebases with new functionality while maintaining system integrity.\n- Previous experience with in-app purchase verification (especially with Google Play Store) is highly desirable.\n\nProject Context:\n\nOur bespoke server runs multiple services, and we have a separate client-facing application software through which customers can make in-app purchases on the Android platform. The successful candidate will ensure that once a purchase is made, the Google receipt returned from the Play Store is authenticated against Google\u0027s servers. This authentication is crucial for us to successfully process the order on our server.\n\nWe are looking for a developer who can tackle this challenge efficiently and contribute to our ongoing efforts to provide a seamless in-app purchase experience for our customers. If you have the skills and experience we\u0027re looking for, we\u0027d love to hear from you.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T08:48:54.481Z",
+      "totalApplicants": 20,
+      "totalHired": 1,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "416",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "0",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled C# .NET Core developer to assist us with server-to-server Android In-App Purchase Verification. The project duration is expected to be less than 1 month.\n\nAs a candidate, we would like you to submit a proposal explaining how you can contribute to this project. Specifically, we are interested in hearing about your experience and expertise in C# .NET Core development, especially in the context of Android In-App Purchase Verification.\n\nPlease include links to any relevant past projects you have completed. This will help us evaluate your skills and determine if you are the right fit for our project.\n\nWe look forward to reviewing your proposal and discussing this opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T17:57:35.483Z",
+        "totalTimeJobPostFlowAIv2": "1074",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022freeText\u0022:\u0022google play store\u0022},{\u0022freeText\u0022:\u0022in app purchases\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "131",
+        "totalTimeSpentOnReviewPageAIv2": "265",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707845980239",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "C# .netCore Developer to help server-to-server Android In-App Purchase Verification",
+        "finalDescriptionAI": "Job Task Description:\n\nWe are seeking an experienced C# .Net Core developer to assist us with server-to-server Android in-app purchase verification. Our team has successfully implemented a server-to-server receipt verification mechanism for Apple and now aims to extend these capabilities to include Google Play Store purchases.\n\nResponsibilities:\n\n- Implement server-to-server verification for Android in-app purchases made through Google Play Store.\n- Work closely with our development team to integrate this new verification mechanism into our existing bespoke server, which hosts several services.\n- Ensure that the process seamlessly authenticates Google Play Store receipts, enabling us to process orders on our bespoke server accurately.\n\nRequirements:\n\n- Proficiency in C# and .Net Core development.\n- Experience with server-to-server communication and API integrations.\n- Familiarity with Android in-app purchase workflows and Google Play Developer API.\n- Ability to extend existing codebases with new functionality while maintaining system integrity.\n- Previous experience with in-app purchase verification (especially with Google Play Store) is highly desirable.\n\nProject Context:\n\nOur bespoke server runs multiple services, and we have a separate client-facing application software through which customers can make in-app purchases on the Android platform. The successful candidate will ensure that once a purchase is made, the Google receipt returned from the Play Store is authenticated against Google\u0027s servers. This authentication is crucial for us to successfully process the order on our server.\n\nWe are looking for a developer who can tackle this challenge efficiently and contribute to our ongoing efforts to provide a seamless in-app purchase experience for our customers. If you have the skills and experience we\u0027re looking for, we\u0027d love to hear from you."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 78,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 8,
+      "score": 5,
+      "totalJobsWithHires": 75,
+      "hoursCount": 4612.500026,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 197290.81
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2011-01-11T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Retail \u0026 Consumer Goods",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 88,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 33.13696024681605
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

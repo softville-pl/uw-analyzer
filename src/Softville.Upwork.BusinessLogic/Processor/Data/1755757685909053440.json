@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~016898b2230123a122",
+    "rid": 1011220103,
+    "uid": "1755757685909053440",
+    "type": 2,
+    "access": 4,
+    "title": "Python Trading Script Placing Orders Via NinjaTrader 8",
+    "status": 1,
+    "category": {
+      "name": "Scripts \u0026 Utilities",
+      "urlSlug": "scripts-utilities"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-09T00:57:07.611Z",
+    "postedOn": "2024-02-09T00:57:08.181Z",
+    "publishTime": "2024-02-09T00:57:08.181Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1003093367,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "Job Title: Experienced Developer for RESTful Bridge Application between Python and NinjaTrader 8\n\nJob Description:\n\nI\u0027m seeking a skilled developer with expertise in .NET technologies and experience with financial trading platforms, specifically NinjaTrader 8 (NT8). The project involves creating a secure, RESTful bridge application to facilitate automated trading by connecting a Python script in a Google Colab notebook to NT8. The developer will be responsible for building the web service, securing it, configuring an NT8 script for listening/parsing trading signals, and assisting in writing a generic Python script that can be used as a template for further strategy creation in the Python environment.\n\nResponsibilities:\n\n- Develop an Intermediate Web Service: Use .NET Core or a similar .NET technology to create a web service that acts as a bridge between Python scripts and NT8. The service must listen for REST API calls from Python and translate them into commands that NT8 can understand.\n- Implement RESTful Endpoints: Define and implement endpoints for trading actions (e.g., placing orders, canceling orders). These endpoints will handle HTTP requests from the Python script.\n- Translate Requests into NT8 Commands: Within each endpoint, develop the logic to interact with a generic NT8 strategy, allowing seamless operation with various Python strategies without requiring C# coding.\n- Secure the Web Service: Implement HTTPS to encrypt data in transit and authentication mechanisms (e.g., API keys) to ensure that only authorized requests are processed.\n- Configure NinjaTrader 8: Prepare a generic NT8 strategy capable of receiving and processing signals from the web service as well as containing proper error management logic.\n- Assist in Writing the Python Script: Guide and assist in writing a Python script that sends HTTP POST requests to the web service, including the necessary data for executing trading actions. Ideally this script is modular and the format can be iterated upon for future strategies.\n\nRequirements:\n\n- Strong proficiency in .NET Core or similar .NET technology.\n- Experience with RESTful API development and security best practices.\n- Knowledge of financial trading platforms, specifically NinjaTrader 8, and familiarity with trading concepts and strategies.\n- Proficiency in Python, especially in the context of data analysis and HTTP requests.\n- Excellent problem-solving skills and attention to detail.\n- Ability to communicate clearly and collaborate effectively with non-technical team members.\n\nDesirable Skills:\n\n- Experience with Google Colab or similar cloud-based notebooks.\n- Familiarity with financial markets and algorithmic trading.\n- Previous work on integrating trading platforms with external systems.\n\nProject Duration\n\n- To be determined based on the developer\u0027s assessment of the scope.\n\nBudget\n\n- Please provide your estimated quote based on the project requirements.\n\nApplication Process:\n\nInterested candidates should submit a proposal including:\n- Previous experience with similar projects.\n- An estimated timeline and budget.\n- Any questions you have about the project.\n\nConclusion:\n\nThis project offers an exciting opportunity to work on a cutting-edge trading automation system. If you have the skills and experience required, I look forward to your proposal.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-09T05:30:38.696Z",
+      "totalApplicants": 23,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "653",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Safari",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled Python developer with expertise in NinjaTrader 8 to create a trading script for our platform. The project duration is expected to be 1 to 3 months. \n\nThe ideal candidate should have strong knowledge of Python, HTML, and scripting, as well as experience with NinjaTrader and web application development. Proficiency in API integration and C# is also desired. \n\nYour main responsibility will be to develop a script that can place orders on our trading platform using NinjaTrader 8. You should be able to work independently and deliver high-quality code within the specified timeframe. \n\nTo apply, please submit a proposal outlining your experience with Python, NinjaTrader, and web application development. Additionally, provide links to any relevant past projects you have completed. We look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-09T00:57:08.181Z",
+        "totalTimeJobPostFlowAIv2": "894",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580482566246400\u0022,\u0022parentSkillUid\u0022:\u00221225465956979150848\u0022},{\u0022skillUid\u0022:\u00221691099314216513536\u0022,\u0022parentSkillUid\u0022:\u00221225465956979150848\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626778232733696\u0022},{\u0022skillUid\u0022:\u00221031626717876699136\u0022},{\u0022skillUid\u0022:\u00221031626762910941184\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "491",
+        "totalTimeSpentOnReviewPageAIv2": "13",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707439333004",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Python Trading Script Placing Orders Via NinjaTrader 8",
+        "finalDescriptionAI": "Job Title: Experienced Developer for RESTful Bridge Application between Python and NinjaTrader 8\n\nJob Description:\n\nI\u0027m seeking a skilled developer with expertise in .NET technologies and experience with financial trading platforms, specifically NinjaTrader 8 (NT8). The project involves creating a secure, RESTful bridge application to facilitate automated trading by connecting a Python script in a Google Colab notebook to NT8. The developer will be responsible for building the web service, securing it, configuring an NT8 script for listening/parsing trading signals, and assisting in writing a generic Python script that can be used as a template for further strategy creation in the Python environment.\n\nResponsibilities:\n\n- Develop an Intermediate Web Service: Use .NET Core or a similar .NET technology to create a web service that acts as a bridge between Python scripts and NT8. The service must listen for REST API calls from Python and translate them into commands that NT8 can understand.\n- Implement RESTful Endpoints: Define and implement endpoints for trading actions (e.g., placing orders, canceling orders). These endpoints will handle HTTP requests from the Python script.\n- Translate Requests into NT8 Commands: Within each endpoint, develop the logic to interact with a generic NT8 strategy, allowing seamless operation with various Python strategies without requiring C# coding.\n- Secure the Web Service: Implement HTTPS to encrypt data in transit and authentication mechanisms (e.g., API keys) to ensure that only authorized requests are processed.\n- Configure NinjaTrader 8: Prepare a generic NT8 strategy capable of receiving and processing signals from the web service as well as containing proper error management logic.\n- Assist in Writing the Python Script: Guide and assist in writing a Python script that sends HTTP POST requests to the web service, including the necessary data for executing trading actions. Ideally this script is modular and the format can be iterated upon for future strategies.\n\nRequirements:\n\n- Strong proficiency in .NET Core or similar .NET technology.\n- Experience with RESTful API development and security best practices.\n- Knowledge of financial trading platforms, specifically NinjaTrader 8, and familiarity with trading concepts and strategies.\n- Proficiency in Python, especially in the context of data analysis and HTTP requests.\n- Excellent problem-solving skills and attention to detail.\n- Ability to communicate clearly and collaborate effectively with non-technical team members.\n\nDesirable Skills:\n\n- Experience with Google Colab or similar cloud-based notebooks.\n- Familiarity with financial markets and algorithmic trading.\n- Previous work on integrating trading platforms with external systems.\n\nProject Duration\n\n- To be determined based on the developer\u0027s assessment of the scope.\n\nBudget\n\n- Please provide your estimated quote based on the project requirements.\n\nApplication Process:\n\nInterested candidates should submit a proposal including:\n- Previous experience with similar projects.\n- An estimated timeline and budget.\n- Any questions you have about the project.\n\nConclusion:\n\nThis project offers an exciting opportunity to work on a cutting-edge trading automation system. If you have the skills and experience required, I look forward to your proposal."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Vancouver",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 4,
+      "hoursCount": 26.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2966.66
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-03-11T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 4,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 100.00012611464808
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

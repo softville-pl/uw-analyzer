@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01e1f724090aeadec0",
+    "rid": 1011298129,
+    "uid": "1757238032913108992",
+    "type": 2,
+    "access": 4,
+    "title": "Looking for .Net \u0026 Azure expert",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T02:59:29.896Z",
+    "postedOn": "2024-02-13T02:59:30.581Z",
+    "publishTime": "2024-02-13T02:59:30.581Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1000343190,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a skilled and experienced Azure Developer to join our dynamic team. As an Azure Developer, you will be responsible for designing, developing, and maintaining scalable and secure cloud-based solutions on the Microsoft Azure platform. The ideal candidate should have a strong background in cloud computing, expertise in Azure services, and a proven track record in delivering high-quality solutions.\n\nKey Responsibilities:\n\nSolution Development:\n\nDesign, develop, and implement scalable and secure cloud solutions on the Microsoft Azure platform.\nCollaborate with cross-functional teams to gather requirements and ensure the successful delivery of projects.\nAzure Services:\n\nUtilize a wide range of Azure services, including but not limited to Azure App Service, Azure Functions, Azure SQL Database, Azure Storage, and Azure Logic Apps.\nImplement and optimize serverless computing architectures for efficient application deployment.\nCode Development:\n\nWrite clean, maintainable, and efficient code following best practices.\nConduct code reviews to ensure code quality and adherence to coding standards.\nIntegration:\n\nIntegrate Azure solutions with on-premises systems and third-party services.\nImplement API integrations and manage data flow between different systems.\nSecurity and Compliance:\n\nImplement and enforce security measures to protect Azure resources and data.\nEnsure compliance with industry standards and regulations in all developed solutions.\nMonitoring and Optimization:\n\nMonitor Azure solutions for performance, reliability, and cost-effectiveness.\nOptimize resource utilization and recommend improvements for efficiency.\nDocumentation:\n\nCreate comprehensive technical documentation for developed solutions.\nProvide training and support to other team members.\nQualifications:\n\nBachelor\u0027s degree in Computer Science, Information Technology, or related field.\nProven experience as a developer with a focus on Azure technologies.\nIn-depth knowledge of Azure services, architecture, and best practices.\nStrong programming skills in languages such as C#, Python, or PowerShell.\nExperience with DevOps practices and tools, including CI/CD pipelines.\nExcellent problem-solving and troubleshooting skills.\nStrong communication and collaboration skills.\nCertifications (Preferred):\n\nMicrosoft Certified: Azure Developer Associate\nMicrosoft Certified: Azure Solutions Architect Expert\nIf you are a highly motivated individual with a passion for Azure development and a commitment to delivering high-quality solutions, we invite you to apply for this exciting opportunity. Join our team and contribute to the success of innovative and cutting-edge projects in the cloud computing space.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-13T03:35:50.922Z",
+      "totalApplicants": 140,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "17",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled .Net \u0026 Azure expert to join our team for a project that is expected to last more than 6 months. The ideal candidate should have a strong background in API development, SQL, .NET Framework, ASP.NET, Azure App Service, Microsoft Azure SQL Database, C#, and ASP.NET MVC.\n\nAs a candidate, we would like you to submit a detailed proposal that outlines how you can contribute to the project. Please describe your experience and expertise in the relevant technologies and highlight any past projects where you have successfully implemented similar solutions.\n\nAdditionally, we would appreciate it if you could provide links to past completed projects that showcase your skills and abilities. These examples will help us evaluate your capabilities and determine if you are the right fit for our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T02:59:30.581Z",
+        "totalTimeJobPostFlowAIv2": "85",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "15",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707793083706",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Looking for .Net \u0026 Azure expert",
+        "finalDescriptionAI": "We are seeking a skilled and experienced Azure Developer to join our dynamic team. As an Azure Developer, you will be responsible for designing, developing, and maintaining scalable and secure cloud-based solutions on the Microsoft Azure platform. The ideal candidate should have a strong background in cloud computing, expertise in Azure services, and a proven track record in delivering high-quality solutions.\n\nKey Responsibilities:\n\nSolution Development:\n\nDesign, develop, and implement scalable and secure cloud solutions on the Microsoft Azure platform.\nCollaborate with cross-functional teams to gather requirements and ensure the successful delivery of projects.\nAzure Services:\n\nUtilize a wide range of Azure services, including but not limited to Azure App Service, Azure Functions, Azure SQL Database, Azure Storage, and Azure Logic Apps.\nImplement and optimize serverless computing architectures for efficient application deployment.\nCode Development:\n\nWrite clean, maintainable, and efficient code following best practices.\nConduct code reviews to ensure code quality and adherence to coding standards.\nIntegration:\n\nIntegrate Azure solutions with on-premises systems and third-party services.\nImplement API integrations and manage data flow between different systems.\nSecurity and Compliance:\n\nImplement and enforce security measures to protect Azure resources and data.\nEnsure compliance with industry standards and regulations in all developed solutions.\nMonitoring and Optimization:\n\nMonitor Azure solutions for performance, reliability, and cost-effectiveness.\nOptimize resource utilization and recommend improvements for efficiency.\nDocumentation:\n\nCreate comprehensive technical documentation for developed solutions.\nProvide training and support to other team members.\nQualifications:\n\nBachelor\u0027s degree in Computer Science, Information Technology, or related field.\nProven experience as a developer with a focus on Azure technologies.\nIn-depth knowledge of Azure services, architecture, and best practices.\nStrong programming skills in languages such as C#, Python, or PowerShell.\nExperience with DevOps practices and tools, including CI/CD pipelines.\nExcellent problem-solving and troubleshooting skills.\nStrong communication and collaboration skills.\nCertifications (Preferred):\n\nMicrosoft Certified: Azure Developer Associate\nMicrosoft Certified: Azure Solutions Architect Expert\nIf you are a highly motivated individual with a passion for Azure development and a commitment to delivering high-quality solutions, we invite you to apply for this exciting opportunity. Join our team and contribute to the success of innovative and cutting-edge projects in the cloud computing space."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Sheridan",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 56,
+      "activeAssignmentsCount": 10,
+      "feedbackCount": 24,
+      "score": 4.877704986,
+      "totalJobsWithHires": 45,
+      "hoursCount": 1453.166669,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 22793.24
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-04-02T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 74,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 14.927255395230924
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

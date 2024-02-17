@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01b26617f9a173cd62",
+    "rid": 1011250538,
+    "uid": "1756342152450990080",
+    "type": 2,
+    "access": 4,
+    "title": "Azure Dev Ops ",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-10T15:39:35.380Z",
+    "postedOn": "2024-02-10T15:39:35.698Z",
+    "publishTime": "2024-02-10T15:39:35.698Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2950482,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We have our main application on .NET and it has its own app services with Cosmos DB and currently developing AI system in Python running on different app services on Azure. For Python, we have a vector database. \n\nWe need guidance on setting up a data pipeline between our main application and the cosmos. Also, need help with setting up services like event grid or service bus because our AI system needs to receive certain events for it to process the data. \n\nWe are looking for someone who has experience setting up systems like this. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-10T23:16:46.394Z",
+      "totalApplicants": 25,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "224",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled Azure Dev Ops professional to join our team for a 1 to 3-month project. The ideal candidate should have expertise in Python, Microsoft Azure, Azure App Service, and C#. \n\nAs an Azure Dev Ops specialist, you will be responsible for managing and improving our Azure infrastructure, ensuring the smooth deployment and operation of our applications. Your role will involve automating processes, optimizing performance, and monitoring the system to identify and resolve any issues that may arise.\n\nTo apply for this position, please submit a detailed proposal outlining how you can contribute to the success of this project. We encourage you to include links to any relevant past completed projects that demonstrate your expertise in Azure Dev Ops. We look forward to reviewing your proposal and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-10T15:39:35.698Z",
+        "totalTimeJobPostFlowAIv2": "311",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274386\u0022,\u0022parentSkillUid\u0022:\u00221270387306922229760\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "213",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707579263711",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Azure Dev Ops ",
+        "finalDescriptionAI": "We have our main application on .NET and it has its own app services with Cosmos DB and currently developing AI system in Python running on different app services on Azure. For Python, we have a vector database. \n\nWe need guidance on setting up a data pipeline between our main application and the cosmos. Also, need help with setting up services like event grid or service bus because our AI system needs to receive certain events for it to process the data. \n\nWe are looking for someone who has experience setting up systems like this. "
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 23,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 19,
+      "score": 4.894197905,
+      "totalJobsWithHires": 21,
+      "hoursCount": 494.16668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 13095.14
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-04-29T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 76,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 10.41294406980252
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

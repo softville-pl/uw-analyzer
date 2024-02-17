@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0158f91df7e01112a8",
+    "rid": 1011305324,
+    "uid": "1757367018355589120",
+    "type": 2,
+    "access": 4,
+    "title": "UI Expert ",
+    "status": 1,
+    "category": {
+      "name": "Web \u0026 Mobile Design",
+      "urlSlug": "web-mobile-design"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T11:32:02.430Z",
+    "postedOn": "2024-02-13T11:32:03.941Z",
+    "publishTime": "2024-02-13T11:32:03.941Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1010723830,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "I am looking for UI Expert for our new website \n\nEbrahim,",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-13T11:36:46.655Z",
+      "totalApplicants": 53,
+      "totalHired": 0,
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 1,
+      "invitationsSent": 7
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "52",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a UI Expert to join our team for a project lasting 3 to 6 months. The ideal candidate should have a strong background in web design and ASP.NET MVC. \n\nAs a UI Expert, you will be responsible for creating visually appealing and user-friendly interfaces for our web applications. You will work closely with our development team to understand project requirements and translate them into stunning designs. \n\nTo apply for this position, please submit a proposal detailing how you can help with this project. Please include examples of past completed projects that showcase your expertise in UI design. We are particularly interested in seeing your work with ASP.NET MVC applications. \n\nWe look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T11:32:03.941Z",
+        "totalTimeJobPostFlowAIv2": "251",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795181916160\u0022,\u0022parentSkillUid\u0022:\u00221110580728855777280\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "49",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707823670629",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "UI Expert ",
+        "finalDescriptionAI": "I am looking for UI Expert for our new website \n\nEbrahim,"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 10800000,
+      "countryTimezone": "Bahrain (Asia/Bagh)",
+      "city": null,
+      "country": "Bahrain"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 1,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 46.95
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-07T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 18,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 40
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

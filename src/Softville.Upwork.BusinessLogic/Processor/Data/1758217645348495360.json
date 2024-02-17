@@ -1,0 +1,285 @@
+{
+  "job": {
+    "ciphertext": "~014c45c5f5843533e1",
+    "rid": 1011362779,
+    "uid": "1758217645348495360",
+    "type": 2,
+    "access": 4,
+    "title": "ASP.NET Core Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T19:52:07.672Z",
+    "postedOn": "2024-02-15T19:52:42.128Z",
+    "publishTime": "2024-02-15T19:52:09.008Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 273665,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 65
+    },
+    "contractorTier": 3,
+    "description": "SermonSpark is AI software that we\u0027ve built for pastors to use when preparing and distributing their sermons. It is built in ASP.NET Core.  We are now seeking a full stack ASP.NET Core developer to help us add more features. You can view the software here: https://sermonspark.ai/\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 4,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-15T21:15:16.991Z",
+      "totalApplicants": 142,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "38",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-15T19:52:42.128Z",
+        "urgency": "2",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced ASP.NET Core Developer to join our team for a project that will last more than 6 months. The ideal candidate will have expertise in AI App Development, ASP.NET, and ASP.NET Core. \n\nAs an ASP.NET Core Developer, your main responsibility will be to develop, implement, and maintain web applications using ASP.NET Core framework. You will also work closely with the AI team to integrate AI functionalities into the applications.\n\nTo be successful in this role, you should have a strong understanding of software development principles and be proficient in C#. You should also have experience working with APIs, databases, and front-end technologies.\n\nTo apply, please submit a detailed proposal outlining how you can contribute to the project. Additionally, include links to past completed projects that demonstrate your expertise in ASP.NET Core development and AI app integration.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-15T19:52:09.008Z",
+        "totalTimeJobPostFlowAIv2": "525",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221691099314241679360\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716534521856\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "18",
+        "totalTimeSpentOnReviewPageAIv2": "125",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708026202498",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "ASP.NET Core Developer",
+        "finalDescriptionAI": "SermonSpark is AI software that we\u0027ve built for pastors to use when preparing and distributing their sermons. It is built in ASP.NET Core.  We are now seeking a full stack ASP.NET Core developer to help us add more features. You can view the software here: https://sermonspark.ai/\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-07:00)",
+      "city": "Scottsdale",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 299,
+      "activeAssignmentsCount": 48,
+      "feedbackCount": 99,
+      "score": 4.993586569,
+      "totalJobsWithHires": 190,
+      "hoursCount": 107670.333883,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 3499675.95
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2010-11-21T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": [
+          "upworkOccupation:graphicdesign"
+        ]
+      }
+    },
+    "jobs": {
+      "postedCount": 168,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 32.09176395565687
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
+          },
+          {
+            "qualification": 4,
+            "qualified": false,
+            "clientPreferred": "4",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Native"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas),country=(Canada,United States)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Americas, Canada, United States"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

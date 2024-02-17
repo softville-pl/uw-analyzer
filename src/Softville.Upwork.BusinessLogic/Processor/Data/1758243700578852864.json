@@ -1,0 +1,244 @@
+{
+  "job": {
+    "ciphertext": "~014ea6e97c5d6f9d8c",
+    "rid": 1011364857,
+    "uid": "1758243700578852864",
+    "type": 2,
+    "access": 4,
+    "title": "Windows based file adapter solution",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T21:35:39.771Z",
+    "postedOn": "2024-02-15T21:35:40.411Z",
+    "publishTime": "2024-02-15T21:35:40.411Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 3126357,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 28,
+      "hourlyBudgetMax": 65
+    },
+    "contractorTier": 3,
+    "description": "We need a windows based solution were based on defined paths the tool index and annonced all containing files.\nMainly it should feel like the dropbox or synology drive client but there is no need to sync files.\n\nthe solution needs to be structured as:\n\nservice #1: \nruns local at pc as a windows service which is os registered and solving all tasks. \nfounded files need to be announce to service #2\nadd subscription to web socket or grpc of service #2 to get jobs to solve (get file content)\n\ntray: \nto open gui on double clock \nto open show see top 10 last updates including state\nto pause, stop, resume, start service #1 tasks (not stop windows service itself)\n\ngui: \nto also maintain the service pause, stop, resume, start (not stop windows service itself)\nsee also show latest 20 changed (list based)\nto CRUD folder configurations\ndisplay and maintaining folder configurations\n\tfolder name (unique)\n\tuuid (unique)\n\tstate (active/inactive)\n\tlist of filename filters (type of in\u002Bout as string compare) (exmpl.: *.txt, *.doc)\n\t\nservice #2: runs at server as a windows service hosting rest api to get details deliverd from service #1 and offers web socket/grpc as return channel to \n\nservice #1 behaviour:\n - autostart after reboot\n - creates index hash key for each founded file (based on file name \u002B type, createdate, updatedate)\n - each file (founded, changed, delete or created) should only be announced to service #2 using its rest api.\n - no full resync to service #2 after reboot. should use local easy storage to know already known files\n - announcement to service #2 should contain (file name \u002B type, foldername, createdate, updatedate, filesize, crud type (created,opened=readed,changed=updated,deleted,hash key))\n\nrequired:\n - gui \u002B service #1: you need to use c# and .net 8. should run on windows pc starting by os version 11\n - gui \u002B service #1: should run under user permission\n - gui \u002B service #1: installation routing to role out service, gui and tray\n - service #2: also need to use c# and .net 8, hould run on windows or docker linux based image\n - service #2: also host swagger docu\n - json based settings files (connection details between the services)\n - extensive use of clean code style\n - use our privat github profil to store the souce code\n \nnot yet required:\n - security, roles, login \n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T16:15:02.354Z",
+      "totalApplicants": 29,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "18",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled developer to create a Windows based file adapter solution. The project is expected to last for 1 to 3 months. The ideal candidate should have experience in the .NET Framework, Git, and developing standalone desktop applications using C#. \n\nAs the developer, your main responsibility will be to design and develop a file adapter solution that can seamlessly integrate with our existing Windows environment. The solution should enable file transfer between different systems and provide a user-friendly interface for managing file operations. \n\nTo apply for this project, please submit a detailed proposal outlining your approach to the project and how you can help us achieve our goals. Additionally, please include links to any relevant past projects that demonstrate your experience in developing similar solutions. We look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-15T21:35:40.411Z",
+        "totalTimeJobPostFlowAIv2": "191",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826496\u0022},{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221225465937681158144\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u00221110580702553296896\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "11",
+        "totalTimeSpentOnReviewPageAIv2": "119",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708032746946",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "windows based file adapter solution",
+        "finalDescriptionAI": "We need a windows based solution were based on defined paths the tool index and annonced all containing files.\nMainly it should feel like the dropbox or synology drive client but there is no need to sync files.\n\nthe solution needs to be structured as:\n\nservice #1: \nruns local at pc as a windows service which is os registered and solving all tasks. \nfounded files need to be announce to service #2\nadd subscription to web socket or grpc of service #2 to get jobs to solve (get file content)\n\ntray: \nto open gui on double clock \nto open show see top 10 last updates including state\nto pause, stop, resume, start service #1 tasks (not stop windows service itself)\n\ngui: \nto also maintain the service pause, stop, resume, start (not stop windows service itself)\nsee also show latest 20 changed (list based)\nto CRUD folder configurations\ndisplay and maintaining folder configurations\n\tfolder name (unique)\n\tuuid (unique)\n\tstate (active/inactive)\n\tlist of filename filters (type of in\u002Bout as string compare) (exmpl.: *.txt, *.doc)\n\t\nservice #2: runs at server as a windows service hosting rest api to get details deliverd from service #1 and offers web socket/grpc as return channel to \n\nservice #1 behaviour:\n - autostart after reboot\n - creates index hash key for each founded file (based on file name \u002B type, createdate, updatedate)\n - each file (founded, changed, delete or created) should only be announced to service #2 using its rest api.\n - no full resync to service #2 after reboot. should use local easy storage to know already known files\n - announcement to service #2 should contain (file name \u002B type, foldername, createdate, updatedate, filesize, crud type (created,opened=readed,changed=updated,deleted,hash key))\n\nrequired:\n - gui \u002B service #1: you need to use c# and .net 8. should run on windows pc starting by os version 11\n - gui \u002B service #1: should run under user permission\n - gui \u002B service #1: installation routing to role out service, gui and tray\n - service #2: also need to use c# and .net 8, hould run on windows or docker linux based image\n - service #2: also host swagger docu\n - json based settings files (connection details between the services)\n - extensive use of clean code style\n - use our privat github profil to store the souce code\n \nnot yet required:\n - security, roles, login \n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (UTC\u002B01:00)",
+      "city": "Moehnesee",
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 16,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 5270
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-07-05T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 6,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 30
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

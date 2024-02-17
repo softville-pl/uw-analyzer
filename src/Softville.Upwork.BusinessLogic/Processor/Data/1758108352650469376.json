@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~01095a4e8ea87b91ea",
+    "rid": 1011353561,
+    "uid": "1758108352650469376",
+    "type": 2,
+    "access": 4,
+    "title": "C#/.NET Developer to maintenance the website",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T12:37:50.341Z",
+    "postedOn": "2024-02-15T12:37:50.928Z",
+    "publishTime": "2024-02-15T12:37:50.928Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 1010901745,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "Experienced .NET developer needed to resolve an issue with my web application. I encountered an error stating \u0022View not found\u0022, and upon investigation realized that the view is missing from a specific module.\n\nYou should be able to:\n- Understand the structure of Dotnet web applications\n- Track and fix view-related errors\n- Reinstate missing views in the necessary module\n\nKey requirements for potential candidates:\n- Proven experience with Dotnet web applications\n- Demonstratable success in troubleshooting and resolving similar errors\n- Ability to provide a detailed project proposal outlining the steps you\u0027ll take to rectify the problem\n\nYour proposal should be highly detailed and specific, ensuring that you thoroughly understand the error and have a robust solution to implement.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-17T01:33:03.696Z",
+      "totalApplicants": 87,
+      "totalHired": 1,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "187",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "0",
+        "generatedDescriptionAI": "We are looking for a skilled C#/.NET Developer to assist us in maintaining our website. The project is expected to last less than 1 month. The ideal candidate should have a strong background in API development, SQL, .NET Framework, ASP.NET, C#, Azure DevOps, and ASP.NET MVC.\n\nAs part of your proposal, please detail how you can contribute to this project. Specifically, we are interested in hearing about your experience in website maintenance and your ability to handle tasks such as bug fixes, performance optimization, and security updates. Additionally, please provide links to some of your past completed projects that showcase your expertise in C#/.NET development.\n\nWe look forward to reviewing your proposal and considering you for this position.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-15T12:37:50.928Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022,\u0022skillUid\u0022:\u00221204836445183918080\u0022,\u0022freetext\u0022:null,\u0022boolAnswer\u0022:false,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221110580482322976768\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221031626716547104768\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "100",
+        "totalTimeSpentOnReviewPageAIv2": "49",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707688407887",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "C#/.NET Developer to maintenance the website",
+        "finalDescriptionAI": "Experienced .NET developer needed to resolve an issue with my web application. I encountered an error stating \u0022View not found\u0022, and upon investigation realized that the view is missing from a specific module.\n\nYou should be able to:\n- Understand the structure of Dotnet web applications\n- Track and fix view-related errors\n- Reinstate missing views in the necessary module\n\nKey requirements for potential candidates:\n- Proven experience with Dotnet web applications\n- Demonstratable success in troubleshooting and resolving similar errors\n- Ability to provide a detailed project proposal outlining the steps you\u0027ll take to rectify the problem\n\nYour proposal should be highly detailed and specific, ensuring that you thoroughly understand the error and have a robust solution to implement."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -10800000,
+      "countryTimezone": "Brazil (America/B)",
+      "city": null,
+      "country": "Brazil"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-20T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

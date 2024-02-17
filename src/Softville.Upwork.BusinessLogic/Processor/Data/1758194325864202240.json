@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01779b39c9d65e9728",
+    "rid": 1011360677,
+    "uid": "1758194325864202240",
+    "type": 2,
+    "access": 4,
+    "title": ".Net Developer ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T18:19:27.970Z",
+    "postedOn": "2024-02-15T18:19:28.471Z",
+    "publishTime": "2024-02-15T18:19:28.471Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1010719123,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a talented and motivated .NET developer to join our team and help us build innovative and impactful software solutions.\n\nAbout the Role:\nAs a .NET developer, you will be responsible for the entire software development lifecycle, from design and development to testing and deployment. You will work closely with other developers, product managers, and designers to bring our vision to life.\n\nResponsibilities:\n\n    Design, develop, and maintain high-quality, scalable, and secure .NET applications using C# or VB.NET.\n    Collaborate with product managers and designers to understand requirements and translate them into technical specifications.\n    Write clean, well-documented, and maintainable code.\n    Conduct unit testing, integration testing, and performance testing.\n    Deploy applications to production environments.\n    Monitor application performance and troubleshoot any issues.\n    Stay up-to-date with the latest .NET technologies and best practices.\n    Participate in code reviews and knowledge sharing with other developers.\n\nQualifications:\n\n    3\u002B years of experience as a .NET developer.\n    Strong proficiency in C# or VB.NET.\n    Experience with ASP.NET MVC, ASP.NET Core, or similar web frameworks.\n    Experience with relational databases (e.g., SQL Server, Azure SQL Database).\n    Experience with version control systems (e.g., Git).\n    Experience with unit testing frameworks (e.g., NUnit, xUnit).\n    Excellent problem-solving and analytical skills.\n    Strong communication and collaboration skills.\n    Ability to work independently and as part of a team.\n    A passion for software development and a willingness to learn new technologies.\n\nBonus points:\n\n    Experience with cloud platforms (e.g., Azure, AWS).\n    Experience with microservices architecture.\n    Experience with continuous integration and continuous delivery (CI/CD).\n    Experience with API development.\n\nWe offer a competitive salary and benefits package, including health insurance, retirement savings, and paid time off.\n\nIf you are a highly motivated .NET developer who is passionate about building great software, we encourage you to apply!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T13:07:26.959Z",
+      "totalApplicants": 50,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "17",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an experienced .Net Developer to join our team for a project that is expected to last more than 6 months. The ideal candidate should have strong skills in API development, .NET Core, SQL, .NET Framework, ASP.NET, Microsoft SQL Server, JavaScript, C#, jQuery, and ASP.NET MVC.\n\nAs a .Net Developer, your main responsibility will be to develop and maintain software applications using the .NET framework. You will be involved in all stages of the software development life cycle, from requirements gathering to implementation and testing. \n\nTo be considered for this role, please submit a detailed proposal outlining how you can contribute to this project. We would like to know about your past experience with similar projects and any relevant certifications or qualifications you may have. Please also provide links to any relevant completed projects that showcase your skills and expertise.\n\nWe look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "android_client_rjp",
+        "publishTime": "2024-02-15T18:19:28.471Z",
+        "totalTimeJobPostFlowAIv2": "80",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626751737315328\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "16",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Android",
+        "startTimeJobPostFlowAIv2": "1708021086550",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": ".Net Developer ",
+        "finalDescriptionAI": "We are seeking a talented and motivated .NET developer to join our team and help us build innovative and impactful software solutions.\n\nAbout the Role:\nAs a .NET developer, you will be responsible for the entire software development lifecycle, from design and development to testing and deployment. You will work closely with other developers, product managers, and designers to bring our vision to life.\n\nResponsibilities:\n\n    Design, develop, and maintain high-quality, scalable, and secure .NET applications using C# or VB.NET.\n    Collaborate with product managers and designers to understand requirements and translate them into technical specifications.\n    Write clean, well-documented, and maintainable code.\n    Conduct unit testing, integration testing, and performance testing.\n    Deploy applications to production environments.\n    Monitor application performance and troubleshoot any issues.\n    Stay up-to-date with the latest .NET technologies and best practices.\n    Participate in code reviews and knowledge sharing with other developers.\n\nQualifications:\n\n    3\u002B years of experience as a .NET developer.\n    Strong proficiency in C# or VB.NET.\n    Experience with ASP.NET MVC, ASP.NET Core, or similar web frameworks.\n    Experience with relational databases (e.g., SQL Server, Azure SQL Database).\n    Experience with version control systems (e.g., Git).\n    Experience with unit testing frameworks (e.g., NUnit, xUnit).\n    Excellent problem-solving and analytical skills.\n    Strong communication and collaboration skills.\n    Ability to work independently and as part of a team.\n    A passion for software development and a willingness to learn new technologies.\n\nBonus points:\n\n    Experience with cloud platforms (e.g., Azure, AWS).\n    Experience with microservices architecture.\n    Experience with continuous integration and continuous delivery (CI/CD).\n    Experience with API development.\n\nWe offer a competitive salary and benefits package, including health insurance, retirement savings, and paid time off.\n\nIf you are a highly motivated .NET developer who is passionate about building great software, we encourage you to apply!"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 24.5,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 112.34
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-07T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 6,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 4.060816326530612
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

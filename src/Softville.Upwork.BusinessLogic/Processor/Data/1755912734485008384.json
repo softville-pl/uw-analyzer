@@ -1,0 +1,258 @@
+{
+  "job": {
+    "ciphertext": "~01466158578267db10",
+    "rid": 1011227457,
+    "uid": "1755912734485008384",
+    "type": 2,
+    "access": 4,
+    "title": ".NET Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-09T11:13:14.134Z",
+    "postedOn": "2024-02-09T14:13:16.881Z",
+    "publishTime": "2024-02-09T14:13:16.881Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 7140480,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 3,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 75,
+      "hourlyBudgetMax": 75
+    },
+    "contractorTier": 3,
+    "description": "Skills\n.NET Fullstack (Strong)\nGood Knowledge in .NET technologies, ASP.NET, MVC framework, SQL Server, C#, Entity Framework, WCF.\nGood Knowledge in Trading, Order Management System Application and Captial Markets\nGood to have experience in CI/CD DevOps process\nGood to have experience in Software development life cycle especially in Agile methodology .\nRole \u0026 Responsibilities\n\u2022 Effective Communication skills and reporting to Stakeholder\n\u2022 Ability to handle incident, problem management and release management.\n\u2022 Ability to work in team in diverse/ multiple stakeholder environment\n\u2022 Strong Analytical skills\n\u2022 Experience and desire to work in a Global delivery environment.\n\u2022 Effective Communication skills and reporting to Stakeholder\n\u2022 Ability to handle incident, problem management and release management.\n\u2022 Ability to work in team in diverse/ multiple stakeholder environment\n\u2022 Strong Analytical skills\n\u2022 Experience and desire to work in a Global delivery environment.\n \n\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you have experience in the Banking domain"
+      },
+      {
+        "position": 1,
+        "question": "Do you have residence and work permit to work in Swtizerland?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Switzerland"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-12T07:28:25.113Z",
+      "totalApplicants": 17,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 2,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "371",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced .NET Developer to join our team for a project that is expected to last for more than 6 months. The ideal candidate should have a strong background in ASP.NET, Microsoft SQL Server, Microsoft SQL Server Programming, MVC Framework, and C#.\n\nAs a .NET Developer, your responsibilities will include developing, testing, and maintaining web applications using the mentioned technologies. You will be working closely with our team to understand project requirements and deliver high-quality code that meets client specifications.\n\nTo apply for this role, please submit a proposal that outlines how you can contribute to the project. Additionally, please include links to past completed projects that demonstrate your expertise in .NET development. We are looking forward to reviewing your proposal and considering you for this position.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-09T14:13:16.881Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022freeText\u0022:\u0022.NET Technologies\u0022},{\u0022skillUid\u0022:\u00221031626761472294912\u0022},{\u0022skillUid\u0022:\u00221031626759249313792\u0022},{\u0022freeText\u0022:\u0022Entitiy Framework\u0022},{\u0022freeText\u0022:\u0022WCF\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "70",
+        "totalTimeSpentOnReviewPageAIv2": "243",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707476116769",
+        "finalDescriptionAI": "Skills\n.NET Fullstack (Strong)\nGood Knowledge in .NET technologies, ASP.NET, MVC framework, SQL Server, C#, Entity Framework, WCF.\nGood Knowledge in Trading, Order Management System Application and Captial Markets\nGood to have experience in CI/CD DevOps process\nGood to have experience in Software development life cycle especially in Agile methodology .\nRole \u0026 Responsibilities\n\u2022 Effective Communication skills and reporting to Stakeholder\n\u2022 Ability to handle incident, problem management and release management.\n\u2022 Ability to work in team in diverse/ multiple stakeholder environment\n\u2022 Strong Analytical skills\n\u2022 Experience and desire to work in a Global delivery environment.\n\u2022 Effective Communication skills and reporting to Stakeholder\n\u2022 Ability to handle incident, problem management and release management.\n\u2022 Ability to work in team in diverse/ multiple stakeholder environment\n\u2022 Strong Analytical skills\n\u2022 Experience and desire to work in a Global delivery environment.\n \n\n",
+        "inputsTitleAI": ".NET Developer",
+        "inputsDurationAI": "474250516458926080"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "India (UTC)",
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 7,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 4,
+      "score": 5,
+      "totalJobsWithHires": 5,
+      "hoursCount": 5172.000007,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 86413.29
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-01-28T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 106,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 16.27459201200268
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Switzerland)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Switzerland"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

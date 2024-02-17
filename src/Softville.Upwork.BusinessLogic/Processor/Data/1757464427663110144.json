@@ -1,0 +1,276 @@
+{
+  "job": {
+    "ciphertext": "~01170a2ebe2862f9ea",
+    "rid": 1011313228,
+    "uid": "1757464427663110144",
+    "type": 2,
+    "access": 1,
+    "title": "Full Stack Developer (C#, Umbraco 7.3, .NET 4.5, HTML5, SASS, MS SQL)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T17:59:06.771Z",
+    "postedOn": "2024-02-13T17:59:07.180Z",
+    "publishTime": "2024-02-13T17:59:07.180Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 700066,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Please review the full job posting and only bid if you satisfy all requirements and answer all questions. Templated generic bids or incomplete responses will be ignored.\n\nWe will only interview candidates that meet all requirements. Please, do not try to contact us.\n\nLooking for a full-stack developer to help with the continuous development of a website based on Umbraco 7.3. There are multiple tasks or mini projects in the pipeline like code refactoring, library updates, new features, bug fixes, etc. We have strict expectations for delivering on time!\n\nRequired Skills: \n- 5\u002B year with Umbraco 7\u002B websites\n- 5\u002B years .NET, Entity Framework, Razor, C#\n- 5\u002B year HTML5, CSS5, SASS and JQuery\n- 5\u002B years MS SQL\n\nYou must be available during regular working hours for US East Coast time zone (UTC-5)!",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you have experience with Umbraco 7.3, including macroScripts, UserControls, Macro Partials, and XSLT?"
+      },
+      {
+        "position": 1,
+        "question": "Have you worked with .NET 4.5, Entity Framework, Razor Pages, NuGet, Git, and Deployment Automation?"
+      },
+      {
+        "position": 2,
+        "question": "Have you worked with HTML5, CSS3, SASS and JQuery?"
+      },
+      {
+        "position": 3,
+        "question": "Do you have experience working with MS SQL 2012, including DB modeling, Stored Procedures, and Temp Tables?"
+      },
+      {
+        "position": 4,
+        "question": "Are you able to commit to providing time estimates for each work effort and be available for at least 4 hours during USA EST time zone working hours 9am-6pm?"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-15T10:59:35.245Z",
+      "totalApplicants": 17,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T17:59:07.180Z",
+        "reuse": "1741228842382110720",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "1290",
+        "type": "RJP",
+        "urgency": "2",
+        "browser": "Chrome",
+        "device": "Macintosh"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Brooklyn",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 22,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 12,
+      "score": 3.888857006,
+      "totalJobsWithHires": 22,
+      "hoursCount": 89.833334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1899.7
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2012-09-18T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 33,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 12.078255940050049
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_10000",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 10000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,228 @@
+{
+  "job": {
+    "ciphertext": "~01f7b12de0edfbba26",
+    "rid": 1011344485,
+    "uid": "1757934891545845760",
+    "type": 2,
+    "access": 4,
+    "title": "Expert .NET Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T01:08:33.955Z",
+    "postedOn": "2024-02-15T01:08:34.524Z",
+    "publishTime": "2024-02-15T01:08:34.524Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012219494,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a highly skilled and experienced .NET Developer to join our team. As an Expert .NET Developer, you will be responsible for designing, coding, and modifying software applications using the .NET framework. You will collaborate with a team of developers and stakeholders to deliver high-quality solutions. The ideal candidate should have a deep understanding of .NET technologies, strong problem-solving skills, and a track record of delivering scalable and maintainable code. \n\nResponsibilities:\n- Develop and maintain software applications using .NET technologies\n- Collaborate with cross-functional teams to analyze user requirements and design software solutions\n- Write clean, scalable, and efficient code\n- Troubleshoot and debug applications\n- Perform code reviews and provide constructive feedback\n\nSkills:\n- Strong proficiency in .NET framework\n- Experience with C# and ASP.NET\n- Knowledge of SQL Server and database design\n- Familiarity with front-end technologies such as HTML, CSS, and JavaScript\n- Excellent problem-solving and analytical skills\n\nWe are looking for a candidate who can hit the ground running and make an immediate impact on our projects. If you are a self-motivated and dedicated .NET Developer with expertise in building robust applications, we would love to hear from you.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-17T03:10:03.018Z",
+      "totalApplicants": 69,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 15,
+      "invitationsSent": 21
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-15T01:08:34.524Z",
+        "totalTimeJobPostFlowAIv2": "95",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "29",
+        "type": "FJP",
+        "optInDescriptionAIv2": "yes",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Expert .NET Developer\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:25,\u0022hourlyBudgetMax\u0022:50,\u0022amount\u0022:null}}",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Expert .NET Developer\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{}}",
+        "jpgV2Prompt": "Expert .NET Developer Needed",
+        "browser": "Chrome",
+        "device": "Macintosh",
+        "retriesAIv2": "1",
+        "startTimeJobPostFlowAIv2": "1707959217331",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:6,\u0022description\u0022:\u0022We are seeking a highly skilled and experienced .NET Developer to join our team. As an Expert .NET Developer, you will be responsible for designing, coding, and modifying software applications using the .NET framework. You will collaborate with a team of developers and stakeholders to deliver high-quality solutions. The ideal candidate should have a deep understanding of .NET technologies, strong problem-solving skills, and a track record of delivering scalable and maintainable code. \\n\\nResponsibilities:\\n- Develop and maintain software applications using .NET technologies\\n- Collaborate with cross-functional teams to analyze user requirements and design software solutions\\n- Write clean, scalable, and efficient code\\n- Troubleshoot and debug applications\\n- Perform code reviews and provide constructive feedback\\n\\nSkills:\\n- Strong proficiency in .NET framework\\n- Experience with C# and ASP.NET\\n- Knowledge of SQL Server and database design\\n- Familiarity with front-end technologies such as HTML, CSS, and JavaScript\\n- Excellent problem-solving and analytical skills\\n\\nWe are looking for a candidate who can hit the ground running and make an immediate impact on our projects. If you are a self-motivated and dedicated .NET Developer with expertise in building robust applications, we would love to hear from you.\u0022,\u0022editedDescription\u0022:\u0022We are seeking a highly skilled and experienced .NET Developer to join our team. As an Expert .NET Developer, you will be responsible for designing, coding, and modifying software applications using the .NET framework. You will collaborate with a team of developers and stakeholders to deliver high-quality solutions. The ideal candidate should have a deep understanding of .NET technologies, strong problem-solving skills, and a track record of delivering scalable and maintainable code. \\n\\nResponsibilities:\\n- Develop and maintain software applications using .NET technologies\\n- Collaborate with cross-functional teams to analyze user requirements and design software solutions\\n- Write clean, scalable, and efficient code\\n- Troubleshoot and debug applications\\n- Perform code reviews and provide constructive feedback\\n\\nSkills:\\n- Strong proficiency in .NET framework\\n- Experience with C# and ASP.NET\\n- Knowledge of SQL Server and database design\\n- Familiarity with front-end technologies such as HTML, CSS, and JavaScript\\n- Excellent problem-solving and analytical skills\\n\\nWe are looking for a candidate who can hit the ground running and make an immediate impact on our projects. If you are a self-motivated and dedicated .NET Developer with expertise in building robust applications, we would love to hear from you.\u0022,\u0022similarityScore\u0022:1}]"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-15T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 2,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

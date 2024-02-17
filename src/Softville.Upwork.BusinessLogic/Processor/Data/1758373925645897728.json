@@ -1,0 +1,242 @@
+{
+  "job": {
+    "ciphertext": "~0160b3483347ac204d",
+    "rid": 1011371628,
+    "uid": "1758373925645897728",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Developer (Individual Contributor)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-16T06:13:07.815Z",
+    "postedOn": "2024-02-16T06:13:08.175Z",
+    "publishTime": "2024-02-16T06:13:08.175Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011210811,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 10,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re seeking a skilled Full Stack Developer to join our team. If you\u0027re proficient in HTML, CSS, JavaScript, C#, ASP.NET(ASPX/ASCX), React, Angular, and have a solid understanding of T-SQL, we want to hear from you. You should have experience handling tickets and providing effective solutions in a professional setting.\n\nRequirements:\n\nProficiency in HTML, CSS, JavaScript, C#, ASP.NET, React, Angular, T-SQL, and MS SQL.\nDemonstrated experience handling tickets and providing technical support.\nStrong problem-solving skills and attention to detail.\nEffective communication and collaboration abilities.\nBachelor\u0027s degree in Computer Science or related field.\n10\u002B years of experience in full-stack development.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T06:29:08.575Z",
+      "totalApplicants": 145,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "109",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled Full Stack Developer (Individual Contributor) to join our team for a project lasting more than 6 months. As a Full Stack Developer, you will be responsible for developing and maintaining web applications, ensuring seamless user experience and high-performance. \n\nThe ideal candidate should have a strong grasp of HTML, ASP.NET, CSS, Transact-SQL, JavaScript, Angular, React, and C#. You should also have a solid understanding of responsive design principles and be able to work collaboratively with cross-functional teams.\n\nTo apply, please submit a proposal detailing how you can contribute to the project. Describe your relevant experience and highlight any successful projects you have completed in the past. Please include links to these projects, showcasing your skills and expertise. We look forward to reviewing your proposal and discussing the project in further detail.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-16T06:13:08.175Z",
+        "totalTimeJobPostFlowAIv2": "269",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626745110315008\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626787380510720\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022freeText\u0022:\u0022MS SQL\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "90",
+        "totalTimeSpentOnReviewPageAIv2": "16",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708063717571",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Full Stack Developer (Individual Contributor)",
+        "finalDescriptionAI": "We\u0027re seeking a skilled Full Stack Developer to join our team. If you\u0027re proficient in HTML, CSS, JavaScript, C#, ASP.NET(ASPX/ASCX), React, Angular, and have a solid understanding of T-SQL, we want to hear from you. You should have experience handling tickets and providing effective solutions in a professional setting.\n\nRequirements:\n\nProficiency in HTML, CSS, JavaScript, C#, ASP.NET, React, Angular, T-SQL, and MS SQL.\nDemonstrated experience handling tickets and providing technical support.\nStrong problem-solving skills and attention to detail.\nEffective communication and collaboration abilities.\nBachelor\u0027s degree in Computer Science or related field.\n10\u002B years of experience in full-stack development."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 5,
+      "hoursCount": 9.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 180
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-12-07T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": [
+          "upworkOccupation:businessapplicationsdevelopment"
+        ]
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.999271818208296
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

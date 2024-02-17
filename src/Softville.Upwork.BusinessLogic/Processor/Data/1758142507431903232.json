@@ -1,0 +1,259 @@
+{
+  "job": {
+    "ciphertext": "~019cb4e19e7b165de2",
+    "rid": 1011356163,
+    "uid": "1758142507431903232",
+    "type": 2,
+    "access": 4,
+    "title": ".Net Framework - High Performer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T14:53:33.596Z",
+    "postedOn": "2024-02-15T14:53:33.989Z",
+    "publishTime": "2024-02-15T14:53:33.989Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 893242,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are established 10\u002B year SaaS niche company.\n\nRight now only 1 developer and need to add on some development capacity.\n\nLooking for someone to assist current developer (Ukrainian) in brainstorming, having a \u0022sounding board\u0022 and up to developing other core features/components of our desktop software.\n\nNET Framework 4.6\u002B, .NET 8, WinForms, DevExpress. Refactor existing legacy code and implement new features for desktop software.\n\nUkrainian preferred, otherwise very strong in English.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Examples of .net framework applications you have built"
+      },
+      {
+        "position": 1,
+        "question": "Have you worked with DevExpress? If so, please briefly describe your experience."
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T17:21:55.674Z",
+      "totalApplicants": 52,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "303",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a talented and experienced .Net Framework developer to join our team for a 3 to 6-month project. The ideal candidate will have a strong background in developing desktop applications using the .NET Framework. \n\nAs a High Performer, you will be responsible for developing and maintaining desktop applications for our clients. This includes designing, coding, testing, and debugging software applications using .NET technologies. \n\nTo be considered for this role, please submit a proposal outlining your relevant experience and how you can contribute to the success of this project. We would like to see examples of your past completed projects using the .NET Framework. Please include links to these projects in your proposal.\n\nWe look forward to reviewing your proposal and finding the perfect candidate to join our team!",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-15T14:53:33.989Z",
+        "totalTimeJobPostFlowAIv2": "881",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626731394940928\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "253",
+        "totalTimeSpentOnReviewPageAIv2": "366",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708007930520",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": ".Net Framework - High Performer",
+        "finalDescriptionAI": "We are established 10\u002B year SaaS niche company.\n\nRight now only 1 developer and need to add on some development capacity.\n\nLooking for someone to assist current developer in brainstorming, having a \u0022sounding board\u0022 and up to developing other core features/components of our desktop software.\n\nNET Framework 4.6\u002B, .NET 8, WinForms, DevExpress. Refactor existing legacy code and implement new features for desktop software."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Port Saint Lucie",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 65,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 45,
+      "score": 4.981352981,
+      "totalJobsWithHires": 50,
+      "hoursCount": 928.333374,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 19159.5
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2013-04-05T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 119,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 14.491765971994452
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Ukraine)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Ukraine"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

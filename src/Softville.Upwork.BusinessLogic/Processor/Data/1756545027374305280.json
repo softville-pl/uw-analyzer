@@ -1,0 +1,238 @@
+{
+  "job": {
+    "ciphertext": "~0155b5368aedbd3a4f",
+    "rid": 1011259583,
+    "uid": "1756545027374305280",
+    "type": 2,
+    "access": 4,
+    "title": "Technical Project Manager",
+    "status": 1,
+    "category": {
+      "name": "Project Management",
+      "urlSlug": "project-management"
+    },
+    "categoryGroup": {
+      "name": "Admin Support",
+      "urlSlug": "admin-support"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-11T05:05:44.440Z",
+    "postedOn": "2024-02-11T05:05:44.913Z",
+    "publishTime": "2024-02-11T05:05:44.913Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2383387,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 58
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a motivated and experienced Project Manager to join our team. The ideal candidate will possess excellent communication skills, a deep understanding of technical concepts, and the ability to effectively lead meetings and coordinate project activities.\n\nResponsibilities:\n\nLead and manage projects from initiation to completion, ensuring timely delivery within budget and scope.\nCoordinate project activities, including planning, scheduling, resource allocation, and risk management\n\nTechnology Skills:\n.NET / Core , Vue.js, Azure DevOPs",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-14T02:52:21.671Z",
+      "totalApplicants": 22,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "37",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled Technical Project Manager to join our team for a project that will last more than 6 months. As a Technical Project Manager, you will be responsible for overseeing the successful execution and delivery of technical projects. \n\nKey responsibilities include creating and maintaining project plans, utilizing agile project management methodologies, and ensuring the project aligns with the health and wellness industry. Experience working with businesses that have 100-999 employees is preferred. Proficiency in technical project management tools such as Jira is also required.\n\nTo apply for this position, please submit a proposal detailing how you can contribute to the success of this project. Please provide links to past completed projects that showcase your expertise in technical project management. We look forward to reviewing your proposal and working with you on this exciting project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-11T05:05:44.913Z",
+        "totalTimeJobPostFlowAIv2": "173",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580474014060544\u0022,\u0022parentSkillUid\u0022:\u00221110580667149176832\u0022},{\u0022skillUid\u0022:\u00221045317644545196032\u0022,\u0022parentSkillUid\u0022:\u00221534904364362448896\u0022},{\u0022skillUid\u0022:\u00221110580667442778112\u0022,\u0022parentSkillUid\u0022:\u00221110580667249840128\u0022},{\u0022skillUid\u0022:\u00221204836466872664064\u0022,\u0022parentSkillUid\u0022:\u00221534904364509249536\u0022},{\u0022skillUid\u0022:\u00221110580710090461184\u0022},{\u0022skillUid\u0022:\u00221110580610148585472\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "35",
+        "totalTimeSpentOnReviewPageAIv2": "9",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707627770519",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Technical Project Manager",
+        "finalDescriptionAI": "We are seeking a motivated and experienced Project Manager to join our team. The ideal candidate will possess excellent communication skills, a deep understanding of technical concepts, and the ability to effectively lead meetings and coordinate project activities.\n\nResponsibilities:\n\nLead and manage projects from initiation to completion, ensuring timely delivery within budget and scope.\nCoordinate project activities, including planning, scheduling, resource allocation, and risk management\n\nTechnology Skills:\n.NET / Core , Vue.js, Azure DevOPs"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (UTC\u002B05:30)",
+      "city": "Cochin",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 30
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2014-08-18T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 39,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0135e2fb47440b2e15",
+    "rid": 1011215777,
+    "uid": "1755689017892233216",
+    "type": 2,
+    "access": 4,
+    "title": "Microsoft Platform Developer .Net/ASP",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-08T20:24:15.890Z",
+    "postedOn": "2024-02-08T20:24:16.327Z",
+    "publishTime": "2024-02-08T20:24:16.327Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1691274,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-09T07:10:34.856Z",
+      "totalApplicants": 58,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "193",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced Microsoft Platform Developer with expertise in .Net/ASP to join our team for a 3 to 6-month project. As a Microsoft Platform Developer, you will be responsible for developing and maintaining applications using the .NET framework and ASP.NET.\n\nKey skills required for this role include API development, proficiency in the .NET Framework, experience with application installers, ASP.NET, C#, and application security.\n\nIn your proposal, please provide a detailed description of how you can contribute to the project. Highlight your relevant experience and expertise in Microsoft development, and provide examples of past completed projects that demonstrate your skills.\n\nPlease include links to your portfolio or previous projects that showcase your abilities as a Microsoft Platform Developer. We look forward to reviewing your proposal and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-08T20:24:16.327Z",
+        "totalTimeJobPostFlowAIv2": "324",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580484306882560\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626715037155328\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "171",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707423530801",
+        "inputsTitleAI": "Microsoft Platform Developer .Net/ASP",
+        "finalDescriptionAI": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
+        "inputsDurationAI": "474250516458926081"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Aliso Viejo",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 196,
+      "activeAssignmentsCount": 23,
+      "feedbackCount": 103,
+      "score": 4.821108423,
+      "totalJobsWithHires": 124,
+      "hoursCount": 79000.333576,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2238581.63
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-12-05T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 277,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 27.536473094853807
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

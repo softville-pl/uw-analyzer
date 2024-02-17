@@ -1,0 +1,245 @@
+{
+  "job": {
+    "ciphertext": "~01ad99315656dc98c9",
+    "rid": 1011210016,
+    "uid": "1755620826396114944",
+    "type": 2,
+    "access": 4,
+    "title": "Looking for Auditor of Code and Best Practices in ASP.NET",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-08T15:53:17.822Z",
+    "postedOn": "2024-02-08T15:53:18.339Z",
+    "publishTime": "2024-02-08T15:53:18.339Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 2544569,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 125
+    },
+    "contractorTier": 3,
+    "description": "We are an academic research center that develops a forecasting model that is very large.  There are three main components to the tool, the database, the underlying model (written in VB.net) and the GUI (written in asp.net framework 4.71 along with javascript) that is browser based.  Originally the tool had a standalone version written in VB6 with its own unique GUI and a parallel version that was online (it\u0027s still online--see here:  https://www.ifs.du.edu/ifs/frm_MainMenu.aspx).  To gain efficiency in development, we now have a stand-alone version that can be downloaded on PCs that also uses a browser for the GUI (see here:  https://ifs02.du.edu/IFs%20with%20Pardee%208_17%20February%206%202024.zip).  \n \nWe will provide the entire source code once contracted, but for now you can look at an example. \n\nhttps://ifs02.du.edu/DEV/Audit/frm_PackagedDisplaysFlex.zip\n\nLook at the code in frm_PackagedDisplaysFlex.aspx.vb under Page_Load to check the initialization logic, look at the javascript files to look at the user interaction logic, look at the cmdLine_Click procedure for an example on how we load our results, that should take you to gLoadPackage and gLoadForDisplayNET (in Function2.vb), which is the one that actually reads our output file, and the dataframes (The LoadDataframe is part of the Main Model implementation which is linked to the GUI project).\n\n At this point we have some issues that have complicated the use of the tool--the attached document outlines some of these and provides more background on the tool.  Some of these issues have to do with intermittent errors or unexplained behavior that seems to relate to saving and deleting information via the browser.  For example, the tool requires IIS to run and restarting IIS will often solve issues that have arisen, but issues continue to persist and are hard to track down and squash.  The tool is used widely by people around the world with different OS and language requirements which also create complications. \n \nWe would like to pay a consultant to help us understand best practice operations for a browser-based application like this.  We would like advice about the \u0022best practice\u0022 we could pursue to avoid any persistent and intermittent issues and would like to know if our current approach is workable or if we have made some fundamental errors in the structure of the software.  We are looking for someone who can work with our Lead Systems developer by asking questions about the structure of the model, particularly the GUI, with any guidance on how to make it more stable.  We would be interested in solutions that are not wildly expensive to pursue (in terms of money and time) but also are open to broad suggestions.  For example, if we were able to make it more stable and faster that would be an ideal outcome.\n",
+    "attachments": [
+      {
+        "fileName": "IFs Architecture February 2024.docx",
+        "length": 23183,
+        "uri": "/att/download/openings/1755620826396114944/attachments/36225af7-83a8-4478-8f15-9edf43b288a6/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-09T00:59:37.210Z",
+      "totalApplicants": 32,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 1,
+      "invitationsSent": 3
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "749",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for an experienced Auditor of Code and Best Practices in ASP.NET to join our team for a project that will last 1 to 3 months. The ideal candidate should have a strong background in web development, with expertise in HTML, .NET Framework, ASP.NET, Website Optimization, SQLite, Microsoft IIS, and JavaScript.\n\nYour main responsibility will be to review our existing ASP.NET codebase and ensure that it adheres to industry best practices and coding standards. You will also be responsible for identifying any potential vulnerabilities, bugs, or performance issues and providing recommendations for improvement.\n\nTo apply for this position, please submit a detailed proposal outlining how you can contribute to this project. Additionally, we would appreciate if you could include links to any relevant past projects that showcase your expertise in ASP.NET auditing and optimization.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-08T15:53:18.339Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221204836482932654080\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628000108549\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626747287158784\u0022,\u0022parentSkillUid\u0022:\u00221204836482861350912\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "386",
+        "totalTimeSpentOnReviewPageAIv2": "216",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707405620878",
+        "finalDescriptionAI": "We are an academic research center that develops a forecasting model that is very large.  There are three main components to the tool, the database, the underlying model (written in VB.net) and the GUI (written in asp.net framework 4.71 along with javascript) that is browser based.  Originally the tool had a standalone version written in VB6 with its own unique GUI and a parallel version that was online (it\u0027s still online--see here:  https://www.ifs.du.edu/ifs/frm_MainMenu.aspx).  To gain efficiency in development, we now have a stand-alone version that can be downloaded on PCs that also uses a browser for the GUI (see here:  https://ifs02.du.edu/IFs%20with%20Pardee%208_17%20February%206%202024.zip).  \n \nWe will provide the entire source code once contracted, but for now you can look at an example. \n\nhttps://ifs02.du.edu/DEV/Audit/frm_PackagedDisplaysFlex.zip\n\nLook at the code in frm_PackagedDisplaysFlex.aspx.vb under Page_Load to check the initialization logic, look at the javascript files to look at the user interaction logic, look at the cmdLine_Click procedure for an example on how we load our results, that should take you to gLoadPackage and gLoadForDisplayNET (in Function2.vb), which is the one that actually reads our output file, and the dataframes (The LoadDataframe is part of the Main Model implementation which is linked to the GUI project).\n\n At this point we have some issues that have complicated the use of the tool--the attached document outlines some of these and provides more background on the tool.  Some of these issues have to do with intermittent errors or unexplained behavior that seems to relate to saving and deleting information via the browser.  For example, the tool requires IIS to run and restarting IIS will often solve issues that have arisen, but issues continue to persist and are hard to track down and squash.  The tool is used widely by people around the world with different OS and language requirements which also create complications. \n \nWe would like to pay a consultant to help us understand best practice operations for a browser-based application like this.  We would like advice about the \u0022best practice\u0022 we could pursue to avoid any persistent and intermittent issues and would like to know if our current approach is workable or if we have made some fundamental errors in the structure of the software.  We are looking for someone who can work with our Lead Systems developer by asking questions about the structure of the model, particularly the GUI, with any guidance on how to make it more stable.  We would be interested in solutions that are not wildly expensive to pursue (in terms of money and time) but also are open to broad suggestions.  For example, if we were able to make it more stable and faster that would be an ideal outcome.\n",
+        "inputsTitleAI": "Looking for Auditor of Code and Best Practices in ASP.NET",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-07:00)",
+      "city": "Denver",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 55,
+      "activeAssignmentsCount": 10,
+      "feedbackCount": 32,
+      "score": 4.985973345,
+      "totalJobsWithHires": 55,
+      "hoursCount": 1338.833328,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 61115.11
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2014-08-27T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 63,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.169719981754145
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

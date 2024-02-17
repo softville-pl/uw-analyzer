@@ -1,0 +1,260 @@
+{
+  "job": {
+    "ciphertext": "~017422c1f81a8b3478",
+    "rid": 1011302825,
+    "uid": "1757326738629533696",
+    "type": 2,
+    "access": 4,
+    "title": "Microsoft Developer for CSP Licensing Management Application",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-13T08:51:58.960Z",
+    "postedOn": "2024-02-13T08:52:23.233Z",
+    "publishTime": "2024-02-13T08:51:59.590Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 4142951,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Project Brief:\nA1 Technologies, a leading Microsoft consultancy and managed services provider based in Australia, is seeking an experienced Microsoft developer to create a sophisticated application tailored for managing and sourcing information on Microsoft Cloud Solution Provider (CSP) licenses for each of our esteemed customers. This application is vital for enhancing our ability to provide our clients with productive, collaborative, and secure Microsoft Cloud solutions.\n\nCore Features:\nThe application must be capable of:\n\nSourcing Microsoft CSP Licenses Information: Efficiently retrieve detailed information regarding Microsoft CSP licenses assigned to each customer.\nLicense Quantification: Display the quantity of each type of CSP license currently held by a customer.\nLicense Management: Track and communicate key dates, including the expiry and renewal dates for each CSP license, ensuring our clients are always ahead of their renewal schedules.\nData Presentation: The application should offer versatile data presentation formats to cater to various user preferences and reporting needs.\nSkills and Qualifications:\nThe ideal candidate will possess:\n\nProven experience in Microsoft development environments, with a strong portfolio showcasing similar projects.\nDeep understanding of Microsoft CSP licensing and the technical nuances involved in sourcing and managing such information.\nProficiency in .NET, C#, Azure Cloud Services, and PowerShell scripting, with the ability to craft clean, efficient, and robust code.\nExperience in developing applications with user-friendly interfaces and diverse data presentation capabilities (e.g., tables, graphs, reports).\nStrong problem-solving skills and the ability to work independently to meet project milestones and deadlines.\nExcellent communication skills, with proficiency in English, to ensure clear and continuous communication throughout the project lifecycle.\nKnowledge of Microsoft 365, Azure Cloud, and Power Platform is highly desirable, aligning with A1 Technologies\u0027 core service offerings.\nProject Deliverables:\nA fully functional application that meets the outlined core features.\nDocumentation detailing the application setup, operation, and maintenance.\nA brief training session for our team to ensure smooth adoption and management of the application.\nApplication Process:\nInterested candidates are invited to submit their proposals, including:\n\nA detailed project plan outlining your approach to developing the application.\nA portfolio of previous projects, particularly those involving Microsoft technologies and licensing management.\nAn estimated timeline and budget for the project completion.\nAny questions or clarifications you might need about the project.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Please provide evidence of similar Microsoft CSP projects, candidates that cannot/will not provide evidence will not be considered."
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 4,
+      "minJobSuccessScore": 90,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-15T21:24:45.405Z",
+      "totalApplicants": 10,
+      "totalHired": 0,
+      "totalInvitedToInterview": 8,
+      "unansweredInvites": 0,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "19",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-13T08:52:23.233Z",
+        "urgency": "1",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are seeking a skilled Microsoft Developer for a short-term project to develop a CSP Licensing Management Application. The project is expected to last 1 to 3 months. \n\nThe ideal candidate should have experience with API, .NET Framework, User Authentication, Web Application, Application Integration, and C#. \n\nResponsibilities include developing the application, integrating with existing systems, and ensuring user authentication and security. \n\nTo apply, please submit a proposal detailing how you can contribute to the project. Please include links to any relevant past projects that showcase your skills and experience in Microsoft development.\n\nWe look forward to reviewing your proposal and discussing further details of the project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-13T08:51:59.590Z",
+        "totalTimeJobPostFlowAIv2": "209",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580484373991424\u0022},{\u0022skillUid\u0022:\u0022996364628016885777\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "18",
+        "totalTimeSpentOnReviewPageAIv2": "99",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707814108357",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Microsoft Developer for CSP Licensing Management Application",
+        "finalDescriptionAI": "Project Brief:\nA1 Technologies, a leading Microsoft consultancy and managed services provider based in Australia, is seeking an experienced Microsoft developer to create a sophisticated application tailored for managing and sourcing information on Microsoft Cloud Solution Provider (CSP) licenses for each of our esteemed customers. This application is vital for enhancing our ability to provide our clients with productive, collaborative, and secure Microsoft Cloud solutions.\n\nCore Features:\nThe application must be capable of:\n\nSourcing Microsoft CSP Licenses Information: Efficiently retrieve detailed information regarding Microsoft CSP licenses assigned to each customer.\nLicense Quantification: Display the quantity of each type of CSP license currently held by a customer.\nLicense Management: Track and communicate key dates, including the expiry and renewal dates for each CSP license, ensuring our clients are always ahead of their renewal schedules.\nData Presentation: The application should offer versatile data presentation formats to cater to various user preferences and reporting needs.\nSkills and Qualifications:\nThe ideal candidate will possess:\n\nProven experience in Microsoft development environments, with a strong portfolio showcasing similar projects.\nDeep understanding of Microsoft CSP licensing and the technical nuances involved in sourcing and managing such information.\nProficiency in .NET, C#, Azure Cloud Services, and PowerShell scripting, with the ability to craft clean, efficient, and robust code.\nExperience in developing applications with user-friendly interfaces and diverse data presentation capabilities (e.g., tables, graphs, reports).\nStrong problem-solving skills and the ability to work independently to meet project milestones and deadlines.\nExcellent communication skills, with proficiency in English, to ensure clear and continuous communication throughout the project lifecycle.\nKnowledge of Microsoft 365, Azure Cloud, and Power Platform is highly desirable, aligning with A1 Technologies\u0027 core service offerings.\nProject Deliverables:\nA fully functional application that meets the outlined core features.\nDocumentation detailing the application setup, operation, and maintenance.\nA brief training session for our team to ensure smooth adoption and management of the application.\nApplication Process:\nInterested candidates are invited to submit their proposals, including:\n\nA detailed project plan outlining your approach to developing the application.\nA portfolio of previous projects, particularly those involving Microsoft technologies and licensing management.\nAn estimated timeline and budget for the project completion.\nAny questions or clarifications you might need about the project."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 39600000,
+      "countryTimezone": "Australia (UTC\u002B10:00)",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 50,
+      "activeAssignmentsCount": 13,
+      "feedbackCount": 34,
+      "score": 4.923691786,
+      "totalJobsWithHires": 42,
+      "hoursCount": 4094.666668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 108570.87
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-06-19T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 80,
+      "openCount": 3
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.29544040237856
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": false,
+            "clientPreferred": "4",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Native"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_100",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 100"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

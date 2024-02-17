@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01659b802753c521ae",
+    "rid": 1011387416,
+    "uid": "1758609581749837824",
+    "type": 2,
+    "access": 4,
+    "title": "Specialized in New Relic and Data Engineering",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-16T21:49:32.598Z",
+    "postedOn": "2024-02-16T21:49:33.262Z",
+    "publishTime": "2024-02-16T21:49:33.262Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1010813779,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Specialized in New Relic and Data Engineering\n\nAbout Us:\nWe are a dynamic company focused on delivering high-quality digital experiences through our websites and landing pages. Our mission is to provide our users with seamless, fast, and reliable access to our digital content. To achieve this, we are committed to continuously monitoring, debugging, and improving our digital infrastructure.\n\nAs a growing company, we have switched to a new hosting provider that has integrated New Relic into its hosting package. Our expectation for this year is to host 20 websites, and by 2025, we plan to scale up to 720 websites. Therefore, we are now looking for someone who can set up, maintain, debug, and monitor New Relic for us.\n\nRole:\nWe are looking for an experienced freelancer with deep knowledge of New Relic and a strong background in data engineering. The ideal candidate is someone capable of fully setting up New Relic for us and using it to monitor, debug, and enhance our websites and landing pages. This role requires a proactive approach to constantly optimize the performance of our digital assets and ensure the best possible user experience.\n\nResponsibilities:\n\nComplete setup of New Relic for our digital infrastructure.\nContinuous monitoring of the performance of our websites and landing pages using New Relic.\nIdentifying and debugging any issues or bottlenecks affecting performance.\nProposing and implementing improvements based on data analysis to increase speed, reliability, and overall user experience.\nCreating and delivering weekly performance reports, with insights and recommendations for further optimization.\nCollaborating with our internal team to ensure all digital initiatives are supported by robust monitoring and performance management.\nRequirements:\n\nProven experience with New Relic, including setup, monitoring, and debugging.\nStrong background in data engineering and experience working with large datasets.\nAbility to analyze and solve complex technical problems.\nExperience working in an agile development environment.\nExcellent communication skills and the ability to translate technical insights into actionable recommendations.\nProactive attitude and a strong sense of responsibility to optimize the digital experience for our users.\n\n\nFor effective use of New Relic, an observability and performance management platform, certain programming skills and technical knowledge are essential. Here\u0027s a condensed list of key skills beneficial for working with New Relic, suitable for a job posting:\n\nProgramming Languages: Proficiency in languages supported by New Relic, such as Java, .NET, Node.js, PHP, Python, Ruby, and Go, is crucial for integrating and configuring the New Relic agent within your application.\nWeb Development: Knowledge of web development technologies (HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js) is valuable for monitoring web applications and understanding front-end performance metrics.\nCloud Platforms: Experience with cloud platforms (AWS, Azure, Google Cloud) is beneficial, as many monitored applications are cloud-based.\nDevOps and CI/CD: Familiarity with DevOps practices and CI/CD pipelines is important for automating New Relic integration into development and deployment processes.\nSystem Administration and Networking: Basic understanding of system administration and networking helps in monitoring server and network performance.\nDatabases: Knowledge of relational and NoSQL databases is crucial for analyzing database performance issues.\nProblem-Solving: Strong analytical and problem-solving skills are essential for interpreting data collected by New Relic and diagnosing performance issues.\nScripting and Automation: Skills in scripting languages (Bash, PowerShell, Python) for task automation related to monitoring and alerting are useful.\nSecurity Basics: Basic knowledge of cybersecurity principles is valuable for monitoring application security aspects.\n\n\n\nPlease send us your resume and a cover letter describing your experience with New Relic and data engineering, along with examples of projects you have worked on. Also include your availability and rate.\n\nWe look forward to your application and hope to welcome you to our team soon!\n\n\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-17T13:39:42.949Z",
+      "totalApplicants": 13,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "283",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a specialized expert in New Relic and Data Engineering to join our team on a project that is expected to last more than 6 months. As a candidate, we would like you to submit a proposal outlining how you can contribute to the project.\n\nYour primary responsibilities will include utilizing your expertise in New Relic to monitor and optimize our data engineering processes. You should be proficient in HTML, Python, SQL, PHP, CSS, Data Entry, Ruby, JavaScript, and Java, as these skills will be essential in analyzing and manipulating data.\n\nTo be considered, please provide details of your past completed projects in New Relic and Data Engineering, along with relevant links. We are particularly interested in examples that demonstrate your ability to improve performance and efficiency through data analysis.\n\nWe look forward to reviewing your proposal and discussing how you can assist us in this exciting project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-16T21:49:33.262Z",
+        "totalTimeJobPostFlowAIv2": "587",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626775913283584\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022freeText\u0022:\u0022apm\u0022},{\u0022skillUid\u0022:\u00221031626730136649728\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u0022996364628025274385\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u0022996364628025274382\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "64",
+        "totalTimeSpentOnReviewPageAIv2": "9",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708119585187",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Specialized in New Relic and Data Engineering",
+        "finalDescriptionAI": "Specialized in New Relic and Data Engineering\n\nAbout Us:\nWe are a dynamic company focused on delivering high-quality digital experiences through our websites and landing pages. Our mission is to provide our users with seamless, fast, and reliable access to our digital content. To achieve this, we are committed to continuously monitoring, debugging, and improving our digital infrastructure.\n\nAs a growing company, we have switched to a new hosting provider that has integrated New Relic into its hosting package. Our expectation for this year is to host 20 websites, and by 2025, we plan to scale up to 720 websites. Therefore, we are now looking for someone who can set up, maintain, debug, and monitor New Relic for us.\n\nRole:\nWe are looking for an experienced freelancer with deep knowledge of New Relic and a strong background in data engineering. The ideal candidate is someone capable of fully setting up New Relic for us and using it to monitor, debug, and enhance our websites and landing pages. This role requires a proactive approach to constantly optimize the performance of our digital assets and ensure the best possible user experience.\n\nResponsibilities:\n\nComplete setup of New Relic for our digital infrastructure.\nContinuous monitoring of the performance of our websites and landing pages using New Relic.\nIdentifying and debugging any issues or bottlenecks affecting performance.\nProposing and implementing improvements based on data analysis to increase speed, reliability, and overall user experience.\nCreating and delivering weekly performance reports, with insights and recommendations for further optimization.\nCollaborating with our internal team to ensure all digital initiatives are supported by robust monitoring and performance management.\nRequirements:\n\nProven experience with New Relic, including setup, monitoring, and debugging.\nStrong background in data engineering and experience working with large datasets.\nAbility to analyze and solve complex technical problems.\nExperience working in an agile development environment.\nExcellent communication skills and the ability to translate technical insights into actionable recommendations.\nProactive attitude and a strong sense of responsibility to optimize the digital experience for our users.\n\n\nFor effective use of New Relic, an observability and performance management platform, certain programming skills and technical knowledge are essential. Here\u0027s a condensed list of key skills beneficial for working with New Relic, suitable for a job posting:\n\nProgramming Languages: Proficiency in languages supported by New Relic, such as Java, .NET, Node.js, PHP, Python, Ruby, and Go, is crucial for integrating and configuring the New Relic agent within your application.\nWeb Development: Knowledge of web development technologies (HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js) is valuable for monitoring web applications and understanding front-end performance metrics.\nCloud Platforms: Experience with cloud platforms (AWS, Azure, Google Cloud) is beneficial, as many monitored applications are cloud-based.\nDevOps and CI/CD: Familiarity with DevOps practices and CI/CD pipelines is important for automating New Relic integration into development and deployment processes.\nSystem Administration and Networking: Basic understanding of system administration and networking helps in monitoring server and network performance.\nDatabases: Knowledge of relational and NoSQL databases is crucial for analyzing database performance issues.\nProblem-Solving: Strong analytical and problem-solving skills are essential for interpreting data collected by New Relic and diagnosing performance issues.\nScripting and Automation: Skills in scripting languages (Bash, PowerShell, Python) for task automation related to monitoring and alerting are useful.\nSecurity Basics: Basic knowledge of cybersecurity principles is valuable for monitoring application security aspects.\n\n\n\nPlease send us your resume and a cover letter describing your experience with New Relic and data engineering, along with examples of projects you have worked on. Also include your availability and rate.\n\nWe look forward to your application and hope to welcome you to our team soon!\n\n\n\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Netherlands (Europe/Be)",
+      "city": null,
+      "country": "Netherlands"
+    },
+    "stats": {
+      "totalAssignments": 19,
+      "activeAssignmentsCount": 18,
+      "feedbackCount": 1,
+      "score": 0,
+      "totalJobsWithHires": 13,
+      "hoursCount": 148.833337,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 7391.77
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-14T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Sales \u0026 Marketing",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 14,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 17.423247051163006
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

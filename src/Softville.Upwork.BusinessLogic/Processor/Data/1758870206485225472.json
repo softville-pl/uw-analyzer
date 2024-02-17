@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~015878285304b9e4cd",
+    "rid": 1011398686,
+    "uid": "1758870206485225472",
+    "type": 2,
+    "access": 4,
+    "title": "Senior C#/Angular Full-Stack Engineer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-17T15:05:10.403Z",
+    "postedOn": "2024-02-17T15:05:10.746Z",
+    "publishTime": "2024-02-17T15:05:10.746Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 9146142,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re a small software development consulting company. We\u0027re looking to expand our team with an expert-level full-stack Engineer. Our tech stack is C#/.NET Core and Angular on the front end.\n\nThis role will start primarily with backend work, but we strongly prefer candidates who can also work on the front end.\n\nFluency in English is a must as you\u0027ll be working closely with our existing US and Canadian client base. Working hours are somewhat flexible, but there is a strong preference for regular US business hours.\n\nFull-time, 40 hours/week.\n\nWe look forward to hearing from you!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "United States",
+        "Argentina",
+        "Chile",
+        "Mexico",
+        "Brazil",
+        "Poland",
+        "United Kingdom"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-17T15:05:10.264Z",
+      "totalApplicants": 42,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "252",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a talented and experienced Senior C#/Angular Full-Stack Engineer to join our team for a long-term project of more than 6 months. As a Senior Engineer, you will be responsible for developing APIs, using your expertise in C#, Angular, and .NET Core.\n\nTo be successful in this role, you must have a solid understanding of API development, as well as strong programming skills in C# and Angular. You should be familiar with .NET Core and have experience working on full-stack development projects.\n\nIf you are interested in this position, please submit a proposal detailing how you can contribute to this project. Additionally, we would like you to include links to past completed projects that showcase your skills and expertise in C#, Angular, and API development.\n\nWe are excited to review your proposals and find the perfect candidate to join our team!",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-17T15:05:10.746Z",
+        "totalTimeJobPostFlowAIv2": "394",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626714051493888\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "200",
+        "totalTimeSpentOnReviewPageAIv2": "5",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708181915771",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Senior C#/Angular Full-Stack Engineer",
+        "finalDescriptionAI": "We\u0027re a small software development consulting company. We\u0027re looking to expand our team with an expert-level full-stack Engineer. Our tech stack is C#/.NET Core and Angular on the front end.\n\nThis role will start primarily with backend work, but we strongly prefer candidates who can also work on the front end.\n\nFluency in English is a must as you\u0027ll be working closely with our existing US and Canadian client base. Working hours are somewhat flexible, but there is a strong preference for regular US business hours.\n\nFull-time, 40 hours/week.\n\nWe look forward to hearing from you!"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "DENVER",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 54,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 28,
+      "score": 4.989825005,
+      "totalJobsWithHires": 42,
+      "hoursCount": 757.333336,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 33285.61
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-06-21T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 69,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 42.16535636561494
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "country=(United States,Argentina,Chile,Mexico,Brazil,Poland,United Kingdom)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "United States, Argentina, Chile, Mexico, Brazil, Poland, United Kingdom"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~0189656520dae4bdd5",
+    "rid": 1011363017,
+    "uid": "1758220341978869760",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Developer (C#/.NET/React) - Inventory Management Innovation Leader",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-15T20:02:50.625Z",
+    "postedOn": "2024-02-15T20:02:51.186Z",
+    "publishTime": "2024-02-15T20:02:51.186Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012212105,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Hey there! We\u0027re revolutionizing inventory management with a complex system built on C#.NET and React. We\u0027re looking for a pro who\u0027s not just about coding but can also pinpoint inefficiencies, mentor our junior developers, and lead with wisdom. If you\u0027re up for a challenge and keen on making a tangible impact, let\u0027s talk. Drop us your resume and a bit about why this mission excites you.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T04:43:56.881Z",
+      "totalApplicants": 35,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "12",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a talented Full Stack Developer with expertise in C#/.NET and React to join our team as an Inventory Management Innovation Leader. This is a short-term project with a duration of less than 1 month.\n\nAs a Full Stack Developer, you will be responsible for developing and implementing inventory management solutions using the .NET Framework, Microsoft SQL Server, ASP.NET Web API, React, and C#. You will work closely with our team to understand the requirements and translate them into efficient and scalable code.\n\nTo be successful in this role, you should have a strong background in C#/.NET and React, with experience in building web applications and APIs. Please submit a proposal outlining your relevant experience and how you can contribute to this project. Additionally, include links to past completed projects that showcase your skills in C#/.NET and React. We look forward to reviewing your proposals and discussing further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-15T20:02:51.186Z",
+        "totalTimeJobPostFlowAIv2": "7950",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716563881984\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "10",
+        "totalTimeSpentOnReviewPageAIv2": "10",
+        "device": "Linux",
+        "startTimeJobPostFlowAIv2": "1708019419249",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Full Stack Developer (C#/.NET/React) - Inventory Management Innovation Leader",
+        "finalDescriptionAI": "Hey there! We\u0027re revolutionizing inventory management with a complex system built on C#.NET and React. We\u0027re looking for a pro who\u0027s not just about coding but can also pinpoint inefficiencies, mentor our junior developers, and lead with wisdom. If you\u0027re up for a challenge and keen on making a tangible impact, let\u0027s talk. Drop us your resume and a bit about why this mission excites you."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 5,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-14T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 4,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 6
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

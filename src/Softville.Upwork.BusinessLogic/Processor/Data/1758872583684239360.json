@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01e6fb6b564bc719bc",
+    "rid": 1011398835,
+    "uid": "1758872583684239360",
+    "type": 2,
+    "access": 4,
+    "title": "Web-Enable Tracking Spreadsheet",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-17T15:14:37.124Z",
+    "postedOn": "2024-02-17T15:14:39.818Z",
+    "publishTime": "2024-02-17T15:14:39.818Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2470650,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We would like to convert a spreadsheet tracking document to a web-enabled form that can be used to query for information and metrics. The application would be hosted in Azure or MS365 SharePoint for internal use.  ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-17T15:14:37.013Z",
+      "totalApplicants": 14,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "269",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled professional to help us with a project involving web-enabling a tracking spreadsheet. The job is expected to last between 1 to 3 months, depending on the complexity of the task. \n\nThe ideal candidate should have expertise in web application development, specifically using the .NET Framework. Proficiency in Microsoft SQL Server and Microsoft IIS is also required. \n\nIn your proposal, please describe how you can assist us with this project. We are particularly interested in your approach to web-enabling the spreadsheet and any relevant experience you have in similar projects. \n\nAdditionally, please provide links to past completed projects that demonstrate your capabilities in web application development and database integration. We look forward to reviewing your proposal and discussing further details.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-17T15:14:39.818Z",
+        "totalTimeJobPostFlowAIv2": "1308",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626747287158784\u0022,\u0022parentSkillUid\u0022:\u00221204836482861350912\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "259",
+        "totalTimeSpentOnReviewPageAIv2": "88",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708181567464",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Web-Enable Tracking Spreadsheet",
+        "finalDescriptionAI": "We would like to convert a spreadsheet tracking document to web-enabled form that can used to query for information and metrics. The site would be hosted in azure or MS365 sharepoint for internal use.  "
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-04:00)",
+      "city": "Bethesda",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 29,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 10,
+      "score": 5,
+      "totalJobsWithHires": 27,
+      "hoursCount": 564.26667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 13394.2
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2014-06-07T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 36,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 22.04964542740049
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
