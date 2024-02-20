@@ -2,16 +2,20 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Constructs;
+using HashiCorp.Cdktf;
 using HashiCorp.Cdktf.Providers.Azurerm.CosmosdbAccount;
+using HashiCorp.Cdktf.Providers.Azurerm.Provider;
 using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
 
 namespace Softville.Prospecting.Infra;
 
-public class AzureInfrastructure : Construct
+public class AzureInfrastructure : TerraformStack
 {
     public AzureInfrastructure(Construct scope, string id, string resourceGroupName, string cosmosDbName,
         string environment) : base(scope, id)
     {
+        new AzurermProvider(this, "azureFeature", new AzurermProviderConfig {Features = new AzurermProviderFeatures()});
+
         // Define the Resource Group
         Dictionary<string, string> tags = new() {{"env", environment}, {"app", "prospecting-app"}};
 

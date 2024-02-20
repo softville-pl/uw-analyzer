@@ -408,3 +408,9 @@ FodyWeavers.xsd
 *.sln.iml
 
 *DS_Store
+
+# cdktf and terraform ignores
+.terraform
+cdktf.out
+cdktf.log
+*terraform.*.tfstate*
