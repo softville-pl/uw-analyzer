@@ -23,4 +23,5 @@ public class Offer
     public required string[] Questions { get; set; }
     public int ConnectPrice { get; set; }
     public required Activity Activity { get; set; }
+    public required Qualifications Qualifications { get; set; }
 }

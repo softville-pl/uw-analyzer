@@ -71,5 +71,38 @@
     TotalInvitedToInterview: 5000,
     UnansweredInvites: 3000,
     InvitationsSent: 10000
+  },
+  Qualifications: {
+    TotalQualifications: 4,
+    MatchedQualifications: 4,
+    QualificationsDetails: [
+      {
+        Qualified: true,
+        ClientPreferred: all,
+        FreelancerValue: IC,
+        FreelancerValueLabel: Not Specified,
+        ClientPreferredLabel: Any
+      },
+      {
+        Qualified: true,
+        ClientPreferred: 0,
+        FreelancerValue: 3,
+        FreelancerValueLabel: Fluent,
+        ClientPreferredLabel: Any
+      },
+      {
+        Qualified: true,
+        ClientPreferred: ANY,
+        FreelancerValue: 0.00,
+        FreelancerValueLabel: 0.00,
+        ClientPreferredLabel: Any
+      },
+      {
+        Qualified: true,
+        ClientPreferred: Any,
+        FreelancerValue: en,
+        FreelancerValueLabel: English
+      }
+    ]
   }
 }

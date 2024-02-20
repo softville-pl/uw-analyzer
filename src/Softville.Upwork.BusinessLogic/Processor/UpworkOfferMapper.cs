@@ -46,9 +46,29 @@ internal static class UpworkOfferMapper
             ConnectPrice = 0,
             Duties = NA,
             Questions = job.Questions?.Select(q => q.Question ?? NA)?.ToArray() ?? Array.Empty<string>(),
-            Activity = job.ClientActivity.MapToActivity()
+            Activity = job.ClientActivity.MapToActivity(),
+            Qualifications =
+                upworkOffer.CurrentUserInfo?.FreelancerInfo?.QualificationsMatches?.MapToQualifications() ??
+                new Contracts.Qualifications()
         };
     }
+
+    internal static Contracts.Qualifications MapToQualifications(this QualificationsMatches qualifications) => new()
+    {
+        TotalQualifications = qualifications.TotalQualifications,
+        MatchedQualifications = qualifications.TotalMatches,
+        QualificationsDetails = qualifications.Matches?.Select(m => m.MapToQualification()).ToArray() ??
+                                Array.Empty<Qualification>()
+    };
+
+    internal static Qualification MapToQualification(this Match match) => new()
+    {
+        Qualified = match.Qualified,
+        ClientPreferred = match.ClientPreferred,
+        ClientPreferredLabel = match.ClientPreferredLabel,
+        FreelancerValue = match.FreelancerValue,
+        FreelancerValueLabel = match.FreelancerValueLabel
+    };
 
     internal static Activity MapToActivity(this ClientActivity activity) =>
         new()
