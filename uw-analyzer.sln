@@ -27,6 +27,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deployments", "deployments", "{9732AB3F-A270-4663-AB7D-0CF351B1F736}"
 	ProjectSection(SolutionItems) = preProject
 		deployments\README.md = deployments\README.md
+		deployments\azure-pipelines.yml = deployments\azure-pipelines.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{4D2EB93B-8027-4030-B83D-A60213F57592}"
