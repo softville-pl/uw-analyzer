@@ -17,7 +17,7 @@ steps:
       command: custom
       customCommand: install --global cdktf-cli@latest
       workingDir: $(infraProject)
- 
+
   - task: Npm@1
     displayName: 'AzureRM provider for cdktf install'
     inputs:
@@ -34,40 +34,3 @@ steps:
       scriptLocation: inlineScript
       inlineScript: |
         cdktf deploy --auto-approve
-
-  # - task: TerraformInstaller@0
-  #   inputs:
-  #     terraformVersion: '1.0.0'
-
-  # - task: TerraformTaskV1@0
-  #   inputs:
-  #     provider: 'azurerm'
-  #     command: 'init'
-  #     workingDirectory: '$(infraProjectTf)'
-  #     backendType: 'azurerm'
-  #     backendServiceArm: 'sc-prspct-test-plc-001' # Replace with the name of your Azure service connection
-  #     # Ensure to configure backend configuration for Terraform state storage
-
-  # - task: TerraformTaskV1@0
-  #   inputs:
-  #     provider: 'azurerm'
-  #     command: 'validate'
-  #     workingDirectory: '$(infraProjectTf)'
-
-  # - task: TerraformTaskV1@0
-  #   inputs:
-  #     provider: 'azurerm'
-  #     command: 'plan'
-  #     workingDirectory: '$(infraProjectTf)'
-
-  # - task: TerraformTaskV1@0
-  #   inputs:
-  #     provider: 'azurerm'
-  #     command: 'apply'
-  #     workingDirectory: '$(infraProjectTf)'
-  #     # commandOptions: '-auto-approve'
-  #   env:
-  #     ARM_SUBSCRIPTION_ID: $(subscriptionId)
-  #     ARM_CLIENT_ID: $(clientId)
-  #     ARM_CLIENT_SECRET: $(clientSecret)
-  #     ARM_TENANT_ID: $(tenantId)
