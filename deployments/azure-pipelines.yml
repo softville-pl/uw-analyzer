@@ -33,7 +33,7 @@ steps:
       scriptType: pscore
       scriptLocation: inlineScript
       inlineScript: |
-        cdktf deploy
+        cdktf deploy --auto-approve
 
   # - task: TerraformInstaller@0
   #   inputs:
