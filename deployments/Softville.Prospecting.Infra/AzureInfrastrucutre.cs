@@ -9,8 +9,18 @@ using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
 
 namespace Softville.Prospecting.Infra;
 
+/// <summary>
+/// </summary>
 public class AzureInfrastructure : TerraformStack
 {
+    /// <summary>
+    ///
+    /// </summary>
+    /// <param name="scope"></param>
+    /// <param name="id"></param>
+    /// <param name="resourceGroupName"></param>
+    /// <param name="cosmosDbName"></param>
+    /// <param name="environment"></param>
     public AzureInfrastructure(Construct scope, string id, string resourceGroupName, string cosmosDbName,
         string environment) : base(scope, id)
     {
