@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~01f7b9b2ff37b6c998",
+    "rid": 1011452477,
+    "uid": "1759849361223598080",
+    "type": 2,
+    "access": 4,
+    "title": ".NET Architect for Code Analysis ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-20T07:55:59.103Z",
+    "postedOn": "2024-02-20T08:19:23.400Z",
+    "publishTime": "2024-02-20T08:19:23.400Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012268166,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "\nWe are seeking an experienced .NET developer with a strong background in code analysis, optimization, and security review to conduct a thorough examination of our existing .NET application. \n\nProject Scope:\nObjective: The main goal is to conduct a detailed analysis of our .NET code base to identify performance bottlenecks, security vulnerabilities, areas for refactoring, and to prepare for potential technology upgrades.\nProject Background: Our application is built on the .NET Framework, incorporating ASP.NET MVC and Entity Framework. Required Skills and Experience:\nProficiency in .NET technologies, specifically experience with .NET Framework, .NET Core, ASP.NET MVC, and Entity Framework.\nStrong understanding of software architecture, design patterns, and best practices.\nExperience in conducting code reviews and analysis with a focus on performance optimization and security.\nFamiliarity with SQL Server is required\nExcellent problem-solving skills and attention to detail.\nDeliverables:\nA comprehensive analysis of the code base, to be discussed over several meetings. \n\nTo be considered for this project, please submit the following:\n\nA brief introduction highlighting your experience with .NET technologies and code analysis projects as an architect.\nYour availability to start and estimated time to complete the analysis.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-20T07:55:58.946Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "206",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a highly skilled .NET Specialist for Code Analysis to join our team for a short-term project of less than 1 month. As the ideal candidate, you should have a solid understanding of HTML, SQL, .NET Framework, ASP.NET, Microsoft SQL Server, JavaScript, C#, and ASP.NET MVC.\n\nYour main responsibility will be to analyze and optimize existing codebase, identifying and fixing any performance, security, or scalability issues. This includes conducting thorough code reviews, implementing best practices, and ensuring code quality.\n\nTo apply for this role, please submit a proposal outlining your experience and how you can contribute to the project. Additionally, please include links to any relevant past completed projects that showcase your skills in code analysis and optimization.\n\nWe look forward to reviewing your application and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-20T08:19:23.400Z",
+        "totalTimeJobPostFlowAIv2": "515",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "198",
+        "totalTimeSpentOnReviewPageAIv2": "97",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708415242875",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": ".NET Specialist for Code Analysis ",
+        "finalDescriptionAI": "\nWe are seeking an experienced .NET developer with a strong background in code analysis, optimization, and security review to conduct a thorough examination of our existing .NET application. Our project is at a critical stage, and we require an expert to identify and recommend improvements to ensure robust performance, security, and scalability.\n\nProject Scope:\nObjective: The main goal is to conduct a detailed analysis of our .NET code base to identify performance bottlenecks, security vulnerabilities, areas for refactoring, and to prepare for potential technology upgrades.\nProject Background: Our application is built on the .NET Framework, incorporating ASP.NET MVC and Entity Framework. Required Skills and Experience:\nProficiency in .NET technologies, specifically experience with .NET Framework, .NET Core, ASP.NET MVC, and Entity Framework.\nStrong understanding of software architecture, design patterns, and best practices.\nExperience in conducting code reviews and analysis with a focus on performance optimization and security.\nFamiliarity with SQL Server is required\nExcellent problem-solving skills and attention to detail.\nDeliverables:\nA comprehensive analysis of the code base, to be discussed over several meetings. \n\nTo be considered for this project, please submit the following:\n\nA brief introduction highlighting your experience with .NET technologies and code analysis projects as an architect.\nYour availability to start and estimated time to complete the analysis."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 21600000,
+      "countryTimezone": "Bangladesh (Asia/Alma)",
+      "city": null,
+      "country": "Bangladesh"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-19T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,223 @@
+{
+  "job": {
+    "ciphertext": "~017ffa4a284a6679b0",
+    "rid": 1011280370,
+    "uid": "1756999022080880640",
+    "type": 2,
+    "access": 4,
+    "title": "Solution Architect",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-12T11:09:45.260Z",
+    "postedOn": "2024-02-12T11:09:45.992Z",
+    "publishTime": "2024-02-12T11:09:45.992Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012153593,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 42,
+      "hourlyBudgetMax": 90
+    },
+    "contractorTier": 3,
+    "description": "We are looking for a highly skilled Solution Architect as consultant. \nPFB details :  \n\nRole and Responsibilities \n\n\n\u2022Requirements Gathering  \t     \n\u2022Preparing KT Plan. \n\u2022Team handling. \n\u2022Technical guidance provided in Coding. \n\u2022Coding/Code reviews. \n\u2022Involving in all phases of Software development life cycles. \n\u2022Unit Testing. \n\u2022Deploying project with latest changes. \n\u2022Preparing KT and Technical Specifications documents. \n\u2022Assisted Team with respect to problems ticket. \n\u2022Assisted team in developing payment gateway module, Admin module. \n\u2022Preparing report/mail day-to-day activities to my supervisor.\n\u2022Experience in Performance Tuning, Query Optimization, using Performance Monitor, Profiler and other\nrelated monitoring and troubleshooting tools   \n\n    Technical Skills  \nLanguages  \tC#, VB.Net, JQuery, XML, XAML, JavaScript, HTML, CSS  \t            \n      \nTechnologies\u0026 Frameworks  \tASP.net, .Net Core, WCF, Windows, MVC, Angular  \t\nRDBMS  \tMicrosoft SQL Server 2005,2008  \t\nTools / IDE  \tVisual Studio .NET (2008 \u2013 2012), TFS   \t\n Concepts  \tWeb Services, Design patterns, Web API, Rest API  \t\nThird party controls  \tAjax  \t\n     \t\n\t",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T07:46:13.089Z",
+      "totalApplicants": 18,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "sourcingUpdateForbidden": "false",
+        "totalDescriptionEditingTimeAIv2": "231",
+        "type": "FJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Solution Architect\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626781638508544\u0022},{\u0022skillUid\u0022:\u00221031626724986044416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221110580469450657792\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:42,\u0022hourlyBudgetMax\u0022:90,\u0022amount\u0022:null}}",
+        "generatedDescriptionAIv2": "We are looking for a highly skilled Solution Architect who will be responsible for designing and implementing effective solutions for our clients. The ideal candidate will have strong technical expertise and a deep understanding of software architecture principles. Responsibilities include assessing client requirements, designing scalable solutions, collaborating with development teams, and ensuring the successful implementation of projects. The candidate should possess excellent problem-solving abilities and have a proven track record in delivering complex solutions.\n\nRelevant skills:\n\n- Proficiency in software design and architecture\n- Strong knowledge of cloud computing platforms\n- Experience with database design and optimization\n- Excellent communication and leadership skills\n- Ability to analyze business needs and provide effective solutions",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Solution Architect\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626781638508544\u0022},{\u0022skillUid\u0022:\u00221031626724986044416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221110580469450657792\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{}}",
+        "browser": "Chrome",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:6,\u0022description\u0022:\u0022We are looking for a highly skilled Solution Architect who will be responsible for designing and implementing effective solutions for our clients. The ideal candidate will have strong technical expertise and a deep understanding of software architecture principles. Responsibilities include assessing client requirements, designing scalable solutions, collaborating with development teams, and ensuring the successful implementation of projects. The candidate should possess excellent problem-solving abilities and have a proven track record in delivering complex solutions.\\n\\nRelevant skills:\\n\\n- Proficiency in software design and architecture\\n- Strong knowledge of cloud computing platforms\\n- Experience with database design and optimization\\n- Excellent communication and leadership skills\\n- Ability to analyze business needs and provide effective solutions\u0022,\u0022editedDescription\u0022:\u0022We are looking for a highly skilled Solution Architect who will be responsible for designing and implementing effective solutions for our clients.   \\nOLES AND RESPONSIBILITIES\\n\uF0B7Creates/Conducts evaluation of system architecture and collaborates with  project management and IT development teams to improve the architecture\\n\uF0B7Coordination with infra and lead the process of integrating IT systems \u0060\\tto meet an organization\u2019s requirements.\\n\uF0B7Evaluates project constraints to find alternatives, alleviate risks, and perform process re-engineering if required.\\n\uF0B7Notifies stakeholders about any issues connected to the architecture.\\n\uF0B7Controlling solution development and fixes technical issues as they arise.\\n\uF0B7Analyzes the business impact that certain technical choices may have \\ton a client\u2019s business processes.\\n\uF0B7For Pre- sales, understand the client requirement and propose appropriate tech solutions (tech stack,architecture etc)\\n\uF0B7Capable of instructing professional or technical staff and reviewing the quality of the work undertaken by these roles\\n\uF0B7Continuously researches emerging technologies and proposes efficient tools,etc for operational Excellence of the org.\\n\uF0B7Documentation of tech solutions,architecture, process flow etc.\\n\uF0B7Develop and maintain processes and procedures, aligning with the company culture and policies.\\n\\n\u0022,\u0022similarityScore\u0022:0.6267866596082583}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-12T11:09:45.992Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnReviewPageAIv2": "471",
+        "optInDescriptionAIv2": "yes",
+        "finalDescriptionAIv2": "We are looking for a highly skilled Solution Architect who will be responsible for designing and implementing effective solutions for our clients.   \nOLES AND RESPONSIBILITIES\n\uF0B7Creates/Conducts evaluation of system architecture and collaborates with  project management and IT development teams to improve the architecture\n\uF0B7Coordination with infra and lead the process of integrating IT systems \u0060\tto meet an organization\u2019s requirements.\n\uF0B7Evaluates project constraints to find alternatives, alleviate risks, and perform process re-engineering if required.\n\uF0B7Notifies stakeholders about any issues connected to the architecture.\n\uF0B7Controlling solution development and fixes technical issues as they arise.\n\uF0B7Analyzes the business impact that certain technical choices may have \ton a client\u2019s business processes.\n\uF0B7For Pre- sales, understand the client requirement and propose appropriate tech solutions (tech stack,architecture etc)\n\uF0B7Capable of instructing professional or technical staff and reviewing the quality of the work undertaken by these roles\n\uF0B7Continuously researches emerging technologies and proposes efficient tools,etc for operational Excellence of the org.\n\uF0B7Documentation of tech solutions,architecture, process flow etc.\n\uF0B7Develop and maintain processes and procedures, aligning with the company culture and policies.\n\n",
+        "jpgV2Prompt": "Solution Architect  ",
+        "descriptionDifferenceScoreAIv2": "0.62678665960826",
+        "device": "Windows",
+        "retriesAIv2": "1",
+        "startTimeJobPostFlowAIv2": "1707735878232"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-09T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 2,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

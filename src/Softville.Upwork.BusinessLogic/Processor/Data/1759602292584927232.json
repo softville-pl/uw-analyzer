@@ -1,0 +1,272 @@
+{
+  "job": {
+    "ciphertext": "~01e2542491af618d89",
+    "rid": 1011435914,
+    "uid": "1759602292584927232",
+    "type": 2,
+    "access": 1,
+    "title": "C# WPF HTTP Browser with Javascript Injection",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-19T15:34:13.506Z",
+    "postedOn": "2024-02-19T15:34:17.492Z",
+    "publishTime": "2024-02-19T15:34:17.492Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2088918,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "This project involves development of a WPF-based .NET Windows application that will display web page(s) using Microsoft\u0027s WebView2 control. The application to be developed will essentially be a simple web browser that uses javascript injection and APIs to supervise the health of the displayed web pages as well as provide functions to the web pages that would not normally be available in the javascript sandbox.\n\nOther features included in this project:\n- REST APIs to monitor the status of our connected servers \n- WPF UI to display the status of the connected servers\n- A basic IIS test platform to simulate the different failure states\n- A TOML configuration system for various settings\n- An installer to load the software onto a Windows PC\n\nNote that the contents of the displayed HTML pages are outside the scope of this project. All this application needs to do is display the pages per the configuration file and interact with them as defined in the full specification document. However, some knowledge of IIS/ASP.net will be needed in order to build up the required integration tests.\n\nThe full project specification document is attached. We ask that you be able to immediately start work on this project, since there are other concurrent projects that will interface with the software you generate. Since we are planning on running this as an hourly project, please provide an estimate for how long you believe this will take. Finally, we will require check-ins to our Github repository at least weekly so that we can supervise the project and make sure we\u0027re on the same page.\n\nThank you for your interest, and please let us know if you have any questions.",
+    "attachments": [
+      {
+        "fileName": "2024 On-Point Workstation v2 7feb24.pdf",
+        "length": 225190,
+        "uri": "/att/download/openings/1759602292584927232/attachments/3172593d-1e44-497a-be0f-dfd1211cef3d/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-20T14:50:25.423Z",
+      "totalApplicants": 64,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "695",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled developer who can assist us with a C#/WPF browser project that requires JavaScript integrations and testing. The project is expected to last for a duration of 1 to 3 months. \n\nThe ideal candidate should have expertise in the .NET Framework, desktop application development, JavaScript, and C#. They should be able to demonstrate their ability to develop browser applications using C#/WPF and integrate JavaScript functionalities seamlessly.\n\nIn your proposal, please describe how you can contribute to the project and provide a detailed plan on how you will approach the development, integration, and testing phases. Additionally, we request that you include links to your past completed projects that showcase your proficiency in C#/WPF, JavaScript integration, and testing.\n\nWe look forward to receiving your proposal and discussing the project in further detail.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-19T15:34:17.492Z",
+        "totalTimeJobPostFlowAIv2": "1319",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022freeText\u0022:\u0022WPF\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "586",
+        "totalTimeSpentOnReviewPageAIv2": "437",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708355532967",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "C# WPF HTTP Browser with Javascript Injection",
+        "finalDescriptionAI": "This project involves development of a WPF-based .NET Windows application that will display web page(s) using Microsoft\u0027s WebView2 control. The application to be developed will essentially be a simple web browser that uses javascript injection and APIs to supervise the health of the displayed web pages as well as provide functions to the web pages that would not normally be available in the javascript sandbox.\n\nOther features included in this project:\n- REST APIs to monitor the status of our connected servers \n- WPF UI to display the status of the connected servers\n- A basic IIS test platform to simulate the different failure states\n- A TOML configuration system for various settings\n- An installer to load the software onto a Windows PC\n\nNote that the contents of the displayed HTML pages are outside the scope of this project. All this application needs to do is display the pages per the configuration file and interact with them as defined in the full specification document. However, some knowledge of IIS/ASP.net will be needed in order to build up the required integration tests.\n\nThe full project specification document is attached. Thank you for your interest!\n\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Wixom",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 14,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 12,
+      "score": 5,
+      "totalJobsWithHires": 14,
+      "hoursCount": 174.000003,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 13725.09
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2010-03-19T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 37.830631531655776
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(United States,Canada)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "United States, Canada"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
