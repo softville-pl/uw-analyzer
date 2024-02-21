@@ -29,7 +29,7 @@ steps:
     displayName: Azure CLI
     inputs:
       azureSubscription: 'sc-prspct-test-plc-001'
-      scriptType: ps
+      scriptType: pscore
       scriptLocation: inlineScript
       inlineScript: |
         az --version
