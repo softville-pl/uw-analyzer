@@ -1,0 +1,257 @@
+{
+  "job": {
+    "ciphertext": "~010e146a973eefadd2",
+    "rid": 1011416062,
+    "uid": "1759247102200393728",
+    "type": 2,
+    "access": 4,
+    "title": "Relativity Plugin Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-18T16:02:49.396Z",
+    "postedOn": "2024-02-18T16:02:49.737Z",
+    "publishTime": "2024-02-18T16:02:49.737Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 126913,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Position Overview:\nWe are seeking an experienced Relativity Application Developer to join our legal technology team. The ideal candidate will have a strong background in software development, with specific experience in the Relativity platform, to help us build, customize, and maintain applications tailored to our legal processes.\n\nResponsibilities:\nDevelop and implement custom Relativity applications.\nIntegrate existing systems and data into the Relativity environment.\nAutomate workflows and optimize data management within Relativity.\nEnsure the security and compliance of applications.\n\nQualifications:\nExperience in .NET, SQL, and Relativity APIs.\nKnowledge of legal and e-discovery processes.\nStrong problem-solving and communication skills.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Have you built a custom Relativity application in the past?"
+      },
+      {
+        "position": 1,
+        "question": "Describe any Relativity applications previously developed."
+      },
+      {
+        "position": 2,
+        "question": "What hours are you available?"
+      },
+      {
+        "position": 3,
+        "question": "Do you have experience building custom pages in Relativity?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-20T22:42:00.600Z",
+      "totalApplicants": 6,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "172",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled Relativity Plugin Developer to join our team for a project that is expected to last more than 6 months. As a Relativity Plugin Developer, you will be responsible for developing and maintaining plugins for the Relativity platform. \n\nThe ideal candidate should have a strong background in .NET Framework and experience working with APIs. You should be familiar with Relativity and have a solid understanding of its features and functionalities. \n\nTo apply for this position, please submit a proposal detailing how you can contribute to the project. Please include information about your relevant experience and any past projects you have completed. We would also like to see links to any relevant work samples or portfolio that demonstrate your skills and expertise in plugin development. \n\nWe look forward to receiving your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-18T16:02:49.737Z",
+        "totalTimeJobPostFlowAIv2": "515",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022freeText\u0022:\u0022relativity dynamic objects\u0022},{\u0022freeText\u0022:\u0022relativity applications\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "130",
+        "totalTimeSpentOnReviewPageAIv2": "67",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708271653139",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Relativity Plugin Developer",
+        "finalDescriptionAI": "Position Overview:\nWe are seeking an experienced Relativity Application Developer to join our legal technology team. The ideal candidate will have a strong background in software development, with specific experience in the Relativity platform, to help us build, customize, and maintain applications tailored to our legal processes.\n\nResponsibilities:\nDevelop and implement custom Relativity applications.\nIntegrate existing systems and data into the Relativity environment.\nAutomate workflows and optimize data management within Relativity.\nEnsure the security and compliance of applications.\n\nQualifications:\nExperience in .NET, SQL, and Relativity APIs.\nKnowledge of legal and e-discovery processes.\nStrong problem-solving and communication skills."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Bloomington",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 438,
+      "activeAssignmentsCount": 34,
+      "feedbackCount": 278,
+      "score": 4.985167316,
+      "totalJobsWithHires": 289,
+      "hoursCount": 34945.833352,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 620758.86
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2009-09-23T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 311,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 12.157562697690963
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

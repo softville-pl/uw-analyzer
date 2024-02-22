@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile> <!--Walk around for the issue: https://github.com/dotnet/aspnetcore/issues/47912-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HashiCorp.Cdktf.Providers.Azurerm"/>
+  </ItemGroup>
+
+</Project>

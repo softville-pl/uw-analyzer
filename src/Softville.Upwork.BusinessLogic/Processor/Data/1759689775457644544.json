@@ -1,0 +1,261 @@
+{
+  "job": {
+    "ciphertext": "~017873aa56b52cc90b",
+    "rid": 1011443577,
+    "uid": "1759689775457644544",
+    "type": 2,
+    "access": 4,
+    "title": "Assist a long-time .Net Developer new to Power Pages when stuck",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-19T21:21:50.898Z",
+    "postedOn": "2024-02-19T21:21:51.634Z",
+    "publishTime": "2024-02-19T21:21:51.634Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 13139,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "I am a developer with 40 years experience, mostly on .Net platform. I have a small consulting company, and a client has asked me to develop a new forms-based site.\nI\u0027d like to develop some competency around Power Platform and I\u0027m thinking this is a good fit. I can get up to speed quickly, but I know that there will be gotchas that an expert can help me with in a way that will save me time and money.\n\nHere are a few examples of the type of questions/problems I might have:\n- I\u0027d like to have someone look at the overall project description to see if they agree that Power Pages is a good solution and whether they see any hurdles I might run into later.\n- I have developed a proof of concept app and am currently working on a multistep form with some subgrids. I don\u0027t quite have it working correctly yet and some troubleshooting will help.\n- I want to authenticate this app with oauth2, which is not supported. If an applicant has the knowledge regarding this, they could assist with setting up ADB2C for oauth2 with a 3rd party product.\n- There will be some workflow associated. If you know flows, that\u0027s great, though I could find someone else if need be.\n\nWe can communicate by email and/or zoom or Teams.\n\nI expect this to be a couple of hours per week. I\u0027d like to get responses to my questions within 24 hours, but can work around someone\u0027s schedule as need be.\n\nHere is a brief description of the project from early on if you\u0027d like to offer any observations as part of your response, though that is not required. \n\nThanks for your consideration.\n\nClients are looking to get certified by submitting a set of forms (5 or 6). A certification is earned when I particular set of forms is approved by admins. (here, a \u0022form\u0022 is like a long paper form consisting of many questions).\nSome certifications have forms that must be done in order, some can be done in parallel.\nAdmins provide feedback/comments on submitted forms and refer them back to clients. The comments are added to each question in the form.\nClients revise forms until they are accepted.\nOnce all required forms are accepted, the certification is earned.\nA PDF is created from the final certification forms as a record.\n\nForms have text boxes, text areas, checkboxes, radio buttons, and tables.\nThe questions on the form have multiple parts. For example, one question might have two text areas, an array of checkboxes, a set of radio buttons, and a table (tabular data such as lists of contacts).\nTables can have a fixed number of rows. Cells should be able to contain sets of controls (e.g. radio buttons) as well as textboxes.\nNot a lot of form logic, though some textboxes are sums of others. Some validation.\n\nA web app is used by clients to manage their side of this.\nThey log in with SSO from Neon CRM\nThey can see certifications earned, expirations, etc.\nThey can see certifications in process and which forms have been started/revised/approved.\nThey can start a new certification\nApp should be responsive so it can be used across multiple device sizes\n\nQuestions:\n\t- Is PowerApps a good platform for this?\n\t\t\u25CB Power Pages for client-facing part?\n\t\t\u25CB Automate for workflow and notifications?\n\t\t\u25CB Dataverse for data?\n\t\t\u25CB PowerApps or PowerPages for admin functions? If PowerApps, canvas or model-driven?\n\t\t\u25CB Will maintenance be easier vs. an asp.net solution? Easier to modify forms/schema/workflow, potentially without developer assistance?\n\t- Integration with CRM\n\t\t\u25CB Want to authenticate with NeonCRM with SSO and access client info from there with little or no replication in the app.\n\t\t\u25CB Neon does OAuth2. PowerPages requires OIDC. Best practices for setting up SSO?\n\t\t\u25CB Best practice for linking together customer data in CRM and authenticated user data in Dataverse?\n\t- Forms\n\t\t\u25CB Best way to design forms and create schema? Forms are currently paper.\n\t\t\u25CB Best way to organize data given it is hierarchical (e.g. forms, questions, tables)? I\u0027ve made some progress here with a table for the form, tables for use in subgrids as part of questions, a form per question, and multistep form pages. Have not connected schema to users, organizations, workflows, multi-form certifications, etc. yet.\n\n\t\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-20T20:04:12.495Z",
+      "totalApplicants": 3,
+      "totalHired": 1,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 1,
+      "invitationsSent": 9
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "961",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced Microsoft Power Automate expert to assist a long-time .Net developer who is new to Power Pages. The project is expected to last for 1 to 3 months. \n\nAs the ideal candidate, you should be well-versed in Microsoft Power Automate and have a solid understanding of .Net development. Your main responsibility will be to provide guidance and support to the developer when they encounter challenges with Power Pages. \n\nTo apply for this position, please submit a detailed proposal outlining how you can help with this project. Please include information about your experience with Microsoft Power Automate and any relevant certifications you hold. Additionally, we would appreciate it if you could provide links to past completed projects that showcase your expertise in this field.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-19T21:21:51.634Z",
+        "totalTimeJobPostFlowAIv2": "1339",
+        "inputsSkillsAI": "[{\u0022freeText\u0022:\u0022power pages\u0022},{\u0022freeText\u0022:\u0022power apps\u0022},{\u0022skillUid\u0022:\u00221031626758708248576\u0022},{\u0022freeText\u0022:\u0022AD B2C\u0022},{\u0022freeText\u0022:\u0022oauth2\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "862",
+        "totalTimeSpentOnReviewPageAIv2": "181",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708376372113",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Assist a long-time .Net Developer new to Power Pages when stuck",
+        "finalDescriptionAI": "I am a developer with 40 years experience, mostly on .Net platform. I have a small consulting company, and a client has asked me to develop a new forms-based site.\nI\u0027d like to develop some competency around Power Platform and I\u0027m thinking this is a good fit. I can get up to speed quickly, but I know that there will be gotchas that an expert can help me with in a way that will save me time and money.\n\nHere are a few examples of the type of questions/problems I might have:\n- I\u0027d like to have someone look at the overall project description to see if they agree that Power Pages is a good solution and whether they see any hurdles I might run into later.\n- I have developed a proof of concept app and am currently working on a multistep form with some subgrids. I don\u0027t quite have it working correctly yet and some troubleshooting will help.\n- I want to authenticate this app with oauth2, which is not supported. If an applicant has the knowledge regarding this, they could assist with setting up ADB2C for oauth2 with a 3rd party product.\n- There will be some workflow associated. If you know flows, that\u0027s great, though I could find someone else if need be.\n\nWe can communicate by email and/or zoom or Teams.\n\nI expect this to be a couple of hours per week. I\u0027d like to get responses to my questions within 24 hours, but can work around someone\u0027s schedule as need be.\n\nHere is a brief description of the project from early on if you\u0027d like to offer any observations as part of your response, though that is not required. \n\nThanks for your consideration.\n\nClients are looking to get certified by submitting a set of forms (5 or 6). A certification is earned when I particular set of forms is approved by admins. (here, a \u0022form\u0022 is like a long paper form consisting of many questions).\nSome certifications have forms that must be done in order, some can be done in parallel.\nAdmins provide feedback/comments on submitted forms and refer them back to clients. The comments are added to each question in the form.\nClients revise forms until they are accepted.\nOnce all required forms are accepted, the certification is earned.\nA PDF is created from the final certification forms as a record.\n\nForms have text boxes, text areas, checkboxes, radio buttons, and tables.\nThe questions on the form have multiple parts. For example, one question might have two text areas, an array of checkboxes, a set of radio buttons, and a table (tabular data such as lists of contacts).\nTables can have a fixed number of rows. Cells should be able to contain sets of controls (e.g. radio buttons) as well as textboxes.\nNot a lot of form logic, though some textboxes are sums of others. Some validation.\n\nA web app is used by clients to manage their side of this.\nThey log in with SSO from Neon CRM\nThey can see certifications earned, expirations, etc.\nThey can see certifications in process and which forms have been started/revised/approved.\nThey can start a new certification\nApp should be responsive so it can be used across multiple device sizes\n\nQuestions:\n\t- Is PowerApps a good platform for this?\n\t\t\u25CB Power Pages for client-facing part?\n\t\t\u25CB Automate for workflow and notifications?\n\t\t\u25CB Dataverse for data?\n\t\t\u25CB PowerApps or PowerPages for admin functions? If PowerApps, canvas or model-driven?\n\t\t\u25CB Will maintenance be easier vs. an asp.net solution? Easier to modify forms/schema/workflow, potentially without developer assistance?\n\t- Integration with CRM\n\t\t\u25CB Want to authenticate with NeonCRM with SSO and access client info from there with little or no replication in the app.\n\t\t\u25CB Neon does OAuth2. PowerPages requires OIDC. Best practices for setting up SSO?\n\t\t\u25CB Best practice for linking together customer data in CRM and authenticated user data in Dataverse?\n\t- Forms\n\t\t\u25CB Best way to design forms and create schema? Forms are currently paper.\n\t\t\u25CB Best way to organize data given it is hierarchical (e.g. forms, questions, tables)? I\u0027ve made some progress here with a table for the form, tables for use in subgrids as part of questions, a form per question, and multistep form pages. Have not connected schema to users, organizations, workflows, multi-form certifications, etc. yet.\n\n\t\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Troy",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 25.333334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 108.35
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2006-08-22T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 23.866183582468853
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

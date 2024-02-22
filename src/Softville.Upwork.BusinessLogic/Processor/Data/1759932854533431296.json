@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01cdb8cb19849a3d80",
+    "rid": 1011458089,
+    "uid": "1759932854533431296",
+    "type": 2,
+    "access": 4,
+    "title": ".Net developer with Lucene.Net experience needed for Legal Tech application",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-20T13:27:45.554Z",
+    "postedOn": "2024-02-20T13:27:46.100Z",
+    "publishTime": "2024-02-20T13:27:46.100Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5474080,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are making a document management application for lawyers where they can import all their case documents and do document review. All documents are OCRed on import and the OCRed text is indexed by our Lucene.Net search engine. We have both the indexing and search set up and working, but we are not happy about the search results. So we need a Lucene.Net expert to help us to:\n- Configure Lucene.Net correctly for our use case\n- Review our indexing and search code and check that it\u0027s following best practices.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T06:03:40.015Z",
+      "totalApplicants": 8,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "8229",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Safari",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a Lucene.Net developer to assist with a PDF indexing and search project. The job is expected to last less than 1 month. The ideal candidate should have strong experience in C# and the .NET Framework.\n\nTo apply for this position, please submit a proposal outlining how you can contribute to the project. In your proposal, please include details on your relevant skills and experience, as well as how you can help with PDF indexing and search using Lucene.Net.\n\nAdditionally, please provide links to any past completed projects that demonstrate your proficiency in Lucene.Net development and PDF indexing.\n\nWe are excited to hear from talented and experienced Lucene.Net developers who can deliver high-quality results within the given timeframe.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-20T13:27:46.100Z",
+        "totalTimeJobPostFlowAIv2": "8663",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022freeText\u0022:\u0022Lucene.net\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "1333",
+        "totalTimeSpentOnReviewPageAIv2": "163",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708427001325",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Lucene.Net developer needed for PDF indexing and search project",
+        "finalDescriptionAI": "We are making a document management application for lawyers where they can import all their case documents and do document review. All documents are OCRed on import and the OCRed text is indexed by our Lucene.Net search engine. We have both the indexing and search set up and working, but we are not happy about the search results. So we need a Lucene.Net expert to help us to:\n- Configure Lucene.Net correctly for our use case\n- Review our indexing and search code and check that it\u0027s following best practices."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Norway (UTC)",
+      "city": "Kongshavn",
+      "country": "Norway"
+    },
+    "stats": {
+      "totalAssignments": 19,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 15,
+      "score": 4.991669834,
+      "totalJobsWithHires": 18,
+      "hoursCount": 503.166664,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 11748.29
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-08-27T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Legal",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 21,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 20.36333233713591
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

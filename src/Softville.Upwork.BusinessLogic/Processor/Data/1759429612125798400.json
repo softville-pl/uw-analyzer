@@ -1,0 +1,238 @@
+{
+  "job": {
+    "ciphertext": "~019572a9fed345613d",
+    "rid": 1011425182,
+    "uid": "1759429612125798400",
+    "type": 2,
+    "access": 4,
+    "title": "Dockerisation of dot net and sep.net projects and deployment on AWS ECS",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-19T04:08:03.172Z",
+    "postedOn": "2024-02-19T04:08:03.523Z",
+    "publishTime": "2024-02-19T04:08:03.523Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1007153031,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "Our company has four asp.net projects and one dot net core project. we would like to dockerise each one of them. asp.net on windows container and dot net core on linux containers.  we would like to deploy them through github pipeline on AWS ECS. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T02:45:30.771Z",
+      "totalApplicants": 23,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "97",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled professional who can assist us with the Dockerisation of our dot net and sep.net projects and their subsequent deployment on AWS ECS. The project is expected to last for a period of 1 to 3 months.\n\nThe ideal candidate should have expertise in Linux, .NET Framework, Git, Microsoft Windows, Amazon Web Services, Deployment Automation, Docker, and C#. We need someone who can effectively containerize our dot net and sep.net projects using Docker and deploy them on AWS ECS.\n\nTo apply for this job, please submit a detailed proposal outlining how you can help us with this project. Additionally, we would appreciate it if you could provide links to some of your past completed projects that demonstrate your experience and expertise in Dockerisation and AWS ECS deployment.\n\nWe look forward to receiving your proposals and finding the right candidate to assist us with this important project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-19T04:08:03.523Z",
+        "totalTimeJobPostFlowAIv2": "213",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221270387367928381440\u0022},{\u0022skillUid\u0022:\u00221031626754568470528\u0022,\u0022parentSkillUid\u0022:\u00221270387367928381440\u0022},{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221270387318607560704\u0022},{\u0022skillUid\u0022:\u00221031626732393185280\u0022,\u0022parentSkillUid\u0022:\u00221270387318607560704\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022},{\u0022skillUid\u0022:\u00221110580494289326080\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "95",
+        "totalTimeSpentOnReviewPageAIv2": "13",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708315468550",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Dockerisation of dot net and sep.net projects and deployment on AWS ECS",
+        "finalDescriptionAI": "Our company has four asp.net projects and one dot net core project. we would like to dockerise each one of them. asp.net on windows container and dot net core on linux containers.  we would like to deploy them through github pipeline on AWS ECS. "
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": "abu dhabi",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 300
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-02-01T00:00:00.000Z",
+      "profile": {
+        "size": "1000",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -16,6 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "items", "items", "{8C0CB4CF
 		Directory.Build.targets = Directory.Build.targets
 		LICENSE = LICENSE
 		README.md = README.md
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{512CB3C8-9B09-4E12-8D4C-44D5A90B269E}"
@@ -26,12 +27,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deployments", "deployments", "{9732AB3F-A270-4663-AB7D-0CF351B1F736}"
 	ProjectSection(SolutionItems) = preProject
 		deployments\README.md = deployments\README.md
+		deployments\azure-pipelines.yml = deployments\azure-pipelines.yml
+		deployments\create-storage-terraform-state.ps1 = deployments\create-storage-terraform-state.ps1
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{4D2EB93B-8027-4030-B83D-A60213F57592}"
 	ProjectSection(SolutionItems) = preProject
 		docs\README.md = docs\README.md
 		docs\CONFIGURATION.md = docs\CONFIGURATION.md
+		docs\NAMING.md = docs\NAMING.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{282209E8-4865-4DB3-85B6-C2D03E77D1C5}"
@@ -63,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.BusinessLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.BusinessLogic.Tests", "tests\Softville.Upwork.BusinessLogic.Tests\Softville.Upwork.BusinessLogic.Tests.csproj", "{FBCC3F06-D0EB-4833-8141-516212C1A854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Prospecting.Infra", "deployments\Softville.Prospecting.Infra\Softville.Prospecting.Infra.csproj", "{81D90F94-F682-479F-915A-20CEB79EB8BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +98,10 @@ Global
 		{FBCC3F06-D0EB-4833-8141-516212C1A854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBCC3F06-D0EB-4833-8141-516212C1A854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBCC3F06-D0EB-4833-8141-516212C1A854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D90F94-F682-479F-915A-20CEB79EB8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D90F94-F682-479F-915A-20CEB79EB8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D90F94-F682-479F-915A-20CEB79EB8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D90F94-F682-479F-915A-20CEB79EB8BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{59FA7E00-9569-4EFF-81FA-565508D9F003} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
@@ -99,5 +109,6 @@ Global
 		{B93CE258-F0A0-4EE9-98B9-3D2E008AD64F} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
 		{9CB6546D-D11E-4330-A244-26C4C652A043} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
 		{FBCC3F06-D0EB-4833-8141-516212C1A854} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
+		{81D90F94-F682-479F-915A-20CEB79EB8BE} = {9732AB3F-A270-4663-AB7D-0CF351B1F736}
 	EndGlobalSection
 EndGlobal
