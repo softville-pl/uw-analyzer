@@ -37,7 +37,8 @@ steps:
       scriptLocation: inlineScript
       inlineScript: |
 
-        $env:ARM_USE_MSI='true'
+        $env:ARM_USE_AKS_WORKLOAD_IDENTITY='true'
+        $env:ARM_USE_CLI='false'
         $env:ARM_TENANT_ID=$env:tenantId
         $env:ARM_SUBSCRIPTION_ID=$env:SUBSCRIPTIONID
         
