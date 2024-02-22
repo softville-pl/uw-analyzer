@@ -34,4 +34,10 @@ steps:
       scriptType: pscore
       scriptLocation: inlineScript
       inlineScript: |
+
+        # Based on stackoverflow.com/a/61337144 to solve tf auth issue to Azure for state storage
+        export ARM_CLIENT_ID=$servicePrincipalId
+        export ARM_CLIENT_SECRET=$servicePrincipalKey
+        export ARM_TENANT_ID=$tenantId
+
         cdktf deploy --auto-approve
