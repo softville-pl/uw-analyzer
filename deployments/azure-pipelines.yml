@@ -42,8 +42,7 @@ steps:
         $env:ARM_CLIENT_SECRET=$servicePrincipalKey
         $env:ARM_TENANT_ID=$env:tenantId
         $env:ARM_SUBSCRIPTION_ID=$env:SUBSCRIPTIONID
-
-        echo "servicePrincipalKey value = $(servicePrincipalKey)"
+        
         gci env: -Recurse
 
         cdktf deploy --auto-approve
