@@ -1,5 +1,7 @@
 trigger:
-  - main
+  paths:
+    include:
+      - deployments
 
 pool:
   vmImage: 'ubuntu-latest'
