@@ -43,4 +43,6 @@ steps:
         $env:ARM_TENANT_ID=$env:tenantId
         $env:ARM_SUBSCRIPTION_ID=$subscriptionId
 
+        gci ENV: -Recurse
+
         cdktf deploy --auto-approve
