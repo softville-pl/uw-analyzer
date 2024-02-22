@@ -3,7 +3,9 @@
     "app": "dotnet run --project Softville.Prospecting.Infra.csproj",
     "projectId": "3a70d6b2-ba36-444d-b068-ff1d39ea7bf6",
     "sendCrashReports": "false",
-    "terraformProviders": [],
+    "terraformProviders": [
+        "azurerm@~>3.54.0"
+    ],
     "terraformModules": [],
     "context": {
     }
