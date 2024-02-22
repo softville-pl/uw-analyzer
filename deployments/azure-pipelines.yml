@@ -37,9 +37,7 @@ steps:
       scriptLocation: inlineScript
       inlineScript: |
 
-        # Based on stackoverflow.com/a/61337144 to solve tf auth issue to Azure for state storage
-        $env:ARM_CLIENT_ID=$env:servicePrincipalId
-        $env:ARM_CLIENT_SECRET=$servicePrincipalKey
+        $env:ARM_USE_MSI='true'
         $env:ARM_TENANT_ID=$env:tenantId
         $env:ARM_SUBSCRIPTION_ID=$env:SUBSCRIPTIONID
         
