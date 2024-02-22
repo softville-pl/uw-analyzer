@@ -44,7 +44,5 @@ steps:
         $env:ARM_CLIENT_ID=$env:servicePrincipalId
         $env:ARM_TENANT_ID=$env:tenantId
         $env:ARM_SUBSCRIPTION_ID=$env:SUBSCRIPTIONID
-        
-        gci env: -Recurse
 
         cdktf deploy --auto-approve
