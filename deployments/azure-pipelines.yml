@@ -30,6 +30,7 @@ steps:
     inputs:
       workingDirectory: $(infraProject)
       azureSubscription: 'sc-prspct-test-plc-001-2'
+      addSpnToEnvironment: true
       scriptType: pscore
       scriptLocation: inlineScript
       inlineScript: |
