@@ -28,6 +28,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deployments", "deployments"
 	ProjectSection(SolutionItems) = preProject
 		deployments\README.md = deployments\README.md
 		deployments\azure-pipelines.yml = deployments\azure-pipelines.yml
+		deployments\create-storage-terraform-state.ps1 = deployments\create-storage-terraform-state.ps1
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{4D2EB93B-8027-4030-B83D-A60213F57592}"
