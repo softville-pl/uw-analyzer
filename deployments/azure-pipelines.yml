@@ -5,6 +5,8 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
+  - name: subscriptionId
+    value: 6eeb26c2-d05d-430f-81c2-5510705013f6
   - name: infraProject
     value: $(Build.SourcesDirectory)/deployments/Softville.Prospecting.Infra
   - name: infraProjectTf
@@ -39,5 +41,6 @@ steps:
         $env:ARM_CLIENT_ID=$servicePrincipalId
         $env:ARM_CLIENT_SECRET=$servicePrincipalKey
         $env:ARM_TENANT_ID=$tenantId
+        $env:ARM_SUBSCRIPTION_ID=$subscriptionId
 
         cdktf deploy --auto-approve
