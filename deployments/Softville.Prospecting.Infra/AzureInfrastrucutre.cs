@@ -11,7 +11,7 @@ namespace Softville.Prospecting.Infra;
 
 /// <summary>
 /// </summary>
-public class AzureInfrastructure : TerraformStack
+public class ProspectingAzureStack : TerraformStack
 {
     /// <summary>
     ///
@@ -21,7 +21,7 @@ public class AzureInfrastructure : TerraformStack
     /// <param name="resourceGroupName"></param>
     /// <param name="cosmosDbName"></param>
     /// <param name="environment"></param>
-    public AzureInfrastructure(Construct scope, string id, string resourceGroupName, string cosmosDbName,
+    public ProspectingAzureStack(Construct scope, string id, string resourceGroupName, string cosmosDbName,
         string environment) : base(scope, id)
     {
         new AzurermProvider(this, "azureFeature", new AzurermProviderConfig {Features = new AzurermProviderFeatures()});
