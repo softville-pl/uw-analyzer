@@ -38,6 +38,7 @@ public class ProspectingAzureStack : TerraformStack
             new ResourceGroupConfig {Name = $"rg-{namePostfix}", Location = "polandcentral", Tags = tags});
 
         DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
+        var adminUserObjectId = "035e7cd0-50b7-49bb-bff5-4134329917a4";
 
         // Define KeyVault for the resource group
         KeyVault kv = new(this, "KeyVault",
@@ -56,6 +57,12 @@ public class ProspectingAzureStack : TerraformStack
                     {
                         TenantId = clientConfig.TenantId,
                         ObjectId = clientConfig.ObjectId,
+                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
+                    },
+                    new KeyVaultAccessPolicy
+                    {
+                        TenantId = clientConfig.TenantId,
+                        ObjectId = adminUserObjectId,
                         SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
                     }
                 }
