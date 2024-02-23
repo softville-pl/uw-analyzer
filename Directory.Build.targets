@@ -25,6 +25,5 @@
 
   <ItemGroup Label="Infrastructure">
     <PackageReference Update="HashiCorp.Cdktf.Providers.Azurerm" Version="12.6.0"/>
-    <PackageReference Update="HashiCorp.Cdktf.Providers.Azuread" Version="12.0.0"/>
   </ItemGroup>
 </Project>

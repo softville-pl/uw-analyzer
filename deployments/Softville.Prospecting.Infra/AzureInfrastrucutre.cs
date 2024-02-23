@@ -3,8 +3,6 @@
 
 using Constructs;
 using HashiCorp.Cdktf;
-using HashiCorp.Cdktf.Providers.Azuread.DataAzureadUser;
-using HashiCorp.Cdktf.Providers.Azuread.Provider;
 using HashiCorp.Cdktf.Providers.Azurerm.CosmosdbAccount;
 using HashiCorp.Cdktf.Providers.Azurerm.DataAzurermClientConfig;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
@@ -30,10 +28,8 @@ public class ProspectingAzureStack : TerraformStack
     {
         string namePostfix = $"{workload}-{environment}-plc-{instance}";
 
-        _ = new AzurermProvider(this, "azureFeature",
+        new AzurermProvider(this, "azureFeature",
             new AzurermProviderConfig {Features = new AzurermProviderFeatures()});
-
-        _ = new AzureadProvider(this, "azureAd");
 
         // Define the Resource Group
         Dictionary<string, string> tags = new() {{"env", environment}, {"app", "prospecting-app"}};
@@ -41,12 +37,7 @@ public class ProspectingAzureStack : TerraformStack
         ResourceGroup resourceGroup = new(this, "ResourceGroup",
             new ResourceGroupConfig {Name = $"rg-{namePostfix}", Location = "polandcentral", Tags = tags});
 
-        DataAzurermClientConfig servicePrincipal = new(this, "ServicePrincipal");
-        DataAzureadUser adminUser = new (this, "AdminUser",
-            new DataAzureadUserConfig()
-            {
-                UserPrincipalName = "jakub.romaniec@outlook.com"
-            });
+        DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
 
         // Define KeyVault for the resource group
         KeyVault kv = new(this, "KeyVault",
@@ -57,20 +48,14 @@ public class ProspectingAzureStack : TerraformStack
                 Location = resourceGroup.Location,
                 SkuName = "standard",
                 SoftDeleteRetentionDays = 7,
-                TenantId = servicePrincipal.TenantId,
+                TenantId = clientConfig.TenantId,
                 Tags = tags,
                 AccessPolicy = new IKeyVaultAccessPolicy[]
                 {
                     new KeyVaultAccessPolicy
                     {
-                        TenantId = servicePrincipal.TenantId,
-                        ObjectId = servicePrincipal.ObjectId,
-                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
-                    },
-                    new KeyVaultAccessPolicy
-                    {
-                        TenantId = servicePrincipal.TenantId,
-                        ObjectId = adminUser.ObjectId,
+                        TenantId = clientConfig.TenantId,
+                        ObjectId = clientConfig.ObjectId,
                         SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
                     }
                 }
