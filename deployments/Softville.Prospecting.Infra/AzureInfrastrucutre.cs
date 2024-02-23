@@ -46,7 +46,7 @@ public class ProspectingAzureStack : TerraformStack
                 Name = $"kv-{namePostfix}",
                 ResourceGroupName = resourceGroup.Name,
                 Location = resourceGroup.Location,
-                SkuName = "Standard",
+                SkuName = "standard",
                 SoftDeleteRetentionDays = 7,
                 TenantId = clientConfig.TenantId,
                 Tags = tags
