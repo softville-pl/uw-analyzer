@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01f84f1c59362f4da6",
+    "rid": 1011504926,
+    "uid": "1760633757725954048",
+    "type": 2,
+    "access": 4,
+    "title": "QA Automation Engineer Selenium",
+    "status": 1,
+    "category": {
+      "name": "Scripts \u0026 Utilities",
+      "urlSlug": "scripts-utilities"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-22T11:52:53.787Z",
+    "postedOn": "2024-02-22T11:52:54.276Z",
+    "publishTime": "2024-02-22T11:52:54.276Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4613445,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We are looking to assure professional QA for an engineering application. While the development team is delivering the application (which consists of a Single Page Web Application, a back-end server and communication with a multitude of third-party APIs), the present job is about assuring a professional testing, creating automatic tests and a professional QA report / Quality Planning.\n\nYou will be working with a development team to:\n\u2022\tDevelop an automated testing framework in accordance with company\u2019s policy and project\u2019s needs.\n\u2022\tCreate a Quality Delivery Plan.\n\u2022\tDevelop, implement, and document the test strategy for the project.\n\u2022\tCreate and document test plans and test case scenarios.\n\u2022\tDesign, create, and execute manual and automated test cases.\n\nYour expertise will be needed to:\n\u2022\tTake the lead in the Quality Assurance process, including presenting the quality status report for each sprint / milestone.\n\u2022\tParticipate at all periodic meetings (daily, monthly or quarterly meetings).\n\u2022\tEvaluate the quality of the applications, addressing any concerns or issues proactively - communicate results (blockers or successes) to the team and to the customer.\n\nMore details about the requirements:\n\u2022\tVisual Studio\n\u2022\tAzure Devops\n\u2022\t.NET C#\n\u2022\tSelenium WebDriver and IDE\n\nNice to have / know:\n\u2022\tSQL\n\u2022\tISTQB certification\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-23T10:22:21.334Z",
+      "totalApplicants": 84,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 1,
+      "invitationsSent": 3
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "72",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a QA Automation Engineer with expertise in Selenium to join our team on a project that will last for more than 6 months. As a QA Automation Engineer, you will be responsible for designing and implementing test automation frameworks using Selenium WebDriver. \n\nThe ideal candidate should have a strong background in software QA and web testing, with proficiency in .NET Core and Azure DevOps. Experience in designing test cases and executing automated tests is a must. \n\nTo be considered for this role, please submit a proposal outlining how you can contribute to this project. We would like to know about your previous experience in building test automation frameworks, your familiarity with Selenium, and your ability to work with Azure DevOps. Additionally, please provide links to any relevant past projects you have completed.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-22T11:52:54.276Z",
+        "totalTimeJobPostFlowAIv2": "324",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626778631192576\u0022},{\u0022skillUid\u0022:\u00221031626717855727616\u0022},{\u0022skillUid\u0022:\u00221031626778639581184\u0022},{\u0022skillUid\u0022:\u00221110580711831097344\u0022},{\u0022skillUid\u0022:\u00221031626781474930688\u0022},{\u0022skillUid\u0022:\u00221110580494679396352\u0022},{\u0022skillUid\u0022:\u00221031626795412602880\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221204836445183918080\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "51",
+        "totalTimeSpentOnReviewPageAIv2": "45",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708602448342",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "QA Automation Engineer Selenium",
+        "finalDescriptionAI": "We are looking to assure professional QA for an engineering application. While the development team is delivering the application (which consists of a Single Page Web Application, a back-end server and communication with a multitude of third-party APIs), the present job is about assuring a professional testing, creating automatic tests and a professional QA report / Quality Planning.\n\nYou will be working with a development team to:\n\u2022\tDevelop an automated testing framework in accordance with company\u2019s policy and project\u2019s needs.\n\u2022\tCreate a Quality Delivery Plan.\n\u2022\tDevelop, implement, and document the test strategy for the project.\n\u2022\tCreate and document test plans and test case scenarios.\n\u2022\tDesign, create, and execute manual and automated test cases.\nYour expertise will be needed to:\n\u2022\tTake the lead in the Quality Assurance process, including presenting the quality status report for each sprint / milestone.\n\u2022\tParticipate at all periodic meetings (daily, monthly or quarterly meetings).\n\u2022\tEvaluate the quality of the applications, addressing any concerns or issues proactively - communicate results (blockers or successes) to the team and to the customer.\n\nMore details about the requirements:\n\u2022\tVisual Studio\n\u2022\tAzure Devops\n\u2022\t.NET C#\n\u2022\tSelenium WebDriver and IDE\nNice to have / know:\n\u2022\tSQL\n\u2022\tISTQB certification\n"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Romania (UTC\u002B03:00)",
+      "city": "Bucharest",
+      "country": "Romania"
+    },
+    "stats": {
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 4,
+      "score": 5,
+      "totalJobsWithHires": 7,
+      "hoursCount": 1718.500008,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 90967.49
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-11-23T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 10,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 34.06476562553499
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01a9eca76ffd24ca8d",
+    "rid": 1011493971,
+    "uid": "1760427762311344128",
+    "type": 2,
+    "access": 4,
+    "title": "Expert Web Developer Needed for Responsive Website Portfolio Generator",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-21T22:14:20.815Z",
+    "postedOn": "2024-02-21T22:14:21.189Z",
+    "publishTime": "2024-02-21T22:14:21.189Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 3021500,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Project Overview:\nWe are seeking a proficient web developer to create a responsive website portfolio generator akin to https://techsini.com/multi-mockup/index.php. This project aims to empower users to effortlessly showcase their web designs across various devices with an interactive preview feature.\n\nKey Specifications:\n- Develop a platform capable of generating interactive previews of webpages on different devices (Desktop, Laptop, Tablet, and Mobile) from a given URL.\n- Implement functionality allowing users to move and reposition devices as desired.\n- Incorporate options for showing/hiding devices to customize the preview.\n- Integrate the capability to generate background images using Midjourney.\n- Provide functionality for exporting the preview as a JPEG or embedding it as code into the portfolio page.\n\nPreferred Technologies:\n- Ruby on Rails\n- .NET\n- Django\n- Laravel\n\n\nIf you possess the expertise to bring this project to fruition and are proficient in any of the preferred technologies listed above, we invite you to apply. Please include examples of your past work and relevant experience in your proposal. We look forward to collaborating with a skilled developer who can deliver high-quality results within the specified timeframe.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T22:14:20.541Z",
+      "totalApplicants": 83,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "2097",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a talented and experienced web developer who can help us create a multi-device website portfolio generator. The project is expected to last for 1 to 3 months.\n\nThe ideal candidate should have expertise in web development, AI app development, AI model integration, AI development, and web application. We need someone who can not only develop the website portfolio generator but also integrate AI capabilities into it.\n\nTo apply for this job, please submit a detailed proposal explaining how you can contribute to this project. Please include specific examples of past projects that are similar in nature, along with links to those projects.\n\nWe are excited to collaborate with a skilled professional who is passionate about delivering high-quality work. If you have the required skills and experience, we look forward to reviewing your proposal.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-21T22:14:21.189Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221691099314241679360\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221623716863997775872\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221691099314254262272\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "2094",
+        "totalTimeSpentOnReviewPageAIv2": "128",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708541660833",
+        "finalDescriptionAI": "Project Details:\nCreate a responsive website portfolio generator similar to https://techsini.com/multi-mockup/index.php\n\nSpecifications:\n- Ability to generate an interactive preview of a webpage on different devices from a URL. Devices: Desktop, Laptop, Tablet and Mobile\n- Ability to move and reposition devices\n- Ability to show/hide devices\n- Ability to generate a background image using Midjourney\n- Ability to export as a JPEG, or an embed code to the portfolio page\n\nPreferred technologies:\n- Ruby on Rails\n- .NET\n- Django\n- Laravel\n\n",
+        "inputsTitleAI": "Multi Device Website Portfolio Generator",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "stats": {
+      "totalAssignments": 21,
+      "activeAssignmentsCount": 7,
+      "feedbackCount": 9,
+      "score": 4.958503168,
+      "totalJobsWithHires": 19,
+      "hoursCount": 324.833333,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 35117.81
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-05-26T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 35,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 12.205890212627903
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

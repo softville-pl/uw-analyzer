@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0186546f560a91bec9",
+    "rid": 1011507908,
+    "uid": "1760675279831232512",
+    "type": 2,
+    "access": 4,
+    "title": "C\u002B\u002B/ C# based, PDF editor \u0026 converter desktop  app",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-22T14:37:53.465Z",
+    "postedOn": "2024-02-22T14:37:53.947Z",
+    "publishTime": "2024-02-22T14:37:53.947Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001626341,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "I\u2019d like to evaluate if we should use an open-source application (native)\nWe should be able to use it and modify it to our usage (brand)\nWe need an app that we can rebrand the open-source app (or that the developer has the TM \u0026 and usage rights for)\n- If an open source: the licence should be one of the  below: MIT, Apache2 or BSD\n- IT should be complied on .net environment with  on Visual basic\n- The gig should include the source code\n- Easily rebranded (easy access to reskin/design)\n- No malware issues when running on Virus Total\n- Full offline functionality\n- Design can be very minimal but editable from the source code\n- Base functions:\n1. PDFConverter (pdf to doc and vice versa is the minimum, sign and edit pdf strongly preferred)\n2. PDF Reader (can be set as default reader app on Win PC)\n3. No limitations on downloading it from an S3 bucket\n4. Uninstall\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-22T19:17:57.218Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "38",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled developer to create a desktop application for editing and converting PDF files. The application should be developed using C\u002B\u002B or C# and should be compatible with the .NET Framework. \n\nThe project is expected to be completed in less than 1 month, so we need someone who can work efficiently and meet deadlines. \n\nThe ideal candidate should have experience in developing standalone desktop applications for Microsoft Windows using Microsoft Visual C\u002B\u002B. They should also have knowledge of Windows app development and be proficient in C#.\n\nTo apply for this job, please submit a proposal detailing how you can contribute to the project. Please include links to any relevant past projects that demonstrate your skills and expertise in this area.\n\nWe are looking forward to hearing from you and finding the right candidate to help us with this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-22T14:37:53.947Z",
+        "totalTimeJobPostFlowAIv2": "278",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580484306882560\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826496\u0022},{\u0022skillUid\u0022:\u00221225465937601466368\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826497\u0022},{\u0022skillUid\u0022:\u0022996364628025274381\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221110580702553296896\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022},{\u0022skillUid\u0022:\u00221031626759492583424\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "30",
+        "totalTimeSpentOnReviewPageAIv2": "9",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708612394436",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "C\u002B\u002B/ C# based, PDF editor \u0026 converter desktop  app",
+        "finalDescriptionAI": "I\u2019d like to evaluate if we should use an open-source application (native)\nWe should be able to use it and modify it to our usage (brand)\nWe need an app that we can rebrand the open-source app (or that the developer has the TM \u0026 and usage rights for)\n- If an open source: the licence should be one of the  below: MIT, Apache2 or BSD\n- IT should be complied on .net environment with  on Visual basic\n- The gig should include the source code\n- Easily rebranded (easy access to reskin/design)\n- No malware issues when running on Virus Total\n- Full offline functionality\n- Design can be very minimal but editable from the source code\n- Base functions:\n1. PDFConverter (pdf to doc and vice versa is the minimum, sign and edit pdf strongly preferred)\n2. PDF Reader (can be set as default reader app on Win PC)\n3. No limitations on downloading it from an S3 bucket\n4. Uninstall\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Israel (UTC)",
+      "city": "HERZLIYA",
+      "country": "Israel"
+    },
+    "stats": {
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 4,
+      "score": 4.623706491,
+      "totalJobsWithHires": 6,
+      "hoursCount": 26.666666,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2326
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-09-23T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 10,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 21.600000540000014
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

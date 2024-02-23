@@ -1,5 +1,1669 @@
 [
   {
+    "Title": "Windows \u0026 Linux DevOps Engineer",
+    "Uid": "1760960445163573248",
+    "Rid": 1011525579,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~015aeb2d8f457dd535",
+    "Category": "DevOps \u0026 Solution Architecture",
+    "CategoryGroup": "IT \u0026 Networking",
+    "PublishedTime": "2024-02-23T09:50:52.86Z",
+    "Rate": {
+      "Minimum": 39,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~015aeb2d8f457dd535",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United Kingdom",
+        "City": "Canterbury"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 123,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 59,
+        "Score": 4.997930719,
+        "TotalJobsWithHires": 111,
+        "HoursCount": 11067.200009,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 627174.27
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Microsoft Windows",
+      "System Administration",
+      "Windows Administration",
+      "DevOps",
+      "Network Administration"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-23T10:23:34.513Z",
+      "TotalApplicants": 31,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 5,
+      "MatchedQualifications": 5,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "region=(Europe)",
+          "FreelancerValue": "Europe",
+          "FreelancerValueLabel": "Europe",
+          "ClientPreferredLabel": "Europe"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Looking for a Full Stack Engineer \u0026 Technical Supporter",
+    "Uid": "1760771965677899776",
+    "Rid": 1011516192,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d261f9fc37f671b4",
+    "Category": "Customer Service \u0026 Tech Support",
+    "CategoryGroup": "Customer Service",
+    "PublishedTime": "2024-02-23T00:02:06.593Z",
+    "Rate": {
+      "Minimum": 70,
+      "Maximum": 100,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d261f9fc37f671b4",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "New York"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      "React",
+      "Node.js",
+      "Python",
+      "Django",
+      "Amazon Web Services",
+      "Technical Support",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T21:08:20.364Z",
+      "TotalApplicants": 36,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 8
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Hiring Full Stack Developer with Replit experience",
+    "Uid": "1760778695535431680",
+    "Rid": 1011516685,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01206cc41acf9dc46d",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-22T21:28:50.248Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01206cc41acf9dc46d",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Columbus"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 32,
+        "ActiveAssignmentsCount": 7,
+        "FeedbackCount": 23,
+        "Score": 5,
+        "TotalJobsWithHires": 30,
+        "HoursCount": 321.666668,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 11572.72
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Replit"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T22:14:47.651Z",
+      "TotalApplicants": 40,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Cognito User Pool Issue ",
+    "Uid": "1760682832202711040",
+    "Rid": 1011508587,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01455948a212eaafea",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-22T15:07:54.608Z",
+    "Rate": {
+      "Minimum": 10,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01455948a212eaafea",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "New York"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 62,
+        "ActiveAssignmentsCount": 18,
+        "FeedbackCount": 40,
+        "Score": 4.929088709,
+        "TotalJobsWithHires": 54,
+        "HoursCount": 2161.166669,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 45585.33
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "JavaScript",
+      "React",
+      "Amazon Web Services"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T15:07:53.925Z",
+      "TotalApplicants": 26,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "C\u002B\u002B/ C# based, PDF editor \u0026 converter desktop  app",
+    "Uid": "1760675279831232512",
+    "Rid": 1011507908,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0186546f560a91bec9",
+    "Category": "Desktop Application Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-22T14:37:53.947Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 80,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0186546f560a91bec9",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Israel",
+        "City": "HERZLIYA"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 6,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 4,
+        "Score": 4.623706491,
+        "TotalJobsWithHires": 6,
+        "HoursCount": 26.666666,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 2326
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Application Installer",
+      "Microsoft Windows",
+      "Desktop Application Testing",
+      "C#",
+      "C\u002B\u002B",
+      "Desktop Application",
+      "Standalone Application",
+      "Windows App Development",
+      "Microsoft Visual C\u002B\u002B"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T19:17:57.218Z",
+      "TotalApplicants": 20,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "QA Automation Engineer Selenium",
+    "Uid": "1760633757725954048",
+    "Rid": 1011504926,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01f84f1c59362f4da6",
+    "Category": "Scripts \u0026 Utilities",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-22T11:52:54.276Z",
+    "Rate": {
+      "Minimum": 15,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01f84f1c59362f4da6",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Romania",
+        "City": "Bucharest"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 8,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 4,
+        "Score": 5,
+        "TotalJobsWithHires": 7,
+        "HoursCount": 1718.500008,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 90967.49
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Core",
+      "Selenium",
+      "Automated Testing",
+      "Selenium WebDriver",
+      "Test Design",
+      "Software QA",
+      "Test Automation Framework",
+      "Web Testing",
+      "Azure DevOps"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-23T10:22:21.334Z",
+      "TotalApplicants": 84,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 3,
+      "UnansweredInvites": 1,
+      "InvitationsSent": 3
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Dayforce and Active Directory Integration",
+    "Uid": "1760534777082867712",
+    "Rid": 1011499561,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~019275733436cac875",
+    "Category": "Network \u0026 System Administration",
+    "CategoryGroup": "IT \u0026 Networking",
+    "PublishedTime": "2024-02-22T08:19:36.685Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 75,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~019275733436cac875",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Manufacturing \u0026 Construction",
+        "Size": "1000"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Microsoft Active Directory",
+      "Windows Server",
+      "WordPress",
+      "API"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T12:05:43.318Z",
+      "TotalApplicants": 13,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 2,
+      "MatchedQualifications": 2,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Experience Microsoft Developer Required for Long-term Engagement",
+    "Uid": "1760505946402828288",
+    "Rid": 1011498204,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0139d1c840ff10a2bf",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-22T03:25:01.597Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0139d1c840ff10a2bf",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Australia",
+        "City": "Sydney"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 50,
+        "ActiveAssignmentsCount": 13,
+        "FeedbackCount": 34,
+        "Score": 4.923691786,
+        "TotalJobsWithHires": 42,
+        "HoursCount": 4094.666668,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 108570.87
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Web Application",
+      "API Development",
+      "API Integration",
+      "Full-Stack Development",
+      "ASP",
+      "C\u002B\u002B",
+      "API",
+      "C#",
+      "MySQL"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Please provide links to previous Microsoft-related projects, outline in a few sentences the different Microsoft products that were required or used in the development of the application/solution."
+    ],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T03:35:25.311Z",
+      "TotalApplicants": 33,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 6,
+      "MatchedQualifications": 3,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "90",
+          "FreelancerValue": "0",
+          "FreelancerValueLabel": "0%",
+          "ClientPreferredLabel": "At least 90%"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "4",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Native"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "country=(Philippines,Sri Lanka)",
+          "FreelancerValue": "Poland",
+          "FreelancerValueLabel": "Poland",
+          "ClientPreferredLabel": "Philippines, Sri Lanka"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Hiring Full Stack Developer",
+    "Uid": "1760437257447825408",
+    "Rid": 1011494565,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0169c5406bf40a8cae",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T22:52:05.165Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0169c5406bf40a8cae",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Columbus"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 32,
+        "ActiveAssignmentsCount": 7,
+        "FeedbackCount": 23,
+        "Score": 5,
+        "TotalJobsWithHires": 30,
+        "HoursCount": 321.666668,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 11572.72
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "PHP",
+      "Web Application",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T18:28:17.191Z",
+      "TotalApplicants": 137,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Expert Web Developer Needed for Responsive Website Portfolio Generator",
+    "Uid": "1760427762311344128",
+    "Rid": 1011493971,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Not Sure",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a9eca76ffd24ca8d",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T22:14:21.189Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a9eca76ffd24ca8d",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Canada",
+        "City": "Toronto"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 21,
+        "ActiveAssignmentsCount": 7,
+        "FeedbackCount": 9,
+        "Score": 4.958503168,
+        "TotalJobsWithHires": 19,
+        "HoursCount": 324.833333,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 35117.81
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "Web Application",
+      "AI App Development",
+      "AI Model Integration",
+      "AI Development",
+      "Web Development"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-21T22:14:20.541Z",
+      "TotalApplicants": 83,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "convert.net framework to.net core . Modify complete graphic and menu redesign.",
+    "Uid": "1760404789886038016",
+    "Rid": 1011492312,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01c6ce293e61c4ce59",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T20:43:04.23Z",
+    "Rate": {
+      "Minimum": 10,
+      "Maximum": 70,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01c6ce293e61c4ce59",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Newburyport"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 5,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 5,
+        "Score": 4.795792158,
+        "TotalJobsWithHires": 4,
+        "HoursCount": 3450.5,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 63150.07
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "Web Application",
+      "Website Redesign",
+      "Microsoft SQL Server",
+      "Web Development",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-21T20:58:51.813Z",
+      "TotalApplicants": 194,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "C# .NET, WPF desktop application",
+    "Uid": "1760350499882070016",
+    "Rid": 1011487625,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~013551b28dfb4c22ee",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T19:01:41.545Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~013551b28dfb4c22ee",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "India",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Desktop Application",
+      "C#",
+      "Windows App Development"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T05:54:28.485Z",
+      "TotalApplicants": 11,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "Full Stack Developer with C#/.NET \u002B Angular Skills",
+    "Uid": "1760355603289395200",
+    "Rid": 1011488088,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 2
+    },
+    "CipherText": "~01af91007773cd514e",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T17:27:37.149Z",
+    "Rate": {
+      "Minimum": 20,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01af91007773cd514e",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Parsippany"
+      },
+      "Profile": {
+        "Industry": "Sales \u0026 Marketing",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 4,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 3,
+        "Score": 5,
+        "TotalJobsWithHires": 4,
+        "HoursCount": 44.500001,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 2153.91
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET MVC",
+      ".NET Framework",
+      "Angular",
+      "AI App Development",
+      "AI Development",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Tell me about your test-driven development experience.",
+      "Include a link to your GitHub profile and/or website"
+    ],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-21T20:09:53.801Z",
+      "TotalApplicants": 203,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 5,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
+    "Title": "SDK Development [Unity]",
+    "Uid": "1760313957364252672",
+    "Rid": 1011484431,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d2bfd2364feddc51",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-21T14:42:08.107Z",
+    "Rate": {
+      "Minimum": 20,
+      "Maximum": 70,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d2bfd2364feddc51",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Austria",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Core",
+      "API",
+      "SDK",
+      "Unity"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your recent experience with similar projects",
+      "Include a link to your GitHub profile and/or website",
+      "What frameworks have you worked with?"
+    ],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-22T15:31:01.009Z",
+      "TotalApplicants": 0,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 7,
+      "MatchedQualifications": 5,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "individuals",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Freelancers only"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "90",
+          "FreelancerValue": "0",
+          "FreelancerValueLabel": "0%",
+          "ClientPreferredLabel": "At least 90%"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "3",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Fluent"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "true",
+          "FreelancerValue": "false",
+          "FreelancerValueLabel": "no",
+          "ClientPreferredLabel": "yes"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "region=(Africa,Americas,Europe)",
+          "FreelancerValue": "Europe",
+          "FreelancerValueLabel": "Europe",
+          "ClientPreferredLabel": "Africa, Americas, Europe"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "0.00",
+          "FreelancerValueLabel": "0.00",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    }
+  },
+  {
     "Title": "Expert .NET/Javascript Engineer - PDFs",
     "Uid": "1759982633243512832",
     "Rid": 1011462590,
@@ -80,118 +1744,6 @@
       "TotalInvitedToInterview": 9,
       "UnansweredInvites": 9,
       "InvitationsSent": 13
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": ".Net developer with Lucene.Net experience needed for Legal Tech application",
-    "Uid": "1759932854533431296",
-    "Rid": 1011458089,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01cdb8cb19849a3d80",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-20T13:27:46.1Z",
-    "Rate": {
-      "Minimum": 30,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01cdb8cb19849a3d80",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Norway",
-        "City": "Kongshavn"
-      },
-      "Profile": {
-        "Industry": "Legal",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 19,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 15,
-        "Score": 4.991669834,
-        "TotalJobsWithHires": 18,
-        "HoursCount": 503.166664,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 11748.29
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "C#"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 8,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-21T06:03:40.015Z",
-      "TotalApplicants": 8,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 3,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -832,123 +2384,6 @@
           "FreelancerValue": "Poland",
           "FreelancerValueLabel": "Poland",
           "ClientPreferredLabel": "United States, Canada"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "ASP.NET Developer Needed for Debugging",
-    "Uid": "1759587130902528000",
-    "Rid": 1011434645,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~019a71425badb01a77",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-19T14:33:58.953Z",
-    "Rate": {
-      "Minimum": 10,
-      "Maximum": 100,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~019a71425badb01a77",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Canada",
-        "City": "montreal"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "1"
-      },
-      "Stats": {
-        "TotalAssignments": 5,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 3,
-        "Score": 4.315249752,
-        "TotalJobsWithHires": 4,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 301.15
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET",
-      ".NET Framework",
-      "ASP.NET MVC",
-      "Software Debugging",
-      "Database Architecture",
-      "SQL",
-      "JavaScript"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-19T22:24:30.791Z",
-      "TotalApplicants": 100,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 12,
-      "UnansweredInvites": 2,
-      "InvitationsSent": 7
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
         },
         {
           "Qualified": true,
@@ -2140,124 +3575,6 @@
     }
   },
   {
-    "Title": "Full Stack Developer (Individual Contributor)",
-    "Uid": "1758373925645897728",
-    "Rid": 1011371628,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0160b3483347ac204d",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-16T06:13:08.175Z",
-    "Rate": {
-      "Minimum": 10,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0160b3483347ac204d",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 6,
-        "ActiveAssignmentsCount": 4,
-        "FeedbackCount": 1,
-        "Score": 5,
-        "TotalJobsWithHires": 5,
-        "HoursCount": 9.166667,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 180
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "C#",
-      "React",
-      "Angular",
-      "Transact-SQL"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-16T06:29:08.575Z",
-      "TotalApplicants": 145,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
     "Title": "Expert .Net developer for short term contract",
     "Uid": "1758296478628855808",
     "Rid": 1011368000,
@@ -2633,126 +3950,6 @@
           "FreelancerValue": "0.00",
           "FreelancerValueLabel": "0.00",
           "ClientPreferredLabel": "At Least 1000"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": ".Net Developer ",
-    "Uid": "1758194325864202240",
-    "Rid": 1011360677,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01779b39c9d65e9728",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-15T18:19:28.471Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01779b39c9d65e9728",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "India",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 2,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 2,
-        "HoursCount": 24.5,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 112.34
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "ASP.NET MVC",
-      ".NET Core",
-      "C#",
-      "Microsoft SQL Server",
-      "API",
-      "SQL",
-      "JavaScript",
-      "jQuery"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-16T13:07:26.959Z",
-      "TotalApplicants": 50,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
         },
         {
           "Qualified": true,
@@ -5267,107 +6464,6 @@
     }
   },
   {
-    "Title": "Solution Architect",
-    "Uid": "1756999022080880640",
-    "Rid": 1011280370,
-    "Cooperation": {
-      "DurationLabel": "3 to 6 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~017ffa4a284a6679b0",
-    "Category": "DevOps \u0026 Solution Architecture",
-    "CategoryGroup": "IT \u0026 Networking",
-    "PublishedTime": "2024-02-12T11:09:45.992Z",
-    "Rate": {
-      "Minimum": 42,
-      "Maximum": 90,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~017ffa4a284a6679b0",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "India",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "Solution Architecture",
-      "Cloud Computing",
-      "C#",
-      "JavaScript",
-      "Activity Diagram"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 12,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-16T07:46:13.089Z",
-      "TotalApplicants": 18,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 2,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 1
-    },
-    "Qualifications": {
-      "TotalQualifications": 2,
-      "MatchedQualifications": 2,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
     "Title": "Technical Project Manager",
     "Uid": "1756545027374305280",
     "Rid": 1011259583,
@@ -6772,120 +7868,6 @@
       "TotalApplicants": 31,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "Software Developers",
-    "Uid": "1755633598690512896",
-    "Rid": 1011211158,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~012e8d6f5dc039098b",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-08T16:44:03.329Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~012e8d6f5dc039098b",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Venezuela",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "Sales \u0026 Marketing",
-        "Size": "1"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "Web Application",
-      "Desktop Application",
-      "Full-Stack Development",
-      "C#"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-08T17:35:08.609Z",
-      "TotalApplicants": 38,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 21,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -8946,123 +9928,6 @@
     }
   },
   {
-    "Title": "Expert .NET/Javascript Engineer - PDF expert",
-    "Uid": "1754201297918947328",
-    "Rid": 1011118752,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01e405228f362f24ed",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-04T17:52:36.212Z",
-    "Rate": {
-      "Minimum": 50,
-      "Maximum": 75,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01e405228f362f24ed",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "New York"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 71,
-        "ActiveAssignmentsCount": 12,
-        "FeedbackCount": 44,
-        "Score": 4.914899447,
-        "TotalJobsWithHires": 67,
-        "HoursCount": 11674.333341,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 603806.54
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "JSON",
-      "C#",
-      "Angular",
-      "JavaScript",
-      "API",
-      "CSS"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-06T00:24:19.312Z",
-      "TotalApplicants": 139,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 11,
-      "UnansweredInvites": 13,
-      "InvitationsSent": 30
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
     "Title": "Web3 developer to build graphs for our no-code environment (AI)",
     "Uid": "1753730561409421312",
     "Rid": 1011097006,
@@ -9636,15 +10501,10 @@
     "ApplicationProcess": "N/A",
     "UnusualRequirements": "N/A",
     "Requirements": [
-      "ASP.NET",
       ".NET Framework",
+      "ASP.NET",
       "ASP.NET MVC",
-      "API",
-      "Web Application",
-      "C#",
-      "JavaScript",
-      "API Integration",
-      "AngularJS"
+      "C#"
     ],
     "Duties": "N/A",
     "Questions": [
@@ -9677,128 +10537,6 @@
           "FreelancerValue": "3",
           "FreelancerValueLabel": "Fluent",
           "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": " Software Development Team for Marketing Platform Automation",
-    "Uid": "1753050329972334592",
-    "Rid": 1011055792,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01c63f84c43a33f540",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-01T13:39:04.386Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01c63f84c43a33f540",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Ukraine",
-        "City": "Vinnytsia"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 1,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 1,
-        "Score": 5,
-        "TotalJobsWithHires": 1,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 200
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "Web Development",
-      "JavaScript",
-      "API",
-      "HTML",
-      "CSS",
-      "HTML5"
-    ],
-    "Duties": "N/A",
-    "Questions": [
-      "Describe your recent experience with similar projects",
-      "Please list any certifications related to this project",
-      "What frameworks have you worked with?",
-      "Describe your approach to testing and improving QA",
-      "Include a link to your GitHub profile and/or website"
-    ],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-02T13:14:56.722Z",
-      "TotalApplicants": 94,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 22,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "2",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Conversational"
         },
         {
           "Qualified": true,
@@ -13304,127 +14042,6 @@
     }
   },
   {
-    "Title": "Looking for talented full stack developers to help with our USD accounts for freelancers!",
-    "Uid": "1750110134838235136",
-    "Rid": 1010879215,
-    "Cooperation": {
-      "DurationLabel": "3 to 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~015b6deae232f247a6",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-24T10:55:46.91Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~015b6deae232f247a6",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "New York"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 2,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 1,
-        "Score": 5,
-        "TotalJobsWithHires": 2,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 812.18
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "PHP",
-      "React",
-      "JavaScript"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-24T10:55:46.422Z",
-      "TotalApplicants": 32,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 5,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "country=(Pakistan,Bangladesh,Egypt)",
-          "FreelancerValue": "Poland",
-          "FreelancerValueLabel": "Poland",
-          "ClientPreferredLabel": "Pakistan, Bangladesh, Egypt"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
     "Title": "Software Developer Consultant",
     "Uid": "1750079118812737536",
     "Rid": 1010877267,
@@ -13797,121 +14414,6 @@
           "FreelancerValue": "0.00",
           "FreelancerValueLabel": "0.00",
           "ClientPreferredLabel": "At Least 1000"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "Full-Stack Engineer",
-    "Uid": "1749851624391680000",
-    "Rid": 1010863235,
-    "Cooperation": {
-      "DurationLabel": "3 to 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01a269747ce8a89259",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-23T18:03:28.682Z",
-    "Rate": {
-      "Minimum": 10,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01a269747ce8a89259",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Germany",
-        "City": "Berlin"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 38,
-        "ActiveAssignmentsCount": 23,
-        "FeedbackCount": 12,
-        "Score": 4.878320284,
-        "TotalJobsWithHires": 31,
-        "HoursCount": 1597.333332,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 35655.25
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "C#",
-      "PostgreSQL",
-      "JavaScript",
-      "React"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-24T08:27:39.292Z",
-      "TotalApplicants": 166,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 14,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 8
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
         },
         {
           "Qualified": true,
@@ -14372,125 +14874,6 @@
           "ClientPreferred": "0",
           "FreelancerValue": "3",
           "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "FB Ads Library Scraper:",
-    "Uid": "1749497709925040128",
-    "Rid": 1010839461,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01e12de12e38fdb98d",
-    "Category": "ERP/CRM Software",
-    "CategoryGroup": "IT \u0026 Networking",
-    "PublishedTime": "2024-01-22T18:22:14.16Z",
-    "Rate": {
-      "Minimum": 20,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01e12de12e38fdb98d",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Spain",
-        "City": "Valencia"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 2,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 1,
-        "Score": 5,
-        "TotalJobsWithHires": 2,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 1775
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Business Applications Development",
-      "Sales \u0026 Marketing",
-      "Java",
-      "PHP",
-      "CSS",
-      "HTML5",
-      "Python",
-      "JavaScript"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-22T18:36:56.276Z",
-      "TotalApplicants": 15,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15079,126 +15462,6 @@
     }
   },
   {
-    "Title": "API and Web Application Development Consultant",
-    "Uid": "1748426695863234560",
-    "Rid": 1010786108,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~014bf86b9588229429",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-19T19:26:23.938Z",
-    "Rate": {
-      "Minimum": 15,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~014bf86b9588229429",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Pakistan",
-        "City": "Gujranwala"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "ASP.NET MVC",
-      "Web Application",
-      "AngularJS",
-      "SQLite",
-      "API",
-      "API Integration",
-      "API Development",
-      "Node.js"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-22T16:39:42.27Z",
-      "TotalApplicants": 3,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
     "Title": "IOS Swift Developer",
     "Uid": "1748318227992276992",
     "Rid": 1010777943,
@@ -15422,133 +15685,6 @@
           "FreelancerValue": "0.00",
           "FreelancerValueLabel": "0.00",
           "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "Create a ThreeJS viewer for visualising engineering CAD files",
-    "Uid": "1747979157073108992",
-    "Rid": 1010756359,
-    "Cooperation": {
-      "DurationLabel": "3 to 6 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0117ce6ffa1af1261e",
-    "Category": "3D Modeling \u0026 CAD",
-    "CategoryGroup": "Engineering \u0026 Architecture",
-    "PublishedTime": "2024-01-18T13:48:02.419Z",
-    "Rate": {
-      "Minimum": 20,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0117ce6ffa1af1261e",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United Kingdom",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Core",
-      "Autodesk AutoCAD",
-      "Autodesk Revit",
-      "Autodesk Inventor",
-      "WebGL",
-      "Three.js",
-      "TypeScript",
-      "Vue.js",
-      "SVG",
-      "Digital Transformation",
-      "C#",
-      "CAD Software",
-      "React",
-      "HTML5 Canvas"
-    ],
-    "Duties": "N/A",
-    "Questions": [
-      "Do you have commercial experience with three.js?",
-      "Do you have experience handling engineering CAD files with three.js?"
-    ],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-22T15:08:23.763Z",
-      "TotalApplicants": 23,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 1
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 2,
-      "QualificationsDetails": [
-        {
-          "Qualified": false,
-          "ClientPreferred": "90",
-          "FreelancerValue": "0",
-          "FreelancerValueLabel": "0%",
-          "ClientPreferredLabel": "At least 90%"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "2",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Conversational"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "true",
-          "FreelancerValue": "false",
-          "FreelancerValueLabel": "no",
-          "ClientPreferredLabel": "yes"
         },
         {
           "Qualified": true,
@@ -16876,124 +17012,6 @@
           "FreelancerValue": "Poland",
           "FreelancerValueLabel": "Poland",
           "ClientPreferredLabel": "India"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    }
-  },
-  {
-    "Title": "Full Stack Developer",
-    "Uid": "1743139790091759616",
-    "Rid": 1010472118,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01d4f472883c5955dc",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-05T05:18:07.049Z",
-    "Rate": {
-      "Minimum": 30,
-      "Maximum": 70,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01d4f472883c5955dc",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "GARDEN CITY PARK"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "100"
-      },
-      "Stats": {
-        "TotalAssignments": 3,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 3,
-        "Score": 2.872073234,
-        "TotalJobsWithHires": 3,
-        "HoursCount": 1508.166665,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 41549.53
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Compact Framework",
-      ".NET Framework",
-      "Amazon Web Services",
-      "RESTful API",
-      "PostgreSQL",
-      "MongoDB",
-      "Microsoft SQL Server",
-      "API Integration"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-23T13:52:43.564Z",
-      "TotalApplicants": 83,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 2,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "3",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Fluent"
         },
         {
           "Qualified": true,

@@ -1,0 +1,266 @@
+{
+  "job": {
+    "ciphertext": "~0139d1c840ff10a2bf",
+    "rid": 1011498204,
+    "uid": "1760505946402828288",
+    "type": 2,
+    "access": 1,
+    "title": "Experience Microsoft Developer Required for Long-term Engagement",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-22T03:25:01.168Z",
+    "postedOn": "2024-02-22T03:25:24.675Z",
+    "publishTime": "2024-02-22T03:25:01.597Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4142951,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are at the forefront of leveraging Microsoft Cloud solutions to empower organisations towards enhanced productivity, collaboration, and security. Based in Australia and extending our services globally, we specialise in Microsoft 365, Azure Cloud, and Power Platform solutions. We are committed to growing our company ethically, positively, and with a sense of enjoyment.\n\nJob Summary:\nWe are seeking an experienced Senior Microsoft Developer to join our dynamic team. The ideal candidate will be a versatile full-stack developer with a deep understanding of Microsoft products, including Power Platform and Azure DevOps. Your expertise in API integration and .NET applications will play a pivotal role in developing and enhancing our solutions, ensuring we stay ahead in delivering top-tier services to our clients.\n\nKey Responsibilities:\n- Develop and implement solutions based on Microsoft Cloud technologies, focusing on Power Platform and Azure DevOps.\n- Lead the integration of various APIs to enhance and automate business processes.\n- Design, develop, and maintain .NET applications, ensuring high performance and responsiveness.\n- Collaborate with project teams to identify, design, and deploy innovative solutions meeting business requirements.\n- Provide technical leadership, mentoring junior developers, and contributing to the team\u0027s knowledge sharing.\n\nEssential Skills and Qualifications:\n- Proven experience as a full-stack developer with extensive knowledge of Microsoft technologies.\n- Strong background in API integration, with the ability to design and implement complex systems.\n- Expertise in .NET and .NET applications development.\n- Excellent problem-solving skills and the ability to work in a dynamic, fast-paced environment.\n- Bachelor\u2019s degree in Computer Science, Information Technology, or related field.\n\nDesirable Skills:\n- Familiarity with cloud security practices.\n- Experience with front-end technologies (e.g., HTML, CSS, JavaScript) for creating seamless user experiences.\n- Knowledge of Agile methodologies and DevOps practices.\n- Excellent verbal and written communication skills in English. - Fluency in Filipino is a plus, enhancing collaboration within our diverse team.\n\nCultural Requirements:\n- Ability to work remotely with a high degree of self-motivation and discipline.\n- Strong interpersonal skills, with an emphasis on teamwork, initiative, and integrity.\n- A positive attitude towards continuous learning and personal development.\n\nWhat We Offer:\n- A vibrant, ethical, and collaborative working environment.\n- Opportunities for professional growth and development.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Please provide links to previous Microsoft-related projects, outline in a few sentences the different Microsoft products that were required or used in the development of the application/solution."
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 4,
+      "minJobSuccessScore": 90,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Philippines",
+        "Sri Lanka"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-22T03:35:25.311Z",
+      "totalApplicants": 33,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "103",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-22T03:25:24.675Z",
+        "urgency": "2",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced Microsoft developer to join our team for a long-term engagement of more than 6 months. The ideal candidate should have a strong background in MySQL, API development, .NET Framework, ASP, Full-Stack Development, C\u002B\u002B, API Integration, Web Application, and C#. \n\nAs a Microsoft developer, you will be responsible for developing and maintaining various web applications, integrating APIs, and ensuring the smooth functioning of the systems. You should be well-versed in creating efficient and scalable solutions, troubleshooting issues, and providing technical support.\n\nTo apply for this position, please submit a detailed proposal outlining how you can contribute to this project. Additionally, please include links to your past completed projects that demonstrate your skills in Microsoft development.\n\nWe look forward to reviewing your proposals and considering you for this exciting opportunity.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-22T03:25:01.597Z",
+        "totalTimeJobPostFlowAIv2": "328",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221484275089215770624\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716370944000\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274381\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "102",
+        "totalTimeSpentOnReviewPageAIv2": "106",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708571972881",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Experience Microsoft Developer Required for Long-term Engagement",
+        "finalDescriptionAI": "We are at the forefront of leveraging Microsoft Cloud solutions to empower organisations towards enhanced productivity, collaboration, and security. Based in Australia and extending our services globally, we specialise in Microsoft 365, Azure Cloud, and Power Platform solutions. We are committed to growing our company ethically, positively, and with a sense of enjoyment.\n\nJob Summary:\nWe are seeking an experienced Senior Microsoft Developer to join our dynamic team. The ideal candidate will be a versatile full-stack developer with a deep understanding of Microsoft products, including Power Platform and Azure DevOps. Your expertise in API integration and .NET applications will play a pivotal role in developing and enhancing our solutions, ensuring we stay ahead in delivering top-tier services to our clients.\n\nKey Responsibilities:\n- Develop and implement solutions based on Microsoft Cloud technologies, focusing on Power Platform and Azure DevOps.\n- Lead the integration of various APIs to enhance and automate business processes.\n- Design, develop, and maintain .NET applications, ensuring high performance and responsiveness.\n- Collaborate with project teams to identify, design, and deploy innovative solutions meeting business requirements.\n- Provide technical leadership, mentoring junior developers, and contributing to the team\u0027s knowledge sharing.\n\nEssential Skills and Qualifications:\n- Proven experience as a full-stack developer with extensive knowledge of Microsoft technologies.\n- Strong background in API integration, with the ability to design and implement complex systems.\n- Expertise in .NET and .NET applications development.\n- Excellent problem-solving skills and the ability to work in a dynamic, fast-paced environment.\n- Bachelor\u2019s degree in Computer Science, Information Technology, or related field.\n\nDesirable Skills:\n- Familiarity with cloud security practices.\n- Experience with front-end technologies (e.g., HTML, CSS, JavaScript) for creating seamless user experiences.\n- Knowledge of Agile methodologies and DevOps practices.\n- Excellent verbal and written communication skills in English. - Fluency in Filipino is a plus, enhancing collaboration within our diverse team.\n\nCultural Requirements:\n- Ability to work remotely with a high degree of self-motivation and discipline.\n- Strong interpersonal skills, with an emphasis on teamwork, initiative, and integrity.\n- A positive attitude towards continuous learning and personal development.\n\nWhat We Offer:\n- A vibrant, ethical, and collaborative working environment.\n- Opportunities for professional growth and development."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 39600000,
+      "countryTimezone": "Australia (UTC\u002B10:00)",
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 50,
+      "activeAssignmentsCount": 13,
+      "feedbackCount": 34,
+      "score": 4.923691786,
+      "totalJobsWithHires": 42,
+      "hoursCount": 4094.666668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 108570.87
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-06-19T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 82,
+      "openCount": 3
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.29544040237856
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": false,
+            "clientPreferred": "4",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Native"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Philippines,Sri Lanka)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Philippines, Sri Lanka"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

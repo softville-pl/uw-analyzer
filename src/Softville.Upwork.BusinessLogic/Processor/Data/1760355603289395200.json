@@ -1,0 +1,248 @@
+{
+  "job": {
+    "ciphertext": "~01af91007773cd514e",
+    "rid": 1011488088,
+    "uid": "1760355603289395200",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Developer with C#/.NET \u002B Angular Skills",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-21T17:27:36.696Z",
+    "postedOn": "2024-02-21T17:27:37.149Z",
+    "publishTime": "2024-02-21T17:27:37.149Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007075857,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 2,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a Full Stack Developer with strong expertise in Angular and C#/.NET to design, develop, and implement software solutions that meet our clients\u0027 needs. The ideal candidate will have a solid understanding of software development life cycles, be proficient in both frontend and backend technologies, and be able to work collaboratively in a team environment.\n\nResponsibilities:\nDesign and develop scalable web applications using Angular and C#/.NET.\nCollaborate with cross-functional teams to analyze requirements, design solutions, and integrate systems.\nEnsure the performance, quality, and responsiveness of applications.\nMaintain and improve existing software, and develop new features to enhance user experience.\nParticipate in code reviews, unit testing, and troubleshooting to ensure robust and efficient code.\nStay updated with emerging technologies and industry trends to incorporate into development practices.\n\nRequirements:\nBachelor\u0027s degree in Computer Science, Information Technology, or related field.\nProven experience as a Full Stack Developer with expertise in Angular and C#/.NET.\nStrong understanding of web development technologies, including HTML5, CSS3, JavaScript, and TypeScript.\nExperience with .NET Core, Entity Framework, and SQL Server.\nFamiliarity with RESTful API development and integration.\nExcellent problem-solving skills and attention to detail.\nAbility to work independently and in a team environment.\nGood communication and interpersonal skills.\n\nNice to Have:\nExperience with cloud services (e.g., AWS, Azure, Google Cloud).\nKnowledge of Agile methodologies and DevOps practices.\nCertifications in relevant technologies.\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Tell me about your test-driven development experience."
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T20:09:53.801Z",
+      "totalApplicants": 203,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "497",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are seeking a Full Stack Developer with strong skills in C#/.NET and Angular. This is a long-term project, with a duration of more than 6 months. The ideal candidate should have experience in .NET Framework, AI App Development, AI Development, Angular, C#, and ASP.NET MVC.\n\nAs a Full Stack Developer, you will be responsible for developing and maintaining web applications using C#/.NET and Angular. You will work closely with the development team to design, code, and test new features and enhancements. \n\nTo apply for this position, please submit a detailed proposal describing how you can contribute to this project. Please include links to your past completed projects that demonstrate your expertise in C#/.NET and Angular.\n\nWe look forward to reviewing your proposals and finding the right candidate for this exciting opportunity.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-21T17:27:37.149Z",
+        "totalTimeJobPostFlowAIv2": "850",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221691099314241679360\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221691099314254262272\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "459",
+        "totalTimeSpentOnReviewPageAIv2": "146",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708535606289",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Full Stack Developer with C#/.NET \u002B Angular Skills",
+        "finalDescriptionAI": "We are seeking a Full Stack Developer with strong expertise in Angular and C#/.NET to design, develop, and implement software solutions that meet our clients\u0027 needs. The ideal candidate will have a solid understanding of software development life cycles, be proficient in both frontend and backend technologies, and be able to work collaboratively in a team environment.\n\nResponsibilities:\nDesign and develop scalable web applications using Angular and C#/.NET.\nCollaborate with cross-functional teams to analyze requirements, design solutions, and integrate systems.\nEnsure the performance, quality, and responsiveness of applications.\nMaintain and improve existing software, and develop new features to enhance user experience.\nParticipate in code reviews, unit testing, and troubleshooting to ensure robust and efficient code.\nStay updated with emerging technologies and industry trends to incorporate into development practices.\n\nRequirements:\nBachelor\u0027s degree in Computer Science, Information Technology, or related field.\nProven experience as a Full Stack Developer with expertise in Angular and C#/.NET.\nStrong understanding of web development technologies, including HTML5, CSS3, JavaScript, and TypeScript.\nExperience with .NET Core, Entity Framework, and SQL Server.\nFamiliarity with RESTful API development and integration.\nExcellent problem-solving skills and attention to detail.\nAbility to work independently and in a team environment.\nGood communication and interpersonal skills.\n\nNice to Have:\nExperience with cloud services (e.g., AWS, Azure, Google Cloud).\nKnowledge of Agile methodologies and DevOps practices.\nCertifications in relevant technologies.\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Parsippany",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 3,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 44.500001,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2153.91
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-01-26T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Sales \u0026 Marketing",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 7,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 40.29977437528597
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

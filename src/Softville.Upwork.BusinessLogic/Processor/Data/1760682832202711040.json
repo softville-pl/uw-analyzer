@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01455948a212eaafea",
+    "rid": 1011508587,
+    "uid": "1760682832202711040",
+    "type": 2,
+    "access": 4,
+    "title": "Cognito User Pool Issue ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-22T15:07:54.101Z",
+    "postedOn": "2024-02-22T15:07:54.608Z",
+    "publishTime": "2024-02-22T15:07:54.608Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1404307,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 10,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-22T15:07:53.925Z",
+      "totalApplicants": 26,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "36",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled individual to help us resolve an issue with our Cognito User Pool. The job is expected to take less than 1 month to complete. \n\nThe ideal candidate should have expertise in JavaScript, React, and Amazon Web Services. \n\nTo be considered for this project, please submit a proposal outlining how you can help us resolve the issue with our Cognito User Pool. We are specifically interested in your approach to troubleshooting and debugging problems in this area. \n\nAdditionally, please include links to any relevant past projects that you have completed. This will give us a better understanding of your skillset and experience in working with Cognito User Pools. \n\nWe look forward to reviewing your proposals and finding the right candidate to help us resolve this issue.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-22T15:07:54.608Z",
+        "totalTimeJobPostFlowAIv2": "128",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "23",
+        "totalTimeSpentOnReviewPageAIv2": "7",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708614344190",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Cognito User Pool Issue ",
+        "finalDescriptionAI": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "New York",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 62,
+      "activeAssignmentsCount": 18,
+      "feedbackCount": 40,
+      "score": 4.929088709,
+      "totalJobsWithHires": 54,
+      "hoursCount": 2161.166669,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 45585.33
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-05-24T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 122,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 17.154160542904428
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

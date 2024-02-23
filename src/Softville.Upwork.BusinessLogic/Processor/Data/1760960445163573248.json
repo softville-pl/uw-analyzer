@@ -1,0 +1,257 @@
+{
+  "job": {
+    "ciphertext": "~015aeb2d8f457dd535",
+    "rid": 1011525579,
+    "uid": "1760960445163573248",
+    "type": 2,
+    "access": 4,
+    "title": "Windows \u0026 Linux DevOps Engineer",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-23T09:31:02.183Z",
+    "postedOn": "2024-02-23T09:50:52.860Z",
+    "publishTime": "2024-02-23T09:50:52.860Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2162171,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 39,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "The DevOps Engineer\nAdvanced networking\nIntermediate Configuration management\nIntermediate Linux and windows system administration\nIntermediate Apache/Nginx/IISwebservers\nIntermediate Database management\nIntermediate Microsoft Active Directory and LDAP\nIntermediate Knowledge of CI/CD",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-23T10:23:34.513Z",
+      "totalApplicants": 31,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "130",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled Windows DevOps Engineer to join our team for a project that will last more than 6 months. As a Windows DevOps Engineer, you will be responsible for overseeing the network administration, system administration, and Windows administration tasks. Your expertise in the .NET Framework and Microsoft Windows will be crucial in ensuring smooth operations and efficient deployment.\n\nTo be successful in this role, you should have experience in DevOps practices and be familiar with various automation tools. You will be responsible for streamlining the software development and deployment processes, as well as managing and maintaining the infrastructure.\n\nIf you are confident in your abilities and have a proven track record in similar projects, we encourage you to submit a proposal. Please include details on how you can contribute to the project and share links to your past completed projects that highlight your Windows DevOps expertise.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-23T09:50:52.860Z",
+        "totalTimeJobPostFlowAIv2": "423",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626784536772608\u0022},{\u0022skillUid\u0022:\u00221031626795936890880\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626762348904448\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "64",
+        "totalTimeSpentOnReviewPageAIv2": "19",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708680238173",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Windows DevOps Engineer",
+        "finalDescriptionAI": "The DevOps Engineer\nAdvanced networking\nIntermediate Configuration management\nIntermediate Linux and windows system administration\nIntermediate Apache/Nginx/IISwebservers\nIntermediate Database management\nIntermediate Microsoft Active Directory and LDAP\nIntermediate Knowledge of CI/CD"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "Canterbury",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 123,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 59,
+      "score": 4.997930719,
+      "totalJobsWithHires": 111,
+      "hoursCount": 11067.200009,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 627174.27
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2012-07-09T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 101,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 31.17854829761756
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
