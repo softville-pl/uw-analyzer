@@ -56,7 +56,7 @@ public class ProspectingAzureStack : TerraformStack
                     {
                         TenantId = clientConfig.TenantId,
                         ObjectId = clientConfig.ObjectId,
-                        KeyPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
+                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
                     }
                 }
             });
