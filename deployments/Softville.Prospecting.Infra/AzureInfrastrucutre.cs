@@ -37,12 +37,7 @@ public class ProspectingAzureStack : TerraformStack
         ResourceGroup resourceGroup = new(this, "ResourceGroup",
             new ResourceGroupConfig {Name = $"rg-{namePostfix}", Location = "polandcentral", Tags = tags});
 
-        DataAzurermClientConfig servicePrincipal = new(this, "servicePrincipal");
-        DataAzurermClientConfig adminUser = new(this, "adminUser",
-            new DataAzurermClientConfigConfig
-            {
-                Id = "035e7cd0-50b7-49bb-bff5-4134329917a4"
-            });
+        DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
 
         // Define KeyVault for the resource group
         KeyVault kv = new(this, "KeyVault",
@@ -53,20 +48,14 @@ public class ProspectingAzureStack : TerraformStack
                 Location = resourceGroup.Location,
                 SkuName = "standard",
                 SoftDeleteRetentionDays = 7,
-                TenantId = servicePrincipal.TenantId,
+                TenantId = clientConfig.TenantId,
                 Tags = tags,
                 AccessPolicy = new IKeyVaultAccessPolicy[]
                 {
                     new KeyVaultAccessPolicy
                     {
-                        TenantId = servicePrincipal.TenantId,
-                        ObjectId = servicePrincipal.ObjectId,
-                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
-                    },
-                    new KeyVaultAccessPolicy
-                    {
-                        TenantId = servicePrincipal.TenantId,
-                        ObjectId = adminUser.ObjectId,
+                        TenantId = clientConfig.TenantId,
+                        ObjectId = clientConfig.ObjectId,
                         SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
                     }
                 }
@@ -94,7 +83,10 @@ public class ProspectingAzureStack : TerraformStack
         new KeyVaultSecret(this, "PrimaryKey",
             new KeyVaultSecretConfig
             {
-                Name = $"{cosmosDb.Name}-primary-key", KeyVaultId = kv.Id, Value = cosmosDb.PrimaryKey, Tags = tags
+                Name = $"{cosmosDb.Name}-primary-key",
+                KeyVaultId = kv.Id,
+                Value = cosmosDb.PrimaryKey,
+                Tags = tags
             });
 
         // Store the CosmosDB Account
