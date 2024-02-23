@@ -37,7 +37,7 @@ public class ProspectingAzureStack : TerraformStack
         ResourceGroup resourceGroup = new(this, "ResourceGroup",
             new ResourceGroupConfig {Name = $"rg-{namePostfix}", Location = "polandcentral", Tags = tags});
 
-        DataAzurermClientConfig clientConfig = new DataAzurermClientConfig(this, "ClientConfig");
+        DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
 
         // Define KeyVault for the resource group
         KeyVault kv = new(this, "KeyVault",
@@ -74,10 +74,7 @@ public class ProspectingAzureStack : TerraformStack
         new KeyVaultSecret(this, "PrimaryKey",
             new KeyVaultSecretConfig
             {
-                Name = $"{cosmosDb.Name}-primary-key",
-                KeyVaultId = kv.Id,
-                Value = cosmosDb.ConnectionStrings[0],
-                Tags = tags
+                Name = $"{cosmosDb.Name}-primary-key", KeyVaultId = kv.Id, Value = cosmosDb.PrimaryKey, Tags = tags
             });
 
         // Store the CosmosDB Account
@@ -86,7 +83,7 @@ public class ProspectingAzureStack : TerraformStack
             {
                 Name = $"{cosmosDb.Name}-primary-conn-string",
                 KeyVaultId = kv.Id,
-                Value = cosmosDb.ConnectionStrings[2],
+                Value = cosmosDb.ConnectionStrings[0],
                 Tags = tags
             });
     }
