@@ -83,7 +83,7 @@ public class ProspectingAzureStack : TerraformStack
             {
                 Name = $"{cosmosDb.Name}-primary-conn-string",
                 KeyVaultId = kv.Id,
-                Value = cosmosDb.ConnectionStrings[0],
+                Value = FnGenerated.Element(cosmosDb.ConnectionStrings, 0).ToString()!,
                 Tags = tags
             });
     }
