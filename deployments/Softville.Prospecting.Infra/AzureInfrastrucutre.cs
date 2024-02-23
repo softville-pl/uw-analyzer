@@ -49,7 +49,16 @@ public class ProspectingAzureStack : TerraformStack
                 SkuName = "standard",
                 SoftDeleteRetentionDays = 7,
                 TenantId = clientConfig.TenantId,
-                Tags = tags
+                Tags = tags,
+                AccessPolicy = new IKeyVaultAccessPolicy[]
+                {
+                    new KeyVaultAccessPolicy
+                    {
+                        TenantId = clientConfig.TenantId,
+                        ObjectId = clientConfig.ObjectId,
+                        KeyPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
+                    }
+                }
             });
 
         // Define the CosmosDB Account
@@ -74,7 +83,10 @@ public class ProspectingAzureStack : TerraformStack
         new KeyVaultSecret(this, "PrimaryKey",
             new KeyVaultSecretConfig
             {
-                Name = $"{cosmosDb.Name}-primary-key", KeyVaultId = kv.Id, Value = cosmosDb.PrimaryKey, Tags = tags
+                Name = $"{cosmosDb.Name}-primary-key",
+                KeyVaultId = kv.Id,
+                Value = cosmosDb.PrimaryKey,
+                Tags = tags
             });
 
         // Store the CosmosDB Account
