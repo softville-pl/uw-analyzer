@@ -76,7 +76,7 @@ public class ProspectingAzureStack : TerraformStack
                 ResourceGroupName = resourceGroup.Name,
                 Location = resourceGroup.Location,
                 OfferType = "Standard",
-                Kind = "GlobalDocumentDB",
+                Kind = "MongoDB",
                 ConsistencyPolicy = new CosmosdbAccountConsistencyPolicy {ConsistencyLevel = "Session"},
                 GeoLocation =
                     new CosmosdbAccountGeoLocation[] {new() {Location = resourceGroup.Location, FailoverPriority = 0}},
