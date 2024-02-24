@@ -7,10 +7,7 @@ App app = new();
 
 
 // Register the Stack to your App
-ProspectingAzureStack stack = new ProspectingAzureStack(app, "MyAzureInfrastructure",
-    "rg-prspct-test-plc-001",
-    "cosmos-prspct-test-plc-001",
-    "test");
+ProspectingAzureStack stack = new(app, "MyAzureInfrastructure", "prspct", "test", "001");
 
 // Define the Remote State Configuration
 new AzurermBackend(stack,
