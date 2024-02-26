@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~014fd4f53d7642b205",
+    "rid": 1011567572,
+    "uid": "1761824087350620160",
+    "type": 2,
+    "access": 4,
+    "title": "Azure devops pipeline optimization ",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-25T18:42:50.551Z",
+    "postedOn": "2024-02-25T18:42:50.848Z",
+    "publishTime": "2024-02-25T18:42:50.848Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1008621888,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 39,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "i have a ci/cd pipeline for .NET application which should be optimized. Currently build process takes 30 minutes and the artifact size is 500 Mb. Fix required.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-25T19:49:25.551Z",
+      "totalApplicants": 18,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "59",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled professional who can optimize our Azure DevOps pipeline. The project is expected to last less than 1 month. \n\nThe ideal candidate should have a strong background in CI/CD, CI/CD platform, application release automation, deployment automation, and DevOps. They should be experienced in working with Azure DevOps and possess a deep understanding of its features and capabilities.\n\nThe main objective of this project is to streamline our pipeline, improve efficiency, and enhance our overall development process. The candidate should be able to propose and implement best practices for our CI/CD workflows, automate deployment processes, and optimize the configuration of our Azure DevOps environment.\n\nTo apply for this project, please submit a proposal outlining your approach and relevant experience. Additionally, we would appreciate links to past completed projects that showcase your expertise in Azure DevOps and pipeline optimization.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-25T18:42:50.848Z",
+        "totalTimeJobPostFlowAIv2": "126",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580518297522176\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221110580494289326080\u0022},{\u0022skillUid\u0022:\u00221110580518410768384\u0022},{\u0022skillUid\u0022:\u00221204836445183918080\u0022},{\u0022skillUid\u0022:\u00221110580494914277376\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "58",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1708886444041",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "azure devops pipeline optimization ",
+        "finalDescriptionAI": "i have a ci/cd pipeline for .NET application which should be optimized. Currently build process takes 30 minutes and the artifact size is 500 Mb. Fix required."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Poland (UTC\u002B02:00)",
+      "city": "warsaw",
+      "country": "Poland"
+    },
+    "stats": {
+      "totalAssignments": 10,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 7,
+      "score": 4.654081022,
+      "totalJobsWithHires": 7,
+      "hoursCount": 56,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1278.18
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-06-09T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 18,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 20.0925
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

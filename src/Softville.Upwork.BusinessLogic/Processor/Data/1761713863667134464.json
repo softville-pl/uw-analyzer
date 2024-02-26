@@ -1,0 +1,280 @@
+{
+  "job": {
+    "ciphertext": "~01c0c842f1d8dddb71",
+    "rid": 1011561755,
+    "uid": "1761713863667134464",
+    "type": 2,
+    "access": 4,
+    "title": "Senior C# Developer \u2013 Cloud Backend Applications and APIs",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-25T11:24:51.479Z",
+    "postedOn": "2024-02-25T11:24:51.997Z",
+    "publishTime": "2024-02-25T11:24:51.997Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1636254,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 45,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Job Overview:\nWe are seeking a Senior C# Developer with a robust background in backend development, cloud integration, database management, secure coding practices, and a proficiency in implementing efficient applications. This role involves developing advanced backend applications and APIs using C# and .NET, working within cloud environments (Azure or AWS), ensuring data is handled securely and efficiently, and applying algorithmic solutions to optimize performance, reliability, and scalability.\n\nKey Responsibilities:\n\u2022\tEfficient Algorithm Implementation: Develop and integrate efficient algorithms to solve complex problems, optimize performance, and enhance scalability within backend systems.\n\u2022\tSecure Backend Development: Build secure, scalable, and maintainable backend applications using C# and .NET, focusing on high-quality and secure code development.\n\u2022\tCloud Architecture and Integration: Design and deploy solutions in cloud environments, particularly Azure or AWS, ensuring secure, efficient, and effective integration.\n\u2022\tDatabase Expertise: Manage both SQL and NoSQL databases, ensuring secure data storage and retrieval, along with the implementation of efficient data algorithms.\n\u2022\tFocus on Code Security: Emphasize secure coding practices in all development phases to create robust and secure software solutions.\n\u2022\tCollaborative Development: Work in tandem with team members, sharing expertise in secure coding, efficient algorithm design, cloud solutions, and database management.\n\u2022\tContinuous Professional Development: Stay current with the latest trends in C#, cloud technology, database management, secure coding, and algorithm design to continually enhance backend development skills.\n\u2022\tAgile Development Methodology: Participate actively in Agile development cycles, contributing to all phases of the software development lifecycle with a focus on quality, security, and efficiency.\n\nQualifications:\n\u2022\tBachelor\u2019s or Master\u2019s degree in Computer Science, Software Engineering, or a related field.\n\u2022\tA minimum of 7 years of experience in backend development with C# and .NET.\n\u2022\tExtensive experience in cloud computing, with a strong preference for Azure.\n\u2022\tProficiency in both SQL and NoSQL databases.\n\u2022\tExperience with RESTful API and microservices architecture.\n\u2022\tProficiency in Git, along with familiarity with CI/CD tools and practices.\n\u2022\tDemonstrated ability in writing secure code and adhering to best security practices.\n\u2022\tKnowledge of software design patterns and SOLID principles.\n\u2022\tExcellent problem-solving, analytical, and debugging skills.\n\u2022\tStrong commitment to ongoing learning and staying updated with industry developments in backend technologies, cloud computing, and secure coding practices.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you reside in the country listed for the job?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": [
+        "Austria",
+        "Belgium",
+        "Finland",
+        "France",
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Netherlands",
+        "Norway",
+        "Portugal",
+        "Spain",
+        "Switzerland",
+        "United Kingdom",
+        "United States",
+        "Canada",
+        "Denmark",
+        "Sweden"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-25T16:08:49.880Z",
+      "totalApplicants": 43,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-25T11:24:51.997Z",
+        "reuse": "1744833218662404096",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "387",
+        "type": "RJP",
+        "urgency": "0",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "New York",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 142,
+      "activeAssignmentsCount": 11,
+      "feedbackCount": 90,
+      "score": 4.983314301,
+      "totalJobsWithHires": 99,
+      "hoursCount": 113662.666809,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 3946696.53
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-10-29T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Sports \u0026 Recreation",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 174,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 31.180357363561143
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Austria,Belgium,Finland,France,Germany,Ireland,Italy,Netherlands,Norway,Portugal,Spain,Switzerland,United Kingdom,United States,Canada,Denmark,Sweden)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Austria, Belgium, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Portugal, Spain, Switzerland, United Kingdom, United States, Canada, Denmark, Sweden"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
