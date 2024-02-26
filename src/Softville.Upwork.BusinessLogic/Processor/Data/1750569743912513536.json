@@ -1,1 +1,262 @@
-{"job":{"ciphertext":"~015209b4bd27a92539","rid":1010910923,"uid":"1750569743912513536","type":2,"access":4,"title":"C#, Desktop App","status":1,"category":{"name":"Web Development","urlSlug":"web-development"},"categoryGroup":{"name":"Web, Mobile \u0026 Software Dev","urlSlug":"web-mobile-software-dev"},"hideBudget":false,"budget":{"currencyCode":"USD","amount":0},"createdOn":"2024-01-25T17:22:05.937Z","postedOn":"2024-01-25T17:23:32.254Z","publishTime":"2024-01-25T17:22:07.423Z","wasRenewed":true,"startDate":null,"deliveryDate":null,"workload":"Less than 30 hrs\/week","companyRecno":1007827960,"durationIdV3":1,"durationLabel":"Less than a month","notSureProjectDuration":false,"notSureFreelancersToHire":false,"notSureExperienceLevel":false,"numberOfPositionsToHire":1,"extendedBudgetInfo":{"hourlyBudgetType":0,"hourlyBudgetMin":25,"hourlyBudgetMax":50},"contractorTier":3,"description":"Expertise in C#, .NET 8, Entity Framework, and SQL.\n\nDevelop a module for a stock market analysis application focusing on 1-minute interval bar analysis for trend reversal detection (both long and short positions).\n\nRequire a developer with experience in financial data analysis and not dependent on pre-made GitHub solutions.\n\nImplement symbol monitoring using web sockets with the Alpaca Markets API to collect bar data in real-time at a one-minute interval.\n\nThe application should intelligently alert the user on optimal entry and exit points for both long and short positions in the stock market.\n\nDisplay reversal information in a grid view or a message box, as preferred.\n\nFamiliarity with chart types similar to provided examples (links to example charts):\n\nhttps:\/\/prnt.sc\/8fz7rvWCdjSc\nhttps:\/\/prnt.sc\/-XaUyvTz7hrV\nhttps:\/\/prnt.sc\/fdrukVuSCA8e\nhttps:\/\/prnt.sc\/uDtzl5c-yDcs\nhttps:\/\/prnt.sc\/xpPmxHB9kRGV\nhttps:\/\/prnt.sc\/WC23bMNPp_83\n\nPotential future development includes implementing algorithmic trading using the Alpaca Markets API.\n\nMust have proven experience and capability to work on the project without needing a learning phase.\n\nApplicants must detail relevant past projects, particularly in algorithmic trading, and evaluate the probability of success for this application.\n\n\n\n","attachments":null,"questions":[{"position":0,"question":"Can you describe a project where you successfully implemented the Entity Framework-based trading app in C#? What were the key challenges, and how did you address them?"},{"position":1,"question":"Explain a time when you identified and resolved a trend reversal in financial data. What methods or algorithms did you use, and how did you ensure accuracy and efficiency?"},{"position":2,"question":"Describe your experience with algorithmic trading, explicitly mentioning any projects where you\u0027ve integrated and used APIs like Alpaca Markets API. What was your role, and what were the outcomes?"}],"qualifications":{"type":0,"location":null,"minOdeskHours":0,"groupRecno":null,"shouldHavePortfolio":false,"tests":null,"minHoursWeek":30,"group":null,"prefEnglishSkill":0,"minJobSuccessScore":0,"risingTalent":false,"locationCheckRequired":false,"countries":null,"regions":null,"states":null,"timezones":null,"localMarket":true,"onSiteType":null,"locations":null,"localDescription":null,"localFlexibilityDescription":null,"earnings":null,"languages":null},"isPremium":true,"segmentationData":[{"name":"Employment","value":"EMPLOYMENT_PROJECT","label":"One-time project","type":"EMPLOYMENT","sortOrder":0,"typeUid":"535792587707281410","customValue":null,"skill":null}],"clientActivity":{"lastBuyerActivity":"2024-01-26T19:51:10.450Z","totalApplicants":4,"totalHired":0,"totalInvitedToInterview":1,"unansweredInvites":0,"invitationsSent":2},"weeklyRetainerBudget":null,"annotations":{"tags":["premium","contractToHireSet","searchable","C2HJobsOptInEducation"],"customFields":{"totalTimeSpentOnDescriptionPageAI":"337","sourcingUpdateForbidden":"false","type":"RJP","sourcingTime":"2024-01-25T17:23:32.254Z","browser":"Chrome","generatedDescriptionAI":"We are looking for a skilled C# developer to create a desktop application. The project duration is less than 1 month. The ideal candidate should have experience in .NET Framework, Microsoft Windows, Windows App Development, Microsoft Azure SQL Database, Desktop Application, C#, and Microsoft Azure.\n\nAs a candidate, we would like you to submit a proposal outlining how you can contribute to the project. Please describe your relevant experience, including any past projects or applications you have developed using C#. We would appreciate it if you could provide links to these projects so we can review them.\n\nYour proposal should highlight your skills in C# programming and demonstrate your ability to develop efficient and user-friendly desktop applications. Additionally, any experience with Microsoft Azure or database integration would be highly valued. We look forward to reviewing your proposal and discussing the project further.","timeSpentToGetAPIDescriptionAI":"4","siteSource":"desktop_rjp","publishTime":"2024-01-25T17:22:07.423Z","totalTimeJobPostFlowAIv2":"","inputsSkillsAI":"[{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022}]","sourcingUpdateCount":"1","totalDescriptionEditingTimeAI":"51","totalTimeSpentOnReviewPageAIv2":"872","device":"Windows","startTimeJobPostFlowAIv2":"1706202616425","finalDescriptionAI":"I\u0027m seeking a skilled C# developer with expertise in .NET Framework 8, Entity Framework, and SQL to assist in completing a module for a stock market analysis application I\u0027m developing. The project involves analyzing 1-minute interval bars to identify trend reversals. I need a developer with experience in this area and won\u0027t rely on pre-made solutions from GitHub. When applying, please describe your relevant past projects and assess the likelihood of success for the app, mainly if it involves algorithmic trading. Future work may include implementing algo trading using the Alpaca Markets API. Candidates must have proven experience and the ability to develop this project without a learning curve.","inputsTitleAI":"C#, Desktop App","inputsDurationAI":"474250516458926083"}},"isContractToHire":false,"recruitingServices":null},"buyer":{"isPaymentMethodVerified":true,"location":{"offsetFromUtcMillis":-28800000,"countryTimezone":"United States (America\/T)","city":"Kirkland","country":"United States"},"stats":{"totalAssignments":13,"activeAssignmentsCount":1,"feedbackCount":9,"score":4.998379722,"totalJobsWithHires":10,"hoursCount":220.500002,"totalCharges":{"currencyCode":"USD","amount":3876.34}},"isEnterprise":false,"company":{"isEDCReplicated":false,"contractDate":"2023-03-31T00:00:00.000Z","profile":{"size":"1","industry":"Education","visible":true,"l3Occupations":[]}},"jobs":{"postedCount":29,"openCount":0},"avgHourlyJobsRate":{"amount":15.748299176886176}},"currentUserInfo":{"owner":false,"freelancerInfo":{"qualificationsMatches":{"totalQualifications":4,"totalMatches":4,"matches":[{"qualification":0,"qualified":true,"clientPreferred":"all","freelancerValue":"IC","freelancerValueLabel":"Not Specified","clientPreferredLabel":"Any"},{"qualification":4,"qualified":true,"clientPreferred":"0","freelancerValue":"3","freelancerValueLabel":"Fluent","clientPreferredLabel":"Any"},{"qualification":8,"qualified":true,"clientPreferred":"ANY","freelancerValue":"0.00","freelancerValueLabel":"0.00","clientPreferredLabel":"Any"},{"qualification":10,"qualified":true,"clientPreferred":"Any","freelancerValue":"en","freelancerValueLabel":"English","clientPreferredLabel":null}]},"applied":null,"hired":null,"contract":null,"profileState":10,"hourlyRate":{"currencyCode":"USD","amount":56},"devProfileCiphertext":"~01256f0be21d7e2c1e","application":null,"pendingInvite":null}},"paths":{"js":"\/nx\/jobs\/search"},"ff":{"isRemoveClientTotalSpentCap":true,"isJobDetailsQuickJobPost":true,"CFE6770ImprovedQualificationsSection":true,"jdShowInvitesCount":true,"enforceMinimumRateInProfile":true,"TSV1877IDVatSubmitProposal":true,"AG2156TeamsAddRoleFlow":true,"CLOB6375ExpandedCompanyProfile":true},"qt":[],"experiments":{"idvOnSubmitProposals":{"soft":false,"hard":false,"idv_required":false,"idv_complete":false}},"isVisitor":false}
+{
+  "job": {
+    "ciphertext": "~015209b4bd27a92539",
+    "rid": 1010910923,
+    "uid": "1750569743912513536",
+    "type": 2,
+    "access": 4,
+    "title": "C#, MultiCharts.com",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-25T17:22:05.937Z",
+    "postedOn": "2024-02-04T17:58:45.954Z",
+    "publishTime": "2024-01-25T17:22:07.423Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1007827960,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 200
+    },
+    "contractorTier": 3,
+    "description": "\nI\u0027m seeking someone proficient in C# with experience in the MultiCharts.net framework to create a profitable stock trading system.\n\nIn particular, I am interested in the Neural Network Model to monitor as many symbols as needed (200\u002B) simultaneously and make trading decisions simultaneously.\n\nYour role will be to code within the MultiCharts.net platform to accomplish these goals, drawing on your knowledge and best practices in the industry.\n\nUsing the Entity Framework, fetching stock symbols into MultiCharts.net from an Azure SQL database.\n\nImplementing trading strategies with indicators like RSI, MACD, etc.\n\nDeciding the right times to enter and exit trades.\n\nLogging trade data back from MultiCharts into the Azure SQL database.\n\nFor instance, one fundamental rule is to use limit orders only. Orders should start 5 cents below or above the target price, adjusting by 1 cent until filled, avoiding direct market orders. If an order isn\u0027t filled immediately or partially filled, subtract the filled quantity and continue until it is fully completed.\n\nMore details will be discussed later.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Do you understand Entity Framework and how to integrate it into the MultiCharts.com platform? Could you provide high-level details on how you accomplished this?"
+      },
+      {
+        "position": 1,
+        "question": "Could you provide an example of your previous work on the MultiCharts.com platform? How did you utilize C#? What was the success rate of trades compared to losses?"
+      },
+      {
+        "position": 2,
+        "question": "There is no scope for learning on the job. To minimize costs, you must possess templates that allow you to copy and paste code. If you don\u0027t have these, please do not bid on my project. I will not pay for you to learn or to code from scratch. Understand?"
+      },
+      {
+        "position": 3,
+        "question": "This role may become permanent, focusing on optimizing for many symbols, brokers, and crypto, including global markets. Starting with US stocks, successful outcomes could expand the project. Cost efficiency is key."
+      },
+      {
+        "position": 4,
+        "question": "Share your expertise on Neural Networks and how you applied them on MultiCharts.com. Detail your approach. I will decline your bid if I see AI generated response."
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-12T23:31:09.334Z",
+      "totalApplicants": 1,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 21,
+      "invitationsSent": 75
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "337",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-04T17:58:45.954Z",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled C# developer to create a desktop application. The project duration is less than 1 month. The ideal candidate should have experience in .NET Framework, Microsoft Windows, Windows App Development, Microsoft Azure SQL Database, Desktop Application, C#, and Microsoft Azure.\n\nAs a candidate, we would like you to submit a proposal outlining how you can contribute to the project. Please describe your relevant experience, including any past projects or applications you have developed using C#. We would appreciate it if you could provide links to these projects so we can review them.\n\nYour proposal should highlight your skills in C# programming and demonstrate your ability to develop efficient and user-friendly desktop applications. Additionally, any experience with Microsoft Azure or database integration would be highly valued. We look forward to reviewing your proposal and discussing the project further.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-25T17:22:07.423Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626782389288960\u0022}]",
+        "sourcingUpdateCount": "2",
+        "totalDescriptionEditingTimeAI": "51",
+        "totalTimeSpentOnReviewPageAIv2": "2520",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1706202616425",
+        "finalDescriptionAI": "I\u0027m seeking a skilled C# developer with expertise in .NET Framework 8, Entity Framework, and SQL to assist in completing a module for a stock market analysis application I\u0027m developing. The project involves analyzing 1-minute interval bars to identify trend reversals. I need a developer with experience in this area and won\u0027t rely on pre-made solutions from GitHub. When applying, please describe your relevant past projects and assess the likelihood of success for the app, mainly if it involves algorithmic trading. Future work may include implementing algo trading using the Alpaca Markets API. Candidates must have proven experience and the ability to develop this project without a learning curve.",
+        "inputsTitleAI": "C#, Desktop App",
+        "inputsDurationAI": "474250516458926083"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": "Kirkland",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 14,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 9,
+      "score": 4.998379722,
+      "totalJobsWithHires": 11,
+      "hoursCount": 230.333336,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 3876.34
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-03-31T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Education",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 29,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 15.844428181251192
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

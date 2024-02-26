@@ -82,8 +82,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-14T16:44:32.814Z",
-      "totalApplicants": 34,
+      "lastBuyerActivity": "2024-02-21T11:53:56.573Z",
+      "totalApplicants": 38,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -121,15 +121,15 @@
       "country": "Australia"
     },
     "stats": {
-      "totalAssignments": 7,
+      "totalAssignments": 8,
       "activeAssignmentsCount": 0,
-      "feedbackCount": 5,
+      "feedbackCount": 6,
       "score": 5,
-      "totalJobsWithHires": 6,
+      "totalJobsWithHires": 7,
       "hoursCount": 24.833334,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 369.18
+        "amount": 469.18
       }
     },
     "isEnterprise": false,

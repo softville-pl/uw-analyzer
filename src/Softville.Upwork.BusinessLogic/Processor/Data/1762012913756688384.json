@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01d970018954c13392",
-    "rid": 1011185734,
-    "uid": "1755250063359447040",
+    "ciphertext": "~019eff2b1882c2258d",
+    "rid": 1011576422,
+    "uid": "1762012913756688384",
     "type": 2,
     "access": 4,
-    "title": "Seeking senior ASP.NET and Redis Engineer",
+    "title": "Strong technical interview supporter: C#/ASP.NET, Angular 17",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-07T15:20:01.029Z",
-    "postedOn": "2024-02-07T15:20:01.500Z",
-    "publishTime": "2024-02-07T15:20:01.500Z",
+    "createdOn": "2024-02-26T07:13:10.200Z",
+    "postedOn": "2024-02-26T07:13:10.470Z",
+    "publishTime": "2024-02-26T07:13:10.470Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 1007424734,
+    "companyRecno": 1011210811,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
@@ -36,25 +36,23 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 35,
-      "hourlyBudgetMax": 70
+      "hourlyBudgetMin": 80,
+      "hourlyBudgetMax": 100
     },
     "contractorTier": 3,
-    "description": "We\u0027re seeking senior ASP.NET and Redis Engineer who can help us resolve REDIS connection timeouts from our IIS servers  in our ASP.Net MVC app when attempting to pull data of ~5k per key. It works 99% of the time, but seems to have clusters of errors. REDIS is reporting nothing in SLOWLOG so we believe it\u0027s client side and we aren\u0027t configured properly. We need someone who has configured REDIS for ASP.Net MVC specifically and has had errors with HM_GET and EXPIRE commands. We\u0027re using AWS elastic cache as our redis host if that changes anything. We prefer to working with individual developers.",
+    "description": "We need a strong technical interview supporter. A potential candidate should be fluent in written and verbal English.\n\nTechnical skills: C#/ASP.NET, Angular 17",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "How many years of experience do you have with redis?"
-      },
-      {
-        "position": 1,
-        "question": "Are you familiar with the error messages that come out and ratios of worker threads to busy threads, etc, and what action to take?"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
-      "location": null,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
@@ -65,8 +63,13 @@
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
-      "countries": null,
-      "regions": null,
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
       "states": null,
       "timezones": null,
       "localMarket": true,
@@ -81,53 +84,52 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-19T19:33:34.877Z",
-      "totalApplicants": 0,
+      "lastBuyerActivity": "2024-02-26T07:52:31.623Z",
+      "totalApplicants": 9,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "115",
+        "totalTimeSpentOnDescriptionPageAI": "63",
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
         "timeSpentToGetAPIDescriptionAI": "5",
-        "generatedDescriptionAI": "We are currently seeking a senior ASP.NET and Redis engineer to join our team for a project that is expected to last more than 6 months. The ideal candidate should have expertise in API development, SQL, .NET Framework, ASP.NET, RESTful API, JavaScript, and C#.\n\nIn your proposal, please describe how you can contribute to the project and address any relevant experience you have in working with ASP.NET and Redis. We value strong problem-solving skills, attention to detail, and the ability to work collaboratively in a team.\n\nAdditionally, we would appreciate if you could include links to any past completed projects that showcase your skills in ASP.NET and Redis development. This will help us assess your capabilities and determine if you are the right fit for our project.\n\nWe look forward to reviewing your proposal and discussing further details with you.",
+        "generatedDescriptionAI": "We are looking for a strong technical interview supporter with expertise in C#/ASP.NET and Angular 17 to join our team. This is a long-term project lasting more than 6 months. \n\nAs a technical interview supporter, your main responsibility will be to assist our team in conducting technical interviews for candidates applying for C#/ASP.NET and Angular 17 positions. You will help evaluate their skills, knowledge, and problem-solving abilities.\n\nTo be successful in this role, you should have a deep understanding of C#/ASP.NET and Angular 17, as well as experience in conducting technical interviews. Strong communication and interpersonal skills are also necessary.\n\nIf you are interested in this position, please submit a proposal outlining how you can contribute to this project. Additionally, please include links to any past projects you have completed that showcase your expertise in C#/ASP.NET and Angular 17.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-07T15:20:01.500Z",
-        "totalTimeJobPostFlowAIv2": "212",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "publishTime": "2024-02-26T07:13:10.470Z",
+        "totalTimeJobPostFlowAIv2": "215",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626712877088768\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221031626716534521856\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022}]",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "3",
-        "totalTimeSpentOnReviewPageAIv2": "36",
+        "totalDescriptionEditingTimeAI": "61",
+        "totalTimeSpentOnReviewPageAIv2": "4",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1707318989135",
+        "startTimeJobPostFlowAIv2": "1708931373866",
         "inputsDurationAI": "474250516458926080",
-        "inputsTitleAI": "Seeking senior ASP.NET and Redis Engineer",
-        "finalDescriptionAI": "We\u0027re seeking senior ASP.NET and Redis Engineer who can help us resolve REDIS connection timeouts from our IIS servers  in our ASP.Net MVC app when attempting to pull data of ~5k per key. It works 99% of the time, but seems to have clusters of errors. REDIS is reporting nothing in SLOWLOG so we believe it\u0027s client side and we aren\u0027t configured properly. We need someone who has configured REDIS for ASP.Net MVC specifically and has had errors with HM_GET and EXPIRE commands. We\u0027re using AWS elastic cache as our redis host if that changes anything. We prefer to working with individual developers."
+        "inputsTitleAI": "Strong technical interview supporter: C#/ASP.NET, Angular 17",
+        "finalDescriptionAI": "We need a strong technical interview supporter. A potential candidate should be fluent in written and verbal English.\n\nTechnical skills: C#/ASP.NET, Angular 17"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
@@ -135,46 +137,48 @@
     "location": {
       "offsetFromUtcMillis": -28800000,
       "countryTimezone": "United States (America/T)",
-      "city": "Fort Collins",
+      "city": null,
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 35,
-      "activeAssignmentsCount": 14,
-      "feedbackCount": 15,
-      "score": 4.906647518,
-      "totalJobsWithHires": 32,
-      "hoursCount": 1415.666675,
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 3,
+      "score": 2.930644239,
+      "totalJobsWithHires": 6,
+      "hoursCount": 64.833335,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 36487.48
+        "amount": 936.15
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-02-24T00:00:00.000Z",
+      "contractDate": "2023-12-07T00:00:00.000Z",
       "profile": {
         "size": "2",
-        "industry": "Art \u0026 Design",
+        "industry": "Tech \u0026 IT",
         "visible": true,
-        "l3Occupations": []
+        "l3Occupations": [
+          "upworkOccupation:businessapplicationsdevelopment"
+        ]
       }
     },
     "jobs": {
-      "postedCount": 44,
-      "openCount": 3
+      "postedCount": 17,
+      "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 19.57667753957689
+      "amount": 19.61691466280425
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalQualifications": 5,
+        "totalMatches": 5,
         "matches": [
           {
             "qualification": 0,
@@ -191,6 +195,14 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe),country=(Ukraine)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Americas, Europe, Ukraine"
           },
           {
             "qualification": 8,

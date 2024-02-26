@@ -40,7 +40,7 @@
       "hourlyBudgetMax": 70
     },
     "contractorTier": 3,
-    "description": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\n\nThank you very much!\n",
+    "description": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (which is currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\n\nThank you very much!\n",
     "attachments": null,
     "questions": [
       {
@@ -111,7 +111,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-01-16T11:00:56.702Z",
-      "totalApplicants": 34,
+      "totalApplicants": 35,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -128,20 +128,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "4",
         "generatedDescriptionAI": "We are looking for a senior developer with expertise in Blazor and .NET 8 for a project lasting 3 to 6 months. As a Blazor .NET 8 Senior Developer, you will be responsible for developing and maintaining web applications using Blazor and .NET technologies. This includes designing user interfaces, implementing business logic, and integrating with backend systems.\n\nTo be successful in this role, you should have a strong understanding of Blazor and .NET 8, as well as experience in building scalable and performant web applications. Familiarity with frontend technologies such as HTML, CSS, and JavaScript is also required.\n\nIn your proposal, please outline how you can contribute to the project and highlight any relevant experience or certifications you hold. Additionally, include links to past completed projects that demonstrate your proficiency in Blazor and .NET development. We look forward to reviewing your proposals and finding the right candidate for this position.",
+        "timeSpentToGetAPIDescriptionAI": "4",
         "siteSource": "desktop_rjp",
         "publishTime": "2023-12-16T20:51:46.688Z",
         "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876962720792576\u0022},{\u0022freeText\u0022:\u0022.NET MAUI\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "269",
-        "totalTimeSpentOnReviewPageAIv2": "348",
+        "totalTimeSpentOnReviewPageAIv2": "368",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1702758611884",
-        "inputsDurationAI": "474250516458926081",
+        "finalDescriptionAI": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\nThank you very much!\n",
         "inputsTitleAI": "Blazor .NET 8 Senior Developer needed",
-        "finalDescriptionAI": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\nThank you very much!\n"
+        "inputsDurationAI": "474250516458926081"
       }
     },
     "isContractToHire": false,
@@ -157,8 +157,8 @@
     },
     "stats": {
       "totalAssignments": 3,
-      "activeAssignmentsCount": 1,
-      "feedbackCount": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 2,
       "score": 5,
       "totalJobsWithHires": 3,
       "hoursCount": 0,

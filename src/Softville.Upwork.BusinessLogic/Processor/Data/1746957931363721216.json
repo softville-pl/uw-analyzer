@@ -1,1 +1,238 @@
-{"job":{"ciphertext":"~014a47508ae21538ae","rid":1010688036,"uid":"1746957931363721216","type":2,"access":1,"title":"Senior Angular Developer with .NET and REST API experience","status":1,"category":{"name":"Web Development","urlSlug":"web-development"},"categoryGroup":{"name":"Web, Mobile \u0026 Software Dev","urlSlug":"web-mobile-software-dev"},"hideBudget":false,"budget":{"currencyCode":"USD","amount":0},"createdOn":"2024-01-15T18:10:02.757Z","postedOn":"2024-01-30T03:32:50.133Z","publishTime":"2024-01-15T21:10:03.779Z","wasRenewed":true,"startDate":null,"deliveryDate":null,"workload":"More than 30 hrs\/week","companyRecno":1011825114,"durationIdV3":4,"durationLabel":"More than 6 months","notSureProjectDuration":false,"notSureFreelancersToHire":false,"notSureExperienceLevel":false,"numberOfPositionsToHire":1,"extendedBudgetInfo":{"hourlyBudgetType":1,"hourlyBudgetMin":15,"hourlyBudgetMax":55},"contractorTier":3,"description":"Are you ready to drive technological innovation and make an impact? We\u0027re seeking a dynamic Senior Angular Developer with .NET experience to join our rapidly expanding startup. As part of our forward-thinking team, you\u0027ll play a pivotal role in designing and building state-of-the-art applications. This is an exciting opportunity for a talented professional who is deeply versed in Angular 12+ and thrives in a fast-paced, collaborative environment.\n\nKey Responsibilities:\n- Advanced Application Development: Craft exceptional web applications leveraging Angular, encapsulating both functionality and aesthetics.\n- UI\/UX Implementation: Apply responsive design principles using TailwindCSS to create intuitive and visually appealing interfaces.\n- Quality Assurance: Guarantee application reliability and performance through comprehensive testing, utilizing frameworks like Cypress.\n- Component Design: Employ Storybook for the modular development of UI components, ensuring consistency and reusability.\n- JavaScript Proficiency: Write clean, maintainable, and efficient JavaScript code, adhering to best practices and coding standards.\n- Cutting-Edge Browser Technologies: Harness advanced browser features including IndexDB and web workers to enhance application capabilities.\n- Reactive Programming: Manage asynchronous data streams effectively using RxJS, ensuring seamless data flow and user experience.\n- Architectural Expertise: Demonstrate a high level of expertise in application architecture, encompassing both design and development aspects.\n\nJoin us in shaping the future of technology. We prefer to work with individual developers who are eager to contribute to a game-changing startup.","attachments":null,"questions":[{"position":0,"question":"Describe your recent experience with similar projects"}],"qualifications":{"type":0,"location":null,"minOdeskHours":0,"groupRecno":null,"shouldHavePortfolio":false,"tests":null,"minHoursWeek":40,"group":null,"prefEnglishSkill":3,"minJobSuccessScore":0,"risingTalent":false,"locationCheckRequired":false,"countries":null,"regions":null,"states":null,"timezones":null,"localMarket":true,"onSiteType":null,"locations":null,"localDescription":null,"localFlexibilityDescription":null,"earnings":null,"languages":null},"isPremium":true,"segmentationData":[{"name":"Employment","value":"EMPLOYMENT_COMPLEX_PROJECT","label":"Complex project","type":"EMPLOYMENT","sortOrder":2,"typeUid":"535792587707281410","customValue":null,"skill":null}],"clientActivity":{"lastBuyerActivity":"2024-01-30T03:32:26.252Z","totalApplicants":45,"totalHired":0,"totalInvitedToInterview":0,"unansweredInvites":0,"invitationsSent":0},"weeklyRetainerBudget":null,"annotations":{"tags":["jsi_contractToHire","premium","contractToHireSet","C2HJobsOptInEducation"],"customFields":{"siteSource":"desktop_rjp","publishTime":"2024-01-15T21:10:03.779Z","reuse":"1745442003662757888","totalTimeJobPostFlowAIv2":"0","sourcingUpdateCount":"2","sourcingUpdateForbidden":"false","totalTimeSpentOnReviewPageAIv2":"53","type":"FJP","sourcingTime":"2024-01-30T03:32:50.133Z","browser":"Edge","device":"Windows"}},"isContractToHire":true,"recruitingServices":null},"buyer":{"isPaymentMethodVerified":true,"location":{"offsetFromUtcMillis":-18000000,"countryTimezone":"United States (America\/N)","city":null,"country":"United States"},"stats":{"totalAssignments":0,"activeAssignmentsCount":0,"feedbackCount":0,"score":0,"totalJobsWithHires":0,"hoursCount":0,"totalCharges":{"currencyCode":"USD","amount":0}},"isEnterprise":false,"company":{"isEDCReplicated":false,"contractDate":"2024-01-10T00:00:00.000Z","profile":{"size":"10","industry":"Health \u0026 Fitness","visible":true,"l3Occupations":[]}},"jobs":{"postedCount":5,"openCount":0},"avgHourlyJobsRate":null},"currentUserInfo":{"owner":false,"freelancerInfo":{"qualificationsMatches":{"totalQualifications":4,"totalMatches":4,"matches":[{"qualification":0,"qualified":true,"clientPreferred":"all","freelancerValue":"IC","freelancerValueLabel":"Not Specified","clientPreferredLabel":"Any"},{"qualification":4,"qualified":true,"clientPreferred":"3","freelancerValue":"3","freelancerValueLabel":"Fluent","clientPreferredLabel":"Fluent"},{"qualification":8,"qualified":true,"clientPreferred":"ANY","freelancerValue":"0.00","freelancerValueLabel":"0.00","clientPreferredLabel":"Any"},{"qualification":10,"qualified":true,"clientPreferred":"Any","freelancerValue":"en","freelancerValueLabel":"English","clientPreferredLabel":null}]},"applied":null,"hired":null,"contract":null,"profileState":10,"hourlyRate":{"currencyCode":"USD","amount":56},"devProfileCiphertext":"~01256f0be21d7e2c1e","application":null,"pendingInvite":null}},"paths":{"js":"\/nx\/jobs\/search"},"ff":{"isRemoveClientTotalSpentCap":true,"isJobDetailsQuickJobPost":true,"CFE6770ImprovedQualificationsSection":true,"jdShowInvitesCount":true,"enforceMinimumRateInProfile":true,"TSV1877IDVatSubmitProposal":true,"AG2156TeamsAddRoleFlow":true,"CLOB6375ExpandedCompanyProfile":true},"qt":[],"experiments":{"idvOnSubmitProposals":{"soft":false,"hard":false,"idv_required":false,"idv_complete":false}},"isVisitor":false}
+{
+  "job": {
+    "ciphertext": "~014a47508ae21538ae",
+    "rid": 1010688036,
+    "uid": "1746957931363721216",
+    "type": 2,
+    "access": 1,
+    "title": "Senior Angular Developer with .NET and REST API experience",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-15T18:10:02.757Z",
+    "postedOn": "2024-02-16T22:46:36.572Z",
+    "publishTime": "2024-01-15T21:10:03.779Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011825114,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 55
+    },
+    "contractorTier": 3,
+    "description": "Are you ready to drive technological innovation and make an impact? We\u0027re seeking a dynamic Senior Angular Developer with .NET experience to join our rapidly expanding startup. As part of our forward-thinking team, you\u0027ll play a pivotal role in designing and building state-of-the-art applications. This is an exciting opportunity for a talented professional who is deeply versed in Angular 12\u002B and thrives in a fast-paced, collaborative environment.\n\nKey Responsibilities:\n- Advanced Application Development: Craft exceptional web applications leveraging Angular, encapsulating both functionality and aesthetics.\n- UI/UX Implementation: Apply responsive design principles using TailwindCSS to create intuitive and visually appealing interfaces.\n- Quality Assurance: Guarantee application reliability and performance through comprehensive testing, utilizing frameworks like Cypress.\n- Component Design: Employ Storybook for the modular development of UI components, ensuring consistency and reusability.\n- JavaScript Proficiency: Write clean, maintainable, and efficient JavaScript code, adhering to best practices and coding standards.\n- Cutting-Edge Browser Technologies: Harness advanced browser features including IndexDB and web workers to enhance application capabilities.\n- Reactive Programming: Manage asynchronous data streams effectively using RxJS, ensuring seamless data flow and user experience.\n- Architectural Expertise: Demonstrate a high level of expertise in application architecture, encompassing both design and development aspects.\n\nJoin us in shaping the future of technology. We prefer to work with individual developers who are eager to contribute to a game-changing startup.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T01:30:26.899Z",
+      "totalApplicants": 1,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-15T21:10:03.779Z",
+        "reuse": "1745442003662757888",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "3",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "53",
+        "type": "FJP",
+        "sourcingTime": "2024-02-16T22:46:36.572Z",
+        "browser": "Edge",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (America/N)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 6,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-01-10T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Health \u0026 Fitness",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 7,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 13
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

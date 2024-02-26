@@ -1,229 +1,246 @@
 {
-    "job": {
-        "ciphertext": "~01c748219429f05098",
-        "rid": 1011139398,
-        "uid": "1754555036831051776",
-        "type": 2,
-        "access": 4,
-        "title": "Experienced C#/.NET Backend Developer",
-        "status": 1,
-        "category": { "name": "Web Development", "urlSlug": "web-development" },
-        "categoryGroup": {
-            "name": "Web, Mobile \u0026 Software Dev",
-            "urlSlug": "web-mobile-software-dev"
-        },
-        "hideBudget": false,
-        "budget": { "currencyCode": "USD", "amount": 0 },
-        "createdOn": "2024-02-05T17:18:13.810Z",
-        "postedOn": "2024-02-05T17:18:14.412Z",
+  "job": {
+    "ciphertext": "~01c748219429f05098",
+    "rid": 1011139398,
+    "uid": "1754555036831051776",
+    "type": 2,
+    "access": 4,
+    "title": "Experienced C#/.NET Backend Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-05T17:18:13.810Z",
+    "postedOn": "2024-02-05T17:18:14.412Z",
+    "publishTime": "2024-02-05T17:18:14.412Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1011762880,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We need to develop a REST backend server for our Invoicing app. However, before we start, we need to make sure that we are selecting the right tech stack that meets our immediate and medium-term tech needs.\n\nFor this reason, we are paying you for 2 hours to do a test.\nIt comes down to do we use Express/Node or .Net.\n\nWe will hire several developers in the first round and then select one person to do the actual implementation of the backend based on your written response, experience, and cost.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-09T02:34:58.254Z",
+      "totalApplicants": 79,
+      "totalHired": 0,
+      "totalInvitedToInterview": 8,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "94",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an experienced C#/.NET Backend Developer to assist with a project with a duration of less than 1 month. The ideal candidate should have a strong background in TypeScript, API development, .NET Core, SQL, .NET Framework, ASP.NET, Microsoft SQL Server, RESTful API, C#, and ASP.NET MVC.\n\nAs a developer, your primary responsibilities will include developing and maintaining the backend of our application, implementing RESTful APIs, optimizing database queries, and ensuring seamless integration with the frontend. You should have a solid understanding of software development best practices, code optimization, and performance tuning.\n\nTo apply for this position, please submit a detailed proposal outlining your relevant experience, how you can contribute to the project, and provide links to past completed projects that demonstrate your skills in C#/.NET development. We look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
         "publishTime": "2024-02-05T17:18:14.412Z",
-        "wasRenewed": false,
-        "startDate": null,
-        "deliveryDate": null,
-        "workload": "Less than 30 hrs/week",
-        "companyRecno": 1011762880,
-        "durationIdV3": 1,
-        "durationLabel": "Less than a month",
-        "notSureProjectDuration": false,
-        "notSureFreelancersToHire": false,
-        "notSureExperienceLevel": false,
-        "numberOfPositionsToHire": 1,
-        "extendedBudgetInfo": {
-            "hourlyBudgetType": 1,
-            "hourlyBudgetMin": 30,
-            "hourlyBudgetMax": 60
-        },
-        "contractorTier": 3,
-        "description": "We need to develop a REST backend server for our Invoicing app. However, before we start, we need to make sure that we are selecting the right tech stack that meets our immediate and medium-term tech needs.\n\nFor this reason, we are paying you for 2 hours to do a test.\nIt comes down to do we use Express/Node or .Net.\n\nWe will hire several developers in the first round and then select one person to do the actual implementation of the backend based on your written response, experience, and cost.",
-        "attachments": null,
-        "questions": [
-            {
-                "position": 0,
-                "question": "Describe your recent experience with similar projects"
-            },
-            {
-                "position": 1,
-                "question": "Include a link to your GitHub profile and/or website"
-            }
-        ],
-        "qualifications": {
-            "type": 0,
-            "location": null,
-            "minOdeskHours": 0,
-            "groupRecno": null,
-            "shouldHavePortfolio": false,
-            "tests": null,
-            "minHoursWeek": 30,
-            "group": null,
-            "prefEnglishSkill": 0,
-            "minJobSuccessScore": 0,
-            "risingTalent": false,
-            "locationCheckRequired": false,
-            "countries": null,
-            "regions": null,
-            "states": null,
-            "timezones": null,
-            "localMarket": false,
-            "onSiteType": null,
-            "locations": null,
-            "localDescription": null,
-            "localFlexibilityDescription": null,
-            "earnings": null,
-            "languages": null
-        },
-        "isPremium": false,
-        "segmentationData": [
-            {
-                "name": "Employment",
-                "value": "EMPLOYMENT_PROJECT",
-                "label": "One-time project",
-                "type": "EMPLOYMENT",
-                "sortOrder": 0,
-                "typeUid": "535792587707281410",
-                "customValue": null,
-                "skill": null
-            }
-        ],
-        "clientActivity": {
-            "lastBuyerActivity": "2024-02-05T21:38:41.095Z",
-            "totalApplicants": 83,
-            "totalHired": 0,
-            "totalInvitedToInterview": 10,
-            "unansweredInvites": 0,
-            "invitationsSent": 0
-        },
-        "weeklyRetainerBudget": null,
-        "annotations": {
-            "tags": [
-                "contractToHireSet",
-                "searchable",
-                "C2HJobsOptInEducation"
-            ],
-            "customFields": {
-                "totalTimeSpentOnDescriptionPageAI": "94",
-                "sourcingUpdateForbidden": "false",
-                "type": "RJP",
-                "browser": "Chrome",
-                "timeSpentToGetAPIDescriptionAI": "5",
-                "generatedDescriptionAI": "We are looking for an experienced C#/.NET Backend Developer to assist with a project with a duration of less than 1 month. The ideal candidate should have a strong background in TypeScript, API development, .NET Core, SQL, .NET Framework, ASP.NET, Microsoft SQL Server, RESTful API, C#, and ASP.NET MVC.\n\nAs a developer, your primary responsibilities will include developing and maintaining the backend of our application, implementing RESTful APIs, optimizing database queries, and ensuring seamless integration with the frontend. You should have a solid understanding of software development best practices, code optimization, and performance tuning.\n\nTo apply for this position, please submit a detailed proposal outlining your relevant experience, how you can contribute to the project, and provide links to past completed projects that demonstrate your skills in C#/.NET development. We look forward to reviewing your proposal and discussing the project further.",
-                "siteSource": "desktop_rjp",
-                "publishTime": "2024-02-05T17:18:14.412Z",
-                "totalTimeJobPostFlowAIv2": "292",
-                "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022}]",
-                "sourcingUpdateCount": "0",
-                "totalDescriptionEditingTimeAI": "93",
-                "totalTimeSpentOnReviewPageAIv2": "18",
-                "device": "Macintosh",
-                "startTimeJobPostFlowAIv2": "1707153201135",
-                "inputsDurationAI": "474250516458926083",
-                "inputsTitleAI": "Experienced C#/.NET Backend Developer",
-                "finalDescriptionAI": "We need to develop a REST backend server for our Invoicing app. However, before we start, we need to make sure that we are selecting the right tech stack that meets our immediate and medium-term tech needs.\n\nFor this reason, we are paying you for 2 hours to do a test.\nIt comes down to do we use Express/Node or .Net.\n\nWe will hire several developers in the first round and then select one person to do the actual implementation of the backend based on your written response, experience, and cost."
-            }
-        },
-        "isContractToHire": false,
-        "recruitingServices": null
+        "totalTimeJobPostFlowAIv2": "292",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "93",
+        "totalTimeSpentOnReviewPageAIv2": "18",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707153201135",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Experienced C#/.NET Backend Developer",
+        "finalDescriptionAI": "We need to develop a REST backend server for our Invoicing app. However, before we start, we need to make sure that we are selecting the right tech stack that meets our immediate and medium-term tech needs.\n\nFor this reason, we are paying you for 2 hours to do a test.\nIt comes down to do we use Express/Node or .Net.\n\nWe will hire several developers in the first round and then select one person to do the actual implementation of the backend based on your written response, experience, and cost."
+      }
     },
-    "buyer": {
-        "isPaymentMethodVerified": true,
-        "location": {
-            "offsetFromUtcMillis": -18000000,
-            "countryTimezone": "Canada (America/N)",
-            "city": null,
-            "country": "Canada"
-        },
-        "stats": {
-            "totalAssignments": 1,
-            "activeAssignmentsCount": 0,
-            "feedbackCount": 1,
-            "score": 5,
-            "totalJobsWithHires": 1,
-            "hoursCount": 0,
-            "totalCharges": { "currencyCode": "USD", "amount": 100 }
-        },
-        "isEnterprise": false,
-        "company": {
-            "isEDCReplicated": false,
-            "contractDate": "2024-01-04T00:00:00.000Z",
-            "profile": {
-                "size": "10",
-                "industry": "Tech \u0026 IT",
-                "visible": true,
-                "l3Occupations": []
-            }
-        },
-        "jobs": { "postedCount": 3, "openCount": 0 },
-        "avgHourlyJobsRate": null
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "Canada (America/N)",
+      "city": null,
+      "country": "Canada"
     },
-    "currentUserInfo": {
-        "owner": false,
-        "freelancerInfo": {
-            "qualificationsMatches": {
-                "totalQualifications": 4,
-                "totalMatches": 4,
-                "matches": [
-                    {
-                        "qualification": 0,
-                        "qualified": true,
-                        "clientPreferred": "all",
-                        "freelancerValue": "IC",
-                        "freelancerValueLabel": "Not Specified",
-                        "clientPreferredLabel": "Any"
-                    },
-                    {
-                        "qualification": 4,
-                        "qualified": true,
-                        "clientPreferred": "0",
-                        "freelancerValue": "3",
-                        "freelancerValueLabel": "Fluent",
-                        "clientPreferredLabel": "Any"
-                    },
-                    {
-                        "qualification": 8,
-                        "qualified": true,
-                        "clientPreferred": "ANY",
-                        "freelancerValue": "0.00",
-                        "freelancerValueLabel": "0.00",
-                        "clientPreferredLabel": "Any"
-                    },
-                    {
-                        "qualification": 10,
-                        "qualified": true,
-                        "clientPreferred": "Any",
-                        "freelancerValue": "en",
-                        "freelancerValueLabel": "English",
-                        "clientPreferredLabel": null
-                    }
-                ]
-            },
-            "applied": null,
-            "hired": null,
-            "contract": null,
-            "profileState": 10,
-            "hourlyRate": { "currencyCode": "USD", "amount": 56 },
-            "devProfileCiphertext": "~01256f0be21d7e2c1e",
-            "application": null,
-            "pendingInvite": null
-        }
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 100
+      }
     },
-    "paths": { "js": "/nx/jobs/search" },
-    "ff": {
-        "isRemoveClientTotalSpentCap": true,
-        "isJobDetailsQuickJobPost": true,
-        "CFE6770ImprovedQualificationsSection": true,
-        "jdShowInvitesCount": true,
-        "enforceMinimumRateInProfile": true,
-        "TSV1877IDVatSubmitProposal": true,
-        "AG2156TeamsAddRoleFlow": true,
-        "CLOB6375ExpandedCompanyProfile": true
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-01-04T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
     },
-    "qt": [],
-    "experiments": {
-        "idvOnSubmitProposals": {
-            "soft": false,
-            "hard": false,
-            "idv_required": false,
-            "idv_complete": false
-        }
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
     },
-    "isVisitor": false
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
 }

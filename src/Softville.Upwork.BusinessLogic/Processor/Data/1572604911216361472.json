@@ -82,8 +82,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-01-15T16:00:12.628Z",
-      "totalApplicants": 23,
+      "lastBuyerActivity": "2024-02-09T16:59:50.727Z",
+      "totalApplicants": 24,
       "totalHired": 2,
       "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
@@ -101,7 +101,7 @@
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "38",
+        "totalTimeSpentOnReviewPageAIv2": "45",
         "type": "RJP",
         "urgency": "1",
         "browser": "Chrome",
@@ -120,15 +120,15 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 83,
-      "activeAssignmentsCount": 11,
+      "totalAssignments": 84,
+      "activeAssignmentsCount": 12,
       "feedbackCount": 21,
       "score": 4.864736834,
-      "totalJobsWithHires": 48,
-      "hoursCount": 23086.976722,
+      "totalJobsWithHires": 49,
+      "hoursCount": 23207.143387,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 487788.11
+        "amount": 490115.27
       }
     },
     "isEnterprise": false,
@@ -147,7 +147,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 20.83440789116589
+      "amount": 20.85709093654078
     }
   },
   "currentUserInfo": {

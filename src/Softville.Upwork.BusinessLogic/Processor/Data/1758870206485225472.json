@@ -90,10 +90,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-17T15:05:10.264Z",
-      "totalApplicants": 42,
+      "lastBuyerActivity": "2024-02-25T14:34:03.886Z",
+      "totalApplicants": 12,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 9,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -110,20 +110,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "3",
         "generatedDescriptionAI": "We are looking for a talented and experienced Senior C#/Angular Full-Stack Engineer to join our team for a long-term project of more than 6 months. As a Senior Engineer, you will be responsible for developing APIs, using your expertise in C#, Angular, and .NET Core.\n\nTo be successful in this role, you must have a solid understanding of API development, as well as strong programming skills in C# and Angular. You should be familiar with .NET Core and have experience working on full-stack development projects.\n\nIf you are interested in this position, please submit a proposal detailing how you can contribute to this project. Additionally, we would like you to include links to past completed projects that showcase your skills and expertise in C#, Angular, and API development.\n\nWe are excited to review your proposals and find the perfect candidate to join our team!",
+        "timeSpentToGetAPIDescriptionAI": "3",
         "siteSource": "desktop_rjp",
         "publishTime": "2024-02-17T15:05:10.746Z",
-        "totalTimeJobPostFlowAIv2": "394",
+        "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626714051493888\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "200",
-        "totalTimeSpentOnReviewPageAIv2": "5",
+        "totalTimeSpentOnReviewPageAIv2": "39",
         "device": "Macintosh",
         "startTimeJobPostFlowAIv2": "1708181915771",
-        "inputsDurationAI": "474250516458926080",
+        "finalDescriptionAI": "We\u0027re a small software development consulting company. We\u0027re looking to expand our team with an expert-level full-stack Engineer. Our tech stack is C#/.NET Core and Angular on the front end.\n\nThis role will start primarily with backend work, but we strongly prefer candidates who can also work on the front end.\n\nFluency in English is a must as you\u0027ll be working closely with our existing US and Canadian client base. Working hours are somewhat flexible, but there is a strong preference for regular US business hours.\n\nFull-time, 40 hours/week.\n\nWe look forward to hearing from you!",
         "inputsTitleAI": "Senior C#/Angular Full-Stack Engineer",
-        "finalDescriptionAI": "We\u0027re a small software development consulting company. We\u0027re looking to expand our team with an expert-level full-stack Engineer. Our tech stack is C#/.NET Core and Angular on the front end.\n\nThis role will start primarily with backend work, but we strongly prefer candidates who can also work on the front end.\n\nFluency in English is a must as you\u0027ll be working closely with our existing US and Canadian client base. Working hours are somewhat flexible, but there is a strong preference for regular US business hours.\n\nFull-time, 40 hours/week.\n\nWe look forward to hearing from you!"
+        "inputsDurationAI": "474250516458926080"
       }
     },
     "isContractToHire": true,
@@ -161,7 +161,7 @@
       }
     },
     "jobs": {
-      "postedCount": 69,
+      "postedCount": 70,
       "openCount": 1
     },
     "avgHourlyJobsRate": {

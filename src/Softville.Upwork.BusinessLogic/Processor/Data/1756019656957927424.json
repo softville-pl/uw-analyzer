@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-14T04:23:57.080Z",
-      "totalApplicants": 13,
+      "lastBuyerActivity": "2024-02-20T03:59:24.416Z",
+      "totalApplicants": 10,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -18000000,
       "countryTimezone": "United States (America/N)",

@@ -1,1 +1,260 @@
-{"job":{"ciphertext":"~019a82988121948ffd","rid":1011135099,"uid":"1754506917913931776","type":2,"access":4,"title":"Cloud Consultant Solutions  (Architect )","status":1,"category":{"name":"DevOps \u0026 Solution Architecture","urlSlug":"devops-solution-architecture"},"categoryGroup":{"name":"IT \u0026 Networking","urlSlug":"it-networking"},"hideBudget":false,"budget":{"currencyCode":"USD","amount":0},"createdOn":"2024-02-05T14:07:01.524Z","postedOn":"2024-02-05T14:07:02.171Z","publishTime":"2024-02-05T14:07:02.171Z","wasRenewed":false,"startDate":null,"deliveryDate":null,"workload":"Less than 30 hrs\/week","companyRecno":1011486345,"durationIdV3":1,"durationLabel":"Less than a month","notSureProjectDuration":false,"notSureFreelancersToHire":false,"notSureExperienceLevel":false,"numberOfPositionsToHire":1,"extendedBudgetInfo":{"hourlyBudgetType":1,"hourlyBudgetMin":20,"hourlyBudgetMax":50},"contractorTier":3,"description":"For small website  i need cloud  Infrastructure.\n(Website is Not profitable at the moment)\nI want to take old server and move it to relable cloud.\n\ni have a website with 5-20 users concurrently.\nthe website is built in asp.net core 6 (web razor pages).\n\nwebsite server(windows server) i have:\n1)website\n2)redis\n3) sql servers\n4) elastic search\n(locall server , 4 cpu, 16GB ram)\n\n i think to craete second relaable server on cloud,\nand create load balancer (if needed after).\n\nI am looking for the cheap and flexible solution - if in the future the traffic increases and I want to pick up another server.\n\nI thought maybe switching to docker on a Linux server running asp.net core.\nand put the database on another server.\nThen in the future when the traffic increases it will be easy for me to add another server of the site with\nredis and so on. Elastic is also currently on the same server (cheap for me because it\u0027s local)\n\nWhat is the \u0022best\u0022 solution for me ? \ni prefer alwas windows server, familiar with \nhttps:\/\/www.vultr.com\nwebsite","attachments":[{"fileName":"infa.PNG","length":81580,"uri":"\/att\/download\/openings\/1754506917913931776\/attachments\/89164a79-1760-423b-b298-dce86aa43b50\/download"},{"fileName":"requestPage3.PNG","length":40691,"uri":"\/att\/download\/openings\/1754506917913931776\/attachments\/3ce0cef6-e3b1-46c1-8542-10c113aac804\/download"},{"fileName":"requestPage2.PNG","length":37915,"uri":"\/att\/download\/openings\/1754506917913931776\/attachments\/c4ddabcc-3a3c-4f1a-ba5b-f5da6d13797f\/download"},{"fileName":"requestPage1.PNG","length":44331,"uri":"\/att\/download\/openings\/1754506917913931776\/attachments\/76b0db26-e6a1-4bd5-80ab-7382cbb1ea1e\/download"}],"questions":[],"qualifications":{"type":0,"location":null,"minOdeskHours":0,"groupRecno":null,"shouldHavePortfolio":false,"tests":null,"minHoursWeek":30,"group":null,"prefEnglishSkill":0,"minJobSuccessScore":0,"risingTalent":false,"locationCheckRequired":false,"countries":null,"regions":null,"states":null,"timezones":null,"localMarket":false,"onSiteType":null,"locations":null,"localDescription":null,"localFlexibilityDescription":null,"earnings":null,"languages":null},"isPremium":false,"segmentationData":[{"name":"Employment","value":"EMPLOYMENT_PROJECT","label":"One-time project","type":"EMPLOYMENT","sortOrder":0,"typeUid":"535792587707281410","customValue":null,"skill":null}],"clientActivity":{"lastBuyerActivity":"2024-02-06T11:10:09.087Z","totalApplicants":27,"totalHired":0,"totalInvitedToInterview":11,"unansweredInvites":11,"invitationsSent":30},"weeklyRetainerBudget":null,"annotations":{"tags":["contractToHireSet","searchable","C2HJobsOptInEducation"],"customFields":{"totalTimeSpentOnDescriptionPageAI":"766","sourcingUpdateForbidden":"false","type":"RJP","browser":"Chrome","timeSpentToGetAPIDescriptionAI":"4","generatedDescriptionAI":"We are looking for a talented Cloud Solutions Architect to assist us with a project that is expected to last less than 1 month. As a Cloud Solutions Architect, you will be responsible for designing and implementing cloud-based solutions, ensuring they meet our business requirements and align with best practices. Your expertise in cloud computing, DevOps, solution architecture, and software architecture \u0026 design will be crucial in delivering a high-quality solution.\n\nTo apply for this position, please submit a proposal that outlines how you can help us with this project. We would like you to provide a detailed description of your approach and methodologies. Additionally, please include links to some of your past completed projects that demonstrate your skills and expertise in cloud solutions architecture.\n\nWe look forward to reviewing your proposal and finding the right candidate to assist us with this important project.","siteSource":"desktop_rjp","publishTime":"2024-02-05T14:07:02.171Z","totalTimeJobPostFlowAIv2":"1405","inputsSkillsAI":"[{\u0022skillUid\u0022:\u00221031626724986044416\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626781638508544\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022}]","sourcingUpdateCount":"0","totalDescriptionEditingTimeAI":"438","totalTimeSpentOnReviewPageAIv2":"196","device":"Windows","startTimeJobPostFlowAIv2":"1707140615979","inputsDurationAI":"474250516458926083","inputsTitleAI":"Cloud Solutions Architect","finalDescriptionAI":"For small website  i need cloud  Infrastructure.\n(Website is Not profitable at the moment)\nI want to take old server and move it to relable cloud.\n\ni have a website with (5-20) users concurrently.\nthe website is built in asp.net core 6 (web razor pages).\n\nwebsite server(windows server) i have:\n1)website\n2)redis\n3) sql servers\n4) elastic search\n(locall server , 4 cpu, 16GB ram)\n\n i think to craete second relaable server on cloud,\nand create load balancer (if needed after).\n\nI am looking for the cheap and flexible solution - if in the future the traffic increases and I want to pick up another server.\n\nI thought maybe switching to docker on a Linux server running asp.net core.\nand put the database on another server.\nThen in the future when the traffic increases it will be easy for me to add another server of the site with\nredis and so on. Elastic is also currently on the same server (cheap for me because it\u0027s local)\n\nWhat is the \u0022best\u0022 solution for me ? \ni prefer alwas windows server, familiar with \nhttps:\/\/www.vultr.com\nwebsite"}},"isContractToHire":false,"recruitingServices":null},"buyer":{"isPaymentMethodVerified":true,"location":{"offsetFromUtcMillis":7200000,"countryTimezone":"Israel (Asia\/Jeru)","city":null,"country":"Israel"},"stats":{"totalAssignments":1,"activeAssignmentsCount":0,"feedbackCount":1,"score":5,"totalJobsWithHires":1,"hoursCount":0.666667,"totalCharges":{"currencyCode":"USD","amount":20.45}},"isEnterprise":false,"company":{"isEDCReplicated":false,"contractDate":"2023-12-14T00:00:00.000Z","profile":{"size":"1","industry":"Tech \u0026 IT","visible":true,"l3Occupations":[]}},"jobs":{"postedCount":3,"openCount":0},"avgHourlyJobsRate":{"amount":25.004987497506253}},"currentUserInfo":{"owner":false,"freelancerInfo":{"qualificationsMatches":{"totalQualifications":4,"totalMatches":4,"matches":[{"qualification":0,"qualified":true,"clientPreferred":"all","freelancerValue":"IC","freelancerValueLabel":"Not Specified","clientPreferredLabel":"Any"},{"qualification":4,"qualified":true,"clientPreferred":"0","freelancerValue":"3","freelancerValueLabel":"Fluent","clientPreferredLabel":"Any"},{"qualification":8,"qualified":true,"clientPreferred":"ANY","freelancerValue":"0.00","freelancerValueLabel":"0.00","clientPreferredLabel":"Any"},{"qualification":10,"qualified":true,"clientPreferred":"Any","freelancerValue":"en","freelancerValueLabel":"English","clientPreferredLabel":null}]},"applied":null,"hired":null,"contract":null,"profileState":10,"hourlyRate":{"currencyCode":"USD","amount":56},"devProfileCiphertext":"~01256f0be21d7e2c1e","application":null,"pendingInvite":null}},"paths":{"js":"\/nx\/jobs\/search"},"ff":{"isRemoveClientTotalSpentCap":true,"isJobDetailsQuickJobPost":true,"CFE6770ImprovedQualificationsSection":true,"jdShowInvitesCount":true,"enforceMinimumRateInProfile":true,"TSV1877IDVatSubmitProposal":true,"AG2156TeamsAddRoleFlow":true,"CLOB6375ExpandedCompanyProfile":true},"qt":[],"experiments":{"idvOnSubmitProposals":{"soft":false,"hard":false,"idv_required":false,"idv_complete":false}},"isVisitor":false}
+{
+  "job": {
+    "ciphertext": "~019a82988121948ffd",
+    "rid": 1011135099,
+    "uid": "1754506917913931776",
+    "type": 2,
+    "access": 4,
+    "title": "Cloud Consultant Solutions  (Architect )",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-05T14:07:01.524Z",
+    "postedOn": "2024-02-05T14:07:02.171Z",
+    "publishTime": "2024-02-05T14:07:02.171Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1011486345,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "For small website  i need cloud  Infrastructure.\n(Website is Not profitable at the moment)\nI want to take old server and move it to relable cloud.\n\ni have a website with 5-20 users concurrently.\nthe website is built in asp.net core 6 (web razor pages).\n\nwebsite server(windows server) i have:\n1)website\n2)redis\n3) sql servers\n4) elastic search\n(locall server , 4 cpu, 16GB ram)\n\n i think to craete second relaable server on cloud,\nand create load balancer (if needed after).\n\nI am looking for the cheap and flexible solution - if in the future the traffic increases and I want to pick up another server.\n\nI thought maybe switching to docker on a Linux server running asp.net core.\nand put the database on another server.\nThen in the future when the traffic increases it will be easy for me to add another server of the site with\nredis and so on. Elastic is also currently on the same server (cheap for me because it\u0027s local)\n\nWhat is the \u0022best\u0022 solution for me ? \ni prefer alwas windows server, familiar with \nhttps://www.vultr.com\nwebsite",
+    "attachments": [
+      {
+        "fileName": "infa.PNG",
+        "length": 81580,
+        "uri": "/att/download/openings/1754506917913931776/attachments/89164a79-1760-423b-b298-dce86aa43b50/download"
+      },
+      {
+        "fileName": "requestPage3.PNG",
+        "length": 40691,
+        "uri": "/att/download/openings/1754506917913931776/attachments/3ce0cef6-e3b1-46c1-8542-10c113aac804/download"
+      },
+      {
+        "fileName": "requestPage2.PNG",
+        "length": 37915,
+        "uri": "/att/download/openings/1754506917913931776/attachments/c4ddabcc-3a3c-4f1a-ba5b-f5da6d13797f/download"
+      },
+      {
+        "fileName": "requestPage1.PNG",
+        "length": 44331,
+        "uri": "/att/download/openings/1754506917913931776/attachments/76b0db26-e6a1-4bd5-80ab-7382cbb1ea1e/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-11T07:30:50.016Z",
+      "totalApplicants": 34,
+      "totalHired": 0,
+      "totalInvitedToInterview": 14,
+      "unansweredInvites": 7,
+      "invitationsSent": 30
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "766",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a talented Cloud Solutions Architect to assist us with a project that is expected to last less than 1 month. As a Cloud Solutions Architect, you will be responsible for designing and implementing cloud-based solutions, ensuring they meet our business requirements and align with best practices. Your expertise in cloud computing, DevOps, solution architecture, and software architecture \u0026 design will be crucial in delivering a high-quality solution.\n\nTo apply for this position, please submit a proposal that outlines how you can help us with this project. We would like you to provide a detailed description of your approach and methodologies. Additionally, please include links to some of your past completed projects that demonstrate your skills and expertise in cloud solutions architecture.\n\nWe look forward to reviewing your proposal and finding the right candidate to assist us with this important project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-05T14:07:02.171Z",
+        "totalTimeJobPostFlowAIv2": "1405",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626724986044416\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626781638508544\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "438",
+        "totalTimeSpentOnReviewPageAIv2": "196",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707140615979",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Cloud Solutions Architect",
+        "finalDescriptionAI": "For small website  i need cloud  Infrastructure.\n(Website is Not profitable at the moment)\nI want to take old server and move it to relable cloud.\n\ni have a website with (5-20) users concurrently.\nthe website is built in asp.net core 6 (web razor pages).\n\nwebsite server(windows server) i have:\n1)website\n2)redis\n3) sql servers\n4) elastic search\n(locall server , 4 cpu, 16GB ram)\n\n i think to craete second relaable server on cloud,\nand create load balancer (if needed after).\n\nI am looking for the cheap and flexible solution - if in the future the traffic increases and I want to pick up another server.\n\nI thought maybe switching to docker on a Linux server running asp.net core.\nand put the database on another server.\nThen in the future when the traffic increases it will be easy for me to add another server of the site with\nredis and so on. Elastic is also currently on the same server (cheap for me because it\u0027s local)\n\nWhat is the \u0022best\u0022 solution for me ? \ni prefer alwas windows server, familiar with \nhttps://www.vultr.com\nwebsite"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Israel (Asia/Jeru)",
+      "city": null,
+      "country": "Israel"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0.666667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 20.45
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-12-14T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 25.004987497506253
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

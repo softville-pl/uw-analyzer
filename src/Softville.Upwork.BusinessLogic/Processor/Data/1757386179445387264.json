@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-13T17:25:32.247Z",
-      "totalApplicants": 51,
-      "totalHired": 0,
-      "totalInvitedToInterview": 3,
+      "lastBuyerActivity": "2024-02-24T18:30:33.631Z",
+      "totalApplicants": 49,
+      "totalHired": 1,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -127,12 +127,12 @@
       "country": "Ukraine"
     },
     "stats": {
-      "totalAssignments": 0,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 0,
       "score": 0,
-      "totalJobsWithHires": 0,
-      "hoursCount": 0,
+      "totalJobsWithHires": 1,
+      "hoursCount": 5,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 0
@@ -153,7 +153,9 @@
       "postedCount": 1,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 60
+    }
   },
   "currentUserInfo": {
     "owner": false,

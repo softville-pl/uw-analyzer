@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-04T07:27:17.643Z",
-      "totalApplicants": 189,
+      "totalApplicants": 184,
       "totalHired": 0,
       "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
@@ -130,15 +130,15 @@
       "country": "United Arab Emirates"
     },
     "stats": {
-      "totalAssignments": 132,
-      "activeAssignmentsCount": 26,
+      "totalAssignments": 133,
+      "activeAssignmentsCount": 27,
       "feedbackCount": 82,
       "score": 4.973124209,
-      "totalJobsWithHires": 125,
-      "hoursCount": 5816.833344,
+      "totalJobsWithHires": 126,
+      "hoursCount": 5912.333344,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 277743.65
+        "amount": 280432.17
       }
     },
     "isEnterprise": false,
@@ -153,11 +153,11 @@
       }
     },
     "jobs": {
-      "postedCount": 231,
+      "postedCount": 235,
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 44.30629945171763
+      "amount": 44.21461287619848
     }
   },
   "currentUserInfo": {

@@ -40,8 +40,19 @@
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "The functional scope of an existing application (see below for details) is to be extended to display architectural plans (floor plans) in the browser and (probably also edited - but this is only an option for the time being).\n\nUsers upload these plans in the browser, converting the drawings originally available in DWG or DXF format into SVG format (this function is already implemented). The SVG files generated in this way are then displayed in the browser.\n\nThe following functions should be available to the user in the browser (in the first expansion stage):\n- Zoom in and out of the drawing (using arrow keys and the mouse wheel)\n- Pan \n\nAt this point, when displaying the SVG files in the browser, we need external support. The SVG files generated have different dimensions and should all be displayed in such a way that the drawing content fills the screen section and the user does not have to zoom and pan countless times to recognise something. \n\nIt cannot be ruled out that the method of converting the DWG/DXF files into the SVG format will also have to be changed.  \n\nBut finding this out is also part of the job",
-    "attachments": null,
+    "description": "In the days since the job offer was first published, we have looked at the problem in more detail and would like to specify the problem in order to avoid misunderstandings:\n\nWe have an ASP .net Web Forms application in which the following function is available to the user:\n- Upload floor plans in DWG/DXF format (step 1)\n- Conversion of the files into SVG format (step 2)\n- Visualisation of the SVG plans together with other GIS data (source: MS SQL Server, Spatial Data) (step 3.1) \n- Display of the converted SVG plans in the browser with zoom and pan function (step 3.2) \n\nSteps 1, 2 and 3.1 have been implemented but we are stuck with step 3.2 and need help with displaying SVG files in the browser. \nThe original plans use a different coordinate system with a different coordinate origin than the browser, so the SVG files need to be mirrored horizontally and translated so that the plans are displayed completely and centred in the browser without the user having to scroll and pan too much\n\nIn the short term we need support in displaying the various SVG plans in the browser, but in the long term we would like to expand the CAD functions overall, so that after this job further, more extensive and more demanding projects will follow ",
+    "attachments": [
+      {
+        "fileName": "Screenshot 1 original floor plan.png",
+        "length": 236134,
+        "uri": "/att/download/openings/1758042541434748928/attachments/f00aa9ed-8a68-47be-9cc7-4987d69b3dab/download"
+      },
+      {
+        "fileName": "Screenshot 2 converted floor plan is displayed upside down.png",
+        "length": 687521,
+        "uri": "/att/download/openings/1758042541434748928/attachments/b018407f-90cf-4ac2-a75a-302bbea1df0d/download"
+      }
+    ],
     "questions": [
       {
         "position": 0,
@@ -50,10 +61,6 @@
       {
         "position": 1,
         "question": "Are you familiar with editing (especially converting) CAD plans in web applications?"
-      },
-      {
-        "position": 2,
-        "question": "Describe your recent experience with similar projects"
       }
     ],
     "qualifications": {
@@ -95,10 +102,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-16T10:27:31.329Z",
+      "lastBuyerActivity": "2024-02-24T15:35:58.438Z",
       "totalApplicants": 26,
-      "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalHired": 1,
+      "totalInvitedToInterview": 4,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -119,11 +126,11 @@
         "generatedDescriptionAI": "We are looking for a skilled developer to assist us in generating, displaying, and editing SVG files within an ASP .net web forms project. The project is expected to be completed in less than 1 month.\n\nThe ideal candidate should have a strong background in the following technologies: .NET Framework, ASP.NET, Microsoft SQL Server, SVG, JavaScript, Web Application, JSON, C#, and jQuery.\n\nTo apply for this job, we request that candidates submit a proposal outlining how they can contribute to the project. Specifically, we would like to know how the candidate plans to handle the generation, display, and editing of SVG files within the web forms environment.\n\nAdditionally, candidates are encouraged to include links to any relevant past projects that demonstrate their expertise in working with SVG files and ASP .net web forms.",
         "siteSource": "desktop_rjp",
         "publishTime": "2024-02-15T08:16:20.175Z",
-        "totalTimeJobPostFlowAIv2": "1590",
+        "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626751796035584\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626751737315328\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626783928598528\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "144",
-        "totalTimeSpentOnReviewPageAIv2": "347",
+        "totalTimeSpentOnReviewPageAIv2": "2452",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1707983389121",
         "inputsDurationAI": "474250516458926083",
@@ -143,12 +150,12 @@
       "country": "Germany"
     },
     "stats": {
-      "totalAssignments": 5,
-      "activeAssignmentsCount": 1,
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 2,
       "feedbackCount": 3,
       "score": 5,
-      "totalJobsWithHires": 5,
-      "hoursCount": 13094.66668,
+      "totalJobsWithHires": 6,
+      "hoursCount": 13098.66668,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 209491.36
@@ -170,7 +177,7 @@
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 15.986773479292562
+      "amount": 15.994106508556488
     }
   },
   "currentUserInfo": {

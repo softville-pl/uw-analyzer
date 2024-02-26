@@ -1,1 +1,239 @@
-{"job":{"ciphertext":"~01bd1d39bce62d6cf5","rid":1010995306,"uid":"1752135105940480000","type":2,"access":4,"title":"MS Office365 \u0026 SharePoint Integration (consultant)","status":1,"category":{"name":"DevOps \u0026 Solution Architecture","urlSlug":"devops-solution-architecture"},"categoryGroup":{"name":"IT \u0026 Networking","urlSlug":"it-networking"},"hideBudget":false,"budget":{"currencyCode":"USD","amount":0},"createdOn":"2024-01-30T01:02:17.254Z","postedOn":"2024-01-30T01:02:17.846Z","publishTime":"2024-01-30T01:02:17.846Z","wasRenewed":false,"startDate":null,"deliveryDate":null,"workload":"Less than 30 hrs\/week","companyRecno":563744,"durationIdV3":1,"durationLabel":"Less than a month","notSureProjectDuration":false,"notSureFreelancersToHire":false,"notSureExperienceLevel":false,"numberOfPositionsToHire":1,"extendedBudgetInfo":{"hourlyBudgetType":1,"hourlyBudgetMin":40,"hourlyBudgetMax":150},"contractorTier":3,"description":"We would like to integrate with Office365 so that our users can create and update documents online easier.\n\nOur users can do many things using our system, but the simplest example is creating and revising a Word document.  Our users will click a link in our application that opens the file in M365 and allows them to edit and save back to our system.  To do this, we\u0027re planning:\n\n\u2022\tOn click of the link, our application will copy the original file from our system to SharePoint\n\u2022\tManage permissions in SharePoint\n\u2022\tCreate a link to M365 to view\/edit the file in SharePoint and redirect the user to the link\n\u2022\tAfter editing is complete, copy the updated file back to our system\n\n\u2002\u2002\u2002\u2002\u2002\u2002 \n\nObviously there are lots of details to work through, but our team has a few questions that we hope you can help with.\n1.\tLicensing: if the customer has a M365 subscription, that will be used to view \/ edit the document.  If they don\u0027t have a subscription, how will it work?  Will the user be able to view the document, edit the document?  Are there ramifications to our SharePoint site (licensing, costs) if this happens for thousands of documents?\n\n2.\tSecurity: in SharePoint, can you create a one-time use link for the document?  This would simplify our concerns for security.  If that\u0027s not possible, do you have any suggestions that would help?  We are worried that a link could be shared, guessed, etc. and we need to ensure the data is secure.\n\n3.\tSyncing the changes: when the document edits are completed, how will our system be triggered to copy the updated file from SharePoint?  We\u0027d like to have a notification through the Graph API that the session has ended but haven\u0027t identified the API yet.  Additionally, we are concerned about timeouts and when the document is not touched for a long time.\n\nWe are looking for someone who has experience on this and clarify the process and help to have seamless integration with Office365.\n","attachments":null,"questions":[],"qualifications":{"type":0,"location":null,"minOdeskHours":0,"groupRecno":null,"shouldHavePortfolio":false,"tests":null,"minHoursWeek":30,"group":null,"prefEnglishSkill":0,"minJobSuccessScore":0,"risingTalent":false,"locationCheckRequired":false,"countries":null,"regions":null,"states":null,"timezones":null,"localMarket":true,"onSiteType":null,"locations":null,"localDescription":null,"localFlexibilityDescription":null,"earnings":null,"languages":null},"isPremium":false,"segmentationData":[{"name":"Employment","value":"EMPLOYMENT_PROJECT","label":"One-time project","type":"EMPLOYMENT","sortOrder":0,"typeUid":"535792587707281410","customValue":null,"skill":null}],"clientActivity":{"lastBuyerActivity":"2024-02-02T16:51:44.105Z","totalApplicants":50,"totalHired":0,"totalInvitedToInterview":0,"unansweredInvites":0,"invitationsSent":0},"weeklyRetainerBudget":null,"annotations":{"tags":["contractToHireSet","searchable","C2HJobsOptInEducation"],"customFields":{"totalTimeSpentOnDescriptionPageAI":"224","sourcingUpdateForbidden":"false","type":"RJP","browser":"Chrome","generatedDescriptionAI":"We are looking for a skilled professional who can help us with MS Office365 \u0026 SharePoint Integration. This project is expected to last less than 1 month. \n\nWe require expertise in Office 365, Microsoft SharePoint Development, and the .NET Framework. \n\nThe candidate should submit a proposal outlining how they can assist with this project. They should provide details on their experience and knowledge in integrating MS Office365 with SharePoint. We are particularly interested in candidates who have successfully completed similar projects in the past. \n\nTo evaluate their abilities, we request that candidates include links to their past completed projects related to MS Office365 and SharePoint integration. This will help us assess their skills and determine if they are the right fit for our project. \n\nWe look forward to reviewing the proposals and working with a qualified candidate to successfully integrate MS Office365 with SharePoint.","timeSpentToGetAPIDescriptionAI":"4","siteSource":"desktop_rjp","publishTime":"2024-01-30T01:02:17.846Z","totalTimeJobPostFlowAIv2":"","inputsSkillsAI":"[{\u0022skillUid\u0022:\u00221110580643849818112\u0022},{\u0022skillUid\u0022:\u00221031626759165427712\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]","sourcingUpdateCount":"0","totalDescriptionEditingTimeAI":"176","totalTimeSpentOnReviewPageAIv2":"120","device":"Windows","startTimeJobPostFlowAIv2":"1706576049720","finalDescriptionAI":"We would like to integrate with Office365 so that our users can create and update documents online easier.\n\nOur users can do many things using our system, but the simplest example is creating and revising a Word document.  Our users will click a link in our application that opens the file in M365 and allows them to edit and save back to our system.  To do this, we\u0027re planning:\n\n\u2022\tOn click of the link, our application will copy the original file from our system to SharePoint\n\u2022\tManage permissions in SharePoint\n\u2022\tCreate a link to M365 to view\/edit the file in SharePoint and redirect the user to the link\n\u2022\tAfter editing is complete, copy the updated file back to our system\n\n\u2002\u2002\u2002\u2002\u2002\u2002 \n\nObviously there are lots of details to work through, but our team has a few questions that we hope you can help with.\n1.\tLicensing: if the customer has a M365 subscription, that will be used to view \/ edit the document.  If they don\u0027t have a subscription, how will it work?  Will the user be able to view the document, edit the document?  Are there ramifications to our SharePoint site (licensing, costs) if this happens for thousands of documents?\n\n2.\tSecurity: in SharePoint, can you create a one-time use link for the document?  This would simplify our concerns for security.  If that\u0027s not possible, do you have any suggestions that would help?  We are worried that a link could be shared, guessed, etc. and we need to ensure the data is secure.\n\n3.\tSyncing the changes: when the document edits are completed, how will our system be triggered to copy the updated file from SharePoint?  We\u0027d like to have a notification through the Graph API that the session has ended but haven\u0027t identified the API yet.  Additionally, we are concerned about timeouts and when the document is not touched for a long time.\n","inputsTitleAI":"MS Office365 \u0026 SharePoint Integration","inputsDurationAI":"474250516458926083"}},"isContractToHire":false,"recruitingServices":null},"buyer":{"isPaymentMethodVerified":true,"location":{"offsetFromUtcMillis":0,"countryTimezone":"United States (UTC)","city":"Los Angeles","country":"United States"},"stats":{"totalAssignments":58,"activeAssignmentsCount":4,"feedbackCount":46,"score":4.997495283,"totalJobsWithHires":51,"hoursCount":1945.000001,"totalCharges":{"currencyCode":"USD","amount":107801.06}},"isEnterprise":false,"company":{"isEDCReplicated":false,"contractDate":"2012-05-01T00:00:00.000Z","profile":{"size":null,"industry":null,"visible":false,"l3Occupations":[]}},"jobs":{"postedCount":56,"openCount":0},"avgHourlyJobsRate":{"amount":19.854848318840695}},"currentUserInfo":{"owner":false,"freelancerInfo":{"qualificationsMatches":{"totalQualifications":4,"totalMatches":4,"matches":[{"qualification":0,"qualified":true,"clientPreferred":"all","freelancerValue":"IC","freelancerValueLabel":"Not Specified","clientPreferredLabel":"Any"},{"qualification":4,"qualified":true,"clientPreferred":"0","freelancerValue":"3","freelancerValueLabel":"Fluent","clientPreferredLabel":"Any"},{"qualification":8,"qualified":true,"clientPreferred":"ANY","freelancerValue":"0.00","freelancerValueLabel":"0.00","clientPreferredLabel":"Any"},{"qualification":10,"qualified":true,"clientPreferred":"Any","freelancerValue":"en","freelancerValueLabel":"English","clientPreferredLabel":null}]},"applied":null,"hired":null,"contract":null,"profileState":10,"hourlyRate":{"currencyCode":"USD","amount":56},"devProfileCiphertext":"~01256f0be21d7e2c1e","application":null,"pendingInvite":null}},"paths":{"js":"\/nx\/jobs\/search"},"ff":{"isRemoveClientTotalSpentCap":true,"isJobDetailsQuickJobPost":true,"CFE6770ImprovedQualificationsSection":true,"jdShowInvitesCount":true,"enforceMinimumRateInProfile":true,"TSV1877IDVatSubmitProposal":true,"AG2156TeamsAddRoleFlow":true,"CLOB6375ExpandedCompanyProfile":true},"qt":[],"experiments":{"idvOnSubmitProposals":{"soft":false,"hard":false,"idv_required":false,"idv_complete":false}},"isVisitor":false}
+{
+  "job": {
+    "ciphertext": "~01bd1d39bce62d6cf5",
+    "rid": 1010995306,
+    "uid": "1752135105940480000",
+    "type": 2,
+    "access": 4,
+    "title": "MS Office365 \u0026 SharePoint Integration (consultant)",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-30T01:02:17.254Z",
+    "postedOn": "2024-01-30T01:02:17.846Z",
+    "publishTime": "2024-01-30T01:02:17.846Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 563744,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 150
+    },
+    "contractorTier": 3,
+    "description": "We would like to integrate with Office365 so that our users can create and update documents online easier.\n\nOur users can do many things using our system, but the simplest example is creating and revising a Word document.  Our users will click a link in our application that opens the file in M365 and allows them to edit and save back to our system.  To do this, we\u0027re planning:\n\n\u2022\tOn click of the link, our application will copy the original file from our system to SharePoint\n\u2022\tManage permissions in SharePoint\n\u2022\tCreate a link to M365 to view/edit the file in SharePoint and redirect the user to the link\n\u2022\tAfter editing is complete, copy the updated file back to our system\n\n\u2002\u2002\u2002\u2002\u2002\u2002 \n\nObviously there are lots of details to work through, but our team has a few questions that we hope you can help with.\n1.\tLicensing: if the customer has a M365 subscription, that will be used to view / edit the document.  If they don\u0027t have a subscription, how will it work?  Will the user be able to view the document, edit the document?  Are there ramifications to our SharePoint site (licensing, costs) if this happens for thousands of documents?\n\n2.\tSecurity: in SharePoint, can you create a one-time use link for the document?  This would simplify our concerns for security.  If that\u0027s not possible, do you have any suggestions that would help?  We are worried that a link could be shared, guessed, etc. and we need to ensure the data is secure.\n\n3.\tSyncing the changes: when the document edits are completed, how will our system be triggered to copy the updated file from SharePoint?  We\u0027d like to have a notification through the Graph API that the session has ended but haven\u0027t identified the API yet.  Additionally, we are concerned about timeouts and when the document is not touched for a long time.\n\nWe are looking for someone who has experience on this and clarify the process and help to have seamless integration with Office365.\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-13T20:04:40.884Z",
+      "totalApplicants": 50,
+      "totalHired": 1,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "224",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a skilled professional who can help us with MS Office365 \u0026 SharePoint Integration. This project is expected to last less than 1 month. \n\nWe require expertise in Office 365, Microsoft SharePoint Development, and the .NET Framework. \n\nThe candidate should submit a proposal outlining how they can assist with this project. They should provide details on their experience and knowledge in integrating MS Office365 with SharePoint. We are particularly interested in candidates who have successfully completed similar projects in the past. \n\nTo evaluate their abilities, we request that candidates include links to their past completed projects related to MS Office365 and SharePoint integration. This will help us assess their skills and determine if they are the right fit for our project. \n\nWe look forward to reviewing the proposals and working with a qualified candidate to successfully integrate MS Office365 with SharePoint.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-30T01:02:17.846Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580643849818112\u0022},{\u0022skillUid\u0022:\u00221031626759165427712\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "176",
+        "totalTimeSpentOnReviewPageAIv2": "120",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1706576049720",
+        "finalDescriptionAI": "We would like to integrate with Office365 so that our users can create and update documents online easier.\n\nOur users can do many things using our system, but the simplest example is creating and revising a Word document.  Our users will click a link in our application that opens the file in M365 and allows them to edit and save back to our system.  To do this, we\u0027re planning:\n\n\u2022\tOn click of the link, our application will copy the original file from our system to SharePoint\n\u2022\tManage permissions in SharePoint\n\u2022\tCreate a link to M365 to view/edit the file in SharePoint and redirect the user to the link\n\u2022\tAfter editing is complete, copy the updated file back to our system\n\n\u2002\u2002\u2002\u2002\u2002\u2002 \n\nObviously there are lots of details to work through, but our team has a few questions that we hope you can help with.\n1.\tLicensing: if the customer has a M365 subscription, that will be used to view / edit the document.  If they don\u0027t have a subscription, how will it work?  Will the user be able to view the document, edit the document?  Are there ramifications to our SharePoint site (licensing, costs) if this happens for thousands of documents?\n\n2.\tSecurity: in SharePoint, can you create a one-time use link for the document?  This would simplify our concerns for security.  If that\u0027s not possible, do you have any suggestions that would help?  We are worried that a link could be shared, guessed, etc. and we need to ensure the data is secure.\n\n3.\tSyncing the changes: when the document edits are completed, how will our system be triggered to copy the updated file from SharePoint?  We\u0027d like to have a notification through the Graph API that the session has ended but haven\u0027t identified the API yet.  Additionally, we are concerned about timeouts and when the document is not touched for a long time.\n",
+        "inputsTitleAI": "MS Office365 \u0026 SharePoint Integration",
+        "inputsDurationAI": "474250516458926083"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 59,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 46,
+      "score": 4.997495283,
+      "totalJobsWithHires": 52,
+      "hoursCount": 1946.166668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 107871.39
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2012-05-01T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 56,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.875918458593187
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

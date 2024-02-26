@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-09T07:58:48.700Z",
-      "totalApplicants": 45,
+      "lastBuyerActivity": "2024-02-14T15:55:40.346Z",
+      "totalApplicants": 73,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 5,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -115,7 +115,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 3600000,
       "countryTimezone": "Belgium (Europe/Be)",
@@ -192,7 +192,7 @@
           }
         ]
       },
-      "applied": null,
+      "applied": true,
       "hired": null,
       "contract": null,
       "profileState": 10,
@@ -201,7 +201,10 @@
         "amount": 56
       },
       "devProfileCiphertext": "~01256f0be21d7e2c1e",
-      "application": null,
+      "application": {
+        "vjApplicationUid": "1755957053553885185",
+        "vendorOrgUid": "829312457188573185"
+      },
       "pendingInvite": null
     }
   },

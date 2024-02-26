@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-03T11:21:44.272Z",
-      "totalApplicants": 19,
-      "totalHired": 0,
-      "totalInvitedToInterview": 3,
+      "lastBuyerActivity": "2024-02-11T02:36:27.173Z",
+      "totalApplicants": 18,
+      "totalHired": 1,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -130,11 +130,11 @@
       "country": "India"
     },
     "stats": {
-      "totalAssignments": 0,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 0,
       "score": 0,
-      "totalJobsWithHires": 0,
+      "totalJobsWithHires": 1,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",

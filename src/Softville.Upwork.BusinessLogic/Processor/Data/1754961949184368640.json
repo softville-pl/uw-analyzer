@@ -99,12 +99,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-06T20:16:52.709Z",
-      "totalApplicants": 26,
-      "totalHired": 0,
-      "totalInvitedToInterview": 1,
+      "lastBuyerActivity": "2024-02-12T19:07:28.461Z",
+      "totalApplicants": 32,
+      "totalHired": 1,
+      "totalInvitedToInterview": 6,
       "unansweredInvites": 0,
-      "invitationsSent": 1
+      "invitationsSent": 2
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -147,11 +147,11 @@
       "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 2,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 1,
       "score": 5,
-      "totalJobsWithHires": 1,
+      "totalJobsWithHires": 2,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
@@ -170,7 +170,7 @@
       }
     },
     "jobs": {
-      "postedCount": 6,
+      "postedCount": 7,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
