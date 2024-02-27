@@ -12,4 +12,7 @@ internal class ProcessorTestData
 
     internal static Stream UpworkSearchResult() =>
         typeof(ProcessorTestData).Assembly.GetResourceStream("upwork-searchresultmodel.json");
+
+    internal static Stream UpworkApplicants() =>
+        typeof(ProcessorTestData).Assembly.GetResourceStream("upwork-applicantsmodel.json");
 }

@@ -1,7 +1,7 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-namespace Softville.Upwork.BusinessLogic;
+namespace Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 
 public class UpworkApplicantsStats
 {
@@ -16,9 +16,8 @@ public class BidsStats
     public RateBid? AvgInterviewedRateBid { get; set; }
 }
 
-// Define the RateBid class
 public class RateBid
 {
     public required string CurrencyCode { get; set; }
-    public decimal Amount { get; set; } // Nullable to handle null values
+    public decimal? Amount { get; set; }
 }

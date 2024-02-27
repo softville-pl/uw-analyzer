@@ -30,6 +30,7 @@ public class JobSearch
     public required string Ciphertext { get; set; }
     public required string Description { get; set; }
 
+    //ToDo consider using original Uid name
     [JsonPropertyName("Uid")] public required string Id { get; set; }
 
     public int FreelancersToHire { get; set; }

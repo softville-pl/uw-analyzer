@@ -1,0 +1,18 @@
+﻿{
+  AvgRateBid: {
+    CurrencyCode: USD,
+    Amount: 43.28
+  },
+  MinRateBid: {
+    CurrencyCode: USD,
+    Amount: 13.0
+  },
+  MaxRateBid: {
+    CurrencyCode: USD,
+    Amount: 90.0
+  },
+  AvgInterviewedRateBid: {
+    CurrencyCode: USD,
+    Amount: -1.0
+  }
+}

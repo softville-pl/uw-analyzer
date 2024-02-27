@@ -2,6 +2,7 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Softville.Upwork.BusinessLogic.Processor;
+using Softville.Upwork.BusinessLogic.Processor.Parsers;
 using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
 
 namespace Softville.Upwork.BusinessLogic.Tests.Processor.Mappers;
@@ -14,7 +15,7 @@ public class UpworkOfferMapper
         await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
 
         UpworkOffer expected =
-            await new BusinessLogic.Processor.Parsers.UpworkParser().ParseAsync(stream, CancellationToken.None);
+            await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);
 
         await Verify(expected.MapToOffer());
     }

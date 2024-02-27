@@ -4,6 +4,7 @@
 using System.Net;
 using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
+using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 
 namespace Softville.Upwork.BusinessLogic.Processor;
 
@@ -67,5 +68,5 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
     }
 
     private static string GetSearchQuery(int page, int pageSize) =>
-        $"https://www.upwork.com/ab/jobs/search/url?contractor_tier=3&hourly_rate=50-&page={page}&per_page={pageSize}&q=.net&sort=recency&t=0";
+        $"ab/jobs/search/url?contractor_tier=3&hourly_rate=50-&page={page}&per_page={pageSize}&q=.net&sort=recency&t=0";
 }
