@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-23T10:22:21.334Z",
-      "totalApplicants": 92,
+      "lastBuyerActivity": "2024-02-27T14:20:49.571Z",
+      "totalApplicants": 89,
       "totalHired": 0,
-      "totalInvitedToInterview": 3,
+      "totalInvitedToInterview": 5,
       "unansweredInvites": 1,
       "invitationsSent": 3
     },
@@ -138,7 +138,7 @@
       "hoursCount": 1718.500008,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 90967.49
+        "amount": 91022.62
       }
     },
     "isEnterprise": false,

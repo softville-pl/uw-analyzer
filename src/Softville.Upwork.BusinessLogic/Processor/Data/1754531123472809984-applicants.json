@@ -1,0 +1,22 @@
+{
+  "invitedToInterview": null,
+  "applicantsBidsStats": {
+    "avgRateBid": {
+      "currencyCode": "USD",
+      "amount": 36.062083333333334
+    },
+    "minRateBid": {
+      "currencyCode": "USD",
+      "amount": 15
+    },
+    "maxRateBid": {
+      "currencyCode": "USD",
+      "amount": 60
+    },
+    "avgInterviewedRateBid": {
+      "currencyCode": "USD",
+      "amount": 31.333333333333332
+    }
+  },
+  "diagnosticInfo": null
+}

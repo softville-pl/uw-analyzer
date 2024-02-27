@@ -82,8 +82,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-24T16:30:24.075Z",
-      "totalApplicants": 34,
+      "lastBuyerActivity": "2024-02-26T14:31:57.816Z",
+      "totalApplicants": 10,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 3600000,
       "countryTimezone": "United States (Europe/Be)",

@@ -1,0 +1,269 @@
+{
+  "job": {
+    "ciphertext": "~0105ba66d2ddb1b3ac",
+    "rid": 1011609588,
+    "uid": "1762484677909819392",
+    "type": 2,
+    "access": 4,
+    "title": "Senior Software Engineer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-27T14:27:47.623Z",
+    "postedOn": "2024-02-27T14:27:48.280Z",
+    "publishTime": "2024-02-27T14:27:48.280Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1003643493,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 75,
+      "hourlyBudgetMax": 150
+    },
+    "contractorTier": 3,
+    "description": "Position Overview: \nWe are seeking an experienced Senior Engineer Contractor with experience developing Windows applications and agents. The ideal candidate should have a background in the .NET Framework, API development, and possess hands-on experience in proxy servers.\n\nKey Responsibilities:\n\u2022\tDesign, develop, and maintain Windows applications and agents.\n\u2022\tDesign and implement proxy servers to facilitate network communication and data exchange.\n\u2022\tCreate robust, secure, and efficient software solutions within the .NET Framework.\n\u2022\tDevelop and maintain APIs, ensuring seamless integration with other systems and services.\n\u2022\tCollaborate with project teams to understand requirements and deliver tailored technical solutions.\n\u2022\tProduce comprehensive technical documentation to support development efforts and ensure maintainability.\n\nQualifications:\n\u2022\tBachelor\u0027s in Computer Science, Engineering, or a related field.\n\u2022\tStrong experience in software development, focusing on Windows applications.\n\u2022\tProficiency in .NET Framework, C#, and relevant programming languages.\n\u2022\tDemonstrated experience in creating proxy servers.\n\u2022\tSolid understanding of API development and management.\n\u2022\tAbility to collaborate effectively with cross-functional teams and contribute to project success.\n\u2022\tProven track record of delivering high-quality, reliable software solutions.\n\nDesired Skills:\n\u2022\tExperience with cloud services (e.g., Azure, AWS) and familiarity with containerization technologies.\n\u2022\tKnowledge of continuous integration/continuous deployment (CI/CD) processes and tools.\n\u2022\tFamiliarity with cybersecurity principles and best practices.\n\u2022\tDatabase design and development experience.\n\nContractor Benefits:\n\u2022\tCompetitive hourly or project-based pay.\n\u2022\tFlexible working arrangements.\n\u2022\tOpportunity to work on forward-thinking and innovative projects.\n",
+    "attachments": [
+      {
+        "fileName": "Contracted .NET Engineer.docx",
+        "length": 14916,
+        "uri": "/att/download/openings/1762484677909819392/attachments/7f4024e4-6b88-4467-927a-a0b160a19370/download"
+      }
+    ],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 2,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T14:46:31.654Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "firstJobPost",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-27T14:27:48.280Z",
+        "totalTimeJobPostFlowAIv2": "1350",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "67",
+        "type": "FJP",
+        "urgency": "2",
+        "browser": "Chrome",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709042717123"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-04-21T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 0,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas, Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

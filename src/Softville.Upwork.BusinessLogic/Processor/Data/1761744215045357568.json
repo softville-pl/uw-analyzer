@@ -5,7 +5,7 @@
     "uid": "1761744215045357568",
     "type": 2,
     "access": 1,
-    "title": "Front End Developer with great CSS skills",
+    "title": "Front End Developer (.NET Razor) with great CSS skills",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -21,7 +21,7 @@
       "amount": 0
     },
     "createdOn": "2024-02-25T13:25:27.543Z",
-    "postedOn": "2024-02-25T13:25:47.448Z",
+    "postedOn": "2024-02-27T13:26:02.425Z",
     "publishTime": "2024-02-25T13:25:27.847Z",
     "wasRenewed": true,
     "startDate": null,
@@ -40,7 +40,7 @@
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Looking for an experienced front end developer to implement a number of Figma designs as well as for general CSS work.\n\nWebsite is targeting an RTL language exclusively so experience with RTL is a must. \n\nWork involves taking existing functional web pages and either implementing Figma designs or just improving on the current CSS and design. \n\nThe website front end is running on ASP.NET Core and the web pages are razor (cshtml) pages so at least a little experience in this environment using Visual Studio is important.\n\nThe web pages contain Kendo UI (Telerik) components.\n\nOngoing Tasks will be discussed and reviewed in joint session using screen share and chat.\n\nKindly respect regional preferences.\n\nIndependent freelancers only.\n",
+    "description": "Looking for an experienced front end developer to implement a number of Figma designs as well as for general CSS work.\n\nWebsite is targeting an RTL language exclusively so experience with RTL is a must. \n\nWork involves taking existing functional web pages and either implementing Figma designs or just improving on the current CSS and design. \n\nThe website is running on ASP.NET Core and the web pages are razor (cshtml) pages  experience in this environment as well as using Kendo UI (Telerik) components is required.\n\nOngoing Tasks will be discussed and reviewed in joint session using screen share and chat.\n\nKindly respect regional preferences.\n\nIndependent freelancers only.\n",
     "attachments": null,
     "questions": [
       {
@@ -99,10 +99,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-25T18:28:50.442Z",
-      "totalApplicants": 24,
+      "lastBuyerActivity": "2024-02-27T13:25:15.541Z",
+      "totalApplicants": 21,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -118,11 +118,11 @@
         "publishTime": "2024-02-25T13:25:27.847Z",
         "reuse": "1726578060396101632",
         "totalTimeJobPostFlowAIv2": "0",
-        "sourcingUpdateCount": "1",
+        "sourcingUpdateCount": "2",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "444",
+        "totalTimeSpentOnReviewPageAIv2": "740",
         "type": "RJP",
-        "sourcingTime": "2024-02-25T13:25:47.448Z",
+        "sourcingTime": "2024-02-27T13:26:02.425Z",
         "urgency": "0",
         "browser": "Chrome",
         "device": "Windows"

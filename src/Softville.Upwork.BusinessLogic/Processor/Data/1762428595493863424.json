@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~018aa19bbd300ba455",
+    "rid": 1011605218,
+    "uid": "1762428595493863424",
+    "type": 2,
+    "access": 4,
+    "title": "Package a WPF application using WiX Toolset",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-27T10:44:56.464Z",
+    "postedOn": "2024-02-27T10:44:57.115Z",
+    "publishTime": "2024-02-27T10:44:57.115Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1010590290,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We cant to create an installer for our WPF/Avalonia application.\nIt should install .NET core and SQL Server express instance silently and configure connection to it.\n\nThe application is already existing and working but it\u0027s under development.\n\nThe result should be an Exe and Msi installer with all dlls and tools that the application need to execute on the client machine.\n\nWe\u0027d like also to make an option for SQL Server express instance, and give the choice to the user to install it or no.\n ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T11:23:28.953Z",
+      "totalApplicants": 16,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "156",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled professional who can assist us with packaging a WPF application using the WiX Toolset. The project is expected to be completed in less than one month. \n\nThe ideal candidate should have a strong understanding of the .NET Framework, Application Installer, Microsoft SQL Server, Desktop Application, and C#. \n\nTo apply for this position, please submit a detailed proposal outlining your experience and how you can help with this project. Additionally, please include links to past completed projects that demonstrate your expertise in packaging WPF applications using the WiX Toolset or similar tools. We are looking for someone who can deliver high-quality work within the specified timeframe. \n\nWe look forward to reviewing your proposals and selecting the most suitable candidate for this job.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-27T10:44:57.115Z",
+        "totalTimeJobPostFlowAIv2": "229",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022freeText\u0022:\u0022Wix Toolset\u0022},{\u0022skillUid\u0022:\u00221110580484306882560\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022freeText\u0022:\u0022Avalonia\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "155",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709030466202",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Package a WPF application using WiX Toolset",
+        "finalDescriptionAI": "We cant to create an installer for our WPF/Avalonia application.\nIt should install .NET core and SQL Server express instance silently and configure connection to it.\n\nThe application is already existing and working but it\u0027s under development.\n\nThe result should be an Exe and Msi installer with all dlls and tools that the application need to execute on the client machine.\n\nWe\u0027d like also to make an option for SQL Server express instance, and give the choice to the user to install it or no.\n "
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "France (Europe/Be)",
+      "city": null,
+      "country": "France"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 3200
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-11-01T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

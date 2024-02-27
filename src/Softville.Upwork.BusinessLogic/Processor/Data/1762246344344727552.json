@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01f8ec5b872411ad9a",
+    "rid": 1011594763,
+    "uid": "1762246344344727552",
+    "type": 2,
+    "access": 4,
+    "title": "QuickBooks Online API seamless Integration with .NET desktop application",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-26T22:40:44.397Z",
+    "postedOn": "2024-02-26T22:40:44.899Z",
+    "publishTime": "2024-02-26T22:40:44.899Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 7624913,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a skilled and experienced developer to assist us in integrating QuickBooks Online API with our .NET application. Our project requires seamless communication between our .NET application and QuickBooks Online to automate various financial processes. who has proven experience working with QuickBooks Online API and .NET technologies (either .NET Framework or .NET Core).",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T14:32:31.924Z",
+      "totalApplicants": 73,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "81",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an experienced developer to assist with integrating QuickBooks Online API with .NET. The project is expected to be completed in less than one month. \n\nThe ideal candidate should have a strong background in API integration and be proficient in .NET Framework, Intuit QuickBooks, RESTful API, C#, and Visual Basic. \n\nTo apply for this job, please submit a proposal that details your experience and expertise in working with QuickBooks Online API and .NET. Specifically, describe how you can assist with the integration process, including any relevant tools or frameworks you would utilize. \n\nAdditionally, please include links to any past projects where you have successfully integrated QuickBooks Online API with .NET. We are especially interested in seeing examples of your work that demonstrate your ability to handle complex API integrations.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-26T22:40:44.899Z",
+        "totalTimeJobPostFlowAIv2": "354",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221031626749342367744\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626759408697344\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "49",
+        "totalTimeSpentOnReviewPageAIv2": "74",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708986889829",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "QuickBooks Online API Integration with .NET",
+        "finalDescriptionAI": "We are seeking a skilled and experienced developer to assist us in integrating QuickBooks Online API with our .NET application. Our project requires seamless communication between our .NET application and QuickBooks Online to automate various financial processes. who has proven experience working with QuickBooks Online API and .NET technologies (either .NET Framework or .NET Core)."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "Costa Mesa",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 2,
+      "hoursCount": 9.666668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1763.67
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-05-19T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 79.00033393098842
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

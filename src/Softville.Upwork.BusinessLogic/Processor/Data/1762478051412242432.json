@@ -1,0 +1,274 @@
+{
+  "job": {
+    "ciphertext": "~01782f100a5ae1d932",
+    "rid": 1011609059,
+    "uid": "1762478051412242432",
+    "type": 2,
+    "access": 4,
+    "title": "Azure Developer Needed, web developers for front/back end developer, c# and SQL fluent, used GitHub",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-27T14:01:27.660Z",
+    "postedOn": "2024-02-27T14:01:28.328Z",
+    "publishTime": "2024-02-27T14:01:28.328Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1005918128,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "I am looking for a creative/experienced individual who can independently work on tasks with minimal oversight.  The individual should be familiar with system of systems.\n\nThe work consists of 1. updating landing page, 2. updating authentication/security, 3. updating applications.  The preferred candidate should manage his/her own schedule and complete tasks accordingly, with minimal oversight.    \n\nThe candidate should be experienced in Microsoft Azure, Visual Studio, SQL, C#, java, j#. Thorough understanding of web-application frameworks, .net core and  .NET Framework, is a must. \n\nThe candidate should be capable of developing and deploying (GitHub) updates to web application with minimal service stoppage. \n\nVisual studio license is not offered - the candidate is expected to have VS.  \n\nThe candidate should be good at documenting progress via power point or preferred documentation.  Power point is not provided.\n\nThe team schedule will vary depending on the candidate availability and project need date.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Please list any certifications related to this project"
+      },
+      {
+        "position": 2,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 3,
+        "question": "What frameworks have you worked with?"
+      },
+      {
+        "position": 4,
+        "question": "Describe your approach to testing and improving QA"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T14:01:27.510Z",
+      "totalApplicants": 31,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "1701",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an Azure Developer to join our team for a 1 to 3-month project. The ideal candidate should have strong experience in web development, both front and back end, with fluency in C# and SQL. Proficiency in using GitHub is also required.\n\nAs an Azure Developer, your responsibilities will include developing and maintaining web applications using ASP.NET Core, .NET Core, and Microsoft Visual Studio. You will also be expected to work with the .NET Framework, Microsoft SQL Server, and Microsoft Azure. Your expertise in C# programming language will be crucial in ensuring the smooth functionality of our applications.\n\nTo apply for this position, please submit a proposal outlining how you can contribute to the project. We encourage you to include links to past completed projects that showcase your skills and expertise. We are excited to review your proposals and discuss further details with potential candidates.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-27T14:01:28.328Z",
+        "totalTimeJobPostFlowAIv2": "2753",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626741322858496\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716534521856\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022freeText\u0022:\u0022aunthetification\u0022},{\u0022skillUid\u0022:\u00221031626759559692288\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "1177",
+        "totalTimeSpentOnReviewPageAIv2": "249",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709039733573",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Azure Developer Needed, web developers for front/back end developer, c# and SQL fluent, used GitHub",
+        "finalDescriptionAI": "I am looking for a creative/experienced individual who can independently work on tasks with minimal oversight.  The individual should be familiar with system of systems.\n\nThe work consists of 1. updating landing page, 2. updating authentication/security, 3. updating applications.  The preferred candidate should manage his/her own schedule and complete tasks accordingly, with minimal oversight.    \n\nThe candidate should be experienced in Microsoft Azure, Visual Studio, SQL, C#, java, j#. Thorough understanding of web-application frameworks, .net core and  .NET Framework, is a must. \n\nThe candidate should be capable of developing and deploying (GitHub) updates to web application with minimal service stoppage. \n\nVisual studio license is not offered - the candidate is expected to have VS.  \n\nThe candidate should be good at documenting progress via power point or preferred documentation.  Power point is not provided.\n\nThe team schedule will vary depending on the candidate availability and project need date."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-10-24T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Supply Chain \u0026 Logistics",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,242 @@
+{
+  "job": {
+    "ciphertext": "~01bc4e4a5c5ac01473",
+    "rid": 1011585495,
+    "uid": "1762144031824773120",
+    "type": 2,
+    "access": 4,
+    "title": "Expert Developer Needed for API Integration Between Google LSA and Web Application (.NET \u0026 jquery)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-26T15:54:11.225Z",
+    "postedOn": "2024-02-26T15:54:11.735Z",
+    "publishTime": "2024-02-26T15:54:11.735Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1000489619,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Description:\nWe are an AI-enabled CRM platform, SMS Savant, tailored for home service businesses that primarily acquire leads through Google Local Services Ads (LSA). Our mission is to streamline the lead management process by automating the flow of lead data (from platforms such as Google LSA) into our Savant CRM. This will ensure our clients can manage their leads more efficiently, enhancing their ability to follow up and close deals.\n\nProject Scope:\nWe\u0027re looking for an expert developer with a solid background in API integration, specifically with experience in Google LSA (Local Services Ads) and ASP.NET, to facilitate seamless data transfer between Google LSA and our Savant CRM platform. The ideal candidate will work closely with our Senior Backend Developer to implement this integration.\n\nKey Responsibilities:\n- Create ability for users to connect Google LSA accounts to the Savant platform.\n- Automatically import leads from Google LSA into Savant CRM as they are generated, including all relevant lead data.\n- Map and pull approximately 15 specific fields for every lead created in Google LSA to be accurately reflected within the Savant account.\n- Ensure data integrity and security during the import process.\nProvide technical documentation and support for the integration.\n\nRequirements:\n- Proven experience with API integrations, especially with Google LSA (local_services_lead and local_services_lead_conversation APIs) and CRM systems.\n- Strong proficiency in ASP.NET and Razor Engine, as our backend is built on these technologies.\n- Ability to work collaboratively with our Senior Backend Developer and communicate effectively throughout the integration process.\n- Knowledge of best practices for data security and privacy.\n- Excellent problem-solving skills and attention to detail.\n\nWhat We Offer:\n- Detailed documentation on our API and clear guidelines to facilitate the integration process.\n- An opportunity to contribute to a project that significantly impacts the operational efficiency of home service businesses.\n- Competitive compensation based on experience.\n- Flexible working hours and the possibility of a long-term collaboration on future projects.\n\nHow to Apply:\nPlease submit your application with a brief cover letter highlighting your experience with API integrations, particularly any work done with Google LSA and CRM platforms. Include examples of previous projects you\u0027ve worked on that demonstrate your expertise in these areas. We would also appreciate it if you could describe your approach to ensuring data security and integrity during the integration process.\n\nWe\u0027re looking forward to working with a developer who is as passionate about creating seamless user experiences as we are. If you\u0027re ready to take on this challenge and contribute to the success of Savant and our clients, apply now!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-26T18:43:34.387Z",
+      "totalApplicants": 60,
+      "totalHired": 0,
+      "totalInvitedToInterview": 7,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "207",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an expert developer who can assist us with integrating the Google LSA API into our web application. The ideal candidate should have a strong background in web development, with proficiency in .NET and jQuery.\n\nThe project duration is expected to be between 1 to 3 months. Your main responsibility will be to seamlessly integrate the Google LSA API into our existing web application, ensuring smooth data transfer and functionality.\n\nTo apply for this position, please submit a detailed proposal outlining how you can help us with this project. Please include relevant experience and examples of past completed projects that demonstrate your skills in web development, HTML, API integration, JavaScript, and jQuery.\n\nWe are looking forward to reviewing your proposals and selecting the most suitable candidate for this exciting opportunity.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-26T15:54:11.735Z",
+        "totalTimeJobPostFlowAIv2": "254",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626751737315328\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221110580737240190976\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "191",
+        "totalTimeSpentOnReviewPageAIv2": "3",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708962597051",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Expert Developer Needed for API Integration Between Google LSA and Web Application (.NET \u0026 jquery)",
+        "finalDescriptionAI": "Description:\nWe are an AI-enabled CRM platform, SMS Savant, tailored for home service businesses that primarily acquire leads through Google Local Services Ads (LSA). Our mission is to streamline the lead management process by automating the flow of lead data (from platforms such as Google LSA) into our Savant CRM. This will ensure our clients can manage their leads more efficiently, enhancing their ability to follow up and close deals.\n\nProject Scope:\nWe\u0027re looking for an expert developer with a solid background in API integration, specifically with experience in Google LSA (Local Services Ads) and ASP.NET, to facilitate seamless data transfer between Google LSA and our Savant CRM platform. The ideal candidate will work closely with our Senior Backend Developer to implement this integration.\n\nKey Responsibilities:\n- Create ability for users to connect Google LSA accounts to the Savant platform.\n- Automatically import leads from Google LSA into Savant CRM as they are generated, including all relevant lead data.\n- Map and pull approximately 15 specific fields for every lead created in Google LSA to be accurately reflected within the Savant account.\n- Ensure data integrity and security during the import process.\nProvide technical documentation and support for the integration.\n\nRequirements:\n- Proven experience with API integrations, especially with Google LSA (local_services_lead and local_services_lead_conversation APIs) and CRM systems.\n- Strong proficiency in ASP.NET and Razor Engine, as our backend is built on these technologies.\n- Ability to work collaboratively with our Senior Backend Developer and communicate effectively throughout the integration process.\n- Knowledge of best practices for data security and privacy.\n- Excellent problem-solving skills and attention to detail.\n\nWhat We Offer:\n- Detailed documentation on our API and clear guidelines to facilitate the integration process.\n- An opportunity to contribute to a project that significantly impacts the operational efficiency of home service businesses.\n- Competitive compensation based on experience.\n- Flexible working hours and the possibility of a long-term collaboration on future projects.\n\nHow to Apply:\nPlease submit your application with a brief cover letter highlighting your experience with API integrations, particularly any work done with Google LSA and CRM platforms. Include examples of previous projects you\u0027ve worked on that demonstrate your expertise in these areas. We would also appreciate it if you could describe your approach to ensuring data security and integrity during the integration process.\n\nWe\u0027re looking forward to working with a developer who is as passionate about creating seamless user experiences as we are. If you\u0027re ready to take on this challenge and contribute to the success of Savant and our clients, apply now!"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Guilford",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 41,
+      "activeAssignmentsCount": 9,
+      "feedbackCount": 28,
+      "score": 4.948398969,
+      "totalJobsWithHires": 38,
+      "hoursCount": 1247.666668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 44806.11
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-04-26T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Travel \u0026 Hospitality",
+        "visible": true,
+        "l3Occupations": [
+          "upworkOccupation:uxuidesign"
+        ]
+      }
+    },
+    "jobs": {
+      "postedCount": 73,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.405797462563932
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

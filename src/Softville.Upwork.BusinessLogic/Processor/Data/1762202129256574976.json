@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~012188829cdd1ba390",
+    "rid": 1011591093,
+    "uid": "1762202129256574976",
+    "type": 2,
+    "access": 4,
+    "title": "C# developer for Das trader API",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-26T19:45:02.789Z",
+    "postedOn": "2024-02-26T19:45:03.530Z",
+    "publishTime": "2024-02-26T19:45:03.530Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001330003,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 10,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Hello. I am a full time trader looking for a trusted developer. \n\nPlease read the conversation below to understand the gig: \n\nhttps://dastrader.com/das-api-services/\n\nMe: Can we place stops during the extended hours via the API?\nDAS:  DAS does not support normal Stop orders during pre/post market, so you would need to program the Stop yourself for extended hours.\n\nMe: right. can you suggest how that would work please?\nDAS: You would need to monitor the symbol\u2019s price using level 1 or time and sales, and program your own trigger that fires when the price passes your stop.\n\nMe: alright. then ill post an ad. \nMe: which stack do you work with that is the most efficient way to do this with Das?\nDAS: Our API can work with any programming language, since it just connects to the frontend via a socket and sends/receives information in strings.  However, the sample code is written in C#, so we recommend using that.\n\nMe: ok. can i do this on the retail api ?\nDAS : Yes, the CMD API is the standard retail API\nMe: ok. I see it starts at 50 symbols simultaneously. What does that mean practically? I mean every day there is different symbols of interest. \nWould I be able to have 50 different symbols from day to day or would I need to pre register the symbols? \nDAS:  This only means you can be pulling data for 50 different symbols at the SAME time.  You can always unsub from a symbol and sub to a new one throughout the day as much as you want.\n\nMe: Alright. then would it make more sense to just program a small widget and use that as the trading interface or perhaps you have examples of suggested interfaces in your documentation?\nDAS: The interface would be up to you, the sample code is command-line only and does not have an interface.\n\nMe: Ok. \n1. I think I saw somewhere that there was a difference in the APIs when it comes to access from anywhere and connecting it to you vs CMD which needs to be locally? Is that right and if so can I have the developer program remote send it to me and I can use it on my computer or would I need another API for that? \n2. Can both the developer and I access the API simultaneously to test or only one instance at the time? \nDAS: 1) There are two APIs, the .NET API connects directly to the order/quote servers, and starts at $250/month.  It requires the use of a .NET language like C# (and the sample code is in C# like the CMD API).  It operates without the frontend, meaning you can only be logged into one instance of the .NET API at a time.  For your question about the CMD API running locally, all that really matters is that a logged in copy of the frontend is running somewhere.  Then any number of CMD API instances can connect to that frontend and login to the API.  For example, you could connect the API to the frontend locally on your PC, and your programmer could connect to the same frontend, connecting to it remotely.\n\n \n\n2) Only on the CMD API.  The .NET API would log you out when someone else logs in.\n\nME: alright. \n1. Is the API connecting directly to the order/quote the retail limited one or the institutional one? \n2. If the $100 does not connect directly to the order/quote servers then how does it work and is there a latency on that one as opposed the the direct connect? \nDAS: 1) Both are available to retail.\n2) There is no notable latency.  The CMD API connects to the frontend platform, which connects to the order/quote servers itself.\n\nIn summary since I am not able to place stop order during the extended hours without the API I need to  do it via the API. \n\nIn essence I am looking to place a normal bracket OCO order where if the initial order is filled then it places 2 orders ( target and stop ) if one order is filled it cancels the other potentially on several symbols simultaneously which is an easy task normally but not during the extended hours so looking to create a seamless trading interface that send the bracket OCO in via the API.\n\nhopefully you know what a bracket OCO order is and just in case the example is : \nstock is trading at 100. \nI want to buy if the stock trades at 99 with a target of 101 and a stop at 98. \n\nA simple API connection\u002B interface with the logic as described in the conversation above. Thats it. \n\nIf it works as planned as described above then step 2 might be to create a more sophisticated trading bot based on step 1.\n\nLet me know if any questions.\nLooking forward to hearing from a trusted developer with example on how to solve the gig. Thank you",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T11:48:16.791Z",
+      "totalApplicants": 32,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "1323",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled C# developer with experience working with Das trader API. This project is expected to take less than 1 month to complete. \n\nAs a C# developer, your main responsibility will be to develop, implement, and maintain software solutions using the Das trader API. You should have a strong understanding of object-oriented programming and be proficient in C#.\n\nTo be considered for this job, please submit a detailed proposal outlining how you can contribute to the project. We would like to know about your relevant experience, the specific skills you bring to the table, and any past projects you have completed that demonstrate your expertise in working with the Das trader API.\n\nPlease include links to your past completed projects that showcase your C# development skills and experience with the Das trader API. We look forward to reviewing your proposals and discussing this project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-26T19:45:03.530Z",
+        "totalTimeJobPostFlowAIv2": "1658",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "1041",
+        "totalTimeSpentOnReviewPageAIv2": "156",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708975043043",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "C# developer for Das trader API",
+        "finalDescriptionAI": "Hello. I am a full time trader looking for a trusted developer. \n\nPlease read the conversation below to understand the gig: \n\nhttps://dastrader.com/das-api-services/\n\nMe: Can we place stops during the extended hours via the API?\nDAS:  DAS does not support normal Stop orders during pre/post market, so you would need to program the Stop yourself for extended hours.\nMe: right. can you suggest how that would work please?\nDAS: You would need to monitor the symbol\u2019s price using level 1 or time and sales, and program your own trigger that fires when the price passes your stop.\nMe: alright. then ill post an ad. \nMe: which which stack do you work with that is the most efficient way to do this with Das?\nDAS: Our API can work with any programming language, since it just connects to the frontend via a socket and sends/receives information in strings.  However, the sample code is written in C#, so we recommend using that.\nMe: ok. can i do this on the retail api ?\nDAS : Yes, the CMD API is the standard retail API\nMe: ok. I see it starts at 50 symbols simultaneously. What does that mean practically? I mean every day there is different symbols of interest. \nWould I be able to have 50 different symbols from day to day or would I need to pre register the symbols? \nDAS:  This only means you can be pulling data for 50 different symbols at the SAME time.  You can always unsub from a symbol and sub to a new one throughout the day as much as you want.\nMe: Alright. then would it make more sense to just program a small widget and use that as the trading interface or perhaps you have examples of suggested interfaces in your documentation?\nDAS: The interface would be up to you, the sample code is command-line only and does not have an interface.\nMe: Ok. \n1. I think I saw somewhere that there was a difference in the APIs when it comes to access from anywhere and connecting it to you vs CMD which needs to be locally? Is that right and if so can I have the developer program remote send it to me and I can use it on my computer or would I need another API for that? \n2. Can both the developer and I access the API simultaneously to test or only one instance at the time? \nDAS: 1) There are two APIs, the .NET API connects directly to the order/quote servers, and starts at $250/month.  It requires the use of a .NET language like C# (and the sample code is in C# like the CMD API).  It operates without the frontend, meaning you can only be logged into one instance of the .NET API at a time.  For your question about the CMD API running locally, all that really matters is that a logged in copy of the frontend is running somewhere.  Then any number of CMD API instances can connect to that frontend and login to the API.  For example, you could connect the API to the frontend locally on your PC, and your programmer could connect to the same frontend, connecting to it remotely.\n\n \n\n2) Only on the CMD API.  The .NET API would log you out when someone else logs in.\n\nME: alright. \n1. Is the API connecting directly to the order/quote the retail limited one or the institutional one? \n2. If the $100 does not connect directly to the order/quote servers then how does it work and is there a latency on that one as opposed the the direct connect? \nDAS: 1) Both are available to retail.\n2) There is no notable latency.  The CMD API connects to the frontend platform, which connects to the order/quote servers itself.\n\nIn summary since I am not able to place stop order during the extended hours without the API I need to  do it via the API. \n\nIn essence I am looking to place a normal bracket OCO order where if the initial order is filled then it places 2 orders ( target and stop ) if one order is filled it cancels the other potentially on several symbols simultaneously which is an easy task normally but not during the extended hours so looking to create a seamless trading interface that send the bracket OCO in via the API.\n\nhopefully you know what a bracket OCO order is and just in case the example is : \nstock is trading at 100. \nI want to buy if the stock trades at 99 with a target of 101 and a stop at 98. \n\nA simple API connection\u002B interface with the logic as described in the conversation above. Thats it. \n\nIf it works as planned as described above then step 2 might be to create a more sophisticated trading bot based on step 1.\n\nLet me know if any questions.\nLooking forward to hearing from a trusted developer. Thank you"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "Norway (UTC-08:00)",
+      "city": "enicnitas",
+      "country": "Norway"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 4.8,
+      "totalJobsWithHires": 3,
+      "hoursCount": 17.666667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2172.6
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-08-15T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 9,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 107.07509231933788
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/jobs/search"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
