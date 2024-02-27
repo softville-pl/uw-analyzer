@@ -6,7 +6,9 @@ using System.Net;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Softville.Upwork.BusinessLogic.Processor;
+using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.Configuration;
+using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 
 namespace Softville.Upwork.BusinessLogic;
 
@@ -28,6 +30,12 @@ public static class Registration
 
         return services
             .AddScoped<IUpworkProcessor, EndToEndUpworkProcessor>()
-            .AddScoped<ISearchResultProvider, SearchResultProvider>();
+            .AddScoped<ISearchResultProvider, SearchResultProvider>()
+            .AddScoped<IUpworkApiCaller, UpworkApiCaller>()
+            .AddScoped<IHttpResponsePersisting, LocalDiskPersisting>()
+            .AddScoped<IApplicantsClient, ApplicantsUpworkClient>()
+            .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
+            ;
+
     }
 }

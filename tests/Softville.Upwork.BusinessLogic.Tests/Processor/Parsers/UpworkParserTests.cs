@@ -1,3 +1,4 @@
+using Softville.Upwork.BusinessLogic.Processor.Parsers;
 using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
 
 namespace Softville.Upwork.BusinessLogic.Tests.Processor.Parsers;
@@ -9,8 +10,7 @@ public class UpworkParserTests
     {
         await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
 
-        UpworkOffer actual =
-            await new BusinessLogic.Processor.Parsers.UpworkParser().ParseAsync(stream, CancellationToken.None);
+        UpworkOffer actual = await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);
 
         VerifySettings settings = new();
         settings.DontScrubDateTimes();

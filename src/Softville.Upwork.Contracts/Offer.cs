@@ -24,4 +24,5 @@ public class Offer
     public int ConnectPrice { get; set; }
     public required Activity Activity { get; set; }
     public required Qualifications Qualifications { get; set; }
+    public required ApplicantsStats Stats { get; set; }
 }

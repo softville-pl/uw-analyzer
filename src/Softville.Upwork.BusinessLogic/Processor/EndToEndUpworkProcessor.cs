@@ -4,13 +4,16 @@
 using System.Text;
 using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Common.Extensions;
+using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
+using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor;
 
 internal class EndToEndUpworkProcessor(
     ISearchResultProvider searchProvider,
+    IApplicantsStatsProvider statsProvider,
     IHttpClientFactory httpClientFactory,
     ILogger<EndToEndUpworkProcessor> logger)
     : IUpworkProcessor
@@ -26,8 +29,9 @@ internal class EndToEndUpworkProcessor(
 
         List<Offer> offers = new(foundSearchItems.Count);
         List<string> problematicOffers = new();
+        Contracts.ApplicantsStats? applicantsStats = null;
 
-        UpworkParser parser = new();
+
         OfferSerializer serializer = new();
 
         string inputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data";
@@ -35,29 +39,35 @@ internal class EndToEndUpworkProcessor(
 
         foreach (JobSearch foundOffer in foundSearchItems)
         {
-            string outputPath = Path.Combine(rawDetailsOutputFolder, $"{foundOffer.Id}.json");
+            var upworkId = new UpworkId(foundOffer.Id, foundOffer.Ciphertext);
+
+            string outputPath = Path.Combine(rawDetailsOutputFolder, $"{upworkId.Uid}.json");
 
             string offerDetailsContent;
 
             if (Path.Exists(outputPath))
             {
-                logger.LogWarning(@"'{offerId}{cipherText}' offer details exists. Skipping.", foundOffer.Ciphertext,
-                    foundOffer.Id);
+                logger.LogWarning("'{@upworkId}' offer details exists. Skipping.", upworkId);
 
                 offerDetailsContent = await File.ReadAllTextAsync(outputPath, ct);
             }
             else
             {
-                HttpResponseMessage response =
-                    await detailsClient.GetAsync(
-                        $"https://www.upwork.com/job-details/jobdetails/api/job/{foundOffer.Ciphertext}/summary", ct);
+                var applicantsStatsTask = statsProvider.GetBidsStatsAsync(upworkId, ct);
+
+                var offerTask = detailsClient.GetAsync(
+                        $"job-details/jobdetails/api/job/{foundOffer.Ciphertext}/summary", ct);
+
+                await Task.WhenAll([offerTask, applicantsStatsTask]);
+
+                HttpResponseMessage response = await offerTask;
+                applicantsStats = await applicantsStatsTask;
 
                 string content = await response.Content.ReadAsStringAsync(ct);
 
                 if (response.IsSuccessStatusCode)
                 {
-                    logger.LogInformation("{offerId}{cipherText} request succeeded", foundOffer.Id,
-                        foundOffer.Ciphertext);
+                    logger.LogInformation("'{@upworkId}' request succeeded", upworkId);
 
                     await File.WriteAllTextAsync(outputPath, content.JsonPrettify(), ct);
 
@@ -65,21 +75,22 @@ internal class EndToEndUpworkProcessor(
                 }
                 else
                 {
-                    logger.LogError(
-                        "{offerId}{cipherText} request failed with status code:{statusCode}. Response: {content}",
-                        foundOffer.Id, foundOffer.Ciphertext, response.StatusCode, content);
+                    logger.LogError("'{@upworkId}' request failed with status code:{statusCode}. Response: {content}",
+                        upworkId, response.StatusCode, content);
                     continue;
                 }
             }
 
             string offerId = foundOffer.Id;
+
             try
             {
                 await using MemoryStream inputOfferFileStream = new(Encoding.UTF8.GetBytes(offerDetailsContent));
-                UpworkOffer upworkOffer = await parser.ParseAsync(inputOfferFileStream, ct);
+                UpworkOffer upworkOffer = await UpworkParser.ParseAsync<UpworkOffer>(inputOfferFileStream, ct);
 
                 Offer offer = upworkOffer.MapToOffer();
-                offer.Requirements = foundOffer.Attrs.Select(attr => attr.PrettyName).ToArray();
+                offer.Stats = applicantsStats ?? new Contracts.ApplicantsStats();
+                    offer.Requirements = foundOffer.Attrs.Select(attr => attr.PrettyName).ToArray();
                 offer.ConnectPrice = foundOffer.ConnectPrice;
                 offers.Add(offer);
             }

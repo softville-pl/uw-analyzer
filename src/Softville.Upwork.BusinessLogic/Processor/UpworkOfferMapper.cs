@@ -49,7 +49,8 @@ internal static class UpworkOfferMapper
             Activity = job.ClientActivity.MapToActivity(),
             Qualifications =
                 upworkOffer.CurrentUserInfo?.FreelancerInfo?.QualificationsMatches?.MapToQualifications() ??
-                new Contracts.Qualifications()
+                new Contracts.Qualifications(),
+            Stats = new Contracts.ApplicantsStats()
         };
     }
 
