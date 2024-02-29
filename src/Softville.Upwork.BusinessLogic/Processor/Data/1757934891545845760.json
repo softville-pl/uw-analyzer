@@ -91,10 +91,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-27T14:40:59.333Z",
-      "totalApplicants": 46,
+      "lastBuyerActivity": "2024-02-27T19:40:59.084Z",
+      "totalApplicants": 43,
       "totalHired": 0,
-      "totalInvitedToInterview": 8,
+      "totalInvitedToInterview": 22,
       "unansweredInvites": 7,
       "invitationsSent": 21
     },
@@ -128,7 +128,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -28800000,
       "countryTimezone": "United States (America/T)",
@@ -203,7 +203,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~019695143830c8a8f8",
+    "rid": 1011655637,
+    "uid": "1763118597714870272",
+    "type": 2,
+    "access": 4,
+    "title": "Azure SQL Expert",
+    "status": 1,
+    "category": {
+      "name": "Database Management \u0026 Administration",
+      "urlSlug": "database-management-administration"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-29T08:26:45.818Z",
+    "postedOn": "2024-02-29T08:26:46.224Z",
+    "publishTime": "2024-02-29T08:26:46.224Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1002673673,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 99
+    },
+    "contractorTier": 3,
+    "description": "We have a table with 1,1 mio entries.\nIn our local sql db, a simple select query takes like 10 seconds.\n\ni.e: select Articles from XYZ\n\nIn Azure sql (2 v cores) the query takey  over 90 seconds. (workload under 50%).\n\nWe need somebody who can help us with that problem.,",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T08:54:56.296Z",
+      "totalApplicants": 45,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "12",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for an Azure SQL Expert to assist us with a project that is expected to last less than 1 month. The ideal candidate should have a strong background in Microsoft Azure SQL Database and Microsoft SQL Server, as well as proficiency in the .NET Framework.\n\nThe selected candidate will be responsible for helping us optimize and maintain our Azure SQL Database, ensuring its performance, security, and scalability. They will also assist in troubleshooting any issues that may arise and provide recommendations for improvements.\n\nTo apply for this position, please submit a proposal outlining how you can contribute to this project. Additionally, we would appreciate it if you could include links to any past projects where you have successfully worked with Azure SQL Database or Microsoft SQL Server.\n\nWe look forward to receiving your proposals and finding the right candidate to assist us with this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-29T08:26:46.224Z",
+        "totalTimeJobPostFlowAIv2": "83",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626782389288960\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "11",
+        "totalTimeSpentOnReviewPageAIv2": "19",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709195122946",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Azure SQL Expert",
+        "finalDescriptionAI": "We have a table with 1,1 mio entries.\nIn our local sql db, a simple select query takes like 10 seconds.\n\ni.e: select Articles from XYZ\n\nIn Azure sql (2 v cores) the query takey  over 90 seconds. (workload under 50%).\n\nWe need somebody who can help us with that problem.,"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Austria (UTC)",
+      "city": "Graz",
+      "country": "Austria"
+    },
+    "stats": {
+      "totalAssignments": 22,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 12,
+      "score": 4.941256767,
+      "totalJobsWithHires": 20,
+      "hoursCount": 31.666668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 5974.17
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-02-01T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 30,
+      "openCount": 5
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.589051806776766
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

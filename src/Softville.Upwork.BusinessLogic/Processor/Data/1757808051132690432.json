@@ -121,12 +121,12 @@
       "country": "Australia"
     },
     "stats": {
-      "totalAssignments": 8,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 10,
+      "activeAssignmentsCount": 2,
       "feedbackCount": 6,
       "score": 5,
-      "totalJobsWithHires": 7,
-      "hoursCount": 24.833334,
+      "totalJobsWithHires": 8,
+      "hoursCount": 31.833334,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 469.18
@@ -148,7 +148,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 20.436241062114334
+      "amount": 22.53926654368028
     }
   },
   "currentUserInfo": {
@@ -206,7 +206,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

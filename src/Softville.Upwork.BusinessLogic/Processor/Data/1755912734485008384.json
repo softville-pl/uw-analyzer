@@ -145,7 +145,7 @@
       "feedbackCount": 4,
       "score": 5,
       "totalJobsWithHires": 5,
-      "hoursCount": 5239.000006,
+      "hoursCount": 5257.000006,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 87938.25
@@ -167,7 +167,7 @@
       "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 16.296657740450478
+      "amount": 16.30248999470897
     }
   },
   "currentUserInfo": {
@@ -233,7 +233,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

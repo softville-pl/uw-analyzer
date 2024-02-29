@@ -99,7 +99,7 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-27T14:55:44.054Z",
+      "lastBuyerActivity": "2024-02-27T21:25:45.848Z",
       "totalApplicants": 116,
       "totalHired": 2,
       "totalInvitedToInterview": 13,
@@ -150,11 +150,11 @@
     },
     "stats": {
       "totalAssignments": 303,
-      "activeAssignmentsCount": 51,
-      "feedbackCount": 99,
-      "score": 4.993586569,
+      "activeAssignmentsCount": 50,
+      "feedbackCount": 100,
+      "score": 4.993588946,
       "totalJobsWithHires": 192,
-      "hoursCount": 108264.00055,
+      "hoursCount": 108358.33388,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 3525539.93
@@ -174,11 +174,11 @@
       }
     },
     "jobs": {
-      "postedCount": 168,
+      "postedCount": 169,
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 32.08919356712244
+      "amount": 32.089989532792174
     }
   },
   "currentUserInfo": {
@@ -260,7 +260,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

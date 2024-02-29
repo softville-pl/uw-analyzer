@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01b1f7a7c1600b740f",
+    "rid": 1011658801,
+    "uid": "1763162218716418048",
+    "type": 2,
+    "access": 4,
+    "title": "Backend Developer with Amadeus-Flights API and ePay experience",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-29T11:20:05.885Z",
+    "postedOn": "2024-02-29T11:20:06.348Z",
+    "publishTime": "2024-02-29T11:20:06.348Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4179348,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Hi\n\nBackend Developer with Amadeus-Flights API and ePay experience: Requires in-depth hands-on experience with Amadeus API implementation, specifically for flights, and experience with ePay for handling low-cost carriers. Proficiency in any backend language is acceptable.\n\nPlease check the queries below:\n\nHow many applications/jobs have you completed for these skills?\nCan you show some of your live work?\nDo you have experience with EPay with Amadeus?\nWill you be able to work \u0026 complete the job successfully without the amadeus live tech support?\n\nThanks",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T11:23:03.920Z",
+      "totalApplicants": 7,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "55",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled Backend Developer with experience in Amadeus-Flights API and ePay. The ideal candidate will have a strong understanding of API integration, .NET Framework, Azure Cosmos DB, ASP.NET, REST API, RESTful API, and Amadeus CRS.\n\nThe project duration is expected to be 1 to 3 months, and we require someone who can hit the ground running. As a Backend Developer, your responsibilities will include developing and integrating APIs, maintaining and enhancing existing systems, and ensuring seamless communication between various platforms.\n\nTo apply for this position, please submit a proposal detailing how you can contribute to this project. Additionally, include links to your past completed projects that showcase your expertise in Amadeus-Flights API and ePay integration.\n\nWe look forward to reviewing your proposal and discussing the project further with you!",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-29T11:20:06.348Z",
+        "totalTimeJobPostFlowAIv2": "170",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364627995914242\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221691099312962416640\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022},{\u0022skillUid\u0022:\u00221031626711803346944\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "34",
+        "totalTimeSpentOnReviewPageAIv2": "12",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709205434278",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Backend Developer with Amadeus-Flights API and ePay experience",
+        "finalDescriptionAI": "Hi\n\nBackend Developer with Amadeus-Flights API and ePay experience: Requires in-depth hands-on experience with Amadeus API implementation, specifically for flights, and experience with ePay for handling low-cost carriers. Proficiency in any backend language is acceptable.\n\nPlease check the queries below:\n\nHow many applications/jobs have you completed for these skills?\nCan you show some of your live work?\nDo you have experience with EPay with Amadeus?\nWill you be able to work \u0026 complete the job successfully without the amadeus live tech support?\n\nThanks"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (UTC\u002B05:30)",
+      "city": "Ludhiana",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 70,
+      "activeAssignmentsCount": 15,
+      "feedbackCount": 43,
+      "score": 4.909754922,
+      "totalJobsWithHires": 62,
+      "hoursCount": 576.333335,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 25260.87
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-06-30T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 273,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 13.397923616547358
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,237 @@
+{
+  "job": {
+    "ciphertext": "~0196bb1cd3da669114",
+    "rid": 1011640836,
+    "uid": "1762896425326493696",
+    "type": 2,
+    "access": 4,
+    "title": "ASP.NET developer with transcription experience",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-28T17:43:56.162Z",
+    "postedOn": "2024-02-28T17:43:56.630Z",
+    "publishTime": "2024-02-28T17:43:56.630Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007424734,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re building AI software built with .NET Core for pastors to use when preparing and distributing their blogs or posts. We\u0027re seeking a senior full stack .NET Core developer with AI and transcription experience. Please include the link to your recent project you worked with transcription. Prefer to work with individual developers.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T01:08:07.252Z",
+      "totalApplicants": 31,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-28T17:43:56.630Z",
+        "reuse": "1762100321733226496",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "88",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": "Fort Collins",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 35,
+      "activeAssignmentsCount": 14,
+      "feedbackCount": 15,
+      "score": 4.906647518,
+      "totalJobsWithHires": 32,
+      "hoursCount": 1438.500008,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 38053.71
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-02-24T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Art \u0026 Design",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 46,
+      "openCount": 3
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.59069853547057
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

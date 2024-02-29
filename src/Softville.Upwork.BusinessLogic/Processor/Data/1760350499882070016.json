@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-26T20:51:24.623Z",
-      "totalApplicants": 14,
+      "totalApplicants": 15,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -213,7 +213,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

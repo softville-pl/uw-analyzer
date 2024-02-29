@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-27T13:25:43.216Z",
-      "totalApplicants": 31,
+      "lastBuyerActivity": "2024-02-28T18:12:39.120Z",
+      "totalApplicants": 39,
       "totalHired": 0,
-      "totalInvitedToInterview": 15,
-      "unansweredInvites": 8,
-      "invitationsSent": 26
+      "totalInvitedToInterview": 27,
+      "unansweredInvites": 9,
+      "invitationsSent": 41
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -213,7 +213,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

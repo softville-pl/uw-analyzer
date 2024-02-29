@@ -1,0 +1,265 @@
+{
+  "job": {
+    "ciphertext": "~01706b0552ea59a2c1",
+    "rid": 1011641638,
+    "uid": "1762904614475669504",
+    "type": 2,
+    "access": 4,
+    "title": "Backend Developer C# / .NET (URGENT)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-28T18:16:28.249Z",
+    "postedOn": "2024-02-28T18:24:41.233Z",
+    "publishTime": "2024-02-28T18:16:28.689Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 7296615,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "I run a consulting organization. I had to let go of a developer because they were outsourcing work to other people. As a result, they deleted a ton of work and progress for my key clients. I need someone to jump in and finish the work on one of my clients. We need to get this application executable working again AND work on some other features.\n\nThe application is using .NET and C#. Looking for someone that can start immediately and this is urgent. Must be 100000% honest on who you are and be able to meet on virtual video calls. No agencies.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T13:25:36.696Z",
+      "totalApplicants": 229,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "130",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-28T18:24:41.233Z",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are urgently looking for a skilled Backend Developer with expertise in C# and .NET Framework. The project is expected to last for 1 to 3 months. As a Backend Developer, you will be responsible for developing and maintaining our backend systems, ensuring their stability, and optimizing their performance.\n\nTo be successful in this role, you must have a strong understanding of C# programming language, .NET Framework, and SQL. You should be able to write efficient and scalable code, as well as troubleshoot and debug any issues that may arise.\n\nIf you are interested in this project, please submit a detailed proposal outlining how you can assist us. Additionally, include links to any relevant past projects you have completed, showcasing your proficiency in C# and .NET development.\n\nWe are looking forward to reviewing your proposals and finding the right candidate to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-28T18:16:28.689Z",
+        "totalTimeJobPostFlowAIv2": "206",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "129",
+        "totalTimeSpentOnReviewPageAIv2": "14",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709143980974",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Backend Developer C# / .NET (URGENT)",
+        "finalDescriptionAI": "I run a consulting organization. I had to let go of a developer because they were outsourcing work to other people. As a result, they deleted a ton of work and progress for my key clients. I need someone to jump in and finish the work on one of my clients. We need to get this application executable working again AND work on some other features.\n\nThe application is using .NET and C#. Looking for someone that can start immediately and this is urgent. Must be 100000% honest on who you are and be able to meet on virtual video calls. No agencies."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-06:00)",
+      "city": "Overland Park",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 99,
+      "activeAssignmentsCount": 29,
+      "feedbackCount": 37,
+      "score": 4.924328195,
+      "totalJobsWithHires": 80,
+      "hoursCount": 14067.833325,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1089233.24
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-03-08T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 180,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 74.78557683295556
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas, Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

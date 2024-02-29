@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-26T17:51:29.872Z",
-      "totalApplicants": 36,
-      "totalHired": 0,
-      "totalInvitedToInterview": 1,
+      "lastBuyerActivity": "2024-02-29T12:57:47.591Z",
+      "totalApplicants": 29,
+      "totalHired": 2,
+      "totalInvitedToInterview": 5,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -129,12 +129,12 @@
       "country": "Poland"
     },
     "stats": {
-      "totalAssignments": 10,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 12,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 7,
       "score": 4.654081022,
-      "totalJobsWithHires": 7,
-      "hoursCount": 56,
+      "totalJobsWithHires": 8,
+      "hoursCount": 59.5,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 1278.18
@@ -156,7 +156,7 @@
       "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 20.0925
+      "amount": 22.204705882352943
     }
   },
   "currentUserInfo": {
@@ -201,8 +201,11 @@
         ]
       },
       "applied": true,
-      "hired": null,
-      "contract": null,
+      "hired": true,
+      "contract": {
+        "contractId": "36509544",
+        "status": "Closed"
+      },
       "profileState": 10,
       "hourlyRate": {
         "currencyCode": "USD",
@@ -217,7 +220,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

@@ -112,10 +112,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-25T20:38:43.068Z",
-      "totalApplicants": 14,
-      "totalHired": 0,
-      "totalInvitedToInterview": 4,
+      "lastBuyerActivity": "2024-02-28T13:30:10.082Z",
+      "totalApplicants": 13,
+      "totalHired": 1,
+      "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -150,11 +150,11 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 22,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 23,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 12,
       "score": 3.888857006,
-      "totalJobsWithHires": 22,
+      "totalJobsWithHires": 23,
       "hoursCount": 89.833334,
       "totalCharges": {
         "currencyCode": "USD",
@@ -251,7 +251,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

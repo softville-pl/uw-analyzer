@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~0106b27e9b201b29f9",
+    "rid": 1011621464,
+    "uid": "1762617773385506816",
+    "type": 2,
+    "access": 1,
+    "title": "Senior C# Developer for Trading Application Development",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-27T23:16:39.950Z",
+    "postedOn": "2024-02-27T23:16:40.529Z",
+    "publishTime": "2024-02-27T23:16:40.529Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4064629,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "About Us:\nJoin our dynamic team at the forefront of financial technology and trading application development. We are committed to innovation, excellence, and pushing the boundaries of what\u0027s possible in trading technology.\n\nPosition: Senior C# Developer\n\nLocation: Remote\n\nEmployment Type: Full-time, Long-term\n\nRole Overview:\nWe are seeking a highly skilled and experienced Senior C# Developer to contribute to the development of our advanced trading application. This role involves crafting new features, resolving bugs, writing tests, and creating comprehensive documentation to support the application\u0027s growth and scalability.\n\nKey Responsibilities:\n-Design and develop .NET 8 applications using Prism and modular architecture.\n-Implement and maintain WPF-based user interfaces with Telerik controls.\n-Ensure adherence to best practices and quality code standards.\n-Collaborate with the team to innovate and integrate new trading tools, addons, plugins, indicators, and strategies.\n\nRequired Experience \u0026 Skills (DO NOT APPLY IF YOU DONT HAVE THIS EXP \u0026 SKILLS !!!)\n-Minimum 10 years of experience in C# application development.\n-Proven expertise in .NET 8 applications, Prism, WPF, and Telerik controls.\n-At least 5 years of experience and a deep understanding of trading, various markets (FX, equities, commodities, crypto), and financial instruments (spot, futures, options) \n-Demonstrated ability in developing trading tools, addons, plugins, indicators, strategies for C# based trading platforms like NinjaTrader.\n-Familiarity with Bitbucket, Jira, GIT, and Slack.\n\nInterview Process:\n-Candidates must pass a comprehensive C# test, including multiple-choice questions, a coding exercise, and open-answer questions.\n-Only apply if you meet the above criteria to ensure a productive process for both parties.\n\nWhat We Offer:\n-An opportunity to be part of a leading fintech project.\n-A full-time and long-term commitment with the possibility to work over 40 hours per week.\n-A collaborative and innovative work environment where your contributions make a difference.\n\nApplication Process:\nTo apply, please submit your resume, cover letter, and any relevant project portfolios or GitHub links that demonstrate your experience and suitability for the role.\n\nWe thank all applicants for their interest, but only those selected for an interview will be contacted.\n\nNO AGENCIES !!!",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-28T23:44:32.544Z",
+      "totalApplicants": 17,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "169",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "2",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are looking for a talented Senior C# Developer with experience in trading application development to join our team for a project of more than 6 months. As a Senior C# Developer, you will be responsible for developing and maintaining our trading application, utilizing your expertise in MySQL, .NET Framework, Git, SQLite, and C#. \n\nYour main responsibilities include bug fixing, implementing new features, and ensuring the application\u0027s stability and performance. Additionally, you will be involved in desktop application testing, API integration, and collaborating with our team to meet project requirements.\n\nTo be considered for this role, please submit a proposal detailing how you can contribute to the project. We also encourage you to include links to any past completed projects that demonstrate your skills and expertise in trading application development.\n\nWe look forward to reviewing your proposal and discussing this exciting opportunity further.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-27T23:16:40.529Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628000108549\u0022,\u0022parentSkillUid\u0022:\u00221737190624499249160\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022,\u0022parentSkillUid\u0022:\u00221737190624499249160\u0022},{\u0022skillUid\u0022:\u00221204836446974885888\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626796670894080\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u00221225465937601466368\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221225465937681158144\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "132",
+        "totalTimeSpentOnReviewPageAIv2": "313",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709075370861",
+        "finalDescriptionAI": "About Us:\nJoin our dynamic team at the forefront of financial technology and trading application development. We are committed to innovation, excellence, and pushing the boundaries of what\u0027s possible in trading technology.\n\nPosition: Senior C# Developer\n\nLocation: Remote\n\nEmployment Type: Full-time, Long-term\n\nRole Overview:\nWe are seeking a highly skilled and experienced Senior C# Developer to contribute to the development of our advanced trading application. This role involves crafting new features, resolving bugs, writing tests, and creating comprehensive documentation to support the application\u0027s growth and scalability.\n\nKey Responsibilities:\n-Design and develop .NET 8 applications using Prism and modular architecture.\n-Implement and maintain WPF-based user interfaces with Telerik controls.\n-Ensure adherence to best practices and quality code standards.\n-Collaborate with the team to innovate and integrate new trading tools, addons, plugins, indicators, and strategies.\n\nRequired Experience \u0026 Skills:\n-Minimum 10 years of experience in C# application development.\n-Proven expertise in .NET 8 applications, Prism, WPF, and Telerik controls.\n-At least 5 years of experience and a deep understanding of trading, various markets (FX, equities, commodities, crypto), and financial instruments (spot, futures, options).\n-Demonstrated ability in developing trading tools, addons, plugins, indicators, strategies for C# based trading platforms like NinjaTrader.\n-Familiarity with Bitbucket, Jira, GIT, and Slack.\n\nInterview Process:\n-Candidates must pass a comprehensive C# test, including multiple-choice questions, a coding exercise, and open-answer questions.\n-Only apply if you meet the above criteria to ensure a productive process for both parties.\n\nWhat We Offer:\n-An opportunity to be part of a leading fintech project.\n-A full-time and long-term commitment with the possibility to work over 40 hours per week.\n-A collaborative and innovative work environment where your contributions make a difference.\n\nApplication Process:\nTo apply, please submit your resume, cover letter, and any relevant project portfolios or GitHub links that demonstrate your experience and suitability for the role.\n\nWe thank all applicants for their interest, but only those selected for an interview will be contacted.",
+        "inputsTitleAI": "Senior C# Developer for Trading Application Development",
+        "inputsDurationAI": "474250516458926080"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Slovakia (UTC\u002B01:00)",
+      "city": "Bratislava",
+      "country": "Slovakia"
+    },
+    "stats": {
+      "totalAssignments": 37,
+      "activeAssignmentsCount": 10,
+      "feedbackCount": 20,
+      "score": 4.968618937,
+      "totalJobsWithHires": 30,
+      "hoursCount": 16091.500026,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 499355.73
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-05-22T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 49,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 26.363870323744795
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

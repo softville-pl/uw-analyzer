@@ -150,7 +150,7 @@
       "hoursCount": 233.666664,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 15248.33
+        "amount": 15298.33
       }
     },
     "isEnterprise": false,
@@ -227,7 +227,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

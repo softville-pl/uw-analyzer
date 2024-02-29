@@ -90,10 +90,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-27T13:55:01.407Z",
-      "totalApplicants": 7,
+      "lastBuyerActivity": "2024-02-27T20:10:34.043Z",
+      "totalApplicants": 6,
       "totalHired": 0,
-      "totalInvitedToInterview": 6,
+      "totalInvitedToInterview": 5,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -139,7 +139,7 @@
     },
     "stats": {
       "totalAssignments": 54,
-      "activeAssignmentsCount": 4,
+      "activeAssignmentsCount": 3,
       "feedbackCount": 28,
       "score": 4.989825005,
       "totalJobsWithHires": 42,
@@ -231,7 +231,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

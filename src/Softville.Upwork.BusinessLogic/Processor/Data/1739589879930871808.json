@@ -130,12 +130,12 @@
       "country": "Switzerland"
     },
     "stats": {
-      "totalAssignments": 3,
-      "activeAssignmentsCount": 3,
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 4,
       "feedbackCount": 0,
       "score": 0,
-      "totalJobsWithHires": 3,
-      "hoursCount": 72,
+      "totalJobsWithHires": 4,
+      "hoursCount": 76.833333,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 4904.91
@@ -157,7 +157,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 58
+      "amount": 55.60958809375093
     }
   },
   "currentUserInfo": {
@@ -215,7 +215,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

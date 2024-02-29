@@ -1,0 +1,228 @@
+{
+  "job": {
+    "ciphertext": "~019bfc89a098c30c21",
+    "rid": 1011653786,
+    "uid": "1763088540097138688",
+    "type": 2,
+    "access": 4,
+    "title": "Project Manager- Trading Platform - Mumbai - India",
+    "status": 1,
+    "category": {
+      "name": "Project Management",
+      "urlSlug": "project-management"
+    },
+    "categoryGroup": {
+      "name": "Admin Support",
+      "urlSlug": "admin-support"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-29T06:27:19.682Z",
+    "postedOn": "2024-02-29T06:27:20.041Z",
+    "publishTime": "2024-02-29T06:27:20.041Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 6311456,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "Trading platform Experience is must. \nShould be from Meta Trader, or any trading platform.\n\nProgramming Languages: C#, Web based application development experience in C# .NET.\n \nDatabase: Microsoft SQL Server\n \nWeb Technologies: Expertise in multiple front-end technologies Net core, ASP.NET MVC, Web API, ANGULAR 7, AngularJS, Silverlight. Web Forms,\n \nWindows based application: ADO.NET, WPF, WEB API and REST Services, Knowledge of Azure.\n \n\n ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T13:29:43.197Z",
+      "totalApplicants": 6,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-29T06:27:20.041Z",
+        "reuse": "1623563011040309248",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "321",
+        "type": "RJP",
+        "browser": "Edge",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (UTC\u002B05:30)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2019-05-20T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 15,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

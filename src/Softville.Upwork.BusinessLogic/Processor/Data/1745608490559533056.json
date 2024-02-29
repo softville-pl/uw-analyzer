@@ -148,7 +148,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 27.08743295768768
+      "amount": 27.087433486886205
     }
   },
   "currentUserInfo": {
@@ -214,7 +214,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

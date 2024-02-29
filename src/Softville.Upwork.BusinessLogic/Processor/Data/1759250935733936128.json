@@ -122,7 +122,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -18000000,
       "countryTimezone": "United States (America/N)",
@@ -153,7 +153,7 @@
       }
     },
     "jobs": {
-      "postedCount": 2,
+      "postedCount": 3,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
@@ -213,7 +213,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

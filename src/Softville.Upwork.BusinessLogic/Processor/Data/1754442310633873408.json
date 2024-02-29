@@ -85,7 +85,7 @@
       "lastBuyerActivity": "2024-02-12T14:32:03.060Z",
       "totalApplicants": 103,
       "totalHired": 0,
-      "totalInvitedToInterview": 29,
+      "totalInvitedToInterview": 28,
       "unansweredInvites": 33,
       "invitationsSent": 65
     },
@@ -217,7 +217,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,
