@@ -1,0 +1,244 @@
+{
+  "job": {
+    "ciphertext": "~01814c912ac847d366",
+    "rid": 1011506362,
+    "uid": "1760654523200307200",
+    "type": 2,
+    "access": 4,
+    "title": "Sale Invoice Import Adapter in .cs",
+    "status": 1,
+    "category": {
+      "name": "Accounting \u0026 Bookkeeping",
+      "urlSlug": "accounting-bookkeeping"
+    },
+    "categoryGroup": {
+      "name": "Accounting \u0026 Consulting",
+      "urlSlug": "accounting-consulting"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-22T13:15:24.802Z",
+    "postedOn": "2024-02-22T13:54:47.401Z",
+    "publishTime": "2024-02-22T13:54:47.401Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Not Sure",
+    "companyRecno": 1012289441,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 2,
+    "description": "We are seeking a skilled developer to create a sale/purchase invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \n\nSkills required:\n- .cs development\n- XML, CSV and JSON parsing\n- Database integration\n\nThere is already an import adapter created id .dll format, we have an original purchase invoice .cs file, but we need to make adjustments to it to be fit for wider range of import possibilities or make additional separate adapter (-s).\n\nThe size of this project is small/medium, as it requires up to a few days to complete. Want this job to be done within a month. \nIn the future if all goes well, we would have more such type of tasks.\n\nWe are looking for an intermediate-level developer who has experience in .cs development and is familiar with CSV, XML, JSON parsing.\n\nThe accounting software has been created in VB.NET older language.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "How will you suggest improvements if you disagree with an existing process?"
+      },
+      {
+        "position": 2,
+        "question": "How would you measure or assess a potential problem?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 0,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-23T08:56:01.083Z",
+      "totalApplicants": 13,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "sourcingUpdateForbidden": "false",
+        "totalDescriptionEditingTimeAIv2": "683",
+        "type": "FJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Sale Invoice Import Adapter in .cs\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221110580669632204800\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221110580482322976768\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:1},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:40,\u0022hourlyBudgetMax\u0022:100,\u0022amount\u0022:null}}",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Sale Invoice Import Adapter in .cs\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u0022996364628025274385\u0022},{\u0022skillUid\u0022:\u00221031626728744140800\u0022},{\u0022skillUid\u0022:\u00221110580669632204800\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580621401903104\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:1},\u0022budget\u0022:{}}",
+        "generatedDescriptionAIv2": "We are seeking a skilled developer to create a sales invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \n\nSkills required:\n- .cs development\n- XML parsing\n- Database integration\n- Sale invoice import\n- Automation\n\nThe size of this project is medium, as it requires a few days to complete. The duration of the project is expected to be 1 to 3 months. We are looking for an intermediate-level developer who has experience in .cs development and is familiar with XML parsing.",
+        "browser": "Firefox",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:8,\u0022description\u0022:\u0022We are seeking a skilled developer to create a sales invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \\n\\nSkills required:\\n- .cs development\\n- XML parsing\\n- Database integration\\n- Sale invoice import\\n- Automation\\n\\nThe size of this project is medium, as it requires a few days to complete. The duration of the project is expected to be 1 to 3 months. We are looking for an intermediate-level developer who has experience in .cs development and is familiar with XML parsing.\u0022,\u0022editedDescription\u0022:\u0022We are seeking a skilled developer to create a sale/purchase invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \\n\\nSkills required:\\n- .cs development\\n- XML, CSV and JSON parsing\\n- Database integration\\n\\nThere is already an import adapter created id .dll format, we have an original purchase invoice .cs file, but we need to make adjustments to it to be fit for wider range of import possibilities or make additional separate adapter (-s).\\n\\nThe size of this project is small/medium, as it requires up to a few days to complete. Want this job to be done within a month. \\nIn the future if all goes well, we would have more such type of tasks.\\n\\nWe are looking for an intermediate-level developer who has experience in .cs development and is familiar with CSV, XML, JSON parsing.\\n\\nThe accounting software has been created in VB.NET older language.\u0022,\u0022similarityScore\u0022:0.7462257368799425}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-22T13:54:47.401Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnReviewPageAIv2": "20985",
+        "optInDescriptionAIv2": "yes",
+        "finalDescriptionAIv2": "We are seeking a skilled developer to create a sale/purchase invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \n\nSkills required:\n- .cs development\n- XML, CSV and JSON parsing\n- Database integration\n\nThere is already an import adapter created id .dll format, we have an original purchase invoice .cs file, but we need to make adjustments to it to be fit for wider range of import possibilities or make additional separate adapter (-s).\n\nThe size of this project is small/medium, as it requires up to a few days to complete. Want this job to be done within a month. \nIn the future if all goes well, we would have more such type of tasks.\n\nWe are looking for an intermediate-level developer who has experience in .cs development and is familiar with CSV, XML, JSON parsing.\n\nThe accounting software has been created in VB.NET older language.",
+        "jpgV2Prompt": "I need someone to do sale Invoice import adapter in .cs to import xml files",
+        "descriptionDifferenceScoreAIv2": "0.74622573687994",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1708521926717",
+        "retriesAIv2": "1"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Lithuania (Asia/Jeru)",
+      "city": null,
+      "country": "Lithuania"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-21T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Finance \u0026 Accounting",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 3,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

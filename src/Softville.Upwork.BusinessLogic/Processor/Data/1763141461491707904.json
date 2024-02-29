@@ -1,0 +1,228 @@
+{
+  "job": {
+    "ciphertext": "~01f210ff6b1d711ad0",
+    "rid": 1011657270,
+    "uid": "1763141461491707904",
+    "type": 2,
+    "access": 4,
+    "title": "Software developer to rewrite libraries from VB.net to .net core",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-29T09:57:36.917Z",
+    "postedOn": "2024-02-29T09:57:37.418Z",
+    "publishTime": "2024-02-29T09:57:37.418Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012366650,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 2,
+    "description": "We are seeking a skilled software developer who can rewrite our existing libraries from VB.net to .NET Core. The ideal candidate should have a strong background in C# and .NET Core development, as well as experience in migrating existing applications to the .NET Core framework. The primary goal of this project is to optimize performance and ensure compatibility with modern .NET Core frameworks. The successful candidate will be responsible for analyzing the current codebase, identifying areas for improvement, and implementing necessary changes to convert the libraries to .NET Core. They will also be expected to provide thorough documentation and test cases to ensure the code\u0027s reliability and functionality. Required skills:\n- Proficiency in C# and .NET Core\n- Experience in VB.net to .NET Core migration\n- Strong understanding of .NET Core frameworks\n- Analytical and problem-solving skills\n- Excellent written and verbal communication",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 2,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-29T12:31:15.837Z",
+      "totalApplicants": 25,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "sourcingUpdateForbidden": "false",
+        "type": "FJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Software developer to rewrite libraries from VB.net to .net core\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626759408697344\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:1},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:20,\u0022hourlyBudgetMax\u0022:100,\u0022amount\u0022:null}}",
+        "urgency": "2",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Software developer to rewrite libraries from VB.net to .net core\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626759408697344\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:1},\u0022budget\u0022:{}}",
+        "browser": "Chrome",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:8,\u0022description\u0022:\u0022We are seeking a skilled software developer who can rewrite our existing libraries from VB.net to .NET Core. The ideal candidate should have a strong background in C# and .NET Core development, as well as experience in migrating existing applications to the .NET Core framework. The primary goal of this project is to optimize performance and ensure compatibility with modern .NET Core frameworks. The successful candidate will be responsible for analyzing the current codebase, identifying areas for improvement, and implementing necessary changes to convert the libraries to .NET Core. They will also be expected to provide thorough documentation and test cases to ensure the code\u0027s reliability and functionality. Required skills:\\n- Proficiency in C# and .NET Core\\n- Experience in VB.net to .NET Core migration\\n- Strong understanding of .NET Core frameworks\\n- Analytical and problem-solving skills\\n- Excellent written and verbal communication\u0022,\u0022editedDescription\u0022:\u0022We are seeking a skilled software developer who can rewrite our existing libraries from VB.net to .NET Core. The ideal candidate should have a strong background in C# and .NET Core development, as well as experience in migrating existing applications to the .NET Core framework. The primary goal of this project is to optimize performance and ensure compatibility with modern .NET Core frameworks. The successful candidate will be responsible for analyzing the current codebase, identifying areas for improvement, and implementing necessary changes to convert the libraries to .NET Core. They will also be expected to provide thorough documentation and test cases to ensure the code\u0027s reliability and functionality. Required skills:\\n- Proficiency in C# and .NET Core\\n- Experience in VB.net to .NET Core migration\\n- Strong understanding of .NET Core frameworks\\n- Analytical and problem-solving skills\\n- Excellent written and verbal communication\u0022,\u0022similarityScore\u0022:1}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-29T09:57:37.418Z",
+        "totalTimeJobPostFlowAIv2": "144",
+        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnReviewPageAIv2": "220",
+        "optInDescriptionAIv2": "yes",
+        "jpgV2Prompt": "Software developer to rewrite libraries from VB.net to .net core",
+        "device": "Windows",
+        "retriesAIv2": "2",
+        "startTimeJobPostFlowAIv2": "1709200511791"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-29T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Retail \u0026 Consumer Goods",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 3,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "agencies",
+            "freelancerValue": "AC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Agencies only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

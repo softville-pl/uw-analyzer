@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~012efd9491af70317b",
+    "rid": 1011294305,
+    "uid": "1757170526799994880",
+    "type": 2,
+    "access": 4,
+    "title": ".NET AWS Lambda function to EC2 \u002B API Gateway",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-12T22:31:15.210Z",
+    "postedOn": "2024-02-12T22:31:15.751Z",
+    "publishTime": "2024-02-12T22:31:15.751Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 365519,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 16,
+      "hourlyBudgetMax": 55
+    },
+    "contractorTier": 2,
+    "description": "We\u0027re a small asset analytics startup looking for a backend developer for product development tasks. This project will be offered to multiple persons as a trial for longer term engagements.\n\nScope:\nWe have a .net6 Lambda function, that is driven from an S3 object event. We would like to move this to an Autoscaling EC2 \u002B API gateway. \nThe task involves taking an existing lambda repo, removing the lambda wrapper and putting into a .net API wrapper.\nIt will also involve creation / setup of the AWS API gateway, addition of a codebuild pipeline, and testing.\n\nDeliverables:\nWorking API Gateway, Codebuild, and EC2 setup.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-27T10:19:27.482Z",
+      "totalApplicants": 85,
+      "totalHired": 2,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "558",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced developer to help us with a project involving a .NET AWS Lambda function to EC2 and API Gateway. The job length is estimated to be between 1 to 3 months. \n\nThe ideal candidate should have a strong background in Amazon S3, API development, .NET Framework, Amazon Web Services, Amazon EC2, AWS Lambda, and C#. \n\nTo apply for this position, please submit a proposal detailing how you can contribute to the project. Describe your experience and expertise in working with AWS Lambda functions, EC2 instances, and API Gateway. \n\nAdditionally, please include links to any relevant past projects or code samples that demonstrate your skills in these areas. We are looking forward to reviewing your proposals and finding the best candidate to help us with this project.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-12T22:31:15.751Z",
+        "totalTimeJobPostFlowAIv2": "689",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628012691471\u0022},{\u0022skillUid\u0022:\u00221031626718476484608\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626711912398848\u0022},{\u0022skillUid\u0022:\u00221031626712239554560\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "476",
+        "totalTimeSpentOnReviewPageAIv2": "26",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707776384683",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": ".NET AWS Lambda function to EC2 \u002B API Gateway",
+        "finalDescriptionAI": "We\u0027re a small asset analytics startup looking for a backend developer for product development tasks. This project will be offered to multiple persons as a trial for longer term engagements.\n\nScope:\nWe have a .net6 Lambda function, that is driven from an S3 object event. We would like to move this to an Autoscaling EC2 \u002B API gateway. \nThe task involves taking an existing lambda repo, removing the lambda wrapper and putting into a .net API wrapper.\nIt will also involve creation / setup of the AWS API gateway, addition of a codebuild pipeline, and testing.\n\nDeliverables:\nWorking API Gateway, Codebuild, and EC2 setup."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 36000000,
+      "countryTimezone": "Australia (UTC\u002B10:00)",
+      "city": "Brisbane",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 44,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 34,
+      "score": 4.97767151,
+      "totalJobsWithHires": 41,
+      "hoursCount": 3349.000016,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 53844.74
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2011-06-09T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 47,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 15.79641975134586
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

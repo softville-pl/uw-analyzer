@@ -68,5 +68,5 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
     }
 
     private static string GetSearchQuery(int page, int pageSize) =>
-        $"ab/jobs/search/url?contractor_tier=3&hourly_rate=50-&page={page}&per_page={pageSize}&q=.net&sort=recency&t=0";
+        $"ab/jobs/search/url?hourly_rate=50-&page={page}&per_page={pageSize}&q=.net&sort=recency&t=0";
 }

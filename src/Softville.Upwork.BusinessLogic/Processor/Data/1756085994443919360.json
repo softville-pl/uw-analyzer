@@ -1,0 +1,269 @@
+{
+  "job": {
+    "ciphertext": "~01ed73a4b0cea209cd",
+    "rid": 1011239725,
+    "uid": "1756085994443919360",
+    "type": 2,
+    "access": 4,
+    "title": "Mobile reporting and alerts",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-09T22:41:42.477Z",
+    "postedOn": "2024-02-09T22:41:43.982Z",
+    "publishTime": "2024-02-09T22:41:43.982Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1006550620,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 150
+    },
+    "contractorTier": 2,
+    "description": "I am a product manager looking to hire a developer to support my client\u0027s project.\n\nPreliminary information on the project (meeting next week for detailed requirements):\n\nCurrent state\n-They have SQL db with customer performance data\n-They have internal site (not mobile friendly). Believe it\u0027s built in .net framework (asp.net)\n-No visibility into customer performance via internal site\n\nDesired state\n-Mobile friendly pages to access customer performance data. I believe web based but possibly mobile app\n-Real time data availability\n-Filter and query options on mobile\n-Email reports based on user specific preferences/data\n-Want experience built in their current UI (rather than reporting platform such as PowerBI)\n\nThis is based on the very little context I got from our client\u0027s initial call. We are meeting next week to work through all requirements/details.\n\nI\u0027m looking for someone who has general confidence in the above ask and can help provide architectural guidance and execute the work.\n\n\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Argentina",
+        "Chile",
+        "Colombia",
+        "India",
+        "Philippines",
+        "Indonesia",
+        "Japan",
+        "Mexico",
+        "Puerto Rico",
+        "Thailand",
+        "United States"
+      ],
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-21T21:35:38.867Z",
+      "totalApplicants": 25,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "576",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a talented individual to assist us with a project focused on mobile reporting and alerts. The ideal candidate will have a strong background in SQL, .NET Framework, mobile app development, and API integration. \n\nThe project is expected to last between 1 to 3 months, depending on the complexity and scope of the work. \n\nTo apply for this job, please submit a detailed proposal outlining how you can help us with this project. Please include information about your experience in mobile reporting and alerts, as well as any relevant links to past completed projects. We are particularly interested in seeing examples of your work that showcase your skills in SQL, .NET Framework, mobile app development, and API integration. \n\nWe look forward to reviewing your proposal and discussing this project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-09T22:41:43.982Z",
+        "totalTimeJobPostFlowAIv2": "1160",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626760125923328\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "558",
+        "totalTimeSpentOnReviewPageAIv2": "35",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1707517341298",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Mobile reporting and alerts",
+        "finalDescriptionAI": "I am a product manager looking to hire a developer to support my client\u0027s project.\n\nPreliminary information on the project (meeting next week for detailed requirements):\n\nCurrent state\n-They have SQL db with customer performance data\n-They have internal site (not mobile friendly). Believe it\u0027s built in .net framework (asp.net)\n-No visibility into customer performance via internal site\n\nDesired state\n-Mobile friendly pages to access customer performance data\n-Real time data availability\n-Filter and query options on mobile\n-Email reports based on user specific preferences/data\n-Want experience built in their current UI (rather than reporting platform such as PowerBI)\n\nThis is based on the very little context I got from our client\u0027s initial call. We are meeting next week to work through all requirements/details.\n\nI\u0027m looking for someone who has general confidence in the above ask and can help provide architectural guidance and execute the work.\n\n\n\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -28800000,
+      "countryTimezone": "United States (America/T)",
+      "city": "TACOMA",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 7,
+      "hoursCount": 7.333334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 318.91
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-12-20T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 25.00090681809938
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe),country=(Argentina,Chile,Colombia,India,Philippines,Indonesia,Japan,Mexico,Puerto Rico,Thailand,United States)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Americas, Europe, Argentina, Chile, Colombia, India, Philippines, Indonesia, Japan, Mexico, Puerto Rico, Thailand, United States"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

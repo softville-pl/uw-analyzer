@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01597ef081e840b8a4",
+    "rid": 1011340119,
+    "uid": "1757863547437645824",
+    "type": 2,
+    "access": 4,
+    "title": "Freelance .net",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-14T20:25:04.329Z",
+    "postedOn": "2024-02-14T20:25:04.803Z",
+    "publishTime": "2024-02-14T20:25:04.803Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1009947695,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 2,
+    "description": "Cerchiamo per progetto continuativo di circa 2 mesi full time, uno sviluppatore  Fullstack .NET (Freelance).\n\n- C#, ASP.NET MVC, ASP.NET Core, Entity Framework Core, REST Web\nAPI, LINQ, SignalR\n- JavaScript, ES6, Typescript\n- SQL Server, MySQL, Redis\n- TSQL, Stored Procedures, implementazione database\n- React, Redux\n- HTML5, Bootstrap, CSS3, jQuery, ElasticUI\n- xUnit, Git, Microsoft Azure DevOps\n- Sviluppo Microservizi",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-16T17:28:33.222Z",
+      "totalApplicants": 64,
+      "totalHired": 0,
+      "totalInvitedToInterview": 7,
+      "unansweredInvites": 14,
+      "invitationsSent": 21
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "207",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a skilled freelance .NET developer to join our team for a project that will last 1 to 3 months. The ideal candidate should have experience with API development, .NET Core, .NET Framework, ASP.NET, Microsoft SQL Server, JavaScript, C#, and ASP.NET MVC.\n\nAs a freelance .NET developer, your main responsibility will be to assist us in developing and maintaining our existing .NET applications. You will also be involved in designing, coding, and testing new features. \n\nTo apply for this position, please submit a detailed proposal outlining how you can contribute to this project. We would like you to provide examples of past completed projects that showcase your expertise in .NET development. Please include links to the projects you have worked on, demonstrating your proficiency in the required technologies.\n\nWe look forward to reviewing your proposals and discussing this exciting opportunity further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-14T20:25:04.803Z",
+        "totalTimeJobPostFlowAIv2": "326",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "88",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1707942009721",
+        "finalDescriptionAI": "Cerchiamo per progetto continuativo di circa 2 mesi full time, uno sviluppatore  Fullstack .NET (Freelance).\n\n- C#, ASP.NET MVC, ASP.NET Core, Entity Framework Core, REST Web\nAPI, LINQ, SignalR\n- JavaScript, ES6, Typescript\n- SQL Server, MySQL, Redis\n- TSQL, Stored Procedures, implementazione database\n- React, Redux\n- HTML5, Bootstrap, CSS3, jQuery, ElasticUI\n- xUnit, Git, Microsoft Azure DevOps\n- Sviluppo Microservizi",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Freelance .net"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Italy (Europe/Be)",
+      "city": null,
+      "country": "Italy"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 4,
+      "hoursCount": 33.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2277
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-09-19T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Travel \u0026 Hospitality",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 49.999898994975894
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

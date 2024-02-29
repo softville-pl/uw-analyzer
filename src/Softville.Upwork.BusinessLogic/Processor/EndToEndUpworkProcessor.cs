@@ -45,13 +45,13 @@ internal class EndToEndUpworkProcessor(
 
             string offerDetailsContent;
 
-            if (Path.Exists(outputPath))
-            {
-                logger.LogWarning("'{@upworkId}' offer details exists. Skipping.", upworkId);
-
-                offerDetailsContent = await File.ReadAllTextAsync(outputPath, ct);
-            }
-            else
+            // if (Path.Exists(outputPath))
+            // {
+            //     logger.LogWarning("'{@upworkId}' offer details exists. Skipping.", upworkId);
+            //
+            //     offerDetailsContent = await File.ReadAllTextAsync(outputPath, ct);
+            // }
+            // else
             {
                 var applicantsStatsTask = statsProvider.GetBidsStatsAsync(upworkId, ct);
 

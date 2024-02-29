@@ -93,7 +93,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-28T18:13:54.216Z",
-      "totalApplicants": 82,
+      "totalApplicants": 84,
       "totalHired": 0,
       "totalInvitedToInterview": 5,
       "unansweredInvites": 0,
@@ -218,7 +218,7 @@
           }
         ]
       },
-      "applied": null,
+      "applied": true,
       "hired": null,
       "contract": null,
       "profileState": 10,
@@ -227,7 +227,10 @@
         "amount": 56
       },
       "devProfileCiphertext": "~01256f0be21d7e2c1e",
-      "application": null,
+      "application": {
+        "vjApplicationUid": "1763239675557408769",
+        "vendorOrgUid": "829312457188573185"
+      },
       "pendingInvite": null
     }
   },

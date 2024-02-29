@@ -1,0 +1,258 @@
+{
+  "job": {
+    "ciphertext": "~01e843dcde7ffe74d6",
+    "rid": 1011078359,
+    "uid": "1753399579270914048",
+    "type": 2,
+    "access": 1,
+    "title": "App for Windows Store - Proof Of Concept",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-02T12:46:51.271Z",
+    "postedOn": "2024-02-02T12:46:51.922Z",
+    "publishTime": "2024-02-02T12:46:51.922Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 6129580,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 2,
+    "description": "\uD83D\uDCCD Proxy Browser\nWe are looking for a Windows App developer who can assist us in building a Proxy browser app designed for the Windows Store. To keep things simple, the initial scope will include a proof of concept that explores the technical feasibility of the core functionality.\n\n Requirements for Proof of Concept\n\n\u27A1\uFE0F General Information:\n---------------------------------\n\uD83D\uDC49 Ability to submit the installer into the Windows Store in .appxupload format (cannot be an exe file).\n\uD83D\uDC49 Maximum possible support for Windows OS (10, 11), including Xbox.\n\uD83D\uDC49 Ideally written in XAML, C#.\n\uD83D\uDC49 Source code included - as a Github repository\n\uD83D\uDC49 Time and willingness to continue on other phases of this project, which will include implementation of final design, browser tabs, advanced functionality like communication between Webview content and app frame using postMessage\n\n\u27A1\uFE0F Functionality:\n---------------------------------\n\uD83D\uDC49 Core functionality: The Webview2 component can load webpages via a proxy server to simulate webpages from different locations.\n\uD83D\uDC49 Ability to switch between 2 proxy servers (more in the future) in real-time using a location switcher. The location switch will result in a page reload in Webview2 via a different proxy server.\n\uD83D\uDC49 Proxy server credentials will be delivered before the project starts.\n\uD83D\uDC49 Basic navigation for navigating within Webview2.\n   - Back, Forward, Go to Home page (e.g., google.com).\n   - An address bar where the URL of some webpage can be inserted.\n\uD83D\uDC49 Safely stored proxy credentials to prevent compromise.\n\uD83D\uDC49 Design in the current phase does not matter - keep focus on functionality and make things as simple as possible.",
+    "attachments": [
+      {
+        "fileName": "brief.pdf",
+        "length": 215976,
+        "uri": "/att/download/openings/1753399579270914048/attachments/13a648e7-55c2-48d7-8d29-96addfb5dd29/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-03T22:47:28.013Z",
+      "totalApplicants": 19,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 2,
+      "invitationsSent": 4
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "397",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for an experienced developer to create a proof of concept app for the Windows Store. The app will be developed using C# and XAML. The project is expected to be completed in less than 1 month.\n\nThe candidate should submit a proposal detailing their experience and how they can assist with the project. We are particularly interested in candidates who have prior experience developing apps for the Windows Store and who are proficient in C# and XAML.\n\nPlease include links to past completed projects that demonstrate your skills in app development for the Windows Store. We will review all proposals and select the candidate who best meets our requirements and demonstrates the ability to deliver a high-quality proof of concept app.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-02T12:46:51.922Z",
+        "totalTimeJobPostFlowAIv2": "729",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826496\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u00221031626792128462848\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u00221031626796670894080\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u00221031626759559692288\u0022,\u0022parentSkillUid\u0022:\u00221225465937681158144\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022freeText\u0022:\u0022UWP\u0022},{\u0022freeText\u0022:\u0022WPF\u0022},{\u0022skillUid\u0022:\u00221031626796855443456\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "210",
+        "totalTimeSpentOnReviewPageAIv2": "194",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1706877281592",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "App for Windows Store - Proof Of Concept",
+        "finalDescriptionAI": "\uD83D\uDCCD Proxy Browser\nWe are looking for a Windows App developer who can assist us in building a Proxy browser app designed for the Windows Store. To keep things simple, the initial scope will include a proof of concept that explores the technical feasibility of the core functionality.\n\n Requirements for Proof of Concept\n\n\u27A1\uFE0F General Information:\n---------------------------------\n\uD83D\uDC49 Ability to submit the installer into the Windows Store in .appxupload format (cannot be an exe file).\n\uD83D\uDC49 Maximum possible support for Windows OS (10, 11), including Xbox.\n\uD83D\uDC49 Ideally written in XAML, C#.\n\uD83D\uDC49 Source code included - as a Github repository\n\uD83D\uDC49 Time and willingness to continue on other phases of this project, which will include implementation of final design, browser tabs, advanced functionality like communication between Webview content and app frame using postMessage\n\n\u27A1\uFE0F Functionality:\n---------------------------------\n\uD83D\uDC49 Core functionality: The Webview2 component can load webpages via a proxy server to simulate webpages from different locations.\n\uD83D\uDC49 Ability to switch between 2 proxy servers (more in the future) in real-time using a location switcher. The location switch will result in a page reload in Webview2 via a different proxy server.\n\uD83D\uDC49 Proxy server credentials will be delivered before the project starts.\n\uD83D\uDC49 Basic navigation for navigating within Webview2.\n   - Back, Forward, Go to Home page (e.g., google.com).\n   - An address bar where the URL of some webpage can be inserted.\n\uD83D\uDC49 Safely stored proxy credentials to prevent compromise.\n\uD83D\uDC49 Design in the current phase does not matter - keep focus on functionality and make things as simple as possible."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Czech Republic (UTC\u002B01:00)",
+      "city": "Prague 9",
+      "country": "Czech Republic"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2450
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2019-03-26T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

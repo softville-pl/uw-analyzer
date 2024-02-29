@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01ef1e3327a44af871",
+    "rid": 1011030066,
+    "uid": "1752665432510275584",
+    "type": 2,
+    "access": 4,
+    "title": ".NET MAUI iOS Application",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-31T12:09:37.127Z",
+    "postedOn": "2024-01-31T12:09:37.641Z",
+    "publishTime": "2024-01-31T12:09:37.641Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 7543516,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 2,
+    "description": "I have working .NET MAUI application, it uses latest .NET 8.0 and vanila MAUI pages. It runs on Windows, macOS, iOS and Android with no problem, but application itself is rather simple at this point.\n\nRight now I am looking forward to improive iOS client in particular with some new functionalities. These include but are not limited to: taking selfies with frontal camera, uploading pictures to server, comunication with back-end over HTTP etc.\n\niOS application is already distributed and available on TestFlight.\n\nIt has 4 screens in total and user flow is pretty straight-forward. Application has no authentication or authorization at this point. \n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-02T14:31:16.689Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "698",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced developer to assist with our .NET MAUI iOS application. The project duration is expected to be less than 1 month. \n\nThe ideal candidate should have a strong background in C#, .NET Framework, and Xamarin. They should be familiar with developing applications for iOS using the .NET MAUI framework. \n\nThe primary goal of this project is to develop a robust and user-friendly iOS application that meets our specific requirements. The candidate should be able to demonstrate their ability to develop high-quality applications by providing links to their past completed projects. \n\nTo apply for this position, please submit a proposal outlining how you can contribute to the success of this project. Be sure to include relevant experience, expertise, and any additional information that showcases your skills. Don\u0027t forget to provide links to your past completed projects as well. We look forward to reviewing your proposals.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-31T12:09:37.641Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628012691467\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "415",
+        "totalTimeSpentOnReviewPageAIv2": "311",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1706701878952",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": ".NET MAUI iOS Application",
+        "finalDescriptionAI": "I have working .NET MAUI application, it uses latest .NET 8.0 and vanila MAUI pages. It runs on Windows, macOS, iOS and Android with no problem, but application itself is rather simple at this point.\n\nRight now I am looking forward to improive iOS client in particular with some new functionalities. These include but are not limited to: taking selfies with frontal camera, uploading pictures to server, comunication with back-end over HTTP etc.\n\niOS application is already distributed and available on TestFlight.\n\nIt has 4 screens in total and user flow is pretty straight-forward. Application has no authentication or authorization at this point. \n\nI have attached some screenshots with sensitive data removed."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Ukraine (UTC\u002B02:00)",
+      "city": "Kharkov",
+      "country": "Ukraine"
+    },
+    "stats": {
+      "totalAssignments": 7,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 4,
+      "score": 5,
+      "totalJobsWithHires": 5,
+      "hoursCount": 540.16667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 9404.83
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-05-04T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 9,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 17.318432475665336
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

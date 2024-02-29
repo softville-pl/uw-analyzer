@@ -1,0 +1,252 @@
+{
+  "job": {
+    "ciphertext": "~0172cdee6a38bc58a9",
+    "rid": 1010522748,
+    "uid": "1744178211365830656",
+    "type": 2,
+    "access": 4,
+    "title": "Junior Software Dev \u0026 Support (Australia/New Zealand only!)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-01-08T02:04:25.746Z",
+    "postedOn": "2024-02-14T00:53:47.748Z",
+    "publishTime": "2024-01-08T02:04:26.372Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2181919,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 2,
+    "description": "We are a real estate tech startup building software products and integrations for the industry.\nWe support Australia, New Zealand, USA and UK clients. \nOur current development team is based in India. We are seeking an Australian/New Zealand team member to cover earlier hours for dev and support. You\u0027ll be available from 9am AEST.\n\nWe\u0027re working on a variety of projects and code bases so you\u0027ll be flexible and willing to learn. Primary experience should be in nodejs and react/angular. we also have projects in php, wordpress, .NET. \n\nAs a team, we\u0027re all remote. you\u0027ll report with the CEO based in Brisbane and work along side our global team including principal engineer in India, Project Manager in South Africa and clients internationally.\nDay to day we use Slack, Clickup, Github, AWS.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Australia",
+        "New Zealand"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-02-20T09:20:34.707Z",
+      "totalApplicants": 20,
+      "totalHired": 2,
+      "totalInvitedToInterview": 11,
+      "unansweredInvites": 14,
+      "invitationsSent": 41
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "501",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "sourcingTime": "2024-02-14T00:53:47.748Z",
+        "browser": "Chrome",
+        "generatedDescriptionAI": "We are seeking a Junior Software Developer \u0026 Support specialist based in Australia or New Zealand for a short-term project lasting less than one month. The ideal candidate will have experience in web development, SQL, customer service, React, and the NodeJS framework.\n\nResponsibilities will include providing technical support to clients, troubleshooting software issues, and assisting with the development of web applications. We are looking for someone who can work independently and collaboratively with our team to deliver high-quality solutions.\n\nTo apply, please submit a proposal outlining your relevant experience and how you can contribute to this project. Additionally, include links to past completed projects that demonstrate your skills and abilities.\n\nPlease note that applications from candidates outside of Australia or New Zealand will not be considered for this position.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-01-08T02:04:26.372Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626773660942336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626729100656640\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221484275193301618688\u0022}]",
+        "sourcingUpdateCount": "1",
+        "totalDescriptionEditingTimeAI": "500",
+        "totalTimeSpentOnReviewPageAIv2": "32",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1704678672121",
+        "finalDescriptionAI": "We are a real estate tech startup building software products and integrations for the industry.\nWe support Australia, New Zealand, USA and UK clients. \nOur current development team is based in India. We are seeking an Australian/New Zealand team member to cover earlier hours for dev and support. You\u0027ll be available from 9am AEST.\n\nWe\u0027re working on a variety of projects and code bases so you\u0027ll be flexible and willing to learn. Primary experience should be in nodejs and react/angular. we also have projects in php, wordpress, .NET. \n\nAs a team, we\u0027re all remote. you\u0027ll report with the CEO based in Brisbane and work along side our global team including principal engineer in India, Project Manager in South Africa and clients internationally.\nDay to day we use Slack, Clickup, Github, AWS.",
+        "inputsTitleAI": "Junior Software Dev \u0026 Support (Australia/New Zealand only!)",
+        "inputsDurationAI": "474250516458926083"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": null,
+      "countryTimezone": null,
+      "city": "Windsor",
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 77,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 24,
+      "score": 4.955262812,
+      "totalJobsWithHires": 62,
+      "hoursCount": 1342.500011,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 52188.22
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2012-01-12T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 83,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.580200956884756
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Australia,New Zealand)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Australia, New Zealand"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
