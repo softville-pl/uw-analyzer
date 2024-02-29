@@ -17,6 +17,7 @@ az storage account create `
     --resource-group $rg_name `
     --location $location `
     --sku Standard_LRS `
+    --allow-shared-key-access true `
     --tags $app_tag $env_tag $scenario_tag
 
 # Create the blob container
