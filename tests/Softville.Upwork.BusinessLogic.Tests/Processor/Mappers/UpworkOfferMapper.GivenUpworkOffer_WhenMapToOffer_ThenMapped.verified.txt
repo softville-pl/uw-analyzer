@@ -105,5 +105,22 @@
       }
     ]
   },
-  Stats: {}
+  Stats: {
+    MinRateBid: {
+      CurrencyCode: ??,
+      Amount: -1.0
+    },
+    AvgRateBid: {
+      CurrencyCode: ??,
+      Amount: -1.0
+    },
+    MaxRateBid: {
+      CurrencyCode: ??,
+      Amount: -1.0
+    },
+    AvgInterviewedRateBid: {
+      CurrencyCode: ??,
+      Amount: -1.0
+    }
+  }
 }
