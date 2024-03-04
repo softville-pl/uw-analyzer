@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~01432cb0665b54250b",
+    "rid": 1011697520,
+    "uid": "1763708918149644288",
+    "type": 2,
+    "access": 4,
+    "title": "Technical Manager",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T23:32:29.108Z",
+    "postedOn": "2024-03-01T23:32:29.520Z",
+    "publishTime": "2024-03-01T23:32:29.520Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2705322,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 88
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re looking for an experienced technical professional that is well versed in the Microsoft technology stack, to take on a key role within our team. This role has the potential for both customer-facing engagements as well as internal projects. Qualified candidates will have experience in at least some of the following areas:\n\n*Microsoft SQL\n*.NET Development\n*Technical Project Management/Product Ownership\n*Microsoft Dynamics\n*Management of technical teams\n\nWe\u0027re looking for a self-driven, professional, and service-oriented individual (no agencies or companies please). ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-02T02:03:26.663Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "186",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a highly skilled Technical Manager to join our team for a long-term project of more than 6 months. As a Technical Manager, you will be responsible for overseeing and coordinating various technical aspects of our projects.\n\nKey skills required for this role include proficiency in SQL, Technical Project Management, and .NET Core. You should have a deep understanding of database management, project planning, and software development.\n\nWe are looking for a candidate who can take ownership of the technical aspects of our projects, ensuring smooth execution and timely delivery. Your responsibilities will include managing technical resources, coordinating with stakeholders, and troubleshooting any technical issues that arise.\n\nTo apply for this position, please submit a detailed proposal outlining how you can contribute to our project. Additionally, we would appreciate if you could provide links to any past projects you have completed that demonstrate your skills in SQL, Technical Project Management, and .NET Core.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-01T23:32:29.520Z",
+        "totalTimeJobPostFlowAIv2": "384",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221110580699231408128\u0022},{\u0022skillUid\u0022:\u00221110580710090461184\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "184",
+        "totalTimeSpentOnReviewPageAIv2": "52",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709335563688",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Technical Manager",
+        "finalDescriptionAI": "We\u0027re looking for an experienced technical professional that is well versed in the Microsoft technology stack, to take on a key role within our team. This role has the potential for both customer-facing engagements as well as internal projects. Qualified candidates will have experience in at least some of the following areas:\n\n*Microsoft SQL\n*.NET Development\n*Technical Project Management/Product Ownership\n*Microsoft Dynamics\n*Management of technical teams\n\nWe\u0027re looking for a self-driven, professional, and service-oriented individual (no agencies or companies please). "
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -32400000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "Sheridan",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 101,
+      "activeAssignmentsCount": 9,
+      "feedbackCount": 68,
+      "score": 4.858944419,
+      "totalJobsWithHires": 92,
+      "hoursCount": 2446.500008,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 70623.59
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-01-31T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 146,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 26.60856316661823
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

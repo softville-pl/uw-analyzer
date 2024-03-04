@@ -93,8 +93,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-09T12:28:15.068Z",
-      "totalApplicants": 80,
+      "lastBuyerActivity": "2024-03-01T08:54:57.440Z",
+      "totalApplicants": 42,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -133,12 +133,12 @@
       "country": "Estonia"
     },
     "stats": {
-      "totalAssignments": 20,
+      "totalAssignments": 21,
       "activeAssignmentsCount": 10,
       "feedbackCount": 5,
       "score": 4.442360537,
-      "totalJobsWithHires": 14,
-      "hoursCount": 14181.500042,
+      "totalJobsWithHires": 15,
+      "hoursCount": 14236.833376,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 541386.15
@@ -160,7 +160,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 32.57359931120889
+      "amount": 32.59341369986404
     }
   },
   "currentUserInfo": {

@@ -179,7 +179,7 @@ public class TotalCharges
 public class Company
 {
     public bool IsEDCReplicated { get; set; }
-    public DateTime ContractDate { get; set; }
+    public DateTime? ContractDate { get; set; }
     public Profile? Profile { get; set; }
 }
 

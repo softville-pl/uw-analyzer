@@ -1,0 +1,236 @@
+{
+  "job": {
+    "ciphertext": "~015cd5481bafaa291b",
+    "rid": 1011700076,
+    "uid": "1763774508794073088",
+    "type": 2,
+    "access": 4,
+    "title": "Connectwise reverse engineering",
+    "status": 1,
+    "category": {
+      "name": "Information Security \u0026 Compliance",
+      "urlSlug": "information-security-compliance"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-02T03:53:07.130Z",
+    "postedOn": "2024-03-02T03:53:07.733Z",
+    "publishTime": "2024-03-02T03:53:07.733Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012386458,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 150
+    },
+    "contractorTier": 3,
+    "description": "Need reverse engineering and understand the coding structure.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-02T08:26:05.916Z",
+      "totalApplicants": 5,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 5,
+      "invitationsSent": 9
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-03-02T03:53:07.733Z",
+        "totalTimeJobPostFlowAIv2": "100",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "2",
+        "type": "FJP",
+        "optInDescriptionAIv2": "no",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Connectwise reverse engineering\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626775099588608\u0022},{\u0022skillUid\u0022:\u0022996364628025274381\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926083\u0022,\u0022segmentation\u0022:\u0022535794351185620993\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:40,\u0022hourlyBudgetMax\u0022:150,\u0022amount\u0022:null}}",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Connectwise Reverse Engineering Specialist\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626775099588608\u0022},{\u0022skillUid\u0022:\u0022996364628025274381\u0022},{\u0022skillUid\u0022:\u00221031626759672938496\u0022},{\u0022skillUid\u0022:\u00221031626759643578368\u0022},{\u0022skillUid\u0022:\u00221031626784536772608\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926082\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{}}",
+        "jpgV2Prompt": "Connectwise reverse engineering",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709351486287",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:6,\u0022description\u0022:\u0022We are seeking a Connectwise reverse engineering specialist to assist us in understanding the inner workings of the Connectwise platform. The ideal candidate should have extensive knowledge and experience with Connectwise and be able to reverse engineer its various components. The main responsibilities of this role will include analyzing and understanding the database schema, dissecting the codebase, and identifying potential vulnerabilities. The successful candidate will also be expected to provide recommendations for improvements and optimizations.  \\n\\nRelevant skills:\\n- Connectwise expertise\\n- Reverse engineering experience\\n- Database analysis\\n- Understanding of codebases\\n- Cybersecurity knowledge\u0022,\u0022editedDescription\u0022:\u0022We are seeking a Connectwise reverse engineering specialist to assist us in understanding the inner workings of the Connectwise platform. The ideal candidate should have extensive knowledge and experience with Connectwise and be able to reverse engineer its various components. The main responsibilities of this role will include analyzing and understanding the database schema, dissecting the codebase, and identifying potential vulnerabilities. The successful candidate will also be expected to provide recommendations for improvements and optimizations.  \\n\\nRelevant skills:\\n- Connectwise expertise\\n- Reverse engineering experience\\n- Database analysis\\n- Understanding of codebases\\n- Cybersecurity knowledge\u0022,\u0022similarityScore\u0022:1}]"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-03-02T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Education",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

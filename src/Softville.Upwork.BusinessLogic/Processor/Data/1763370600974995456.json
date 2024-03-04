@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01425900f8d06fd04f",
+    "rid": 1011675198,
+    "uid": "1763370600974995456",
+    "type": 2,
+    "access": 4,
+    "title": "Senior .NET Software Developer with Angular experience",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T01:08:08.144Z",
+    "postedOn": "2024-03-01T01:33:13.131Z",
+    "publishTime": "2024-03-01T01:33:13.131Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 9277573,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Hi, \n\nI need a Senior .Net Software Developer with Angular experience to join our cross-functional team to develop and scale HR, Tax, and compliance software platforms. This role offers a collaborative environment for growth, working with new technologies that directly impact customers.\n\nResponsibilities:\n- Maintain and enhance existing solutions for optimal performance and availability.\n- Design and deploy innovative, scalable solutions.\n- Collaborate with team members in an Agile (SCRUM) environment.\n\nRequirements:\n- Bachelor\u2019s in Computer Science or related field.\n- 4\u002B years in software development, with expertise in .NET and C#.\n- Proficiency in Angular (v8\u002B), SQL Server, web services (SOAP, REST, JSON), HTML, CSS, and JavaScript.\n- Experience with API development and integrating third-party tools.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-01T14:57:10.215Z",
+      "totalApplicants": 285,
+      "totalHired": 0,
+      "totalInvitedToInterview": 7,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "193",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are in search of a talented Senior .NET Software Developer with Angular experience to join our team for a long-term project of more than 6 months. As a developer, you will be responsible for designing, coding, and modifying software applications using the latest technologies, including SQL, .NET Framework, ASP.NET, Angular, and C#.\n\nTo be successful in this role, you should have a strong understanding of software development life cycle methodologies and experience working in Agile environments. You should also have a solid understanding of web application development and possess excellent problem-solving skills.\n\nIf you are interested in this position, please submit a proposal that outlines how you can contribute to our project. Additionally, please include links to any relevant past completed projects that demonstrate your skills and expertise. We look forward to reviewing your proposals and finding the ideal candidate to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-01T01:33:13.131Z",
+        "totalTimeJobPostFlowAIv2": "388",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626782364123136\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "168",
+        "totalTimeSpentOnReviewPageAIv2": "27",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709254890958",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Senior .NET Software Developer with Angular experience",
+        "finalDescriptionAI": "Hi, \n\nI need a Senior .Net Software Developer with Angular experience to join our cross-functional team to develop and scale HR, Tax, and compliance software platforms. This role offers a collaborative environment for growth, working with new technologies that directly impact customers.\n\nResponsibilities:\n- Maintain and enhance existing solutions for optimal performance and availability.\n- Design and deploy innovative, scalable solutions.\n- Collaborate with team members in an Agile (SCRUM) environment.\n\nRequirements:\n- Bachelor\u2019s in Computer Science or related field.\n- 4\u002B years in software development, with expertise in .NET and C#.\n- Proficiency in Angular (v8\u002B), SQL Server, web services (SOAP, REST, JSON), HTML, CSS, and JavaScript.\n- Experience with API development and integrating third-party tools."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-04:00)",
+      "city": "Fort Myers",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 4,
+      "score": 5,
+      "totalJobsWithHires": 6,
+      "hoursCount": 601.333333,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 12788.53
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-04-07T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 19,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 20.447062095591498
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

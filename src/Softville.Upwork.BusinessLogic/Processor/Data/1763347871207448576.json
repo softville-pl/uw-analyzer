@@ -1,0 +1,235 @@
+{
+  "job": {
+    "ciphertext": "~01aa551bb358fcfe75",
+    "rid": 1011673947,
+    "uid": "1763347871207448576",
+    "type": 2,
+    "access": 4,
+    "title": "SQL Server Database Modernisation Specialist",
+    "status": 1,
+    "category": {
+      "name": "Database Management \u0026 Administration",
+      "urlSlug": "database-management-administration"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-29T23:37:48.852Z",
+    "postedOn": "2024-02-29T23:37:49.376Z",
+    "publishTime": "2024-02-29T23:37:49.376Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1012373539,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "As a Database Modernization Specialist, you will play a crucial role in optimizing our database infrastructure to support enhanced performance, scalability, and reliability. You will lead efforts to rewrite and optimize queries, redesign indexes, and implement a robust maintenance plan to ensure our databases meet the evolving needs of our applications and services. Your expertise will also guide the design and implementation of a change data capture regime to support real-time data processing and analytics.\n\nKey Responsibilities:\n\u2022\tManage a production high-volume SQL server in Azure.\n\u2022\tConduct thorough assessments of current database structures and queries to identify optimization opportunities.\n\u2022\tRewrite and optimize SQL queries and indexes to improve performance and efficiency.\n\u2022\tDesign and implement a regular maintenance plan for database health, including backups, integrity checks, and performance tuning.\n\u2022\tDevelop and integrate a change data capture (CDC) strategy to enable effective data synchronization and real-time analytics.\n\u2022\tRefactor tables and stored procedures to enhance scalability and maintainability.\n\u2022\tCollaborate with development teams to ensure seamless integration of database changes into application layers, leveraging Entity Framework (EF) where applicable.\n\u2022\tProvide guidance and best practices on database design and management to the development team.\n\u2022\tStay abreast of the latest trends and technologies in database management and optimization to drive continuous improvement.\n\u2022\tWrite Ad-Hoc Reports: Utilize advanced SQL skills to create ad-hoc reports that support business decisions, demonstrating flexibility and responsiveness to immediate data analysis needs.\n\nQualifications:\n\u2022\tProven experience in database optimization, including query rewriting, index tuning, and performance troubleshooting.\n\u2022\tStrong understanding of SQL Server or comparable database technologies.\n\u2022\tExperience with database design principles, including normalization, partitioning, and data warehousing concepts. Knowledge of data warehouse implementation and maintenance is crucial.\n\u2022\tFamiliarity with change data capture (CDC) techniques and tools.\n\u2022\tDesirable: Experience with Microsoft Fabric, showcasing an ability to work with cutting-edge data warehousing and analytics platforms.\n\u2022\tExperience with Entity Framework (EF) and .NET development is highly desirable.\n\u2022\tStrong analytical and problem-solving skills, with a keen attention to detail.\n\u2022\tExcellent communication and collaboration skills, capable of working effectively in a team environment.\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Australia"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-01T02:25:24.726Z",
+      "totalApplicants": 16,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "sourcingUpdateForbidden": "false",
+        "totalDescriptionEditingTimeAIv2": "57",
+        "type": "FJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022SQL Server Database Modernisation Specialist\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221031626759224147968\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022},{\u0022skillUid\u0022:\u00221031626759249313792\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:50,\u0022hourlyBudgetMax\u0022:60,\u0022amount\u0022:null}}",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022SQL Server Database Modernisation Specialist\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626782364123136\u0022},{\u0022skillUid\u0022:\u00221031626759224147968\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022},{\u0022skillUid\u0022:\u00221031626759249313792\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926080\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:1},\u0022budget\u0022:{}}",
+        "generatedDescriptionAIv2": "Position: SQL Server Database Modernization Specialist\n\nWe are looking for a highly skilled and motivated SQL Server Database Modernization Specialist to join our team. In this role, you will play a crucial part in upgrading our existing database to the latest version. Your responsibilities will include assessing, designing, and implementing necessary changes to enhance performance and ensure maximum security.\n\nKey Responsibilities:\n- Evaluate the current database system and identify areas for improvement.\n- Design and implement modernization strategies to upgrade the database to the latest version.\n- Migrate data from legacy systems to the new database, ensuring accuracy and integrity.\n- Optimize SQL queries and improve overall database performance.\n- Implement robust security measures to protect sensitive data.\n- Collaborate with our team to ensure a smooth transition and seamless integration of the upgraded database.\n\nRequirements:\n- Extensive experience working with SQL Server, including database design and performance tuning.\n- Proficiency in Microsoft SQL Server Management Studio.\n- Strong analytical skills to assess and identify areas for improvement.\n- Excellent problem-solving abilities to troubleshoot and resolve database issues.\n- Strong understanding of data migration processes and best practices.\n- Ability to work collaboratively in a team environment and effectively communicate with stakeholders at all levels.\n\nIf you are a dedicated SQL Server Database Modernization Specialist with a passion for optimizing database performance and enhancing security, we would love to hear from you. Join our team and make a significant impact on our organization\u0027s data infrastructure.",
+        "browser": "Chrome",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:6,\u0022description\u0022:\u0022We are seeking a skilled SQL Server Database Modernisation Specialist to help upgrade our existing database to the latest version. The successful candidate will be responsible for assessing, designing, and implementing the required changes to ensure optimal performance and security. This includes migrating data from legacy systems, optimizing queries, and implementing security measures. The ideal candidate should have experience with SQL Server, database design, and performance tuning. They should also be proficient in Microsoft SQL Server Management Studio and able to work collaboratively with our team to ensure a seamless transition.\u0022,\u0022editedDescription\u0022:\u0022We are seeking a skilled SQL Server Database Modernisation Specialist to help upgrade our existing database to the latest version. The successful candidate will be responsible for assessing, designing, and implementing the required changes to ensure optimal performance and security. This includes migrating data from legacy systems, optimizing queries, and implementing security measures. The ideal candidate should have experience with SQL Server, database design, and performance tuning. They should also be proficient in Microsoft SQL Server Management Studio and able to work collaboratively with our team to ensure a seamless transition.\u0022,\u0022similarityScore\u0022:1},{\u0022description\u0022:\u0022Position: SQL Server Database Modernization Specialist\\n\\nWe are looking for a highly skilled and motivated SQL Server Database Modernization Specialist to join our team. In this role, you will play a crucial part in upgrading our existing database to the latest version. Your responsibilities will include assessing, designing, and implementing necessary changes to enhance performance and ensure maximum security.\\n\\nKey Responsibilities:\\n- Evaluate the current database system and identify areas for improvement.\\n- Design and implement modernization strategies to upgrade the database to the latest version.\\n- Migrate data from legacy systems to the new database, ensuring accuracy and integrity.\\n- Optimize SQL queries and improve overall database performance.\\n- Implement robust security measures to protect sensitive data.\\n- Collaborate with our team to ensure a smooth transition and seamless integration of the upgraded database.\\n\\nRequirements:\\n- Extensive experience working with SQL Server, including database design and performance tuning.\\n- Proficiency in Microsoft SQL Server Management Studio.\\n- Strong analytical skills to assess and identify areas for improvement.\\n- Excellent problem-solving abilities to troubleshoot and resolve database issues.\\n- Strong understanding of data migration processes and best practices.\\n- Ability to work collaboratively in a team environment and effectively communicate with stakeholders at all levels.\\n\\nIf you are a dedicated SQL Server Database Modernization Specialist with a passion for optimizing database performance and enhancing security, we would love to hear from you. Join our team and make a significant impact on our organization\u0027s data infrastructure.\u0022,\u0022timeSpent\u0022:6,\u0022tag\u0022:\u0022rewrite_it\u0022,\u0022editedDescription\u0022:\u0022As a Database Modernization Specialist, you will play a crucial role in optimizing our database infrastructure to support enhanced performance, scalability, and reliability. You will lead efforts to rewrite and optimize queries, redesign indexes, and implement a robust maintenance plan to ensure our databases meet the evolving needs of our applications and services. Your expertise will also guide the design and implementation of a change data capture regime to support real-time data processing and analytics.\\n\\nKey Responsibilities:\\n\u2022\\tManage a production high-volume SQL server in Azure.\\n\u2022\\tConduct thorough assessments of current database structures and queries to identify optimization opportunities.\\n\u2022\\tRewrite and optimize SQL queries and indexes to improve performance and efficiency.\\n\u2022\\tDesign and implement a regular maintenance plan for database health, including backups, integrity checks, and performance tuning.\\n\u2022\\tDevelop and integrate a change data capture (CDC) strategy to enable effective data synchronization and real-time analytics.\\n\u2022\\tRefactor tables and stored procedures to enhance scalability and maintainability.\\n\u2022\\tCollaborate with development teams to ensure seamless integration of database changes into application layers, leveraging Entity Framework (EF) where applicable.\\n\u2022\\tProvide guidance and best practices on database design and management to the development team.\\n\u2022\\tStay abreast of the latest trends and technologies in database management and optimization to drive continuous improvement.\\n\u2022\\tWrite Ad-Hoc Reports: Utilize advanced SQL skills to create ad-hoc reports that support business decisions, demonstrating flexibility and responsiveness to immediate data analysis needs.\\n\\nQualifications:\\n\u2022\\tProven experience in database optimization, including query rewriting, index tuning, and performance troubleshooting.\\n\u2022\\tStrong understanding of SQL Server or comparable database technologies.\\n\u2022\\tExperience with database design principles, including normalization, partitioning, and data warehousing concepts. Knowledge of data warehouse implementation and maintenance is crucial.\\n\u2022\\tFamiliarity with change data capture (CDC) techniques and tools.\\n\u2022\\tDesirable: Experience with Microsoft Fabric, showcasing an ability to work with cutting-edge data warehousing and analytics platforms.\\n\u2022\\tExperience with Entity Framework (EF) and .NET development is highly desirable.\\n\u2022\\tStrong analytical and problem-solving skills, with a keen attention to detail.\\n\u2022\\tExcellent communication and collaboration skills, capable of working effectively in a team environment.\\n\u0022,\u0022similarityScore\u0022:0.688177874186551}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-02-29T23:37:49.376Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnReviewPageAIv2": "590",
+        "optInDescriptionAIv2": "yes",
+        "finalDescriptionAIv2": "As a Database Modernization Specialist, you will play a crucial role in optimizing our database infrastructure to support enhanced performance, scalability, and reliability. You will lead efforts to rewrite and optimize queries, redesign indexes, and implement a robust maintenance plan to ensure our databases meet the evolving needs of our applications and services. Your expertise will also guide the design and implementation of a change data capture regime to support real-time data processing and analytics.\n\nKey Responsibilities:\n\u2022\tManage a production high-volume SQL server in Azure.\n\u2022\tConduct thorough assessments of current database structures and queries to identify optimization opportunities.\n\u2022\tRewrite and optimize SQL queries and indexes to improve performance and efficiency.\n\u2022\tDesign and implement a regular maintenance plan for database health, including backups, integrity checks, and performance tuning.\n\u2022\tDevelop and integrate a change data capture (CDC) strategy to enable effective data synchronization and real-time analytics.\n\u2022\tRefactor tables and stored procedures to enhance scalability and maintainability.\n\u2022\tCollaborate with development teams to ensure seamless integration of database changes into application layers, leveraging Entity Framework (EF) where applicable.\n\u2022\tProvide guidance and best practices on database design and management to the development team.\n\u2022\tStay abreast of the latest trends and technologies in database management and optimization to drive continuous improvement.\n\u2022\tWrite Ad-Hoc Reports: Utilize advanced SQL skills to create ad-hoc reports that support business decisions, demonstrating flexibility and responsiveness to immediate data analysis needs.\n\nQualifications:\n\u2022\tProven experience in database optimization, including query rewriting, index tuning, and performance troubleshooting.\n\u2022\tStrong understanding of SQL Server or comparable database technologies.\n\u2022\tExperience with database design principles, including normalization, partitioning, and data warehousing concepts. Knowledge of data warehouse implementation and maintenance is crucial.\n\u2022\tFamiliarity with change data capture (CDC) techniques and tools.\n\u2022\tDesirable: Experience with Microsoft Fabric, showcasing an ability to work with cutting-edge data warehousing and analytics platforms.\n\u2022\tExperience with Entity Framework (EF) and .NET development is highly desirable.\n\u2022\tStrong analytical and problem-solving skills, with a keen attention to detail.\n\u2022\tExcellent communication and collaboration skills, capable of working effectively in a team environment.\n",
+        "jpgV2Prompt": "SQL Server Database Modernisation Specialist",
+        "descriptionDifferenceScoreAIv2": "0.68817787418655",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709249143804",
+        "retriesAIv2": "2"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Australia (Etc/UTC)",
+      "city": null,
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-29T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 3,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Australia)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Australia"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,229 @@
+{
+  "job": {
+    "ciphertext": "~014f95777af101fb7c",
+    "rid": 1011682872,
+    "uid": "1763516314619170816",
+    "type": 2,
+    "access": 4,
+    "title": "Visual C\u002B\u002B Developer for a small project",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T10:47:09.061Z",
+    "postedOn": "2024-03-01T10:47:09.617Z",
+    "publishTime": "2024-03-01T10:47:09.617Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1000482096,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 16,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 2,
+    "description": "We\u0027ve a working Visual C\u002B\u002B software. We need to create a .NET Wrapper around it. All the data types have already been mapped. We need someone with experience who understand how C\u002B\u002B works and how we export functionality from C\u002B\u002B to .NET. \nThe work will be done remotely on a RDP environment, so a very good internet connection is required. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-01T10:49:15.277Z",
+      "totalApplicants": 26,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "searchable"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-01T10:47:09.617Z",
+        "reuse": "1762525555190587392",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "112",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Sweden (UTC)",
+      "city": "J\u00E4rf\u00E4lla",
+      "country": "Sweden"
+    },
+    "stats": {
+      "totalAssignments": 20,
+      "activeAssignmentsCount": 7,
+      "feedbackCount": 11,
+      "score": 4.999318099,
+      "totalJobsWithHires": 14,
+      "hoursCount": 2564.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 39474.93
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-04-24T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 18,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 14.973761454017062
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

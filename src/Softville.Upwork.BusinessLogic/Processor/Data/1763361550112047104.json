@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01c6d9e6f5fc23623f",
+    "rid": 1011674717,
+    "uid": "1763361550112047104",
+    "type": 2,
+    "access": 4,
+    "title": "Security Expert with C# (ASP.NET) and React Knowledge",
+    "status": 1,
+    "category": {
+      "name": "Information Security \u0026 Compliance",
+      "urlSlug": "information-security-compliance"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T00:32:10.113Z",
+    "postedOn": "2024-03-01T00:32:10.497Z",
+    "publishTime": "2024-03-01T00:32:10.497Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1007099545,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Company Overview:\nWe are a leading German IT company, renowned for developing reliable and high-quality software solutions for our clients. Our commitment to excellence and innovation has positioned us as a trusted partner in the technology sector.\n\nJob Brief:\nWe are currently seeking a highly skilled and experienced Security Expert to conduct a thorough analysis and testing of our login service. This short-term engagement is crucial for identifying and addressing potential security vulnerabilities within our system.\n\nKey Responsibilities:\n- Perform comprehensive security analysis of our login service, focusing on C# (ASP.NET) and React components.\n- Identify vulnerabilities, assess risks, and provide actionable recommendations for enhancing security.\n- Test the implementation of OAuth 2.0 and other login flows to ensure they meet the highest security standards.\n- Deliver a detailed report on findings and collaborate with our development team to prioritize and address issues.\n\nRequirements:\n- Proven expertise in cybersecurity, specifically in analyzing and securing login systems.\n- Extensive experience with C# (ASP.NET), React, OAuth 2.0, and login flows.\n- A strong track record in the IT security industry, demonstrating a deep understanding of best practices and current threats.\n- Excellent problem-solving skills and the ability to communicate complex security concepts.\n- Independent, with meticulous attention to detail and a commitment to delivering high-quality work.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-01T00:34:33.724Z",
+      "totalApplicants": 30,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 0,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "205",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a Security Expert with experience in C# (ASP.NET) and React to assist us with a project. The job length is less than 1 month. \n\nResponsibilities include ensuring the security of our web application built on ASP.NET and React frameworks. The ideal candidate should have a strong understanding of user authentication and authorization processes, as well as experience in implementing security best practices. \n\nTo apply, please submit a proposal detailing how you can contribute to this project. We would like to hear about your relevant experience and how you plan to approach the security aspects of the application. Additionally, please provide links to past completed projects that showcase your skills in C# (ASP.NET) and React. \n\nWe look forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-01T00:32:10.497Z",
+        "totalTimeJobPostFlowAIv2": "347",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628016885777\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "75",
+        "totalTimeSpentOnReviewPageAIv2": "14",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709252782090",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Security Expert with C# (ASP.NET) and React Knowledge",
+        "finalDescriptionAI": "Company Overview:\nWe are a leading German IT company, renowned for developing reliable and high-quality software solutions for our clients. Our commitment to excellence and innovation has positioned us as a trusted partner in the technology sector.\n\nJob Brief:\nWe are currently seeking a highly skilled and experienced Security Expert to conduct a thorough analysis and testing of our login service. This short-term engagement is crucial for identifying and addressing potential security vulnerabilities within our system.\n\nKey Responsibilities:\n- Perform comprehensive security analysis of our login service, focusing on C# (ASP.NET) and React components.\n- Identify vulnerabilities, assess risks, and provide actionable recommendations for enhancing security.\n- Test the implementation of OAuth 2.0 and other login flows to ensure they meet the highest security standards.\n- Deliver a detailed report on findings and collaborate with our development team to prioritize and address issues.\n\nRequirements:\n- Proven expertise in cybersecurity, specifically in analyzing and securing login systems.\n- Extensive experience with C# (ASP.NET), React, OAuth 2.0, and login flows.\n- A strong track record in the IT security industry, demonstrating a deep understanding of best practices and current threats.\n- Excellent problem-solving skills and the ability to communicate complex security concepts.\n- Independent, with meticulous attention to detail and a commitment to delivering high-quality work."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (Europe/Be)",
+      "city": "Essen",
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 16,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 12,
+      "score": 4.498875628,
+      "totalJobsWithHires": 15,
+      "hoursCount": 171.166666,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 6920.6
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-01-27T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 35,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 15.209328199452106
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

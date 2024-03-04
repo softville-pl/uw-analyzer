@@ -1,0 +1,210 @@
+{
+  "job": {
+    "ciphertext": "~01640e92dbf8993944",
+    "rid": 1011682381,
+    "uid": "1763508943418900480",
+    "type": 2,
+    "access": 1,
+    "title": "Run existing ASP Net core (ABP) tests against PostgreSQL db ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T10:17:51.435Z",
+    "postedOn": "2024-03-01T10:17:52.128Z",
+    "publishTime": "2024-03-01T10:17:52.128Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012377728,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 0,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 2,
+    "description": "I see you are familiar with ABP already. The main goal of this project is to make sure our tests work properly against a PostgreSQL database ideally in a test container so it will properly work in a CICD pipeline. Currently all tests run against an in memory SQLite database which is not sufficient anymore. In this project you will not write any tests, instead just make sure tests properly run against a PostgreSQL database.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-01T11:39:38.205Z",
+      "totalApplicants": 13,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 1,
+      "invitationsSent": 2
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "invitePost"
+      ],
+      "customFields": {
+        "siteSource": "desktop_invite_rjp",
+        "publishTime": "2024-03-01T10:17:52.128Z",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "120",
+        "type": "RJP",
+        "browser": "Firefox",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (Europe/Be)",
+      "city": null,
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-03-01T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 2,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

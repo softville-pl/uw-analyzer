@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01735789e4a8642157",
+    "rid": 1011690352,
+    "uid": "1763614817318383616",
+    "type": 2,
+    "access": 4,
+    "title": "Need to develop a LMS website ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-01T17:18:33.755Z",
+    "postedOn": "2024-03-01T17:18:34.307Z",
+    "publishTime": "2024-03-01T17:18:34.307Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 7664678,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Hi,\n\nI would like to develop a website for LMS management for my own course based online learning. This site has to be integrated to payment gateway.  Requirement is to have thorough knowledge of full stack development so that all the elements can be developed without hassle. Also help needed to host the site. For more details about the design and the internals please contact me.\n\nThanks.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-02T03:16:06.543Z",
+      "totalApplicants": 28,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "197",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled and experienced web developer to help us develop a Learning Management System (LMS) website. The project is expected to take 1 to 3 months to complete. \n\nThe ideal candidate should have expertise in web development, HTML, MySQL, web design, .NET Framework, payment gateway integration, website optimization, CSS, JavaScript, and web application development. \n\nYour main responsibility will be to create a user-friendly and intuitive LMS website that allows users to access and manage online courses. Additionally, you will be responsible for integrating a payment gateway for course enrollment and ensuring the website\u0027s performance and optimization.\n\nTo apply for this project, please submit a detailed proposal describing how you can help us with this project. Please include links to past completed projects that demonstrate your expertise in web development and LMS website creation.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-01T17:18:34.307Z",
+        "totalTimeJobPostFlowAIv2": "328",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626767910551552\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221204836482932654080\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221031626795181916160\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "188",
+        "totalTimeSpentOnReviewPageAIv2": "9",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709313185414",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "Need to develop a LMS website ",
+        "finalDescriptionAI": "Hi,\n\nI would like to develop a website for LMS management for my own course based online learning. This site has to be integrated to payment gateway.  Requirement is to have thorough knowledge of full stack development so that all the elements can be developed without hassle. Also help needed to host the site. For more details about the design and the internals please contact me.\n\nThanks."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (UTC\u002B05:30)",
+      "city": "Bangaloer",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 6,
+      "score": 5,
+      "totalJobsWithHires": 8,
+      "hoursCount": 27.000001,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 5663.5
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-05-27T00:00:00.000Z",
+      "profile": {
+        "size": "1000",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 9,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 71.29666402604948
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
