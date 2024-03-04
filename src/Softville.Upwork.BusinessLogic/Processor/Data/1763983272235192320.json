@@ -1,0 +1,257 @@
+{
+  "job": {
+    "ciphertext": "~0112b1a7ee98c25629",
+    "rid": 1011711305,
+    "uid": "1763983272235192320",
+    "type": 2,
+    "access": 4,
+    "title": "We\u2019re looking for someone with experience within cloud and contact center technologies - AWS Connect",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-02T17:42:40.230Z",
+    "postedOn": "2024-03-02T17:42:40.769Z",
+    "publishTime": "2024-03-02T17:42:40.769Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 5578550,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 85
+    },
+    "contractorTier": 3,
+    "description": "We\u2019re looking for someone with experience within cloud and contact center technologies e.g., Amazon Connect, Voice, IVR, WFM, CRM, Unified Communications, Data \u0026 Analytics, and Software Development.\n\nResponsibilities:\n\n-Ensure customer success in building and launching Amazon Connect solutions for customers\n-Facilitate business process reviews to identify customer requirements and processes\n-Educate customers on the value proposition of AWS, and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud\n-Translate customer requirements into contact center design, leveraging best practices and minimizing the need for custom development\n-Provide solution optimization and process improvement with unique template IVR and interaction routing\n-Configure Salesforce Service Cloud Voice and Amazon Connect solutions\n-Act as the technical liaison between customers, partners, and support\n-Drive best practice contact center design into each and every aspect of solution delivery\n-Effectively manage all aspects of projects and customer communications\n-Deliver customer end user training and documentation\n-Exercise independent judgment, and take the lead role on enterprise level projects with minimal direction from senior management\n-Lead vision and strategy discussions with contact center and customer service leadership and management\n\nRequired Skills:\n\n-Customer-facing contact center experience, preferably with Amazon Connect\n-Experience building integrations across WFM, CRM and contact center solutions\n-Experience with communications protocols and APIs such as WebRTC and SIP\n-Experience with hands-on Scripting/coding, preferably Python or ie java, c#, .NET, Node.js\n-Communication and presentation skills with a high degree of comfort speaking with executives, IT Management, and customers.\n-Knowledge of JSON architecture\n-API integration experience\n-Strong troubleshooting and debugging skills\n\nNice to haves:\n\n-Contact Center architecture knowledge\n-Experience in technology/software sales, pre-sales, or consulting for enterprise and/or FSI customers\n-Experience working with outbound dialers, campaign management\n-Hands on experience building complex omni-channel contact center solutions\n-Advanced knowledge of AWS services and cloud architecture.\n-Familiarity with Salesforce Service Cloud\n-Contact center product knowledge of other platforms (Genesys, Cisco, Avaya, Twilio, etc)\n-Experience in Salesforce Service Cloud, Lightening and Visualforce Experience\n-Experience with large enterprise development and release procedures\n-Scrum Master, Project management or team coordination experience and/or understanding of Scaled Agile Framework (SAFe)\n-Experience with WorkForce Management solutions\n\nCertifications - One or more of the following:\n\n-AWS Cloud Practitioner Certification\n-AWS Developer Associate Certification or Professional\n-AWS Solution Architect Certification or Professional\n-Salesforce Certified Advanced / Administrator certification",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-04T00:40:44.093Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "26",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Safari",
+        "generatedDescriptionAI": "We are seeking a highly skilled individual with experience in cloud and contact center technologies, specifically AWS Connect. The ideal candidate should have extensive knowledge and hands-on experience in enterprise software development, Python, data analytics, IVR software, cloud architecture, Amazon Web Services, and Salesforce CRM. \n\nThe project is expected to last more than 6 months, and the candidate will play a crucial role in developing and implementing cloud-based contact center solutions using AWS Connect. They will be responsible for designing and integrating APIs, ensuring seamless communication between various systems, and optimizing business processes.\n\nTo apply, candidates should submit a detailed proposal outlining their expertise and how they can contribute to the project\u0027s success. Additionally, we encourage candidates to include links to past completed projects that demonstrate their skills and experience in cloud and contact center technologies.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-02T17:42:40.769Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221270387306804789248\u0022,\u0022parentSkillUid\u0022:\u00221270387306905452544\u0022},{\u0022skillUid\u0022:\u00221204836466872664064\u0022,\u0022parentSkillUid\u0022:\u00221204836447327207424\u0022},{\u0022skillUid\u0022:\u00221204836463554969600\u0022,\u0022parentSkillUid\u0022:\u00221204836447327207424\u0022},{\u0022skillUid\u0022:\u00221031626776555012096\u0022,\u0022parentSkillUid\u0022:\u00221270387307165499392\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022,\u0022parentSkillUid\u0022:\u00221270387306922229760\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022},{\u0022skillUid\u0022:\u00221504884905990946816\u0022},{\u0022skillUid\u0022:\u00221504884979957497856\u0022},{\u0022skillUid\u0022:\u00221031626748792913920\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "19",
+        "totalTimeSpentOnReviewPageAIv2": "28",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709401223334",
+        "finalDescriptionAI": "We\u2019re looking for someone with experience within cloud and contact center technologies e.g., Amazon Connect, Voice, IVR, WFM, CRM, Unified Communications, Data \u0026 Analytics, and Software Development.\n\nResponsibilities:\n\n-Ensure customer success in building and launching Amazon Connect solutions for customers\n-Facilitate business process reviews to identify customer requirements and processes\n-Educate customers on the value proposition of AWS, and participate in deep architectural discussions to ensure solutions are designed for successful deployment in the cloud\n-Translate customer requirements into contact center design, leveraging best practices and minimizing the need for custom development\n-Provide solution optimization and process improvement with unique template IVR and interaction routing\n-Configure Salesforce Service Cloud Voice and Amazon Connect solutions\n-Act as the technical liaison between customers, partners, and support\n-Drive best practice contact center design into each and every aspect of solution delivery\n-Effectively manage all aspects of projects and customer communications\n-Deliver customer end user training and documentation\n-Exercise independent judgment, and take the lead role on enterprise level projects with minimal direction from senior management\n-Lead vision and strategy discussions with contact center and customer service leadership and management\n\nRequired Skills:\n\n-Customer-facing contact center experience, preferably with Amazon Connect\n-Experience building integrations across WFM, CRM and contact center solutions\n-Experience with communications protocols and APIs such as WebRTC and SIP\n-Experience with hands-on Scripting/coding, preferably Python or ie java, c#, .NET, Node.js\n-Communication and presentation skills with a high degree of comfort speaking with executives, IT Management, and customers.\n-Knowledge of JSON architecture\n-API integration experience\n-Strong troubleshooting and debugging skills\n\nNice to haves:\n\n-Contact Center architecture knowledge\n-Experience in technology/software sales, pre-sales, or consulting for enterprise and/or FSI customers\n-Experience working with outbound dialers, campaign management\n-Hands on experience building complex omni-channel contact center solutions\n-Advanced knowledge of AWS services and cloud architecture.\n-Familiarity with Salesforce Service Cloud\n-Contact center product knowledge of other platforms (Genesys, Cisco, Avaya, Twilio, etc)\n-Experience in Salesforce Service Cloud, Lightening and Visualforce Experience\n-Experience with large enterprise development and release procedures\n-Scrum Master, Project management or team coordination experience and/or understanding of Scaled Agile Framework (SAFe)\n-Experience with WorkForce Management solutions\n\nCertifications - One or more of the following:\n\n-AWS Cloud Practitioner Certification\n-AWS Developer Associate Certification or Professional\n-AWS Solution Architect Certification or Professional\n-Salesforce Certified Advanced / Administrator certification",
+        "inputsTitleAI": "We\u2019re looking for someone with experience within cloud and contact center technologies - AWS Connect",
+        "inputsDurationAI": "474250516458926080"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Walnut",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 53,
+      "activeAssignmentsCount": 17,
+      "feedbackCount": 29,
+      "score": 4.204699209,
+      "totalJobsWithHires": 52,
+      "hoursCount": 3629.166672,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 112341.44
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-09-30T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 251,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 27.106412818948098
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

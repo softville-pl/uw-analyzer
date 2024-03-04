@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~0105cb75c1c8376497",
+    "rid": 1011609740,
+    "uid": "1762486378935857152",
+    "type": 2,
+    "access": 4,
+    "title": ".NET Full Stack Webpage Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-02-27T14:34:33.344Z",
+    "postedOn": "2024-02-27T14:37:11.426Z",
+    "publishTime": "2024-02-27T14:34:33.801Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2635537,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are looking for a long-term partner for development of dynamic websites in .NET. We have developed our own CMS, which you will need to master. We are looking for someone who has a knowledge of VB.NET and the knowledge of developing web pages.\n\nWe are digital agency from Slovenia. We are hiring freelancers from Upwork for years. At the beginning the top-rated freelancers were really good experts and we had a great cooperation with them. But over the last years the site has been filled with top rated individuals, who have very low knowledge and do not deserve that rating score. They figured out how to cheat the system and get top scores. That is why the rating you have doesn\u2019t mean a thing. We were so many times deceived by people who turned out to have only basic knowledge in the field and were presented as experts. We wasted a lot of time, energy and money.\n\nThat is why we want from our next partner to show us their skills by completing the test assignment. The test assignment will show us the level of knowledge and skills you have. The ones who adequately complete the test assignment will be considered for cooperation. I will have a personal interview with everyone who adequately finishes the test assignment. We will then choose the one with the best fit. The others who do not make it, but did a good job on test assignment will be placed in our database and we will contact them next time we need to expand our team.\n\nThe purpose of the test assignment is to see your technical skills. The freelancer who is selected to work with us will get the test assignment paid together with an order for the real project.  \n\nThis is the test assignment:\nIt is described in this document \u201CTest-DotNET-instructions.docx\u201D\n\nIf you are selected as our next partner your task will be to work on MiC project. \n\nHow we work:\nWe will first reach agreement on your hourly rate. Then we will give you a project to evaluate (time and money). If we agree with your evaluation, you get to do it. So, it is a fixed price project. When you finish it, or finish a milestone, you get paid. When you finish the project, you get another one.\n\nAre you ready to do the test project?\nIf you are let me know. Remember we will be looking for code clarity, that you implemented all requirements and programming stile.  Our developers will evaluate your work.\n",
+    "attachments": [
+      {
+        "fileName": "Test-DotNET-instructions.docx",
+        "length": 15236,
+        "uri": "/att/download/openings/1762486378935857152/attachments/78bdcfab-cb68-4635-98c0-05c1cd6a352c/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-02T10:21:05.302Z",
+      "totalApplicants": 1,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-02-27T14:34:33.801Z",
+        "reuse": "1759550435862781952",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "1321",
+        "type": "RJP",
+        "sourcingTime": "2024-02-27T14:37:11.426Z",
+        "browser": "Firefox",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Slovenia (UTC)",
+      "city": "Trzin",
+      "country": "Slovenia"
+    },
+    "stats": {
+      "totalAssignments": 28,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 17,
+      "score": 4.958562525,
+      "totalJobsWithHires": 25,
+      "hoursCount": 955.166671,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 40575.17
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-01-07T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 22,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 24.99999290699707
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "0.00",
+            "freelancerValueLabel": "0.00",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
