@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-02T03:16:06.543Z",
-      "totalApplicants": 28,
+      "lastBuyerActivity": "2024-03-03T15:40:59.306Z",
+      "totalApplicants": 32,
       "totalHired": 0,
-      "totalInvitedToInterview": 1,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -101,20 +101,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "5",
         "generatedDescriptionAI": "We are looking for a skilled and experienced web developer to help us develop a Learning Management System (LMS) website. The project is expected to take 1 to 3 months to complete. \n\nThe ideal candidate should have expertise in web development, HTML, MySQL, web design, .NET Framework, payment gateway integration, website optimization, CSS, JavaScript, and web application development. \n\nYour main responsibility will be to create a user-friendly and intuitive LMS website that allows users to access and manage online courses. Additionally, you will be responsible for integrating a payment gateway for course enrollment and ensuring the website\u0027s performance and optimization.\n\nTo apply for this project, please submit a detailed proposal describing how you can help us with this project. Please include links to past completed projects that demonstrate your expertise in web development and LMS website creation.",
+        "timeSpentToGetAPIDescriptionAI": "5",
         "siteSource": "desktop_rjp",
         "publishTime": "2024-03-01T17:18:34.307Z",
-        "totalTimeJobPostFlowAIv2": "328",
+        "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626767910551552\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221204836482932654080\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022},{\u0022skillUid\u0022:\u00221031626795181916160\u0022},{\u0022skillUid\u0022:\u00221031626745110315008\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022},{\u0022skillUid\u0022:\u0022996364627995914247\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "188",
-        "totalTimeSpentOnReviewPageAIv2": "9",
+        "totalTimeSpentOnReviewPageAIv2": "81",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1709313185414",
-        "inputsDurationAI": "474250516458926082",
+        "finalDescriptionAI": "Hi,\n\nI would like to develop a website for LMS management for my own course based online learning. This site has to be integrated to payment gateway.  Requirement is to have thorough knowledge of full stack development so that all the elements can be developed without hassle. Also help needed to host the site. For more details about the design and the internals please contact me.\n\nThanks.",
         "inputsTitleAI": "Need to develop a LMS website ",
-        "finalDescriptionAI": "Hi,\n\nI would like to develop a website for LMS management for my own course based online learning. This site has to be integrated to payment gateway.  Requirement is to have thorough knowledge of full stack development so that all the elements can be developed without hassle. Also help needed to host the site. For more details about the design and the internals please contact me.\n\nThanks."
+        "inputsDurationAI": "474250516458926082"
       }
     },
     "isContractToHire": false,

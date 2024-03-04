@@ -121,7 +121,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 21600000,
       "countryTimezone": "Bangladesh (Asia/Alma)",
