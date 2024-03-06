@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~014f95777af101fb7c",
-    "rid": 1011682872,
-    "uid": "1763516314619170816",
+    "ciphertext": "~01bcf15d48c94927e4",
+    "rid": 1011790299,
+    "uid": "1765252734686810112",
     "type": 2,
     "access": 4,
-    "title": "Visual C\u002B\u002B Developer for a small project",
+    "title": "Azure function app upgrade which connects to dynamics 365 CRM (Dataverse)",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-01T10:47:09.061Z",
-    "postedOn": "2024-03-01T10:47:09.617Z",
-    "publishTime": "2024-03-01T10:47:09.617Z",
+    "createdOn": "2024-03-06T05:47:03.717Z",
+    "postedOn": "2024-03-06T05:47:04.011Z",
+    "publishTime": "2024-03-06T05:47:04.011Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1000482096,
+    "companyRecno": 607826,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -36,11 +36,11 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 16,
+      "hourlyBudgetMin": 10,
       "hourlyBudgetMax": 50
     },
-    "contractorTier": 2,
-    "description": "We\u0027ve a working Visual C\u002B\u002B software. We need to create a .NET Wrapper around it. All the data types have already been mapped. We need someone with experience who understand how C\u002B\u002B works and how we export functionality from C\u002B\u002B to .NET. \nThe work will be done remotely on a RDP environment, so a very good internet connection is required. ",
+    "contractorTier": 3,
+    "description": "Need upgrade to Azure function app to convert from .Net framework to .Net core/6.0 version and this function app is straight forward connects to azure keyvault secret and Dynamics crm dataverse",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,29 +82,39 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-05T09:53:13.484Z",
-      "totalApplicants": 27,
-      "totalHired": 1,
+      "lastBuyerActivity": "2024-03-06T06:01:15.185Z",
+      "totalApplicants": 41,
+      "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
-      "invitationsSent": 1
+      "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-01T10:47:09.617Z",
-        "reuse": "1762525555190587392",
-        "totalTimeJobPostFlowAIv2": "0",
-        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnDescriptionPageAI": "113",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "112",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Windows"
+        "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are looking for a skilled Azure developer to upgrade our existing Azure function app, which connects to Dynamics 365 CRM (Dataverse). The project duration is expected to be less than 1 month.\n\nThe ideal candidate must have extensive experience with Microsoft Dynamics CRM and Microsoft Dynamics 365, as well as proficiency in Azure App Service, C#, and Microsoft Azure.\n\nTo apply for this project, please submit a detailed proposal outlining how you can assist with the upgrade. Additionally, we would appreciate if you could provide links to any relevant past projects you have completed.\n\nWe are excited to collaborate with a talented individual who can help us enhance our Azure function app and ensure seamless integration with Dynamics 365 CRM.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-06T05:47:04.011Z",
+        "totalTimeJobPostFlowAIv2": "604",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626758485950464\u0022},{\u0022skillUid\u0022:\u00221031626758460784640\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022},{\u0022freeText\u0022:\u0022function app\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "112",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709703418769",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Azure function app upgrade which connects to dynamics 365 CRM (Dataverse)",
+        "finalDescriptionAI": "Need upgrade to Azure function app to convert from .Net framework to .Net core/6.0 version and this function app is straight forward connects to azure keyvault secret and Dynamics crm dataverse"
       }
     },
     "isContractToHire": false,
@@ -113,40 +123,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "Sweden (UTC)",
-      "city": "J\u00E4rf\u00E4lla",
-      "country": "Sweden"
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-06:00)",
+      "city": "Norcross",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 21,
-      "activeAssignmentsCount": 7,
-      "feedbackCount": 11,
-      "score": 4.999318099,
-      "totalJobsWithHires": 15,
-      "hoursCount": 2571.833333,
+      "totalAssignments": 5,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 5,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 92.666668,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 39607.23
+        "amount": 1079.17
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-04-24T00:00:00.000Z",
+      "contractDate": "2012-06-14T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 18,
-      "openCount": 1
+      "postedCount": 9,
+      "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 15.001185926382114
+      "amount": 15.458632871098807
     }
   },
   "currentUserInfo": {
