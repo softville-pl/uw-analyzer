@@ -101,7 +101,7 @@
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "45",
+        "totalTimeSpentOnReviewPageAIv2": "67",
         "type": "RJP",
         "urgency": "1",
         "browser": "Chrome",
@@ -125,10 +125,10 @@
       "feedbackCount": 21,
       "score": 4.864736834,
       "totalJobsWithHires": 50,
-      "hoursCount": 23242.143387,
+      "hoursCount": 23260.810054,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 491372.65
+        "amount": 492308.91
       }
     },
     "isEnterprise": false,
@@ -147,7 +147,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 20.864046913643627
+      "amount": 20.867559593718006
     }
   },
   "currentUserInfo": {
@@ -185,8 +185,8 @@
             "qualification": 8,
             "qualified": false,
             "clientPreferred": "AT_LEAST_10000",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "At Least 10000"
           },
           {

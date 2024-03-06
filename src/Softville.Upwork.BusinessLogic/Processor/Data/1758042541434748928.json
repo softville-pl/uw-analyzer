@@ -150,15 +150,15 @@
       "country": "Germany"
     },
     "stats": {
-      "totalAssignments": 6,
-      "activeAssignmentsCount": 2,
+      "totalAssignments": 7,
+      "activeAssignmentsCount": 3,
       "feedbackCount": 3,
       "score": 5,
-      "totalJobsWithHires": 6,
+      "totalJobsWithHires": 7,
       "hoursCount": 13128.66668,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 209662.31
+        "amount": 210922.31
       }
     },
     "isEnterprise": false,
@@ -173,7 +173,7 @@
       }
     },
     "jobs": {
-      "postedCount": 15,
+      "postedCount": 16,
       "openCount": 2
     },
     "avgHourlyJobsRate": {
@@ -207,8 +207,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "Any"
           },
           {

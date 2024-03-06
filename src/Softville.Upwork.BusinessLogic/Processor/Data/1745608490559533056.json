@@ -129,7 +129,7 @@
       "hoursCount": 18901.666782,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 520805.16
+        "amount": 521134.35
       }
     },
     "isEnterprise": false,
@@ -156,7 +156,7 @@
     "freelancerInfo": {
       "qualificationsMatches": {
         "totalQualifications": 5,
-        "totalMatches": 2,
+        "totalMatches": 3,
         "matches": [
           {
             "qualification": 0,
@@ -184,10 +184,10 @@
           },
           {
             "qualification": 8,
-            "qualified": false,
+            "qualified": true,
             "clientPreferred": "AT_LEAST_100",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "At Least 100"
           },
           {

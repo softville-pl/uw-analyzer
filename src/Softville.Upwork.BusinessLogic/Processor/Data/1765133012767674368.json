@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01a72042d1476cf2e2",
+    "rid": 1011783631,
+    "uid": "1765133012767674368",
+    "type": 2,
+    "access": 4,
+    "title": ".net developer backend api development",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-05T21:51:19.757Z",
+    "postedOn": "2024-03-05T21:51:20.283Z",
+    "publishTime": "2024-03-05T21:51:20.283Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1007110424,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 16,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 2,
+    "description": "We are looking for a Senior .NET Backend Developer to test and help in developing  a .NET CORE API that integrates with a filing API. The API will handle the filing of eviction cases, document uploads, fee submissions, and notifications from the E-Filing Manager (EFM). The project includes database integration with MS SQL Server for retrieving case data in XML format. The developer will be responsible for writing relevant code for the API is secure, performant, scalable, and follows best practices for error handling, logging, and documentation.\n\nHow fast you need it delivered:\nThe project timeline is aggressive, and we need the API to be developed within 1 week. We already have an implementation with required libraries and development environment ready with a v0 version of the API code in a github repo. \nThe developer will be added to the repo and be given the dev environment or any tools required including AI tools. \nThey should be able to work efficiently and meet the deadlines for each task outlined in the project timeline.\n\nThe developer will work independently on the development of the API but will collaborate closely with our team to gather requirements, provide progress updates, and address any issues or concerns. Regular communication and coordination with the team are essential for the success of the project.\n\nIf there\u0027s potential for more work:\nDepending on the success of this project and the quality of work delivered, there may be potential for ongoing maintenance, enhancements, and additional features for the Eviction Case Filing API. We are looking to establish a long-term partnership with a skilled developer who can contribute to the growth and improvement of our API.\n\nWhat you don\u0027t understand about the job and how they can help:\nIf there are any aspects of the project requirements or specifications that are unclear or need further clarification, please feel free to ask questions. We value open communication and want to ensure that the developer has a clear understanding of the project scope and expectations. If you have any suggestions or recommendations based on your expertise and experience, we welcome your input to help improve the API development process.\n\nRequired experience:\n- 5\u002B years of experience in .NET backend development.\n- Strong proficiency in C#, ASP.NET Core, and Web API development.\n- Expertise in designing and developing RESTful APIs.\n- Experience with SOAP-based web services and XML data handling.\n- Familiarity with Azure API Management service.\n- Knowledge of database integration, particularly with MS SQL Server.\n- Understanding of security best practices, including HTTPS, TLS, and certificate-based authentication.\n- Experience with implementing Swagger UI for API documentation.\n- Proficient in writing unit tests and ensuring code quality.\n\nHelpful links and references to explain the desired style:\n- [ASP.NET Core Web API documentation](https://docs.microsoft.com/en-us/aspnet/core/web-api/)\n- [Azure API Management documentation](https://docs.microsoft.com/en-us/azure/api-management/)\n- [Swagger UI documentation](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)\n- [Best practices for ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/best-practices)\n- [Serilog logging library](https://serilog.net/)\n- [SoapCore library for SOAP support in ASP.NET Core](https://github.com/DigDes/SoapCore)\n\nWe highly value the effort and consideration that freelancers put into their proposals. We have provided detailed information about the project requirements, timeline, and expectations to help you understand the scope of the work. If you have any questions or need further clarification, please don\u0027t hesitate to reach out. We are excited to review your proposal and potentially work with you on this project.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-06T04:21:48.349Z",
+      "totalApplicants": 18,
+      "totalHired": 0,
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 8,
+      "invitationsSent": 15
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "856",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a skilled .NET developer with expertise in backend API development for a short-term project. The ideal candidate will have experience working with APIs, PostgreSQL, .NET Framework, ASP.NET, Microsoft SQL Server, and RESTful API. Strong knowledge of API development, software architecture \u0026 design, API integration, and C# is also required.\n\nThe selected candidate will be responsible for developing and maintaining backend APIs, ensuring their efficiency, availability, and security. They will collaborate with the front-end development team to integrate APIs into the overall system architecture. The developer will also be involved in database design and optimization.\n\nTo apply for this position, please submit a proposal describing your relevant experience and how you can contribute to this project. Please include links to some of your past completed projects that demonstrate your API development skills.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-05T21:51:20.283Z",
+        "totalTimeJobPostFlowAIv2": "1070",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364627995914246\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u0022996364628000108546\u0022,\u0022parentSkillUid\u0022:\u00221737190624495054848\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022},{\u0022skillUid\u0022:\u00221031626714051493888\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "448",
+        "totalTimeSpentOnReviewPageAIv2": "14",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1709674408607",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": ".net developer backend api development",
+        "finalDescriptionAI": "We are looking for a Senior .NET Backend Developer to test and help in developing  a .NET CORE API that integrates with a filing API. The API will handle the filing of eviction cases, document uploads, fee submissions, and notifications from the E-Filing Manager (EFM). The project includes database integration with MS SQL Server for retrieving case data in XML format. The developer will be responsible for writing relevant code for the API is secure, performant, scalable, and follows best practices for error handling, logging, and documentation.\n\nHow fast you need it delivered:\nThe project timeline is aggressive, and we need the API to be developed within 1 week. We already have an implementation with required libraries and development environment ready with a v0 version of the API code in a github repo. \nThe developer will be added to the repo and be given the dev environment or any tools required including AI tools. \nThey should be able to work efficiently and meet the deadlines for each task outlined in the project timeline.\n\nThe developer will work independently on the development of the API but will collaborate closely with our team to gather requirements, provide progress updates, and address any issues or concerns. Regular communication and coordination with the team are essential for the success of the project.\n\nIf there\u0027s potential for more work:\nDepending on the success of this project and the quality of work delivered, there may be potential for ongoing maintenance, enhancements, and additional features for the Eviction Case Filing API. We are looking to establish a long-term partnership with a skilled developer who can contribute to the growth and improvement of our API.\n\nWhat you don\u0027t understand about the job and how they can help:\nIf there are any aspects of the project requirements or specifications that are unclear or need further clarification, please feel free to ask questions. We value open communication and want to ensure that the developer has a clear understanding of the project scope and expectations. If you have any suggestions or recommendations based on your expertise and experience, we welcome your input to help improve the API development process.\n\nRequired experience:\n- 5\u002B years of experience in .NET backend development.\n- Strong proficiency in C#, ASP.NET Core, and Web API development.\n- Expertise in designing and developing RESTful APIs.\n- Experience with SOAP-based web services and XML data handling.\n- Familiarity with Azure API Management service.\n- Knowledge of database integration, particularly with MS SQL Server.\n- Understanding of security best practices, including HTTPS, TLS, and certificate-based authentication.\n- Experience with implementing Swagger UI for API documentation.\n- Proficient in writing unit tests and ensuring code quality.\n\nHelpful links and references to explain the desired style:\n- [ASP.NET Core Web API documentation](https://docs.microsoft.com/en-us/aspnet/core/web-api/)\n- [Azure API Management documentation](https://docs.microsoft.com/en-us/azure/api-management/)\n- [Swagger UI documentation](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)\n- [Best practices for ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/best-practices)\n- [Serilog logging library](https://serilog.net/)\n- [SoapCore library for SOAP support in ASP.NET Core](https://github.com/DigDes/SoapCore)\n\nWe highly value the effort and consideration that freelancers put into their proposals. We have provided detailed information about the project requirements, timeline, and expectations to help you understand the scope of the work. If you have any questions or need further clarification, please don\u0027t hesitate to reach out. We are excited to review your proposal and potentially work with you on this project."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": "hyderabad",
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 3,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 78.75
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-01-29T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Media \u0026 Entertainment",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 25
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

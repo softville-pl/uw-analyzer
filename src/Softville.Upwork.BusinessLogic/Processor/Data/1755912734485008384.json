@@ -145,10 +145,10 @@
       "feedbackCount": 4,
       "score": 5,
       "totalJobsWithHires": 5,
-      "hoursCount": 5266.666673,
+      "hoursCount": 5281.33334,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 87938.25
+        "amount": 88700.73
       }
     },
     "isEnterprise": false,
@@ -167,7 +167,7 @@
       "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 16.305605676594528
+      "amount": 16.310311138209656
     }
   },
   "currentUserInfo": {
@@ -205,8 +205,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "Any"
           },
           {

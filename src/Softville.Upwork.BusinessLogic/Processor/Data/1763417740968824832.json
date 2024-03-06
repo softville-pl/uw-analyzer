@@ -102,10 +102,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-01T04:44:45.397Z",
-      "totalApplicants": 33,
+      "lastBuyerActivity": "2024-03-06T04:21:10.029Z",
+      "totalApplicants": 16,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -212,8 +212,8 @@
             "qualification": 8,
             "qualified": false,
             "clientPreferred": "AT_LEAST_1000",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "At Least 1000"
           },
           {

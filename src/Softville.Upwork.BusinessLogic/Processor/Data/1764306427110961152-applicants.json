@@ -3,19 +3,19 @@
   "applicantsBidsStats": {
     "avgRateBid": {
       "currencyCode": "USD",
-      "amount": 33.857142857142854
+      "amount": 39.30928571428571
     },
     "minRateBid": {
       "currencyCode": "USD",
-      "amount": 22
+      "amount": 20
     },
     "maxRateBid": {
       "currencyCode": "USD",
-      "amount": 42
+      "amount": 80
     },
     "avgInterviewedRateBid": {
       "currencyCode": "USD",
-      "amount": 29.25
+      "amount": 39.12090909090909
     }
   },
   "diagnosticInfo": null

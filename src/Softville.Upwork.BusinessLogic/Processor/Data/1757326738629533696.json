@@ -143,8 +143,8 @@
     },
     "stats": {
       "totalAssignments": 50,
-      "activeAssignmentsCount": 13,
-      "feedbackCount": 34,
+      "activeAssignmentsCount": 12,
+      "feedbackCount": 35,
       "score": 4.923691786,
       "totalJobsWithHires": 42,
       "hoursCount": 4094.666668,
@@ -177,7 +177,7 @@
     "freelancerInfo": {
       "qualificationsMatches": {
         "totalQualifications": 5,
-        "totalMatches": 2,
+        "totalMatches": 3,
         "matches": [
           {
             "qualification": 0,
@@ -205,10 +205,10 @@
           },
           {
             "qualification": 8,
-            "qualified": false,
+            "qualified": true,
             "clientPreferred": "AT_LEAST_100",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "At Least 100"
           },
           {

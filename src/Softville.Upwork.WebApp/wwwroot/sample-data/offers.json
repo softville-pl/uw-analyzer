@@ -1,48 +1,48 @@
 [
   {
-    "Title": "Integrating Zoom in an MVC .NeT Web APP",
-    "Uid": "1764450500945772544",
-    "Rid": 1011734076,
+    "Title": ".NET Developer with Umbraco Experience",
+    "Uid": "1765133129688133632",
+    "Rid": 1011783643,
     "Cooperation": {
-      "DurationLabel": "Less than a month",
+      "DurationLabel": "1 to 3 months",
       "Workload": "Less than 30 hrs/week",
       "StartDate": null,
       "DeliveryDate": null,
       "NumberOfPositionsToHire": 1
     },
-    "CipherText": "~0189e6013b680c1984",
+    "CipherText": "~01639b87ed64864807",
     "Category": "Web Development",
     "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-04T00:39:16.582Z",
+    "PublishedTime": "2024-03-05T21:51:48.238Z",
     "Rate": {
       "Minimum": 25,
       "Maximum": 50,
       "Currency": "USD"
     },
-    "LinkUrl": "~0189e6013b680c1984",
+    "LinkUrl": "~01639b87ed64864807",
     "Developers": {
       "MoreDevsExplicitly": false,
       "MoreDevsImplicitly": 0
     },
     "Customer": {
       "Location": {
-        "Country": "Ireland",
-        "City": "Tralee"
+        "Country": "United Kingdom",
+        "City": "Canterbury"
       },
       "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
       },
       "Stats": {
-        "TotalAssignments": 29,
+        "TotalAssignments": 123,
         "ActiveAssignmentsCount": 2,
-        "FeedbackCount": 19,
-        "Score": 4.245705751,
-        "TotalJobsWithHires": 28,
-        "HoursCount": 0,
+        "FeedbackCount": 59,
+        "Score": 4.997930719,
+        "TotalJobsWithHires": 111,
+        "HoursCount": 11163.533343,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 4162
+          "Amount": 630324.27
         }
       }
     },
@@ -62,18 +62,432 @@
     "ApplicationProcess": "N/A",
     "UnusualRequirements": "N/A",
     "Requirements": [
-      "ASP.NET MVC",
       ".NET Framework",
       "C#",
-      "JavaScript",
-      "API"
+      "Umbraco",
+      "SQL",
+      "API",
+      "Microsoft SQL Server"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T21:51:47.53Z",
+      "TotalApplicants": 45,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 5,
+      "MatchedQualifications": 5,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "region=(Europe)",
+          "FreelancerValue": "Europe",
+          "FreelancerValueLabel": "Europe",
+          "ClientPreferredLabel": "Europe"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 11.22
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 37.18244444444444
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 60
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": ".net developer backend api development",
+    "Uid": "1765133012767674368",
+    "Rid": 1011783631,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a72042d1476cf2e2",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-05T21:51:20.283Z",
+    "Rate": {
+      "Minimum": 16,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a72042d1476cf2e2",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "India",
+        "City": "hyderabad"
+      },
+      "Profile": {
+        "Industry": "Media \u0026 Entertainment",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 1,
+        "Score": 5,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 3,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 78.75
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "ASP.NET",
+      "Microsoft SQL Server",
+      "PostgreSQL",
+      "API Integration",
+      "Software Architecture \u0026 Design",
+      "API Development",
+      "API",
+      "C#",
+      "RESTful API"
     ],
     "Duties": "N/A",
     "Questions": [],
     "ConnectPrice": 8,
     "Activity": {
-      "LastBuyerActivity": "2024-03-04T00:39:16.147Z",
-      "TotalApplicants": 41,
+      "LastBuyerActivity": "2024-03-06T04:21:48.349Z",
+      "TotalApplicants": 18,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 8,
+      "InvitationsSent": 15
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 18
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 26.678888888888892
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 50
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 29.536666666666665
+      }
+    }
+  },
+  {
+    "Title": "Senior Software Engineer \nTickblaze Trading Platform (C#, .NET, WPF)\n",
+    "Uid": "1765104298462060544",
+    "Rid": 1011781473,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0145ba7af9372c4f9f",
+    "Category": "Desktop Application Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-05T19:57:14.331Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0145ba7af9372c4f9f",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Estonia",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "C#",
+      "Windows Presentation Foundation"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T20:00:12.895Z",
+      "TotalApplicants": 20,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 5,
+      "InvitationsSent": 5
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 20
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 41.04761904761905
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 80
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Token-based In-Game Economy Analysts",
+    "Uid": "1765055555961597952",
+    "Rid": 1011776806,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01535c955cf7f4f9ac",
+    "Category": "Game Design \u0026 Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-05T16:43:33.215Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 100,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01535c955cf7f4f9ac",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET Core",
+      "C#",
+      "API",
+      "Mobile Game",
+      "Blockchain Development",
+      "AngularJS",
+      "Cryptography",
+      "Smartphone",
+      "iOS"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T16:43:32.52Z",
+      "TotalApplicants": 3,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -100,8 +514,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -116,15 +530,716 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 5
+        "Amount": 28
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.95238095238095
+        "Amount": 46
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 500
+        "Amount": 60
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Token Swap Mechanism Developers",
+    "Uid": "1765053838132813824",
+    "Rid": 1011776637,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~017342271b92597fd7",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-05T16:36:44.019Z",
+    "Rate": {
+      "Minimum": 80,
+      "Maximum": 100,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~017342271b92597fd7",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "API",
+      "MySQL",
+      "WordPress",
+      "jQuery",
+      "Bootstrap",
+      "AngularJS",
+      "HTML5",
+      "RESTful API"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T16:36:42.962Z",
+      "TotalApplicants": 8,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 35
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 58.333333333333336
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 100
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Full Stack Application Developer",
+    "Uid": "1764801372847058944",
+    "Rid": 1011759151,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "Not Sure",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01908e95a7097d3f56",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-04T23:53:31.17Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01908e95a7097d3f56",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Canada",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "N/A"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      "Microsoft Azure",
+      "Web Application",
+      "React",
+      "Database Design",
+      "Web Development",
+      "UX \u0026 UI"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T00:02:33.763Z",
+      "TotalApplicants": 55,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 5,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "region=(Americas),country=(Canada)",
+          "FreelancerValue": "Europe,Poland",
+          "FreelancerValueLabel": "Europe, Poland",
+          "ClientPreferredLabel": "Americas, Canada"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 15
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 36.643035714285716
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 70
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "ASP.NET core and React.js",
+    "Uid": "1764693706390851584",
+    "Rid": 1011749802,
+    "Cooperation": {
+      "DurationLabel": "3 to 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~017b4adef8bf55b5f9",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-04T19:45:42.499Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~017b4adef8bf55b5f9",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Germany",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Finance \u0026 Accounting",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "ASP.NET MVC",
+      "ASP.NET",
+      "Web Application",
+      "SQLite",
+      "React",
+      "JavaScript"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your approach to testing and improving QA",
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T15:35:01.719Z",
+      "TotalApplicants": 68,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 15
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 38.75
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 150
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Senior Angular Developer",
+    "Uid": "1764667106228187136",
+    "Rid": 1011746961,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01ff37b1eec11c31e2",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-04T14:59:59.564Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 60,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01ff37b1eec11c31e2",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "New York"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 72,
+        "ActiveAssignmentsCount": 11,
+        "FeedbackCount": 45,
+        "Score": 4.917265462,
+        "TotalJobsWithHires": 68,
+        "HoursCount": 12060.166677,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 633144.22
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "CSS",
+      "HTML5",
+      "CSS 3",
+      "Storybook",
+      "Figma"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-04T17:07:30.956Z",
+      "TotalApplicants": 292,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 6,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 10
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 41.85095183921123
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 150
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 48.666666666666664
+      }
+    }
+  },
+  {
+    "Title": "Compounding Formula Management System Web Application Development (.Net Full Stack Development)",
+    "Uid": "1764654150801408000",
+    "Rid": 1011745697,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a7c3172c40867b3a",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-04T14:08:31.083Z",
+    "Rate": {
+      "Minimum": 15,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a7c3172c40867b3a",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Canada",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Science \u0026 Medicine",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 0,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 0,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Core",
+      "Microsoft SQL Server",
+      "Azure DevOps",
+      "Microsoft Azure",
+      "Blazor",
+      "Syncfusion",
+      "C#"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Are you familiar with Agile methodology?",
+      "Are you used to collaborate with multiple developers on your projects?",
+      "Are you open to be available from 9am to 5pm, Montreal time (EST time zone)? Or make sure to optimize the overlap",
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 12,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-05T23:07:30.684Z",
+      "TotalApplicants": 29,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 5,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "3",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Fluent"
+        },
+        {
+          "Qualified": false,
+          "ClientPreferred": "country=(Canada,United States)",
+          "FreelancerValue": "Poland",
+          "FreelancerValueLabel": "Poland",
+          "ClientPreferredLabel": "Canada, United States"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 12
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 35.289
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 60
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -209,12 +1324,12 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-04T09:11:13.263Z",
-      "TotalApplicants": 7,
+      "LastBuyerActivity": "2024-03-04T15:25:03.895Z",
+      "TotalApplicants": 14,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 4,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
+      "TotalInvitedToInterview": 11,
+      "UnansweredInvites": 10,
+      "InvitationsSent": 31
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -237,8 +1352,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -253,19 +1368,19 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 22
+        "Amount": 20
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.857142857142854
+        "Amount": 39.30928571428571
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 42
+        "Amount": 80
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 29.25
+        "Amount": 39.12090909090909
       }
     }
   },
@@ -350,7 +1465,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T18:54:52.898Z",
-      "TotalApplicants": 10,
+      "TotalApplicants": 11,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 5,
@@ -383,7 +1498,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 34.3
+        "Amount": 34.72727272727273
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -430,15 +1545,15 @@
         "Size": "10"
       },
       "Stats": {
-        "TotalAssignments": 53,
-        "ActiveAssignmentsCount": 17,
+        "TotalAssignments": 54,
+        "ActiveAssignmentsCount": 18,
         "FeedbackCount": 29,
         "Score": 4.204699209,
-        "TotalJobsWithHires": 52,
+        "TotalJobsWithHires": 53,
         "HoursCount": 3629.166672,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 112341.44
+          "Amount": 113286.79
         }
       }
     },
@@ -474,7 +1589,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-04T00:40:44.093Z",
-      "TotalApplicants": 20,
+      "TotalApplicants": 24,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -508,8 +1623,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -528,11 +1643,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 48.951
+        "Amount": 54.70916666666667
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 90
+        "Amount": 169
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -617,7 +1732,7 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-02T05:20:45.712Z",
+      "LastBuyerActivity": "2024-03-05T13:08:42.448Z",
       "TotalApplicants": 2,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
@@ -645,8 +1760,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -750,7 +1865,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T04:45:28.233Z",
-      "TotalApplicants": 36,
+      "TotalApplicants": 44,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 2,
@@ -777,8 +1892,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -797,7 +1912,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 60.91891891891892
+        "Amount": 61.36049382716048
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -852,7 +1967,7 @@
         "HoursCount": 2446.500008,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 70623.59
+          "Amount": 70662.09
         }
       }
     },
@@ -880,8 +1995,8 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-03T22:40:42.02Z",
-      "TotalApplicants": 11,
+      "LastBuyerActivity": "2024-03-04T23:17:14.372Z",
+      "TotalApplicants": 18,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -915,8 +2030,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -931,11 +2046,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40
+        "Amount": 26
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 71.81818181818181
+        "Amount": 69.55555555555556
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1026,10 +2141,10 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-03T15:40:59.306Z",
+      "LastBuyerActivity": "2024-03-05T06:53:12.069Z",
       "TotalApplicants": 32,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 2,
+      "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -1054,8 +2169,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1082,7 +2197,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 35.5
       }
     }
   },
@@ -1192,8 +2307,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1259,15 +2374,15 @@
         "Size": "2"
       },
       "Stats": {
-        "TotalAssignments": 20,
+        "TotalAssignments": 21,
         "ActiveAssignmentsCount": 7,
         "FeedbackCount": 11,
         "Score": 4.999318099,
-        "TotalJobsWithHires": 14,
+        "TotalJobsWithHires": 15,
         "HoursCount": 2568.5,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 39474.93
+          "Amount": 39607.23
         }
       }
     },
@@ -1295,10 +2410,10 @@
     "Questions": [],
     "ConnectPrice": 8,
     "Activity": {
-      "LastBuyerActivity": "2024-03-01T10:49:15.277Z",
-      "TotalApplicants": 28,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 1,
+      "LastBuyerActivity": "2024-03-05T09:53:13.484Z",
+      "TotalApplicants": 27,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
       "InvitationsSent": 1
     },
@@ -1323,8 +2438,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1343,128 +2458,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.43103448275862
+        "Amount": 31.125
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
         "Amount": 50
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Run existing ASP Net core (ABP) tests against PostgreSQL db ",
-    "Uid": "1763508943418900480",
-    "Rid": 1011682381,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 0
-    },
-    "CipherText": "~01640e92dbf8993944",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-01T10:17:52.128Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01640e92dbf8993944",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Germany",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET Core",
-      ".NET Framework",
-      "C#"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 8,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-04T08:58:24.084Z",
-      "TotalApplicants": 17,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 1,
-      "InvitationsSent": 2
-    },
-    "Qualifications": {
-      "TotalQualifications": 2,
-      "MatchedQualifications": 2,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 12
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 45.294117647058826
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 150
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -1546,10 +2544,10 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-01T04:44:45.397Z",
-      "TotalApplicants": 33,
+      "LastBuyerActivity": "2024-03-06T04:21:10.029Z",
+      "TotalApplicants": 16,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
+      "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -1581,8 +2579,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -1601,7 +2599,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 56.24242424242424
+        "Amount": 62.4375
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1656,7 +2654,7 @@
         "HoursCount": 606.333333,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 12788.53
+          "Amount": 13082.53
         }
       }
     },
@@ -1687,7 +2685,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T14:57:10.215Z",
-      "TotalApplicants": 296,
+      "TotalApplicants": 301,
       "TotalHired": 0,
       "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
@@ -1714,8 +2712,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1734,7 +2732,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.09299003322259
+        "Amount": 37.535374592833875
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1819,7 +2817,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T23:11:52.248Z",
-      "TotalApplicants": 32,
+      "TotalApplicants": 33,
       "TotalHired": 0,
       "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
@@ -1846,8 +2844,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1866,7 +2864,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 51.18181818181818
+        "Amount": 50.85294117647059
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1952,7 +2950,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T06:36:41.043Z",
-      "TotalApplicants": 16,
+      "TotalApplicants": 18,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1992,7 +2990,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 48.3125
+        "Amount": 54.888888888888886
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2077,12 +3075,12 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-29T19:46:01.926Z",
-      "TotalApplicants": 121,
+      "LastBuyerActivity": "2024-03-05T19:54:02.531Z",
+      "TotalApplicants": 128,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 5,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 5
+      "TotalInvitedToInterview": 12,
+      "UnansweredInvites": 3,
+      "InvitationsSent": 19
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -2105,8 +3103,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2125,7 +3123,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 32.87434426229508
+        "Amount": 31.85015503875969
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2133,125 +3131,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 18.2
-      }
-    }
-  },
-  {
-    "Title": "C# Application for Automating Tasks in Google Sheets",
-    "Uid": "1763276519197245440",
-    "Rid": 1011668928,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01cfb83d36e078d1c5",
-    "Category": "Scripts \u0026 Utilities",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-29T18:54:17.742Z",
-    "Rate": {
-      "Minimum": 20,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01cfb83d36e078d1c5",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "API",
-      "Desktop Application",
-      "C#"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 4,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-01T15:14:59.789Z",
-      "TotalApplicants": 47,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 7,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 3
-    },
-    "Qualifications": {
-      "TotalQualifications": 2,
-      "MatchedQualifications": 2,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 12
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 32.319148936170215
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 80
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 42.857142857142854
+        "Amount": 16.333333333333332
       }
     }
   },
@@ -2295,10 +3175,10 @@
         "FeedbackCount": 44,
         "Score": 4.91021331,
         "TotalJobsWithHires": 62,
-        "HoursCount": 588.666668,
+        "HoursCount": 592.166668,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 25303.87
+          "Amount": 25621.57
         }
       }
     },
@@ -2331,7 +3211,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T07:26:22.281Z",
-      "TotalApplicants": 7,
+      "TotalApplicants": 8,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -2358,8 +3238,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2378,7 +3258,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 28
+        "Amount": 27.666666666666668
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2464,7 +3344,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-02T06:44:06.279Z",
-      "TotalApplicants": 32,
+      "TotalApplicants": 31,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -2504,7 +3384,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.21875
+        "Amount": 37.74193548387097
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2588,7 +3468,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-02-29T08:54:56.296Z",
-      "TotalApplicants": 64,
+      "TotalApplicants": 65,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
@@ -2615,8 +3495,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2635,11 +3515,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 50.40319444444444
+        "Amount": 52.39699145299145
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 150
+        "Amount": 175
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -2744,8 +3624,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2891,8 +3771,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2963,10 +3843,10 @@
         "FeedbackCount": 11,
         "Score": 5,
         "TotalJobsWithHires": 19,
-        "HoursCount": 298.166668,
+        "HoursCount": 301.166668,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 8989.63
+          "Amount": 9653.53
         }
       }
     },
@@ -3033,8 +3913,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3100,12 +3980,12 @@
         "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 1,
         "FeedbackCount": 0,
         "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 7.833333,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 0
@@ -3141,10 +4021,10 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-28T22:21:12.562Z",
+      "LastBuyerActivity": "2024-03-04T17:42:27.941Z",
       "TotalApplicants": 102,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 7,
+      "TotalHired": 1,
+      "TotalInvitedToInterview": 6,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -3169,8 +4049,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3189,7 +4069,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.79366137566137
+        "Amount": 38.75787211740041
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3197,7 +4077,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 49.285714285714285
+        "Amount": 48.333333333333336
       }
     }
   },
@@ -3241,10 +4121,10 @@
         "FeedbackCount": 20,
         "Score": 4.968618937,
         "TotalJobsWithHires": 30,
-        "HoursCount": 16104.000026,
+        "HoursCount": 16116.833359,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 499355.73
+          "Amount": 500662.98
         }
       }
     },
@@ -3280,7 +4160,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-02T13:39:22.443Z",
-      "TotalApplicants": 12,
+      "TotalApplicants": 13,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -3321,8 +4201,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3341,7 +4221,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.583333333333336
+        "Amount": 32.53846153846154
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3350,140 +4230,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Front End Development - Blazor/Telerik - C# - In-House Software",
-    "Uid": "1762567894494920704",
-    "Rid": 1011617935,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~019e5458cc245470cd",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-27T19:58:28.44Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 75,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~019e5458cc245470cd",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "Streetsboro"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "100"
-      },
-      "Stats": {
-        "TotalAssignments": 48,
-        "ActiveAssignmentsCount": 14,
-        "FeedbackCount": 31,
-        "Score": 4.998729757,
-        "TotalJobsWithHires": 46,
-        "HoursCount": 6533.999999,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 162981.21
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Front-End Development",
-      "Web Application",
-      "C#",
-      "Telerik",
-      "Blazor"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-01T14:32:31.527Z",
-      "TotalApplicants": 110,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 12,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 3,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "individuals",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Freelancers only"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "2",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Conversational"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "At Least 10000"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 10
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 43.61666666666667
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 150
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 39.416666666666664
       }
     }
   },
@@ -3565,7 +4311,7 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-02-28T04:20:10.065Z",
+      "LastBuyerActivity": "2024-03-05T04:03:53.231Z",
       "TotalApplicants": 74,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
@@ -3600,8 +4346,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3706,7 +4452,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-02T10:21:05.302Z",
-      "TotalApplicants": 1,
+      "TotalApplicants": 2,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -3733,8 +4479,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3840,8 +4586,8 @@
     ],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-02-27T21:41:14.991Z",
-      "TotalApplicants": 33,
+      "LastBuyerActivity": "2024-03-05T18:02:15.734Z",
+      "TotalApplicants": 28,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -3875,8 +4621,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3895,7 +4641,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 87.74285714285715
+        "Amount": 85.86666666666666
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3991,7 +4737,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-27T14:01:27.51Z",
-      "TotalApplicants": 58,
+      "TotalApplicants": 57,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -4032,8 +4778,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4052,7 +4798,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 41.35966101694915
+        "Amount": 41.46931034482758
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4140,8 +4886,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-27T18:07:17.841Z",
-      "TotalApplicants": 25,
+      "LastBuyerActivity": "2024-03-05T13:36:52.459Z",
+      "TotalApplicants": 22,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -4182,8 +4928,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -4202,7 +4948,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.5452
+        "Amount": 40.84681818181818
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4288,7 +5034,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-02-29T07:56:55.959Z",
-      "TotalApplicants": 28,
+      "TotalApplicants": 29,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -4315,8 +5061,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4335,7 +5081,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.357142857142854
+        "Amount": 39.37931034482759
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4421,7 +5167,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-02-26T21:53:22.135Z",
-      "TotalApplicants": 126,
+      "TotalApplicants": 128,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -4454,7 +5200,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 45.77489063867017
+        "Amount": 45.72411714039621
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4563,8 +5309,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4698,8 +5444,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4770,10 +5516,10 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 7,
-        "HoursCount": 188.66667,
+        "HoursCount": 191.500003,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 4878.59
+          "Amount": 5130.92
         }
       }
     },
@@ -4846,8 +5592,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4918,10 +5664,10 @@
         "FeedbackCount": 90,
         "Score": 4.983314301,
         "TotalJobsWithHires": 100,
-        "HoursCount": 114068.666809,
+        "HoursCount": 114174.500143,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 3964488.91
+          "Amount": 3982473.95
         }
       }
     },
@@ -4957,7 +5703,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-29T17:18:09.941Z",
-      "TotalApplicants": 16,
+      "TotalApplicants": 17,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -5005,8 +5751,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -5025,7 +5771,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 70.034375
+        "Amount": 70.48660130718952
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5150,8 +5896,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5282,8 +6028,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5432,8 +6178,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5504,10 +6250,10 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11143.033342,
+        "HoursCount": 11163.533343,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 628434.27
+          "Amount": 630324.27
         }
       }
     },
@@ -5539,7 +6285,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-23T10:23:34.513Z",
-      "TotalApplicants": 65,
+      "TotalApplicants": 64,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -5573,8 +6319,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5593,7 +6339,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.87692307692308
+        "Amount": 48.078125
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5709,8 +6455,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5781,10 +6527,10 @@
         "FeedbackCount": 23,
         "Score": 5,
         "TotalJobsWithHires": 30,
-        "HoursCount": 327.166668,
+        "HoursCount": 329.833335,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 11582.12
+          "Amount": 11788.81
         }
       }
     },
@@ -5842,8 +6588,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5917,7 +6663,7 @@
         "HoursCount": 2170.166669,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 45935.94
+          "Amount": 46087.25
         }
       }
     },
@@ -5973,8 +6719,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6111,8 +6857,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6306,8 +7052,8 @@
       },
       "Stats": {
         "TotalAssignments": 50,
-        "ActiveAssignmentsCount": 13,
-        "FeedbackCount": 34,
+        "ActiveAssignmentsCount": 12,
+        "FeedbackCount": 35,
         "Score": 4.923691786,
         "TotalJobsWithHires": 42,
         "HoursCount": 4094.666668,
@@ -6392,8 +7138,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6532,8 +7278,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6604,10 +7350,10 @@
         "FeedbackCount": 23,
         "Score": 5,
         "TotalJobsWithHires": 30,
-        "HoursCount": 327.166668,
+        "HoursCount": 329.833335,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 11582.12
+          "Amount": 11788.81
         }
       }
     },
@@ -6638,7 +7384,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-22T18:28:17.191Z",
-      "TotalApplicants": 146,
+      "TotalApplicants": 147,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -6665,8 +7411,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6685,7 +7431,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.26347597597597
+        "Amount": 33.34224459358687
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -6737,10 +7483,10 @@
         "FeedbackCount": 9,
         "Score": 4.958503168,
         "TotalJobsWithHires": 19,
-        "HoursCount": 332.833334,
+        "HoursCount": 335.333334,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 36861.15
+          "Amount": 36893.84
         }
       }
     },
@@ -6771,7 +7517,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-26T17:16:34.334Z",
-      "TotalApplicants": 81,
+      "TotalApplicants": 80,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -6798,8 +7544,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6818,7 +7564,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.93012048192771
+        "Amount": 39.099999999999994
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -6903,7 +7649,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-26T20:51:24.623Z",
-      "TotalApplicants": 15,
+      "TotalApplicants": 17,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -6930,8 +7676,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6950,7 +7696,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 41.8
+        "Amount": 40.411764705882355
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -7040,7 +7786,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-21T20:09:53.801Z",
-      "TotalApplicants": 210,
+      "TotalApplicants": 208,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
@@ -7067,8 +7813,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7087,7 +7833,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.04409302325581
+        "Amount": 32.861408450704225
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -7096,143 +7842,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": 37.5
-      }
-    }
-  },
-  {
-    "Title": "Decentralized Identity Management Specialist",
-    "Uid": "1759995306156122112",
-    "Rid": 1011463778,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01a3cd5eaece559ad2",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-20T17:35:55.859Z",
-    "Rate": {
-      "Minimum": 35,
-      "Maximum": 80,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01a3cd5eaece559ad2",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United Kingdom",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "Web Design",
-      "C#",
-      "Graphic Design",
-      "Illustration",
-      "Facebook",
-      "Search Engine Optimization",
-      "CSS 3"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 12,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-02T19:27:09.193Z",
-      "TotalApplicants": 21,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 14,
-      "UnansweredInvites": 11,
-      "InvitationsSent": 30
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 15
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 55.513333333333335
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 150
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 48.91285714285714
       }
     }
   },
@@ -7276,10 +7885,10 @@
         "FeedbackCount": 45,
         "Score": 4.917265462,
         "TotalJobsWithHires": 68,
-        "HoursCount": 12028.500009,
+        "HoursCount": 12060.166677,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 629514.31
+          "Amount": 633144.22
         }
       }
     },
@@ -7339,8 +7948,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7475,8 +8084,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7620,8 +8229,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7765,8 +8374,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7837,7 +8446,7 @@
         "FeedbackCount": 9,
         "Score": 4.984716712,
         "TotalJobsWithHires": 11,
-        "HoursCount": 3390.833346,
+        "HoursCount": 3392.833346,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 151549.58
@@ -7871,7 +8480,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-19T17:00:06.552Z",
-      "TotalApplicants": 355,
+      "TotalApplicants": 356,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 1,
@@ -7898,8 +8507,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7918,7 +8527,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.342619490999375
+        "Amount": 43.611860105230576
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8032,8 +8641,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8168,8 +8777,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8188,7 +8797,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 41.53846153846154
+        "Amount": 41.23444444444444
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8235,15 +8844,15 @@
         "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 444,
+        "TotalAssignments": 448,
         "ActiveAssignmentsCount": 39,
-        "FeedbackCount": 279,
-        "Score": 4.985170651,
-        "TotalJobsWithHires": 292,
-        "HoursCount": 35355.333351,
+        "FeedbackCount": 280,
+        "Score": 4.985174332,
+        "TotalJobsWithHires": 295,
+        "HoursCount": 35410.666684,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 625468.23
+          "Amount": 630251.52
         }
       }
     },
@@ -8303,8 +8912,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8378,7 +8987,7 @@
         "HoursCount": 1113.833341,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 8125.82
+          "Amount": 8295.82
         }
       }
     },
@@ -8436,8 +9045,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8511,7 +9120,7 @@
         "HoursCount": 580.933336,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 14541.45
+          "Amount": 14594.1
         }
       }
     },
@@ -8568,8 +9177,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8588,7 +9197,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 45.518912529550825
+        "Amount": 45.26497685185185
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8672,8 +9281,8 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-29T19:08:10.686Z",
-      "TotalApplicants": 4,
+      "LastBuyerActivity": "2024-03-05T20:54:23.573Z",
+      "TotalApplicants": 3,
       "TotalHired": 0,
       "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
@@ -8707,8 +9316,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8727,7 +9336,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 45
+        "Amount": 48.333333333333336
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8779,10 +9388,10 @@
         "FeedbackCount": 0,
         "Score": 0,
         "TotalJobsWithHires": 1,
-        "HoursCount": 35.000001,
+        "HoursCount": 45.500002,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 84.85
+          "Amount": 480.7
         }
       }
     },
@@ -8846,8 +9455,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8984,8 +9593,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9114,8 +9723,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9261,8 +9870,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9333,10 +9942,10 @@
         "FeedbackCount": 100,
         "Score": 4.993588946,
         "TotalJobsWithHires": 192,
-        "HoursCount": 108631.00055,
+        "HoursCount": 108734.333888,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 3525539.93
+          "Amount": 3540431.3
         }
       }
     },
@@ -9367,9 +9976,9 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T15:20:55.739Z",
-      "TotalApplicants": 114,
+      "TotalApplicants": 113,
       "TotalHired": 3,
-      "TotalInvitedToInterview": 13,
+      "TotalInvitedToInterview": 12,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -9415,8 +10024,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -9435,7 +10044,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 51.70721739130435
+        "Amount": 51.54675438596491
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -9443,7 +10052,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 57.10230769230769
+        "Amount": 56.027499999999996
       }
     }
   },
@@ -9551,8 +10160,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9623,10 +10232,10 @@
         "FeedbackCount": 49,
         "Score": 4.981710782,
         "TotalJobsWithHires": 55,
-        "HoursCount": 946.333375,
+        "HoursCount": 950.500042,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 19282.75
+          "Amount": 19646.5
         }
       }
     },
@@ -9693,8 +10302,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9828,8 +10437,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9895,15 +10504,15 @@
         "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 6,
-        "ActiveAssignmentsCount": 2,
+        "TotalAssignments": 7,
+        "ActiveAssignmentsCount": 3,
         "FeedbackCount": 3,
         "Score": 5,
-        "TotalJobsWithHires": 6,
+        "TotalJobsWithHires": 7,
         "HoursCount": 13128.66668,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 209662.31
+          "Amount": 210922.31
         }
       }
     },
@@ -9968,8 +10577,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10076,7 +10685,7 @@
     ],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-02-27T19:40:59.084Z",
+      "LastBuyerActivity": "2024-03-05T13:43:08.517Z",
       "TotalApplicants": 44,
       "TotalHired": 0,
       "TotalInvitedToInterview": 22,
@@ -10157,15 +10766,15 @@
         "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 8,
-        "ActiveAssignmentsCount": 4,
+        "TotalAssignments": 9,
+        "ActiveAssignmentsCount": 5,
         "FeedbackCount": 3,
         "Score": 5,
-        "TotalJobsWithHires": 6,
+        "TotalJobsWithHires": 7,
         "HoursCount": 15.833333,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 680.75
+          "Amount": 726.95
         }
       }
     },
@@ -10222,8 +10831,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10358,8 +10967,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10426,14 +11035,14 @@
       },
       "Stats": {
         "TotalAssignments": 380,
-        "ActiveAssignmentsCount": 41,
-        "FeedbackCount": 236,
-        "Score": 4.843915539,
+        "ActiveAssignmentsCount": 40,
+        "FeedbackCount": 239,
+        "Score": 4.85699874,
         "TotalJobsWithHires": 271,
-        "HoursCount": 21459.833513,
+        "HoursCount": 21461.833513,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 599331.61
+          "Amount": 599384.27
         }
       }
     },
@@ -10469,9 +11078,9 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-27T20:17:00.325Z",
-      "TotalApplicants": 142,
+      "TotalApplicants": 141,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 15,
+      "TotalInvitedToInterview": 14,
       "UnansweredInvites": 0,
       "InvitationsSent": 7
     },
@@ -10496,8 +11105,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10516,7 +11125,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.06965517241379
+        "Amount": 31.007638888888884
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -10524,7 +11133,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 28.618666666666666
+        "Amount": 27.805714285714284
       }
     }
   },
@@ -10571,7 +11180,7 @@
         "HoursCount": 815.333333,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 25268.14
+          "Amount": 26534.2
         }
       }
     },
@@ -10639,8 +11248,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10744,10 +11353,10 @@
     "Questions": [],
     "ConnectPrice": 8,
     "Activity": {
-      "LastBuyerActivity": "2024-03-04T00:16:31.092Z",
-      "TotalApplicants": 19,
+      "LastBuyerActivity": "2024-03-05T04:02:37.391Z",
+      "TotalApplicants": 16,
       "TotalHired": 2,
-      "TotalInvitedToInterview": 12,
+      "TotalInvitedToInterview": 8,
       "UnansweredInvites": 14,
       "InvitationsSent": 41
     },
@@ -10779,8 +11388,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10799,15 +11408,15 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.9
+        "Amount": 37.88235294117647
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 60
+        "Amount": 50
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 44.166666666666664
+        "Amount": 43.25
       }
     }
   },
@@ -10884,7 +11493,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-13T17:23:53.052Z",
-      "TotalApplicants": 39,
+      "TotalApplicants": 41,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -10918,8 +11527,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10938,7 +11547,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.829268292682926
+        "Amount": 34.116279069767444
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -10990,10 +11599,10 @@
         "FeedbackCount": 12,
         "Score": 3.888857006,
         "TotalJobsWithHires": 23,
-        "HoursCount": 89.833334,
+        "HoursCount": 95.833334,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 1899.7
+          "Amount": 2111.43
         }
       }
     },
@@ -11035,8 +11644,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-28T13:30:10.082Z",
-      "TotalApplicants": 13,
+      "LastBuyerActivity": "2024-03-04T19:25:32.801Z",
+      "TotalApplicants": 11,
       "TotalHired": 1,
       "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
@@ -11077,8 +11686,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -11097,7 +11706,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.17785714285714
+        "Amount": 37.12416666666667
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -11333,8 +11942,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11463,8 +12072,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11531,8 +12140,8 @@
       },
       "Stats": {
         "TotalAssignments": 50,
-        "ActiveAssignmentsCount": 13,
-        "FeedbackCount": 34,
+        "ActiveAssignmentsCount": 12,
+        "FeedbackCount": 35,
         "Score": 4.923691786,
         "TotalJobsWithHires": 42,
         "HoursCount": 4094.666668,
@@ -11581,7 +12190,7 @@
     },
     "Qualifications": {
       "TotalQualifications": 5,
-      "MatchedQualifications": 2,
+      "MatchedQualifications": 3,
       "QualificationsDetails": [
         {
           "Qualified": true,
@@ -11605,10 +12214,10 @@
           "ClientPreferredLabel": "Native"
         },
         {
-          "Qualified": false,
+          "Qualified": true,
           "ClientPreferred": "AT_LEAST_100",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 100"
         },
         {
@@ -11682,7 +12291,7 @@
         "HoursCount": 1466.166669,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 22946.11
+          "Amount": 23016.64
         }
       }
     },
@@ -11744,8 +12353,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11816,10 +12425,10 @@
         "FeedbackCount": 34,
         "Score": 4.97767151,
         "TotalJobsWithHires": 41,
-        "HoursCount": 3360.500016,
+        "HoursCount": 3366.333349,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 53844.74
+          "Amount": 54842.24
         }
       }
     },
@@ -11879,8 +12488,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12016,8 +12625,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12088,10 +12697,10 @@
         "FeedbackCount": 13,
         "Score": 5,
         "TotalJobsWithHires": 18,
-        "HoursCount": 833.499996,
+        "HoursCount": 834.666662,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 10679.86
+          "Amount": 10875.86
         }
       }
     },
@@ -12155,8 +12764,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12285,8 +12894,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12419,8 +13028,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12525,7 +13134,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-02-10T18:46:52.976Z",
-      "TotalApplicants": 145,
+      "TotalApplicants": 146,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -12558,7 +13167,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 51.89727891156463
+        "Amount": 51.78310810810811
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -12670,8 +13279,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12807,8 +13416,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12941,8 +13550,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13013,10 +13622,10 @@
         "FeedbackCount": 4,
         "Score": 5,
         "TotalJobsWithHires": 5,
-        "HoursCount": 5266.666673,
+        "HoursCount": 5281.33334,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 87938.25
+          "Amount": 88700.73
         }
       }
     },
@@ -13084,8 +13693,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13225,8 +13834,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13358,8 +13967,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13430,10 +14039,10 @@
         "FeedbackCount": 5,
         "Score": 4.442360537,
         "TotalJobsWithHires": 15,
-        "HoursCount": 14337.500043,
+        "HoursCount": 14472.16671,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 541386.15
+          "Amount": 555877.03
         }
       }
     },
@@ -13515,8 +14124,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13587,10 +14196,10 @@
         "FeedbackCount": 19,
         "Score": 5,
         "TotalJobsWithHires": 27,
-        "HoursCount": 6214.499999,
+        "HoursCount": 6218.333332,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 187601.96
+          "Amount": 188053.75
         }
       }
     },
@@ -13648,8 +14257,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13758,7 +14367,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-10T23:03:12.357Z",
-      "TotalApplicants": 23,
+      "TotalApplicants": 22,
       "TotalHired": 0,
       "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
@@ -13785,8 +14394,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13805,7 +14414,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.36
+        "Amount": 43.583333333333336
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -13918,8 +14527,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13990,10 +14599,10 @@
         "FeedbackCount": 105,
         "Score": 4.823724077,
         "TotalJobsWithHires": 125,
-        "HoursCount": 79947.666915,
+        "HoursCount": 80010.666917,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 2262554.21
+          "Amount": 2269878.53
         }
       }
     },
@@ -14052,8 +14661,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14124,10 +14733,10 @@
         "FeedbackCount": 11,
         "Score": 4.998351058,
         "TotalJobsWithHires": 21,
-        "HoursCount": 2949.333336,
+        "HoursCount": 2956.833336,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 162550.21
+          "Amount": 163810.8
         }
       }
     },
@@ -14200,8 +14809,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14336,8 +14945,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14473,8 +15082,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14493,7 +15102,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 53.3678947368421
+        "Amount": 55.205128205128204
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -14607,8 +15216,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14736,8 +15345,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14808,10 +15417,10 @@
         "FeedbackCount": 5,
         "Score": 4.954397143,
         "TotalJobsWithHires": 8,
-        "HoursCount": 15559.166693,
+        "HoursCount": 15590.000027,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 424936.39
+          "Amount": 428512.69
         }
       }
     },
@@ -14870,8 +15479,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15005,8 +15614,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15080,7 +15689,7 @@
         "HoursCount": 186,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 2398.08
+          "Amount": 2429.58
         }
       }
     },
@@ -15123,7 +15732,7 @@
     },
     "Qualifications": {
       "TotalQualifications": 6,
-      "MatchedQualifications": 3,
+      "MatchedQualifications": 4,
       "QualificationsDetails": [
         {
           "Qualified": true,
@@ -15154,10 +15763,10 @@
           "ClientPreferredLabel": "India"
         },
         {
-          "Qualified": false,
+          "Qualified": true,
           "ClientPreferred": "AT_LEAST_100",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 100"
         },
         {
@@ -15228,7 +15837,7 @@
         "FeedbackCount": 17,
         "Score": 4.933000442,
         "TotalJobsWithHires": 25,
-        "HoursCount": 267.83333,
+        "HoursCount": 278.83333,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 26365.97
@@ -15263,7 +15872,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T09:52:45.709Z",
-      "TotalApplicants": 43,
+      "TotalApplicants": 44,
       "TotalHired": 1,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -15297,8 +15906,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15317,7 +15926,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 35.821777777777775
+        "Amount": 36.13
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -15364,11 +15973,11 @@
         "Size": "10"
       },
       "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 1,
         "FeedbackCount": 0,
         "Score": 0,
-        "TotalJobsWithHires": 0,
+        "TotalJobsWithHires": 1,
         "HoursCount": 0,
         "TotalCharges": {
           "CurrencyCode": "USD",
@@ -15432,8 +16041,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15564,8 +16173,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15636,10 +16245,10 @@
         "FeedbackCount": 26,
         "Score": 4.927922106,
         "TotalJobsWithHires": 33,
-        "HoursCount": 84.999999,
+        "HoursCount": 97.333332,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 35300.61
+          "Amount": 35820.61
         }
       }
     },
@@ -15675,10 +16284,10 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-12T14:32:03.06Z",
-      "TotalApplicants": 103,
+      "TotalApplicants": 104,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 28,
-      "UnansweredInvites": 33,
+      "TotalInvitedToInterview": 29,
+      "UnansweredInvites": 32,
       "InvitationsSent": 65
     },
     "Qualifications": {
@@ -15702,8 +16311,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15722,7 +16331,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.449619047619045
+        "Amount": 38.294433962264144
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -15730,7 +16339,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.07142857142857
+        "Amount": 42.3448275862069
       }
     }
   },
@@ -15959,8 +16568,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16031,10 +16640,10 @@
         "FeedbackCount": 9,
         "Score": 4.998379722,
         "TotalJobsWithHires": 11,
-        "HoursCount": 240.000002,
+        "HoursCount": 241.333335,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 4065.14
+          "Amount": 4247.84
         }
       }
     },
@@ -16076,7 +16685,7 @@
       "TotalApplicants": 1,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 21,
+      "UnansweredInvites": 20,
       "InvitationsSent": 75
     },
     "Qualifications": {
@@ -16100,8 +16709,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16231,8 +16840,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16260,156 +16869,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": 40.41903225806452
-      }
-    }
-  },
-  {
-    "Title": "App for Windows Store - Proof Of Concept",
-    "Uid": "1753399579270914048",
-    "Rid": 1011078359,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01e843dcde7ffe74d6",
-    "Category": "Desktop Application Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-02T12:46:51.922Z",
-    "Rate": {
-      "Minimum": 15,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01e843dcde7ffe74d6",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Czech Republic",
-        "City": "Prague 9"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "10"
-      },
-      "Stats": {
-        "TotalAssignments": 4,
-        "ActiveAssignmentsCount": 2,
-        "FeedbackCount": 2,
-        "Score": 5,
-        "TotalJobsWithHires": 4,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 2450
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Microsoft Windows",
-      "Universal Windows Platform",
-      "Windows Presentation Foundation",
-      "Microsoft Visual Studio",
-      "C#",
-      "XAML",
-      "Windows App Development"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 8,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-03T22:47:28.013Z",
-      "TotalApplicants": 19,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 2,
-      "UnansweredInvites": 2,
-      "InvitationsSent": 4
-    },
-    "Qualifications": {
-      "TotalQualifications": 6,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "individuals",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Freelancers only"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "90",
-          "FreelancerValue": "0",
-          "FreelancerValueLabel": "0%",
-          "ClientPreferredLabel": "At least 90%"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "2",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Conversational"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "true",
-          "FreelancerValue": "false",
-          "FreelancerValueLabel": "no",
-          "ClientPreferredLabel": "yes"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 12
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 33.26315789473684
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 60
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
       }
     }
   },
@@ -16489,7 +16948,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-23T05:39:55.507Z",
-      "TotalApplicants": 51,
+      "TotalApplicants": 52,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -16516,8 +16975,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16536,7 +16995,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 28.167755991285414
+        "Amount": 28.29914529914531
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -16545,262 +17004,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Malware Removal from Cloud Based Windows Server",
-    "Uid": "1752822505878413312",
-    "Rid": 1011042892,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~011e0cb2a55be7ee4d",
-    "Category": "Network \u0026 System Administration",
-    "CategoryGroup": "IT \u0026 Networking",
-    "PublishedTime": "2024-01-31T22:33:46.791Z",
-    "Rate": {
-      "Minimum": 40,
-      "Maximum": 125,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~011e0cb2a55be7ee4d",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 1,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 1,
-        "Score": 5,
-        "TotalJobsWithHires": 1,
-        "HoursCount": 4.666667,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 200.95
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "Network Security",
-      "Network Administration",
-      "System Administration",
-      "Windows Server",
-      "Firewall"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 4,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-03T21:39:56.367Z",
-      "TotalApplicants": 10,
-      "TotalHired": 1,
-      "TotalInvitedToInterview": 4,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 2,
-      "MatchedQualifications": 2,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "3",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Fluent"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 40
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 83.5
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 150
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 67.5
-      }
-    }
-  },
-  {
-    "Title": "Fully Develop Website ",
-    "Uid": "1752699180953870336",
-    "Rid": 1011032454,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0188b29f17d65f6c68",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-31T14:23:43.695Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0188b29f17d65f6c68",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "Ventura"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "10"
-      },
-      "Stats": {
-        "TotalAssignments": 5,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 4,
-        "Score": 4.755763671,
-        "TotalJobsWithHires": 4,
-        "HoursCount": 3200.166664,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 66747.65
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "ASP.NET MVC",
-      "Web Application",
-      "Adobe Photoshop",
-      "Google Analytics",
-      "Angular",
-      "Database Architecture",
-      "Java"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-04T13:46:52.46Z",
-      "TotalApplicants": 244,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 14,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 11
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 10
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 35.79773279352227
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 120
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 27.714285714285715
       }
     }
   },
@@ -16932,8 +17135,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -17073,8 +17276,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17204,8 +17407,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17349,8 +17552,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17480,8 +17683,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17612,8 +17815,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17898,8 +18101,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -18050,8 +18253,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -18122,7 +18325,7 @@
         "FeedbackCount": 39,
         "Score": 4.964858641,
         "TotalJobsWithHires": 43,
-        "HoursCount": 4968.333357,
+        "HoursCount": 4988.333357,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 109366.64
@@ -18182,8 +18385,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18257,7 +18460,7 @@
         "HoursCount": 761.333336,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 29060.48
+          "Amount": 31067.03
         }
       }
     },
@@ -18321,8 +18524,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18350,142 +18553,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Senior Full Stack Engineer (Focus on Backend Java Development)",
-    "Uid": "1749469989856645120",
-    "Rid": 1010836693,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01e926bbec2a87c4aa",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-22T17:09:31.767Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01e926bbec2a87c4aa",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United Arab Emirates",
-        "City": "Dubai"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 133,
-        "ActiveAssignmentsCount": 27,
-        "FeedbackCount": 82,
-        "Score": 4.973124209,
-        "TotalJobsWithHires": 126,
-        "HoursCount": 5959.166677,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 282207
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Angular",
-      "React",
-      "TypeScript",
-      "NestJS",
-      "GitLab",
-      "Java",
-      "Terraform"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-04T07:27:17.643Z",
-      "TotalApplicants": 183,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 3,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 2
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 12
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 37.6849069069069
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 150
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 38.333333333333336
       }
     }
   },
@@ -18529,7 +18596,7 @@
         "FeedbackCount": 39,
         "Score": 4.964858641,
         "TotalJobsWithHires": 43,
-        "HoursCount": 4968.333357,
+        "HoursCount": 4988.333357,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 109366.64
@@ -18590,8 +18657,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18660,12 +18727,12 @@
         "TotalAssignments": 127,
         "ActiveAssignmentsCount": 37,
         "FeedbackCount": 56,
-        "Score": 4.957568822,
+        "Score": 4.957577108,
         "TotalJobsWithHires": 73,
-        "HoursCount": 32959.000019,
+        "HoursCount": 33103.50002,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 964661.069999999
+          "Amount": 982136.36
         }
       }
     },
@@ -18727,8 +18794,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18802,7 +18869,7 @@
         "HoursCount": 761.333336,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 29060.48
+          "Amount": 31067.03
         }
       }
     },
@@ -18867,8 +18934,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18939,10 +19006,10 @@
         "FeedbackCount": 72,
         "Score": 4.553656225,
         "TotalJobsWithHires": 82,
-        "HoursCount": 10167.500009,
+        "HoursCount": 10176.50001,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 199466.82
+          "Amount": 200129.52
         }
       }
     },
@@ -18996,8 +19063,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19066,12 +19133,12 @@
         "TotalAssignments": 446,
         "ActiveAssignmentsCount": 140,
         "FeedbackCount": 225,
-        "Score": 4.800557077,
+        "Score": 4.800593945,
         "TotalJobsWithHires": 179,
-        "HoursCount": 93523.666737,
+        "HoursCount": 93665.00007,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 2812467.27
+          "Amount": 2846495.93
         }
       }
     },
@@ -19107,8 +19174,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-26T13:48:53.47Z",
-      "TotalApplicants": 53,
+      "LastBuyerActivity": "2024-03-04T13:18:59.873Z",
+      "TotalApplicants": 42,
       "TotalHired": 11,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -19135,8 +19202,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19155,7 +19222,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36.271740041928716
+        "Amount": 36.366719576719575
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -19269,8 +19336,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19344,7 +19411,7 @@
         "HoursCount": 18901.666782,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 520805.16
+          "Amount": 521134.35
         }
       }
     },
@@ -19381,7 +19448,7 @@
     },
     "Qualifications": {
       "TotalQualifications": 5,
-      "MatchedQualifications": 2,
+      "MatchedQualifications": 3,
       "QualificationsDetails": [
         {
           "Qualified": true,
@@ -19405,10 +19472,10 @@
           "ClientPreferredLabel": "Native"
         },
         {
-          "Qualified": false,
+          "Qualified": true,
           "ClientPreferred": "AT_LEAST_100",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 100"
         },
         {
@@ -19436,161 +19503,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": 45
-      }
-    }
-  },
-  {
-    "Title": "Website Re-Design - Creative",
-    "Uid": "1744326160477630464",
-    "Rid": 1010530354,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~018f20254f1ecaca15",
-    "Category": "Web \u0026 Mobile Design",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-08T11:52:23.051Z",
-    "Rate": {
-      "Minimum": 10,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~018f20254f1ecaca15",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "India",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "Web Design",
-      "Web Development",
-      "Adobe Photoshop"
-    ],
-    "Duties": "N/A",
-    "Questions": [
-      "Describe your recent experience with similar projects",
-      "Include a link to your GitHub profile and/or website"
-    ],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-01-08T11:52:19.42Z",
-      "TotalApplicants": 1,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 7,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "individuals",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Freelancers only"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "80",
-          "FreelancerValue": "0",
-          "FreelancerValueLabel": "0%",
-          "ClientPreferredLabel": "At least 80%"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "3",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Fluent"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "true",
-          "FreelancerValue": "false",
-          "FreelancerValueLabel": "no",
-          "ClientPreferredLabel": "yes"
-        },
-        {
-          "Qualified": false,
-          "ClientPreferred": "country=(India)",
-          "FreelancerValue": "Poland",
-          "FreelancerValueLabel": "Poland",
-          "ClientPreferredLabel": "India"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
       }
     }
   },
@@ -19714,8 +19626,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19821,10 +19733,10 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-01-16T11:00:56.702Z",
+      "LastBuyerActivity": "2024-03-04T19:14:57.739Z",
       "TotalApplicants": 35,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
+      "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -19863,8 +19775,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -19938,7 +19850,7 @@
         "HoursCount": 0,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 52.99
+          "Amount": 1123.69
         }
       }
     },
@@ -20026,8 +19938,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20161,8 +20073,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20298,8 +20210,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20370,10 +20282,10 @@
         "FeedbackCount": 21,
         "Score": 4.864736834,
         "TotalJobsWithHires": 50,
-        "HoursCount": 23242.143387,
+        "HoursCount": 23260.810054,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 491372.65
+          "Amount": 492308.91
         }
       }
     },
@@ -20439,8 +20351,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "0.00",
-          "FreelancerValueLabel": "0.00",
+          "FreelancerValue": "218.55",
+          "FreelancerValueLabel": "218.55",
           "ClientPreferredLabel": "At Least 10000"
         },
         {

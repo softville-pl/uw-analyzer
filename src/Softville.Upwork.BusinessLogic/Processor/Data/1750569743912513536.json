@@ -107,7 +107,7 @@
       "totalApplicants": 1,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
-      "unansweredInvites": 21,
+      "unansweredInvites": 20,
       "invitationsSent": 75
     },
     "weeklyRetainerBudget": null,
@@ -157,10 +157,10 @@
       "feedbackCount": 9,
       "score": 4.998379722,
       "totalJobsWithHires": 11,
-      "hoursCount": 240.000002,
+      "hoursCount": 241.333335,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 4065.14
+        "amount": 4247.84
       }
     },
     "isEnterprise": false,
@@ -179,7 +179,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 15.931249867239584
+      "amount": 15.942679447909672
     }
   },
   "currentUserInfo": {
@@ -209,8 +209,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "Any"
           },
           {

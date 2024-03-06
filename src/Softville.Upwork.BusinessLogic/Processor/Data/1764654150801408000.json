@@ -1,0 +1,271 @@
+{
+  "job": {
+    "ciphertext": "~01a7c3172c40867b3a",
+    "rid": 1011745697,
+    "uid": "1764654150801408000",
+    "type": 2,
+    "access": 4,
+    "title": "Compounding Formula Management System Web Application Development (.Net Full Stack Development)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-04T14:08:30.402Z",
+    "postedOn": "2024-03-04T14:08:31.083Z",
+    "publishTime": "2024-03-04T14:08:31.083Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011193820,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Project\nMedisca develops a tool to address the Compounding Services needs of the chemists, pharmacists, and sales representatives. The goal is to capture the formula requests from the customers, to provide a tool for the chemist to produce the formula with all the ingredients and references needed. The formula must follow the approval process before being sent to the customer and published on our website. This web application with be our Formula Management System.\n\nMission\nYour mission is to collaborate with our internal development team to extend the workforce. You will work on an application REST API based using .Net Core with an MS SQL database. You will also work on the web application using Blazor and the Syncfusion library. \nAll the requirements are documented in Jira user stories which must be delivered in 2 weeks sprints. The user stories follow the three c\u2019s principle.\nThe code is versioned in GitHub and the implementation must follow the gitflow.\nThis mission is planned for 8 weeks of 35h (current estimation, can be revised). \nYour mission could be extended if you are able to migrate the application on the Azure Cloud using the web application template. Currently the application is hosted on our on-premises servers.\n\nEnvironment \nMedisca is a global corporation leveraging strong partnerships to serve healthcare professionals across diverse wellness disciplines. Offering extensive and essential solutions - including pharmaceutical ingredients and service, mixing technology manufacturing, analytical testing, and education \u2013 Medisca is bridging the gaps in healthcare with an unwavering commitment to precision, innovation, and societal impact.\nYou will collaborate with the IT team on an Agile project. Your main contacts will be the other developers, the business analyst, the product owner and solution architects.\nMedisca is in constant growth and digital initiatives are increasing each year. So, be ready to have more than one opportunity in case of great collaboration.\n\nProfile\nWe are looking for a web application expert. Someone curious about the technology and the project, with the desire to collaborate. ",
+    "attachments": [
+      {
+        "fileName": "MedCS - Upwork mission.pdf",
+        "length": 111996,
+        "uri": "/att/download/openings/1764654150801408000/attachments/4021ce17-6b91-4c24-9a71-c359572ee45d/download"
+      }
+    ],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Are you familiar with Agile methodology?"
+      },
+      {
+        "position": 1,
+        "question": "Are you used to collaborate with multiple developers on your projects?"
+      },
+      {
+        "position": 2,
+        "question": "Are you open to be available from 9am to 5pm, Montreal time (EST time zone)? Or make sure to optimize the overlap"
+      },
+      {
+        "position": 3,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-05T23:07:30.684Z",
+      "totalApplicants": 29,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "jpgV2Error",
+        "firstJobPost",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-03-04T14:08:31.083Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "651",
+        "type": "FJP",
+        "optInDescriptionAIv2": "yes",
+        "urgency": "2",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Compounding Formula Management System Web Application Development (.Net Full Stack Development)\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221192876983507763200\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221192876962720792576\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u00221192876993905442816\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022freeText\u0022:null,\u0022isLegacyConvertedSkill\u0022:false}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926082\u0022,\u0022segmentation\u0022:\u00221136971402914283520\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:15,\u0022hourlyBudgetMax\u0022:50,\u0022amount\u0022:null}}",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022.NET Fullstack Developer\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022}],\u0022scope\u0022:{\u0022duration\u0022:null,\u0022expertise\u0022:0},\u0022budget\u0022:{}}",
+        "jpgV2Prompt": ".net fullstack developer",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709134315793"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "Canada (America/N)",
+      "city": null,
+      "country": "Canada"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-12-06T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": "Science \u0026 Medicine",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Canada,United States)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Canada, United States"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

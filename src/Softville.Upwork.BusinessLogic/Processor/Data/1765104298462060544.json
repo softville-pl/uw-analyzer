@@ -1,0 +1,238 @@
+{
+  "job": {
+    "ciphertext": "~0145ba7af9372c4f9f",
+    "rid": 1011781473,
+    "uid": "1765104298462060544",
+    "type": 2,
+    "access": 4,
+    "title": "Senior Software Engineer \nTickblaze Trading Platform (C#, .NET, WPF)\n",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-05T19:57:13.766Z",
+    "postedOn": "2024-03-05T19:57:14.331Z",
+    "publishTime": "2024-03-05T19:57:14.331Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 7566637,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Job Post\n\nWe\u2019re looking for a highly competent senior WPF/C#/.NET developer to work with my company on a full time basis as we prepare a newly acquired trading platform for its retail market focused relaunch later this year. The first month or more of this job is going to be dedicated entirely to improving the platform\u0027s stability and usability, bug ticket by bug ticket. Later as you gain familiarity, it\u2019s going to be implementing features. \n\nWe\u2019re hiring for this role in the hopes that whomever we hire can become more of a lead developer \u0026 core part of the team in terms of programming and leadership. Here\u2019s a list of the things we\u2019d like candidates to have:\n\n- WPF experience. We\u2019re not using MVVM, nor complex data binding, or highly specific SDKs. General WPF experience is enough.\n\n- Communication skills. We\u2019re a small team, bring up issues you see, reach out to people as needed, communicate your schedule before people need to know, etc.   Must be able to speak and understand fluent English.  Must be able to accommodate a USA/CAD time zone overlap.\n\n- Trading experience (optional but a big plus). Doesn\u2019t need to be development experience specifically, but familiarity with trading will help you understand the product quickly. Be sure to mention it in your application if you have any experience.\n\n- Agile experience (optional). Eventually we\u2019re hoping the right candidate can lead our scrum meetings, help plan sprints etc.\n\n- Internal COMM\u0027s:  We use Google, Slack, Jira , Sentry and other basic tech stacks that are standard for such role.  Basic or avid experience of them is expected.\n\n- Official Job Post Link Here:  https://docs.google.com/document/d/11b62bcb-7z1m-TBREB4l5CEs3x_yKDIdbmRXYh0Plck/edit\n\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-05T20:00:12.895Z",
+      "totalApplicants": 20,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 5,
+      "invitationsSent": 5
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "160",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a Senior Software Engineer to join our team and contribute to the development of the Tickblaze Trading Platform. The ideal candidate should have strong experience in C#, .NET, and Windows Presentation Foundation (WPF). \n\nThe project is expected to last for more than 6 months, and we are seeking a candidate who can commit to the project for its entirety. \n\nAs a Senior Software Engineer, you will play a key role in enhancing and maintaining the Tickblaze Trading Platform. We are looking for someone who can bring their expertise to the project and help us achieve our goals. \n\nTo apply for this role, please submit a proposal outlining how you can contribute to the project. Additionally, include links to any relevant past completed projects that demonstrate your skills and experience in C#, .NET, and WPF.\n\nWe look forward to reviewing your proposals and discussing further details with qualified candidates.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-05T19:57:14.331Z",
+        "totalTimeJobPostFlowAIv2": "866",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626796670894080\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "94",
+        "totalTimeSpentOnReviewPageAIv2": "492",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709667766371",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Senior Software Engineer \nTickblaze Trading Platform (C#, .NET, WPF)\n",
+        "finalDescriptionAI": "Job Post\n\nWe\u2019re looking for a highly competent senior WPF developer to work with my company on a full time basis as we prepare a newly acquired trading platform for its retail market focused relaunch later this year. The first month or more of this job is going to be dedicated entirely to improving the platform\u0027s stability and usability, bug ticket by bug ticket. Later as you gain familiarity, it\u2019s going to be implementing features. We\u2019re hiring for this role in the hopes that whomever we hire can become more of a lead developer \u0026 core part of the team in terms of programming and leadership. Here\u2019s a list of the things we\u2019d like candidates to have:\nWPF experience. We\u2019re not using MVVM, nor complex data binding, or highly specific SDKs. General WPF experience is enough.\n\nCommunication skills. We\u2019re a small team, bring up issues you see, reach out to people as needed, communicate your schedule before people need to know, etc.\n\nTrading experience (optional but a plus). Doesn\u2019t need to be development experience specifically, but familiarity with trading will help you understand the product quickly. Be sure to mention it in your application if you have any experience.\n\nAgile experience (optional). Eventually we\u2019re hoping the right candidate can lead our scrum meetings, help plan sprints etc.\n\nOfficial Job Post Link Here:  https://docs.google.com/document/d/11b62bcb-7z1m-TBREB4l5CEs3x_yKDIdbmRXYh0Plck/edit\n\n"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 10800000,
+      "countryTimezone": "Estonia (UTC\u002B03:00)",
+      "city": null,
+      "country": "Estonia"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-05-08T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 11,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
