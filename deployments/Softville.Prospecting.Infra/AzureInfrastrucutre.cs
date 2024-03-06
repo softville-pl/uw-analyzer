@@ -5,9 +5,9 @@ using Constructs;
 using HashiCorp.Cdktf;
 using HashiCorp.Cdktf.Providers.Azurerm.CosmosdbAccount;
 using HashiCorp.Cdktf.Providers.Azurerm.DataAzurermClientConfig;
+using HashiCorp.Cdktf.Providers.Azurerm.FunctionApp;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultSecret;
-using HashiCorp.Cdktf.Providers.Azurerm.LinuxFunctionApp;
 using HashiCorp.Cdktf.Providers.Azurerm.Provider;
 using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
 using HashiCorp.Cdktf.Providers.Azurerm.ServicePlan;
@@ -159,31 +159,34 @@ public class ProspectingAzureStack : TerraformStack
             ZoneBalancingEnabled = false
         });
 
-        // var fnc = new FunctionApp(this, "AzureFunction", new FunctionAppConfig()
-        // {
-        //     Name = $"func-{namePostfix}",
-        //     ResourceGroupName = resourceGroup.Location,
-        //     Location = resourceGroup.Location,
-        //     OsType = "linux",
-        //     SiteConfig = new FunctionAppSiteConfig {DotnetFrameworkVersion = "v8.0"},
-        //     AppSettings = new Dictionary<string, string>()
-        //     Tags = tags
-        // });
-
-        var fnc2 = new LinuxFunctionApp(this, "AzureFunction", new LinuxFunctionAppConfig()
+        var fnc = new FunctionApp(this, "AzureFunction", new FunctionAppConfig
         {
             Name = $"func-{namePostfix}",
             ResourceGroupName = resourceGroup.Location,
             Location = resourceGroup.Location,
-            ServicePlanId = asp.Id,
-            AppSettings = new Dictionary<string, string>
-            {
-                { "FUNCTIONS_WORKER_RUNTIME", "dotnet-isolated" },
-                { "FUNCTIONS_EXTENSION_VERSION", "~4" }
-                // Add other settings as needed
-            },
+            AppServicePlanId = asp.Id,
+            OsType = "linux",
+            SiteConfig = new FunctionAppSiteConfig {DotnetFrameworkVersion = "v8.0"},
+            AppSettings = new Dictionary<string, string>() {},
             StorageAccountName = st.Name,
-            StorageAccountAccessKey = st.PrimaryAccessKey
+            StorageAccountAccessKey = st.PrimaryAccessKey,
+            Tags = tags
         });
+
+        // var fnc2 = new LinuxFunctionApp(this, "AzureFunction", new LinuxFunctionAppConfig()
+        // {
+        //     Name = $"func-{namePostfix}",
+        //     ResourceGroupName = resourceGroup.Location,
+        //     Location = resourceGroup.Location,
+        //     ServicePlanId = asp.Id,
+        //     AppSettings = new Dictionary<string, string>
+        //     {
+        //         { "FUNCTIONS_WORKER_RUNTIME", "dotnet-isolated" },
+        //         { "FUNCTIONS_EXTENSION_VERSION", "~4" }
+        //         // Add other settings as needed
+        //     },
+        //     StorageAccountName = st.Name,
+        //     StorageAccountAccessKey = st.PrimaryAccessKey
+        // });
     }
 }
