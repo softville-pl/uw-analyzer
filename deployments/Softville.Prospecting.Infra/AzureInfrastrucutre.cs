@@ -36,12 +36,19 @@ public class ProspectingAzureStack : TerraformStack
         DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
         var adminUserObjectId = "035e7cd0-50b7-49bb-bff5-4134329917a4";
 
-        var context = new ResourceCreatorContext(this, resourceGroup, clientConfig, adminUserObjectId, infrastructure, tags);
+        var context =
+            new ResourceCreatorContext(this, resourceGroup, clientConfig, adminUserObjectId, infrastructure, tags);
 
         // Define KeyVault for the resource group
         KeyVault kv = KeyVaultCreator.CreateKeyVault(context);
 
-        _ = CosmosDbCreator.CreateCosmosDb(context, kv, tags);
+        var tfAccessPolicy = KeyVaultCreator.CreateFullSecretAccessPolicy(context, kv,
+            "TerraformServicePrincipalAccessPolicy", clientConfig.ObjectId);
+
+        _ = KeyVaultCreator.CreateFullSecretAccessPolicy(context, kv,
+            "SubscriptionAdminUserAccessPolicy", adminUserObjectId);
+
+        _ = CosmosDbCreator.CreateCosmosDb(context, kv, tfAccessPolicy, tags);
 
         // StorageAccount st = new(this, "StorageAccount",
         //     new StorageAccountConfig

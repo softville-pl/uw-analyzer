@@ -1,7 +1,9 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+using HashiCorp.Cdktf;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
+using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultAccessPolicy;
 
 namespace Softville.Prospecting.Infra.Resources;
 
@@ -27,22 +29,27 @@ internal class KeyVaultCreator
                 SoftDeleteRetentionDays = 7,
                 TenantId = context.ClientConfig.TenantId,
                 Tags = context.ResourceGroup.Tags,
-                AccessPolicy = new IKeyVaultAccessPolicy[]
+                Lifecycle = new TerraformResourceLifecycle()
                 {
-                    new KeyVaultAccessPolicy
-                    {
-                        TenantId = context.ClientConfig.TenantId,
-                        ObjectId = context.ClientConfig.ObjectId,
-                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
-                    },
-                    new KeyVaultAccessPolicy
-                    {
-                        TenantId = context.ClientConfig.TenantId,
-                        ObjectId = context.AdminUserObjectId,
-                        SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
-                    }
+                    CreateBeforeDestroy = true
                 }
             });
+
         return kv;
+    }
+
+    internal static KeyVaultAccessPolicyA CreateFullSecretAccessPolicy(ResourceCreatorContext context,
+        KeyVault keyVault,
+        string name, string objectId)
+    {
+        return new KeyVaultAccessPolicyA(context.Scope, name,
+            new KeyVaultAccessPolicyAConfig
+            {
+                TenantId = context.ClientConfig.TenantId,
+                ObjectId = objectId,
+                KeyVaultId = keyVault.Id,
+                SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"],
+                DependsOn = [keyVault]
+            });
     }
 }
