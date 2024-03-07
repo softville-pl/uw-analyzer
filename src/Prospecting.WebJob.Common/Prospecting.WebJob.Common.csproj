@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions"/>
+    <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Storage"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+  </ItemGroup>
+
+</Project>

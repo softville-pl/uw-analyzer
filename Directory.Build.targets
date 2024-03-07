@@ -26,4 +26,10 @@
   <ItemGroup Label="Infrastructure">
     <PackageReference Update="HashiCorp.Cdktf.Providers.Azurerm" Version="12.6.0"/>
   </ItemGroup>
+
+  <ItemGroup Label="Azure Functions">
+    <PackageReference Update="Microsoft.Azure.Functions.Worker" Version="1.19.0" />
+    <PackageReference Update="Microsoft.Azure.Functions.Worker.Sdk" Version="1.15.1" />
+    <PackageReference Update="Microsoft.Azure.Functions.Worker.Extensions.Storage" Version="5.0.0" />
+  </ItemGroup>
 </Project>
