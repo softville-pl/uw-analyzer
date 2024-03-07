@@ -6,8 +6,9 @@ using Softville.Prospecting.Infra;
 App app = new();
 
 
+var infrastructure = new InfrastructureInstance("prspct", "test", "001");
 // Register the Stack to your App
-ProspectingAzureStack stack = new(app, "MyAzureInfrastructure", "prspct", "test", "001");
+ProspectingAzureStack stack = new(app, "MyAzureInfrastructure", infrastructure);
 
 // Define the Remote State Configuration
 new AzurermBackend(stack,
