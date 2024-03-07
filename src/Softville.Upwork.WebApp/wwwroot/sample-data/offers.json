@@ -1,5 +1,138 @@
 [
   {
+    "Title": ".NET Full Stack Webpage Developer",
+    "Uid": "1762486378935857152",
+    "Rid": 1011609740,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0105cb75c1c8376497",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-02-27T14:34:33.801Z",
+    "Rate": {
+      "Minimum": 20,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0105cb75c1c8376497",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Slovenia",
+        "City": "Trzin"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 28,
+        "ActiveAssignmentsCount": 2,
+        "FeedbackCount": 17,
+        "Score": 4.958562525,
+        "TotalJobsWithHires": 25,
+        "HoursCount": 955.166671,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 40575.17
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "ASP.NET",
+      ".NET Framework",
+      "VB.NET",
+      "Visual Basic",
+      "Web Application"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-07T16:07:43.692Z",
+      "TotalApplicants": 44,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 32,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 15
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 27.644444444444446
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 65
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 24.9375
+      }
+    }
+  },
+  {
     "Title": ".NET Engine very strong in Azure to debug crashing event",
     "Uid": "1765571919619534848",
     "Rid": 1011814581,
@@ -34,12 +167,12 @@
         "Size": "10"
       },
       "Stats": {
-        "TotalAssignments": 193,
-        "ActiveAssignmentsCount": 22,
+        "TotalAssignments": 194,
+        "ActiveAssignmentsCount": 23,
         "FeedbackCount": 132,
         "Score": 4.774450009,
-        "TotalJobsWithHires": 144,
-        "HoursCount": 3604.16668,
+        "TotalJobsWithHires": 145,
+        "HoursCount": 3610.66668,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 93593.25
@@ -69,8 +202,8 @@
     "Questions": [],
     "ConnectPrice": 8,
     "Activity": {
-      "LastBuyerActivity": "2024-03-07T04:10:43.014Z",
-      "TotalApplicants": 15,
+      "LastBuyerActivity": "2024-03-07T04:51:22.581Z",
+      "TotalApplicants": 48,
       "TotalHired": 1,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 1,
@@ -97,8 +230,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -113,15 +246,15 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 20
+        "Amount": 5
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.466666666666665
+        "Amount": 37.17361111111111
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 85
+        "Amount": 120
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -201,7 +334,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-06T23:24:26.658Z",
-      "TotalApplicants": 37,
+      "TotalApplicants": 51,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -228,8 +361,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -248,7 +381,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 52.384358974358975
+        "Amount": 52.09415094339622
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -300,7 +433,7 @@
         "FeedbackCount": 40,
         "Score": 4.979692848,
         "TotalJobsWithHires": 152,
-        "HoursCount": 14138.933383,
+        "HoursCount": 14139.100049,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 500450.44
@@ -337,8 +470,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-06T19:00:01.078Z",
-      "TotalApplicants": 35,
+      "LastBuyerActivity": "2024-03-07T17:35:26.424Z",
+      "TotalApplicants": 21,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -372,8 +505,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -388,11 +521,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 18
+        "Amount": 25
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 52.733428571428576
+        "Amount": 52.857142857142854
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -481,8 +614,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-06T12:59:17.306Z",
-      "TotalApplicants": 7,
+      "LastBuyerActivity": "2024-03-07T15:05:59.691Z",
+      "TotalApplicants": 1,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 2,
@@ -516,8 +649,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -532,15 +665,15 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 15
+        "Amount": -1
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 60.375
+        "Amount": -1
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 150
+        "Amount": -1
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -627,7 +760,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-06T13:17:14.236Z",
-      "TotalApplicants": 45,
+      "TotalApplicants": 58,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -654,8 +787,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -674,7 +807,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.9345652173913
+        "Amount": 39.76254237288135
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -758,10 +891,10 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-06T12:11:22.03Z",
-      "TotalApplicants": 21,
+      "LastBuyerActivity": "2024-03-07T15:17:52.327Z",
+      "TotalApplicants": 4,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
+      "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -786,8 +919,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -802,19 +935,19 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 20
+        "Amount": 25
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.095238095238095
+        "Amount": 35
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 50
+        "Amount": 45
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 31.666666666666668
       }
     }
   },
@@ -892,7 +1025,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-07T03:17:34.82Z",
-      "TotalApplicants": 45,
+      "TotalApplicants": 47,
       "TotalHired": 0,
       "TotalInvitedToInterview": 5,
       "UnansweredInvites": 0,
@@ -919,8 +1052,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -939,11 +1072,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36.333333333333336
+        "Amount": 37.340425531914896
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 70
+        "Amount": 95
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -991,7 +1124,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11165.866676,
+        "HoursCount": 11167.866676,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 630324.27
@@ -1026,7 +1159,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-05T21:51:47.53Z",
-      "TotalApplicants": 76,
+      "TotalApplicants": 79,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1060,8 +1193,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1080,7 +1213,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36.8021052631579
+        "Amount": 37.30329113924051
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1171,10 +1304,10 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-06T16:20:23.563Z",
-      "TotalApplicants": 26,
+      "TotalApplicants": 27,
       "TotalHired": 0,
       "TotalInvitedToInterview": 8,
-      "UnansweredInvites": 5,
+      "UnansweredInvites": 4,
       "InvitationsSent": 15
     },
     "Qualifications": {
@@ -1198,8 +1331,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1218,7 +1351,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 25.77341880341881
+        "Amount": 25.44847736625515
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1329,8 +1462,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1349,7 +1482,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.90243902439025
+        "Amount": 38.829268292682926
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1466,8 +1599,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1575,10 +1708,10 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-06T05:14:05.604Z",
+      "LastBuyerActivity": "2024-03-07T10:05:22.91Z",
       "TotalApplicants": 8,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 3,
+      "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -1603,8 +1736,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1631,7 +1764,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 55
+        "Amount": 66.25
       }
     }
   },
@@ -1745,8 +1878,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1883,8 +2016,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -1955,7 +2088,7 @@
         "FeedbackCount": 45,
         "Score": 4.917265462,
         "TotalJobsWithHires": 68,
-        "HoursCount": 12077.666677,
+        "HoursCount": 12086.50001,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 633144.22
@@ -2020,8 +2153,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2040,7 +2173,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 41.87186696900983
+        "Amount": 41.98071050642479
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2132,7 +2265,7 @@
     ],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-06T19:40:25.516Z",
+      "LastBuyerActivity": "2024-03-07T14:21:36.923Z",
       "TotalApplicants": 25,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
@@ -2167,8 +2300,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2304,8 +2437,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2575,8 +2708,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2684,12 +2817,12 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-05T13:08:42.448Z",
-      "TotalApplicants": 2,
+      "LastBuyerActivity": "2024-03-07T13:34:24.857Z",
+      "TotalApplicants": 3,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 7,
+      "InvitationsSent": 9
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -2712,8 +2845,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2728,15 +2861,15 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 45
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 55
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 60
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -2817,7 +2950,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T04:45:28.233Z",
-      "TotalApplicants": 44,
+      "TotalApplicants": 45,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 2,
@@ -2844,8 +2977,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -2864,7 +2997,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 61.36049382716048
+        "Amount": 61.65700483091786
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2948,7 +3081,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-04T23:17:14.372Z",
-      "TotalApplicants": 18,
+      "TotalApplicants": 19,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -2982,8 +3115,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3002,7 +3135,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 69.55555555555556
+        "Amount": 70.10526315789474
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3011,145 +3144,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Need to develop a LMS website ",
-    "Uid": "1763614817318383616",
-    "Rid": 1011690352,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01735789e4a8642157",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-01T17:18:34.307Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01735789e4a8642157",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "India",
-        "City": "Bangaloer"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "1000"
-      },
-      "Stats": {
-        "TotalAssignments": 8,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 6,
-        "Score": 5,
-        "TotalJobsWithHires": 8,
-        "HoursCount": 27.000001,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 5663.5
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Web Application",
-      "Payment Gateway Integration",
-      "Website Optimization",
-      "JavaScript",
-      "Docker",
-      "Web Development",
-      "Web Design",
-      "HTML",
-      "CSS",
-      "MySQL"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-05T06:53:12.069Z",
-      "TotalApplicants": 32,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 4,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 10
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 27.71875
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 60
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 35.5
       }
     }
   },
@@ -3259,8 +3253,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3390,8 +3384,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3531,8 +3525,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -3637,7 +3631,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T14:57:10.215Z",
-      "TotalApplicants": 303,
+      "TotalApplicants": 305,
       "TotalHired": 0,
       "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
@@ -3664,8 +3658,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3684,7 +3678,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.74546925566343
+        "Amount": 37.904662379421225
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3896,10 +3890,10 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-05T19:54:02.531Z",
-      "TotalApplicants": 129,
+      "TotalApplicants": 130,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 12,
-      "UnansweredInvites": 3,
+      "TotalInvitedToInterview": 13,
+      "UnansweredInvites": 2,
       "InvitationsSent": 19
     },
     "Qualifications": {
@@ -3923,8 +3917,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -3939,11 +3933,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 10
+        "Amount": 5
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.98976923076923
+        "Amount": 31.783740458015266
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3951,7 +3945,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 16.333333333333332
+        "Amount": 15.461538461538462
       }
     }
   },
@@ -4180,8 +4174,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4309,8 +4303,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4422,7 +4416,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T08:18:33.013Z",
-      "TotalApplicants": 21,
+      "TotalApplicants": 20,
       "TotalHired": 0,
       "TotalInvitedToInterview": 6,
       "UnansweredInvites": 0,
@@ -4456,8 +4450,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4476,7 +4470,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 41
+        "Amount": 41.04761904761905
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4528,7 +4522,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1469.666675,
+        "HoursCount": 1471.833342,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 38819.87
@@ -4594,8 +4588,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4736,8 +4730,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4872,8 +4866,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -4944,7 +4938,7 @@
         "FeedbackCount": 20,
         "Score": 4.968618937,
         "TotalJobsWithHires": 30,
-        "HoursCount": 16124.333359,
+        "HoursCount": 16131.000026,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 500662.98
@@ -5024,8 +5018,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5169,8 +5163,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5194,139 +5188,6 @@
       "MaxRateBid": {
         "CurrencyCode": "USD",
         "Amount": 75
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": ".NET Full Stack Webpage Developer",
-    "Uid": "1762486378935857152",
-    "Rid": 1011609740,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0105cb75c1c8376497",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-27T14:34:33.801Z",
-    "Rate": {
-      "Minimum": 20,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0105cb75c1c8376497",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Slovenia",
-        "City": "Trzin"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 28,
-        "ActiveAssignmentsCount": 2,
-        "FeedbackCount": 17,
-        "Score": 4.958562525,
-        "TotalJobsWithHires": 25,
-        "HoursCount": 955.166671,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 40575.17
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET",
-      ".NET Framework",
-      "VB.NET",
-      "Visual Basic",
-      "Web Application"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-02T10:21:05.302Z",
-      "TotalApplicants": 2,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -5444,8 +5305,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5601,8 +5462,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -5710,7 +5571,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-05T13:36:52.459Z",
-      "TotalApplicants": 22,
+      "TotalApplicants": 21,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -5751,8 +5612,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -5771,7 +5632,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.84681818181818
+        "Amount": 40.64904761904762
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5884,8 +5745,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6023,7 +5884,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 45.72411714039621
+        "Amount": 45.181481481481484
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -6132,8 +5993,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6240,7 +6101,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-26T18:43:34.387Z",
-      "TotalApplicants": 59,
+      "TotalApplicants": 58,
       "TotalHired": 0,
       "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
@@ -6267,8 +6128,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6287,7 +6148,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.794726930320145
+        "Amount": 37.894636015325666
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -6339,7 +6200,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1469.666675,
+        "HoursCount": 1471.833342,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 38819.87
@@ -6405,8 +6266,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6477,7 +6338,7 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 7,
-        "HoursCount": 192.16667,
+        "HoursCount": 195.000003,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 5130.92
@@ -6553,8 +6414,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6625,7 +6486,7 @@
         "FeedbackCount": 90,
         "Score": 4.983314301,
         "TotalJobsWithHires": 100,
-        "HoursCount": 114202.833477,
+        "HoursCount": 114214.333477,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 3982473.95
@@ -6712,8 +6573,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -6857,8 +6718,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -6989,8 +6850,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7139,8 +7000,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7211,7 +7072,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11165.866676,
+        "HoursCount": 11167.866676,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 630324.27
@@ -7280,8 +7141,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7416,8 +7277,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7549,8 +7410,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7621,7 +7482,7 @@
         "FeedbackCount": 40,
         "Score": 4.929088709,
         "TotalJobsWithHires": 54,
-        "HoursCount": 2170.166669,
+        "HoursCount": 2173.666669,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 46087.25
@@ -7680,8 +7541,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7747,7 +7608,7 @@
         "Size": "N/A"
       },
       "Stats": {
-        "TotalAssignments": 7,
+        "TotalAssignments": 8,
         "ActiveAssignmentsCount": 2,
         "FeedbackCount": 4,
         "Score": 4.623706491,
@@ -7791,9 +7652,9 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-02-29T15:04:09.102Z",
-      "TotalApplicants": 17,
+      "TotalApplicants": 16,
       "TotalHired": 1,
-      "TotalInvitedToInterview": 3,
+      "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -7818,8 +7679,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -7838,7 +7699,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 49.833333333333336
+        "Amount": 49.8235294117647
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -7846,7 +7707,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 46.666666666666664
+        "Amount": -1
       }
     }
   },
@@ -8099,8 +7960,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8239,8 +8100,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8372,8 +8233,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8444,7 +8305,7 @@
         "FeedbackCount": 9,
         "Score": 4.958503168,
         "TotalJobsWithHires": 19,
-        "HoursCount": 335.333334,
+        "HoursCount": 335.666667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 36893.84
@@ -8478,7 +8339,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-26T17:16:34.334Z",
-      "TotalApplicants": 80,
+      "TotalApplicants": 79,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -8505,8 +8366,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8525,7 +8386,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.099999999999994
+        "Amount": 39.150617283950616
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8637,8 +8498,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8774,8 +8635,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8846,7 +8707,7 @@
         "FeedbackCount": 45,
         "Score": 4.917265462,
         "TotalJobsWithHires": 68,
-        "HoursCount": 12077.666677,
+        "HoursCount": 12086.50001,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 633144.22
@@ -8882,7 +8743,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-29T07:00:15.776Z",
-      "TotalApplicants": 204,
+      "TotalApplicants": 203,
       "TotalHired": 0,
       "TotalInvitedToInterview": 12,
       "UnansweredInvites": 4,
@@ -8909,8 +8770,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -8929,7 +8790,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.981884057971016
+        "Amount": 47.97208737864078
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -9045,8 +8906,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9190,8 +9051,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9335,8 +9196,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9468,8 +9329,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9575,7 +9436,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-20T05:23:12.817Z",
-      "TotalApplicants": 20,
+      "TotalApplicants": 19,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -9602,8 +9463,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9622,7 +9483,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 30.3
+        "Amount": 30.842105263157894
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -9738,8 +9599,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -9810,7 +9671,7 @@
         "FeedbackCount": 280,
         "Score": 4.985174332,
         "TotalJobsWithHires": 296,
-        "HoursCount": 35451.33335,
+        "HoursCount": 35461.666683,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 630251.52
@@ -9873,8 +9734,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10006,8 +9867,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10138,8 +9999,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10277,8 +10138,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10349,7 +10210,7 @@
         "FeedbackCount": 0,
         "Score": 0,
         "TotalJobsWithHires": 1,
-        "HoursCount": 51.333335,
+        "HoursCount": 55.166669,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 480.7
@@ -10416,8 +10277,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10554,8 +10415,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10684,8 +10545,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10831,8 +10692,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -10903,7 +10764,7 @@
         "FeedbackCount": 100,
         "Score": 4.993588946,
         "TotalJobsWithHires": 192,
-        "HoursCount": 108802.500553,
+        "HoursCount": 108812.500552,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 3540431.3
@@ -10985,8 +10846,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -11121,8 +10982,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11263,8 +11124,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11398,8 +11259,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11538,8 +11399,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11670,8 +11531,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11806,8 +11667,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11873,8 +11734,8 @@
         "Size": "1"
       },
       "Stats": {
-        "TotalAssignments": 381,
-        "ActiveAssignmentsCount": 41,
+        "TotalAssignments": 382,
+        "ActiveAssignmentsCount": 42,
         "FeedbackCount": 239,
         "Score": 4.85699874,
         "TotalJobsWithHires": 272,
@@ -11917,7 +11778,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-27T20:17:00.325Z",
-      "TotalApplicants": 141,
+      "TotalApplicants": 140,
       "TotalHired": 0,
       "TotalInvitedToInterview": 14,
       "UnansweredInvites": 0,
@@ -11944,8 +11805,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -11964,7 +11825,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.007638888888884
+        "Amount": 30.874825174825173
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -12087,8 +11948,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12227,8 +12088,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12366,8 +12227,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12525,8 +12386,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -12781,8 +12642,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -12849,7 +12710,7 @@
       },
       "Stats": {
         "TotalAssignments": 2,
-        "ActiveAssignmentsCount": 2,
+        "ActiveAssignmentsCount": 1,
         "FeedbackCount": 0,
         "Score": 0,
         "TotalJobsWithHires": 2,
@@ -12911,8 +12772,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13055,8 +12916,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "AT_LEAST_100",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 100"
         },
         {
@@ -13127,7 +12988,7 @@
         "FeedbackCount": 25,
         "Score": 4.878000784,
         "TotalJobsWithHires": 48,
-        "HoursCount": 1466.166669,
+        "HoursCount": 1467.666669,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 23016.64
@@ -13192,8 +13053,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13264,7 +13125,7 @@
         "FeedbackCount": 34,
         "Score": 4.97767151,
         "TotalJobsWithHires": 41,
-        "HoursCount": 3369.333349,
+        "HoursCount": 3371.833349,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 54842.24
@@ -13327,8 +13188,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13464,8 +13325,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13603,8 +13464,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13733,8 +13594,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -13867,8 +13728,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14118,8 +13979,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14255,8 +14116,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14389,8 +14250,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14461,7 +14322,7 @@
         "FeedbackCount": 4,
         "Score": 5,
         "TotalJobsWithHires": 5,
-        "HoursCount": 5291.166673,
+        "HoursCount": 5299.166673,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 88700.73
@@ -14532,8 +14393,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14673,8 +14534,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14806,8 +14667,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -14878,7 +14739,7 @@
         "FeedbackCount": 5,
         "Score": 4.442360537,
         "TotalJobsWithHires": 15,
-        "HoursCount": 14537.333378,
+        "HoursCount": 14590.166711,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 556469.23
@@ -14963,8 +14824,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15069,7 +14930,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-09T14:57:09.908Z",
-      "TotalApplicants": 81,
+      "TotalApplicants": 80,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -15096,8 +14957,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15116,7 +14977,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 33.279759036144576
+        "Amount": 33.19780487804878
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -15233,8 +15094,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15366,8 +15227,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15438,7 +15299,7 @@
         "FeedbackCount": 105,
         "Score": 4.823724077,
         "TotalJobsWithHires": 125,
-        "HoursCount": 80050.333584,
+        "HoursCount": 80080.166916,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2269878.53
@@ -15473,7 +15334,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-23T20:39:32.136Z",
-      "TotalApplicants": 73,
+      "TotalApplicants": 74,
       "TotalHired": 0,
       "TotalInvitedToInterview": 8,
       "UnansweredInvites": 0,
@@ -15500,8 +15361,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15520,7 +15381,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.437733333333334
+        "Amount": 38.45828947368421
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -15572,7 +15433,7 @@
         "FeedbackCount": 11,
         "Score": 4.998351058,
         "TotalJobsWithHires": 21,
-        "HoursCount": 2963.833336,
+        "HoursCount": 2970.833336,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 165238.43
@@ -15648,8 +15509,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15784,8 +15645,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -15856,7 +15717,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1469.666675,
+        "HoursCount": 1471.833342,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 38819.87
@@ -15922,8 +15783,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16059,8 +15920,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16193,8 +16054,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16322,8 +16183,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16394,7 +16255,7 @@
         "FeedbackCount": 5,
         "Score": 4.954397143,
         "TotalJobsWithHires": 8,
-        "HoursCount": 15607.166694,
+        "HoursCount": 15624.33336,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 428512.69
@@ -16456,8 +16317,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16591,8 +16452,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -16663,7 +16524,7 @@
         "FeedbackCount": 3,
         "Score": 4.563237064,
         "TotalJobsWithHires": 6,
-        "HoursCount": 186,
+        "HoursCount": 187.166667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2429.58
@@ -16742,8 +16603,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "AT_LEAST_100",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 100"
         },
         {
@@ -16883,8 +16744,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17018,8 +16879,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17150,8 +17011,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17288,8 +17149,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17545,8 +17406,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17662,7 +17523,7 @@
       "TotalApplicants": 1,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 20,
+      "UnansweredInvites": 19,
       "InvitationsSent": 75
     },
     "Qualifications": {
@@ -17686,8 +17547,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17817,8 +17678,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -17952,8 +17813,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18112,8 +17973,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -18253,8 +18114,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18384,8 +18245,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18529,8 +18390,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18660,8 +18521,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18792,8 +18653,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -18821,146 +18682,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": 81.66666666666667
-      }
-    }
-  },
-  {
-    "Title": "quickbooks 2015 enterprise ( desktop) SMS software.",
-    "Uid": "1751135159437922304",
-    "Rid": 1010943459,
-    "Cooperation": {
-      "DurationLabel": "Less than a month",
-      "Workload": "Not Sure",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 0
-    },
-    "CipherText": "~01de95ceb1f96ce565",
-    "Category": "Desktop Application Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-01-27T06:48:51.968Z",
-    "Rate": {
-      "Minimum": 32,
-      "Maximum": 60,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01de95ceb1f96ce565",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Pakistan",
-        "City": "Lahore"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 16,
-        "ActiveAssignmentsCount": 2,
-        "FeedbackCount": 9,
-        "Score": 5,
-        "TotalJobsWithHires": 16,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 5077
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Microsoft Windows",
-      "C\u002B\u002B",
-      "C",
-      "Git",
-      "Microsoft Visual C\u002B\u002B",
-      "Data Mining",
-      "Windows App Development",
-      "Scripts \u0026 Utilities",
-      "SMS Gateway",
-      "Intuit QuickBooks",
-      "Database Programming",
-      "Customer Relationship Management",
-      "Data Extraction",
-      "Java",
-      "SMS",
-      "API",
-      "C#",
-      "Desktop Application"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 8,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-06T15:17:22.789Z",
-      "TotalApplicants": 3,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 3,
-      "MatchedQualifications": 3,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 25
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 39
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 60
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
       }
     }
   },
@@ -19037,7 +18758,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-14T11:12:40.632Z",
-      "TotalApplicants": 4,
+      "TotalApplicants": 5,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
@@ -19078,8 +18799,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -19098,11 +18819,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 32.5
+        "Amount": 38
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 45
+        "Amount": 60
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -19230,8 +18951,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -19362,8 +19083,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19501,8 +19222,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19573,10 +19294,10 @@
         "FeedbackCount": 56,
         "Score": 4.957577108,
         "TotalJobsWithHires": 74,
-        "HoursCount": 33183.833353,
+        "HoursCount": 33202.166687,
         "TotalCharges": {
           "CurrencyCode": "USD",
-          "Amount": 982136.36
+          "Amount": 982136.359999999
         }
       }
     },
@@ -19638,8 +19359,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19778,8 +19499,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19850,7 +19571,7 @@
         "FeedbackCount": 73,
         "Score": 4.55374583,
         "TotalJobsWithHires": 82,
-        "HoursCount": 10188.500011,
+        "HoursCount": 10190.500011,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 200129.52
@@ -19907,8 +19628,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -19979,7 +19700,7 @@
         "FeedbackCount": 225,
         "Score": 4.800593945,
         "TotalJobsWithHires": 179,
-        "HoursCount": 93775.50007,
+        "HoursCount": 93818.166736,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2846495.93
@@ -20046,8 +19767,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20180,8 +19901,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20332,8 +20053,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20439,7 +20160,7 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-04T19:14:57.739Z",
+      "LastBuyerActivity": "2024-03-07T17:18:12.734Z",
       "TotalApplicants": 35,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
@@ -20481,8 +20202,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_1000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 1000"
         },
         {
@@ -20644,8 +20365,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20751,7 +20472,7 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-09T06:32:01.749Z",
+      "LastBuyerActivity": "2024-03-07T10:51:46.091Z",
       "TotalApplicants": 36,
       "TotalHired": 1,
       "TotalInvitedToInterview": 1,
@@ -20779,8 +20500,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20916,8 +20637,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "ANY",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "Any"
         },
         {
@@ -20988,7 +20709,7 @@
         "FeedbackCount": 21,
         "Score": 4.864736834,
         "TotalJobsWithHires": 50,
-        "HoursCount": 23281.810054,
+        "HoursCount": 23290.643387,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 492308.91
@@ -21022,8 +20743,8 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-02-09T16:59:50.727Z",
-      "TotalApplicants": 24,
+      "LastBuyerActivity": "2024-03-05T17:00:47.87Z",
+      "TotalApplicants": 25,
       "TotalHired": 2,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -21057,8 +20778,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "AT_LEAST_10000",
-          "FreelancerValue": "218.55",
-          "FreelancerValueLabel": "218.55",
+          "FreelancerValue": "253.88",
+          "FreelancerValueLabel": "253.88",
           "ClientPreferredLabel": "At Least 10000"
         },
         {
@@ -21077,7 +20798,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 35.171111111111124
+        "Amount": 35.741452991453
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",

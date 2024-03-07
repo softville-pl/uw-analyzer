@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-05T13:08:42.448Z",
-      "totalApplicants": 2,
+      "lastBuyerActivity": "2024-03-07T13:34:24.857Z",
+      "totalApplicants": 3,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 7,
+      "invitationsSent": 9
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -183,8 +183,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "218.55",
-            "freelancerValueLabel": "218.55",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
             "clientPreferredLabel": "Any"
           },
           {

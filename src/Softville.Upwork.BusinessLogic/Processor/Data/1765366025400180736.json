@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-06T13:17:14.236Z",
-      "totalApplicants": 45,
+      "totalApplicants": 58,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -183,8 +183,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "218.55",
-            "freelancerValueLabel": "218.55",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
             "clientPreferredLabel": "Any"
           },
           {
@@ -197,7 +197,7 @@
           }
         ]
       },
-      "applied": null,
+      "applied": true,
       "hired": null,
       "contract": null,
       "profileState": 10,
@@ -206,7 +206,10 @@
         "amount": 56
       },
       "devProfileCiphertext": "~01256f0be21d7e2c1e",
-      "application": null,
+      "application": {
+        "vjApplicationUid": "1765607797388996609",
+        "vendorOrgUid": "829312457188573185"
+      },
       "pendingInvite": null
     }
   },

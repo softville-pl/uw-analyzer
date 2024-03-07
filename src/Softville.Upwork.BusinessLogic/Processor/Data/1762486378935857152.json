@@ -21,7 +21,7 @@
       "amount": 0
     },
     "createdOn": "2024-02-27T14:34:33.344Z",
-    "postedOn": "2024-02-27T14:37:11.426Z",
+    "postedOn": "2024-03-07T08:37:47.430Z",
     "publishTime": "2024-02-27T14:34:33.801Z",
     "wasRenewed": true,
     "startDate": null,
@@ -88,10 +88,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-02T10:21:05.302Z",
-      "totalApplicants": 2,
+      "lastBuyerActivity": "2024-03-07T16:07:43.692Z",
+      "totalApplicants": 44,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 32,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -108,11 +108,11 @@
         "publishTime": "2024-02-27T14:34:33.801Z",
         "reuse": "1759550435862781952",
         "totalTimeJobPostFlowAIv2": "0",
-        "sourcingUpdateCount": "1",
+        "sourcingUpdateCount": "2",
         "sourcingUpdateForbidden": "false",
         "totalTimeSpentOnReviewPageAIv2": "1321",
         "type": "RJP",
-        "sourcingTime": "2024-02-27T14:37:11.426Z",
+        "sourcingTime": "2024-03-07T08:37:47.430Z",
         "browser": "Firefox",
         "device": "Windows"
       }
@@ -186,8 +186,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "218.55",
-            "freelancerValueLabel": "218.55",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
             "clientPreferredLabel": "Any"
           },
           {

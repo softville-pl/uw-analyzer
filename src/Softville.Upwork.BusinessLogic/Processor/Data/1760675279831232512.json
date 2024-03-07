@@ -83,9 +83,9 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-29T15:04:09.102Z",
-      "totalApplicants": 17,
+      "totalApplicants": 16,
       "totalHired": 1,
-      "totalInvitedToInterview": 3,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -129,7 +129,7 @@
       "country": "Israel"
     },
     "stats": {
-      "totalAssignments": 7,
+      "totalAssignments": 8,
       "activeAssignmentsCount": 2,
       "feedbackCount": 4,
       "score": 4.623706491,
@@ -186,8 +186,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "218.55",
-            "freelancerValueLabel": "218.55",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
             "clientPreferredLabel": "Any"
           },
           {
