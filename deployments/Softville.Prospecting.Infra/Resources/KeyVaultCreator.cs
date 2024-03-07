@@ -32,7 +32,7 @@ internal class KeyVaultCreator
                     new KeyVaultAccessPolicy
                     {
                         TenantId = context.ClientConfig.TenantId,
-                        ObjectId = context.ClientConfig.ClientId,
+                        ObjectId = context.ClientConfig.ObjectId,
                         SecretPermissions = ["Get", "List", "Set", "Delete", "Recover", "Backup", "Restore"]
                     },
                     new KeyVaultAccessPolicy
