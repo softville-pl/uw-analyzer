@@ -43,6 +43,7 @@ internal class CosmosDbCreator
                 KeyVaultId = kv.Id,
                 Value = cosmosDb.PrimaryKey,
                 Tags = context.Tags,
+                DependsOn = [kv]
             });
 
         // Store the CosmosDB Account
@@ -52,7 +53,8 @@ internal class CosmosDbCreator
                 Name = $"{cosmosDb.Name}-primary-conn-string",
                 KeyVaultId = kv.Id,
                 Value = FnGenerated.Element(cosmosDb.ConnectionStrings, 0).ToString()!,
-                Tags = tags
+                Tags = tags,
+                DependsOn = [kv]
             });
 
         return cosmosDb;
