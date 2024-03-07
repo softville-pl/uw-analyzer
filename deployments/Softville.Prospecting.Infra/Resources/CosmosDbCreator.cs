@@ -10,7 +10,8 @@ namespace Softville.Prospecting.Infra.Resources;
 
 internal class CosmosDbCreator
 {
-    internal static CosmosdbAccount CreateCosmosDb(ResourceCreatorContext context, KeyVault kv, Dictionary<string, string> tags)
+    internal static CosmosdbAccount CreateCosmosDb(ResourceCreatorContext context, KeyVault kv,
+        Dictionary<string, string> tags)
     {
         // Define the CosmosDB Account
         CosmosdbAccount cosmosDb = new(context.Scope, "CosmosDbAccount",
@@ -23,7 +24,10 @@ internal class CosmosDbCreator
                 Kind = "MongoDB",
                 ConsistencyPolicy = new CosmosdbAccountConsistencyPolicy {ConsistencyLevel = "Session"},
                 GeoLocation =
-                    new CosmosdbAccountGeoLocation[] {new() {Location = context.ResourceGroup.Location, FailoverPriority = 0}},
+                    new CosmosdbAccountGeoLocation[]
+                    {
+                        new() {Location = context.ResourceGroup.Location, FailoverPriority = 0}
+                    },
                 EnableMultipleWriteLocations = false,
                 EnableFreeTier = true,
                 Capacity = new CosmosdbAccountCapacity {TotalThroughputLimit = 1000},
@@ -34,7 +38,10 @@ internal class CosmosDbCreator
         _ = new KeyVaultSecret(context.Scope, "PrimaryKey",
             new KeyVaultSecretConfig
             {
-                Name = $"{cosmosDb.Name}-primary-key", KeyVaultId = kv.Id, Value = cosmosDb.PrimaryKey, Tags = context.Tags
+                Name = $"{cosmosDb.Name}-primary-key",
+                KeyVaultId = kv.Id,
+                Value = cosmosDb.PrimaryKey,
+                Tags = context.Tags,
             });
 
         // Store the CosmosDB Account
