@@ -31,7 +31,8 @@ internal class CosmosDbCreator
                 EnableMultipleWriteLocations = false,
                 EnableFreeTier = true,
                 Capacity = new CosmosdbAccountCapacity {TotalThroughputLimit = 1000},
-                Tags = context.ResourceGroup.Tags
+                Tags = context.ResourceGroup.Tags,
+                DependsOn = [kv]
             });
 
         // Store the CosmosDB Account
