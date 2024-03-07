@@ -2,7 +2,7 @@ using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
 
 var host = WebJobHostBuilder.CreateBuilder(Array.Empty<string>())
-    .ConfigureFunctionsWorkerDefaults()
+    .ConfigureFunctionsWorkerDefaults((context, builder) => { }, options => { } )
     .Build();
 
 host.Run();
