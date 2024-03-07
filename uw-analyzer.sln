@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Prospecting.Infra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.Contracts.Tests", "tests\Softville.Upwork.Contracts.Tests\Softville.Upwork.Contracts.Tests.csproj", "{381F883B-F8D0-49A0-8171-ACFD85479F7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Propecting.WebJob.Functions", "src\Softville.Propecting.WebJob.Functions\Softville.Propecting.WebJob.Functions.csproj", "{3BCF0E98-8E22-47CB-99B9-872C14057CB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prospecting.WebJob.Common", "src\Prospecting.WebJob.Common\Prospecting.WebJob.Common.csproj", "{9CF38968-CB86-4DA9-813E-F7344C719C65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +112,14 @@ Global
 		{381F883B-F8D0-49A0-8171-ACFD85479F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{381F883B-F8D0-49A0-8171-ACFD85479F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{381F883B-F8D0-49A0-8171-ACFD85479F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BCF0E98-8E22-47CB-99B9-872C14057CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCF0E98-8E22-47CB-99B9-872C14057CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCF0E98-8E22-47CB-99B9-872C14057CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCF0E98-8E22-47CB-99B9-872C14057CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF38968-CB86-4DA9-813E-F7344C719C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF38968-CB86-4DA9-813E-F7344C719C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF38968-CB86-4DA9-813E-F7344C719C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF38968-CB86-4DA9-813E-F7344C719C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{59FA7E00-9569-4EFF-81FA-565508D9F003} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
@@ -117,5 +129,7 @@ Global
 		{FBCC3F06-D0EB-4833-8141-516212C1A854} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
 		{81D90F94-F682-479F-915A-20CEB79EB8BE} = {9732AB3F-A270-4663-AB7D-0CF351B1F736}
 		{381F883B-F8D0-49A0-8171-ACFD85479F7A} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
+		{3BCF0E98-8E22-47CB-99B9-872C14057CB9} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
+		{9CF38968-CB86-4DA9-813E-F7344C719C65} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
 	EndGlobalSection
 EndGlobal

@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <PublishAot>false</PublishAot>
-
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,9 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Prospecting.WebJob.Common\Prospecting.WebJob.Common.csproj" />
     <ProjectReference Include="..\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj"/>
   </ItemGroup>
-  
+
     <ItemGroup>
     <None Update="appSettings.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
