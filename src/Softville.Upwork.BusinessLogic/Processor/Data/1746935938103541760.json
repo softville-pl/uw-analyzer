@@ -130,11 +130,11 @@
     },
     "stats": {
       "totalAssignments": 137,
-      "activeAssignmentsCount": 34,
-      "feedbackCount": 72,
-      "score": 4.553656225,
+      "activeAssignmentsCount": 33,
+      "feedbackCount": 73,
+      "score": 4.55374583,
       "totalJobsWithHires": 82,
-      "hoursCount": 10181.50001,
+      "hoursCount": 10188.500011,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 200129.52
@@ -152,11 +152,11 @@
       }
     },
     "jobs": {
-      "postedCount": 152,
+      "postedCount": 155,
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 18.772626804721675
+      "amount": 18.784921214444314
     }
   },
   "currentUserInfo": {

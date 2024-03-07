@@ -87,8 +87,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-29T01:08:07.252Z",
-      "totalApplicants": 31,
+      "lastBuyerActivity": "2024-03-01T02:12:41.680Z",
+      "totalApplicants": 0,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -127,15 +127,15 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 35,
-      "activeAssignmentsCount": 14,
-      "feedbackCount": 15,
-      "score": 4.906647518,
-      "totalJobsWithHires": 32,
-      "hoursCount": 1439.166675,
+      "totalAssignments": 36,
+      "activeAssignmentsCount": 13,
+      "feedbackCount": 16,
+      "score": 4.910486456,
+      "totalJobsWithHires": 33,
+      "hoursCount": 1469.666675,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 38053.71
+        "amount": 38819.87
       }
     },
     "isEnterprise": false,
@@ -154,7 +154,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 19.592275509019828
+      "amount": 19.61344057828623
     }
   },
   "currentUserInfo": {
@@ -184,8 +184,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
             "clientPreferredLabel": "Any"
           },
           {

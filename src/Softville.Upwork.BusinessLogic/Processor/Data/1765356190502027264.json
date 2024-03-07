@@ -1,0 +1,254 @@
+{
+  "job": {
+    "ciphertext": "~01ec5046f1d4930999",
+    "rid": 1011796776,
+    "uid": "1765356190502027264",
+    "type": 2,
+    "access": 4,
+    "title": "Back end developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-06T12:38:09.566Z",
+    "postedOn": "2024-03-06T15:38:11.244Z",
+    "publishTime": "2024-03-06T15:38:11.244Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1012426470,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 90
+    },
+    "contractorTier": 3,
+    "description": "Tekle Holographics is on the lookout for a Backend Developer with a strong foundation in C# and Node.js to join our pioneering team. The ideal candidate will possess expertise in developing backends capable of managing extensive 3D data and supporting user-facing portals. This role is crucial for running and maintaining backend applications, setting up CI/CD pipelines, and collaborating effectively with Unity, front-end, and C\u002B\u002B developers. Proficiency in using and deploying to Microsoft Azure is a plus. This full-time position is based at our headquarters in Hilversum.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Are you able to work at our office in Hilversum 5 days a week?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Netherlands"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-06T12:59:17.306Z",
+      "totalApplicants": 7,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 2,
+      "invitationsSent": 3
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "470",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled Back-end Developer to join our team for a project duration of 3 to 6 months. As a Back-end Developer, you will be responsible for designing and implementing the server-side of our web applications. \n\nKey skills for this role include proficiency in .NET Framework, Azure App Service, Node.js, RESTful API, Database Design, C#, and Azure DevOps. \n\nTo be considered, please submit a proposal that outlines how you can contribute to this project. Describe your experience and expertise in back-end development, highlighting any relevant past projects. Additionally, include links to some of your completed projects that demonstrate your abilities in the required technologies. \n\nWe look forward to reviewing your proposal and discussing the project in more detail with qualified candidates.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-06T15:38:11.244Z",
+        "totalTimeJobPostFlowAIv2": "1253",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626729578807296\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u00221110580682663907328\u0022,\u0022parentSkillUid\u0022:\u00221110580497267281920\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221110580497527328768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221204836445183918080\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221031626762999021568\u0022},{\u0022skillUid\u0022:\u00221031626718665228288\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "49",
+        "totalTimeSpentOnReviewPageAIv2": "80",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709727436065",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Back end developer",
+        "finalDescriptionAI": "Tekle Holographics is on the lookout for a Backend Developer with a strong foundation in C# and Node.js to join our pioneering team. The ideal candidate will possess expertise in developing backends capable of managing extensive 3D data and supporting user-facing portals. This role is crucial for running and maintaining backend applications, setting up CI/CD pipelines, and collaborating effectively with Unity, front-end, and C\u002B\u002B developers. Proficiency in using and deploying to Microsoft Azure is a plus. This full-time position is based at our headquarters in Hilversum."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Netherlands (Europe/Be)",
+      "city": null,
+      "country": "Netherlands"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-03-05T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Netherlands)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Netherlands"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "218.55",
+            "freelancerValueLabel": "218.55",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
