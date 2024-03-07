@@ -4,7 +4,6 @@
 using HashiCorp.Cdktf;
 using HashiCorp.Cdktf.Providers.Azurerm.CosmosdbAccount;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
-using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultAccessPolicy;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultSecret;
 
 namespace Softville.Prospecting.Infra.Resources;
@@ -12,7 +11,6 @@ namespace Softville.Prospecting.Infra.Resources;
 internal class CosmosDbCreator
 {
     internal static CosmosdbAccount CreateCosmosDb(ResourceCreatorContext context, KeyVault kv,
-        KeyVaultAccessPolicyA tfAccessPolicy,
         Dictionary<string, string> tags)
     {
         // Define the CosmosDB Account
@@ -34,7 +32,7 @@ internal class CosmosDbCreator
                 EnableFreeTier = true,
                 Capacity = new CosmosdbAccountCapacity {TotalThroughputLimit = 1000},
                 Tags = context.ResourceGroup.Tags,
-                DependsOn = [kv, tfAccessPolicy]
+                DependsOn = [kv]
             });
 
         // Store the CosmosDB Account
@@ -45,8 +43,9 @@ internal class CosmosDbCreator
                 KeyVaultId = kv.Id,
                 Value = cosmosDb.PrimaryKey,
                 Tags = context.Tags,
-                DependsOn = [kv, tfAccessPolicy]
+                DependsOn = [kv]
             });
+
         // Store the CosmosDB Account
         _ = new KeyVaultSecret(context.Scope, "PrimaryConnectionString",
             new KeyVaultSecretConfig
@@ -55,7 +54,7 @@ internal class CosmosDbCreator
                 KeyVaultId = kv.Id,
                 Value = FnGenerated.Element(cosmosDb.ConnectionStrings, 0).ToString()!,
                 Tags = tags,
-                DependsOn = [kv, tfAccessPolicy]
+                DependsOn = [kv]
             });
 
         return cosmosDb;
