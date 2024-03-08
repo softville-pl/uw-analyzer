@@ -50,7 +50,7 @@ internal class ProcessorFunctionCreator
             new WindowsFunctionAppConfig
             {
                 Name = $"func-{context.Infrastructure.GetResourceNamePostfix()}",
-                ResourceGroupName = context.ResourceGroup.Location,
+                ResourceGroupName = context.ResourceGroup.Name,
                 Location = context.ResourceGroup.Location,
                 ServicePlanId = asp.Id,
                 SiteConfig =
