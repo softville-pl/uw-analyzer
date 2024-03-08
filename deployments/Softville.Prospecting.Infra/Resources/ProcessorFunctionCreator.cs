@@ -7,7 +7,6 @@ using HashiCorp.Cdktf.Providers.Azurerm.RoleAssignment;
 using HashiCorp.Cdktf.Providers.Azurerm.ServicePlan;
 using HashiCorp.Cdktf.Providers.Azurerm.StorageAccount;
 using HashiCorp.Cdktf.Providers.Azurerm.UserAssignedIdentity;
-using HashiCorp.Cdktf.Providers.Azurerm.WindowsFunctionApp;
 
 namespace Softville.Prospecting.Infra.Resources;
 
@@ -46,41 +45,41 @@ internal class ProcessorFunctionCreator
             ZoneBalancingEnabled = false
         });
 
-        //ToDo use dynamic value instead of hardcoded one
-        var secretUri = "https://kv-prspct-test-plc-001.vault.azure.net/secrets/stprspcttestplc001-primary-access-key/ff94fd28b3534d65920c4230cb58b74e";
-
-        // var secretUri = $"{{{kv.VaultUri}}}/secrets/${{{storageAccessKeySecret.Name}}}/${{{storageAccessKeySecret.Version}}}";
-
-        _ = new WindowsFunctionApp(context.Scope, "AzureFunction",
-            new WindowsFunctionAppConfig
-            {
-                Name = $"func-{context.Infrastructure.GetResourceNamePostfix()}",
-                ResourceGroupName = context.ResourceGroup.Name,
-                Location = context.ResourceGroup.Location,
-                ServicePlanId = asp.Id,
-                SiteConfig =
-                    new WindowsFunctionAppSiteConfig
-                    {
-                        ApplicationStack = new WindowsFunctionAppSiteConfigApplicationStack()
-                        {
-                            DotnetVersion = "v8.0"
-                        }
-                    },
-                AppSettings = new Dictionary<string, string>
-                    {
-                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})"
-                        // , ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
-                    },
-                StorageAccountName = st.Name,
-                StorageAccountAccessKey = st.PrimaryAccessKey,
-                Identity = new WindowsFunctionAppIdentity()
-                {
-                    Type = "SystemAssigned, UserAssigned", IdentityIds = [managedIdentity.Id]
-                },
-                KeyVaultReferenceIdentityId = managedIdentity.Id,
-                Tags = context.Tags,
-                DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret],
-
-            });
+        // //ToDo use dynamic value instead of hardcoded one
+        // var secretUri = "https://kv-prspct-test-plc-001.vault.azure.net/secrets/stprspcttestplc001-primary-access-key/ff94fd28b3534d65920c4230cb58b74e";
+        //
+        // // var secretUri = $"{{{kv.VaultUri}}}/secrets/${{{storageAccessKeySecret.Name}}}/${{{storageAccessKeySecret.Version}}}";
+        //
+        // var t = new WindowsFunctionApp(context.Scope, "AzureFunction",
+        //     new WindowsFunctionAppConfig
+        //     {
+        //         Name = $"func-{context.Infrastructure.GetResourceNamePostfix()}",
+        //         ResourceGroupName = context.ResourceGroup.Name,
+        //         Location = context.ResourceGroup.Location,
+        //         ServicePlanId = asp.Id,
+        //         SiteConfig =
+        //             new WindowsFunctionAppSiteConfig
+        //             {
+        //                 ApplicationStack = new WindowsFunctionAppSiteConfigApplicationStack()
+        //                 {
+        //                     DotnetVersion = "v8.0"
+        //                 }
+        //             },
+        //         AppSettings = new Dictionary<string, string>
+        //             {
+        //                 ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})"
+        //                 // , ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
+        //             },
+        //         StorageAccountName = st.Name,
+        //         StorageAccountAccessKey = st.PrimaryAccessKey,
+        //         Identity = new WindowsFunctionAppIdentity()
+        //         {
+        //             Type = "SystemAssigned, UserAssigned", IdentityIds = [managedIdentity.Id]
+        //         },
+        //         KeyVaultReferenceIdentityId = managedIdentity.Id,
+        //         Tags = context.Tags,
+        //         DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret],
+        //
+        //     });
     }
 }
