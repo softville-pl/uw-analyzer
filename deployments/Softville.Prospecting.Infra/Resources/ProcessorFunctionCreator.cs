@@ -46,7 +46,7 @@ internal class ProcessorFunctionCreator
             ZoneBalancingEnabled = false
         });
 
-        var secretUri = $"{kv.VaultUri}/secrets/${storageAccessKeySecret.Name}/${storageAccessKeySecret.Version}";
+        var secretUri = $"{{{kv.VaultUri}}}/secrets/${{{storageAccessKeySecret.Name}}}/${{{storageAccessKeySecret.Version}}}";
 
         _ = new WindowsFunctionApp(context.Scope, "AzureFunction",
             new WindowsFunctionAppConfig
@@ -65,7 +65,8 @@ internal class ProcessorFunctionCreator
                     },
                 AppSettings = new Dictionary<string, string>
                     {
-                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})", ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
+                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})",
+                        ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
                     },
                 StorageAccountName = st.Name,
                 StorageAccountAccessKey = st.PrimaryAccessKey,
