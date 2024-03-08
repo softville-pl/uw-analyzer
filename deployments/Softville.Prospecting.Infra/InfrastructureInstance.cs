@@ -28,5 +28,10 @@ public class InfrastructureInstance(string workload, string environment, string 
     ///
     /// </summary>
     /// <returns></returns>
-    public string GetNamePostfix() => $"{Workload}-{Environment}-plc-{Instance}";
+    public string GetResourceNamePostfix() => $"{Workload}-{Environment}-plc-{Instance}";
+    /// <summary>
+    ///
+    /// </summary>
+    /// <returns></returns>
+    public string GetStorageAccountNameNamePostfix() => $"{Workload}{Environment}plc{Instance}";
 }

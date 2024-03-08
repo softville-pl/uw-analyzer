@@ -20,7 +20,7 @@ internal class KeyVaultCreator
         KeyVault kv = new(context.Scope, "KeyVault",
             new KeyVaultConfig
             {
-                Name = $"kv-{context.Infrastructure.GetNamePostfix()}",
+                Name = $"kv-{context.Infrastructure.GetResourceNamePostfix()}",
                 ResourceGroupName = context.ResourceGroup.Name,
                 Location = context.ResourceGroup.Location,
                 SkuName = "standard",

@@ -10,14 +10,13 @@ namespace Softville.Prospecting.Infra.Resources;
 
 internal class CosmosDbCreator
 {
-    internal static CosmosdbAccount CreateCosmosDb(ResourceCreatorContext context, KeyVault kv,
-        Dictionary<string, string> tags)
+    internal static CosmosdbAccount CreateCosmosDb(ResourceCreatorContext context, KeyVault kv)
     {
         // Define the CosmosDB Account
         CosmosdbAccount cosmosDb = new(context.Scope, "CosmosDbAccount",
             new CosmosdbAccountConfig
             {
-                Name = $"cosmos-{context.Infrastructure.GetNamePostfix()}",
+                Name = $"cosmos-{context.Infrastructure.GetResourceNamePostfix()}",
                 ResourceGroupName = context.ResourceGroup.Name,
                 Location = context.ResourceGroup.Location,
                 OfferType = "Standard",
@@ -53,7 +52,7 @@ internal class CosmosDbCreator
                 Name = $"{cosmosDb.Name}-primary-conn-string",
                 KeyVaultId = kv.Id,
                 Value = FnGenerated.Element(cosmosDb.ConnectionStrings, 0).ToString()!,
-                Tags = tags,
+                Tags = context.Tags,
                 DependsOn = [kv]
             });
 
