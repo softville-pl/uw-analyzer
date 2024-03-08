@@ -46,6 +46,8 @@ internal class ProcessorFunctionCreator
             ZoneBalancingEnabled = false
         });
 
+        var secretUri = $"{kv.VaultUri}/secrets/${storageAccessKeySecret.Name}/${storageAccessKeySecret.Version}";
+
         _ = new WindowsFunctionApp(context.Scope, "AzureFunction",
             new WindowsFunctionAppConfig
             {
@@ -61,11 +63,9 @@ internal class ProcessorFunctionCreator
                             DotnetVersion = "v8.0"
                         }
                     },
-                AppSettings =
-                    new Dictionary<string, string>
+                AppSettings = new Dictionary<string, string>
                     {
-                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] =
-                            $"@Microsoft.KeyVault(SecretUri=${storageAccessKeySecret.Id})"
+                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})"
                     },
                 StorageAccountName = st.Name,
                 StorageAccountAccessKey = st.PrimaryAccessKey,
