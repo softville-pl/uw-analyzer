@@ -46,7 +46,10 @@ internal class ProcessorFunctionCreator
             ZoneBalancingEnabled = false
         });
 
-        var secretUri = $"{{{kv.VaultUri}}}/secrets/${{{storageAccessKeySecret.Name}}}/${{{storageAccessKeySecret.Version}}}";
+        //ToDo use dynamic value instead of hardcoded one
+        var secretUri = "https://kv-prspct-test-plc-001.vault.azure.net/secrets/stprspcttestplc001-primary-access-key/ff94fd28b3534d65920c4230cb58b74e";
+
+        // var secretUri = $"{{{kv.VaultUri}}}/secrets/${{{storageAccessKeySecret.Name}}}/${{{storageAccessKeySecret.Version}}}";
 
         _ = new WindowsFunctionApp(context.Scope, "AzureFunction",
             new WindowsFunctionAppConfig
