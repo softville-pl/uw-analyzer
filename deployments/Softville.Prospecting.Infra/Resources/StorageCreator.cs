@@ -1,21 +1,20 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
 using HashiCorp.Cdktf.Providers.Azurerm.StorageAccount;
 
 namespace Softville.Prospecting.Infra.Resources;
 
 internal class StorageCreator
 {
-    internal static StorageAccount CreateStorageAccount(ResourceCreatorContext context, ResourceGroup resourceGroup)
+    internal static StorageAccount CreateStorageAccount(ResourceCreatorContext context)
     {
         StorageAccount st = new(context.Scope, "StorageAccount",
             new StorageAccountConfig
             {
                 Name = $"st{context.Infrastructure.GetStorageAccountNameNamePostfix()}",
-                ResourceGroupName = resourceGroup.Name,
-                Location = resourceGroup.Location,
+                ResourceGroupName = context.ResourceGroup.Name,
+                Location = context.ResourceGroup.Location,
                 AccountKind = "StorageV2",
                 AccountTier = "Standard",
                 AccountReplicationType = "LRS",
