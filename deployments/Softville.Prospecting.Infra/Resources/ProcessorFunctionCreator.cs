@@ -71,7 +71,7 @@ internal class ProcessorFunctionCreator
                 StorageAccountAccessKey = st.PrimaryAccessKey,
                 Identity = new WindowsFunctionAppIdentity()
                 {
-                    Type = "SystemAssigned,UserAssigned", IdentityIds = [managedIdentity.Id]
+                    Type = "SystemAssigned, UserAssigned", IdentityIds = [managedIdentity.Id]
                 },
                 KeyVaultReferenceIdentityId = managedIdentity.Id,
                 Tags = context.Tags,
