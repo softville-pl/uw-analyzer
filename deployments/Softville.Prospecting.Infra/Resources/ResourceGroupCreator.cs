@@ -2,7 +2,6 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
-using HashiCorp.Cdktf.Providers.Azurerm.RoleAssignment;
 
 namespace Softville.Prospecting.Infra.Resources;
 
@@ -18,15 +17,16 @@ internal class ResourceGroupCreator
                 Tags = context.Tags
             });
 
-         _ = new RoleAssignment(context.Scope, "ServicePrincipalResourceGroupRBACAdmin",
-            new RoleAssignmentConfig
-            {
-                Name = "3ea4f156-9597-48ca-a559-ccc3d4292956",
-                PrincipalId = context.ClientConfig.ObjectId,
-                Scope = resourceGroup.Id,
-                RoleDefinitionName = "Role Based Access Control Administrator",
-                DependsOn = [resourceGroup]
-            });
+        // This role assigment has to be done manually (SP cannot assign this role for itself)
+        // _ = new RoleAssignment(context.Scope, "ServicePrincipalResourceGroupRBACAdmin",
+        //    new RoleAssignmentConfig
+        //    {
+        //        Name = "3ea4f156-9597-48ca-a559-ccc3d4292956",
+        //        PrincipalId = context.ClientConfig.ObjectId,
+        //        Scope = resourceGroup.Id,
+        //        RoleDefinitionName = "Role Based Access Control Administrator",
+        //        DependsOn = [resourceGroup]
+        //    });
 
         return resourceGroup;
     }
