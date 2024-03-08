@@ -1,13 +1,13 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-using HashiCorp.Cdktf.Providers.Azurerm.FunctionApp;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultSecret;
 using HashiCorp.Cdktf.Providers.Azurerm.RoleAssignment;
 using HashiCorp.Cdktf.Providers.Azurerm.ServicePlan;
 using HashiCorp.Cdktf.Providers.Azurerm.StorageAccount;
 using HashiCorp.Cdktf.Providers.Azurerm.UserAssignedIdentity;
+using HashiCorp.Cdktf.Providers.Azurerm.WindowsFunctionApp;
 
 namespace Softville.Prospecting.Infra.Resources;
 
@@ -46,14 +46,21 @@ internal class ProcessorFunctionCreator
             ZoneBalancingEnabled = false
         });
 
-        _ = new FunctionApp(context.Scope, "AzureFunction",
-            new FunctionAppConfig
+        _ = new WindowsFunctionApp(context.Scope, "AzureFunction",
+            new WindowsFunctionAppConfig
             {
                 Name = $"func-{context.Infrastructure.GetResourceNamePostfix()}",
                 ResourceGroupName = context.ResourceGroup.Location,
                 Location = context.ResourceGroup.Location,
-                AppServicePlanId = asp.Id,
-                SiteConfig = new FunctionAppSiteConfig {DotnetFrameworkVersion = "v8.0"},
+                ServicePlanId = asp.Id,
+                SiteConfig =
+                    new WindowsFunctionAppSiteConfig
+                    {
+                        ApplicationStack = new WindowsFunctionAppSiteConfigApplicationStack()
+                        {
+                            DotnetVersion = "v8.0"
+                        }
+                    },
                 AppSettings =
                     new Dictionary<string, string>
                     {
@@ -62,7 +69,7 @@ internal class ProcessorFunctionCreator
                     },
                 StorageAccountName = st.Name,
                 StorageAccountAccessKey = st.PrimaryAccessKey,
-                Identity = new FunctionAppIdentity
+                Identity = new WindowsFunctionAppIdentity()
                 {
                     Type = "SystemAssigned,UserAssigned", IdentityIds = [managedIdentity.Id]
                 },
@@ -71,5 +78,4 @@ internal class ProcessorFunctionCreator
                 DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret]
             });
     }
-
 }
