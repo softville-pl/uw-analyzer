@@ -68,8 +68,8 @@ internal class ProcessorFunctionCreator
                     },
                 AppSettings = new Dictionary<string, string>
                     {
-                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})",
-                        ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
+                        ["WEBSITE_CONTENTAZUREFILECONNECTIONSTRING"] = $"@Microsoft.KeyVault(SecretUri=${secretUri})"
+                        // , ["WEBSITE_SKIP_CONTENTSHARE_VALIDATION"] = $"1"// https://github.com/Azure/azure-functions-host/issues/7094#issuecomment-1877521737
                     },
                 StorageAccountName = st.Name,
                 StorageAccountAccessKey = st.PrimaryAccessKey,
@@ -79,7 +79,8 @@ internal class ProcessorFunctionCreator
                 },
                 KeyVaultReferenceIdentityId = managedIdentity.Id,
                 Tags = context.Tags,
-                DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret]
+                DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret],
+
             });
     }
 }
