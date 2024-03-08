@@ -20,7 +20,7 @@ public class ResourceCreatorContext
     /// <summary>
     /// Resource group
     /// </summary>
-    public ResourceGroup ResourceGroup { get; }
+    public ResourceGroup ResourceGroup { get; set; } = null!;
     /// <summary>
     /// Client config
     /// </summary>
@@ -45,17 +45,15 @@ public class ResourceCreatorContext
     ///
     /// </summary>
     /// <param name="scope"></param>
-    /// <param name="resourceGroup"></param>
     /// <param name="clientConfig"></param>
     /// <param name="adminUserObjectId"></param>
     /// <param name="infrastructure"></param>
     /// <param name="tags"></param>
     /// <exception cref="NotImplementedException"></exception>
-    public ResourceCreatorContext(Construct scope, ResourceGroup resourceGroup, DataAzurermClientConfig clientConfig,
+    public ResourceCreatorContext(Construct scope, DataAzurermClientConfig clientConfig,
         string adminUserObjectId, InfrastructureInstance infrastructure, Dictionary<string, string> tags)
     {
         Scope = scope;
-        ResourceGroup = resourceGroup;
         ClientConfig = clientConfig;
         AdminUserObjectId = adminUserObjectId;
         Infrastructure = infrastructure;

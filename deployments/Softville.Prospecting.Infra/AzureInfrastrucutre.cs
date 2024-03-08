@@ -7,7 +7,6 @@ using HashiCorp.Cdktf.Providers.Azurerm.DataAzurermClientConfig;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultSecret;
 using HashiCorp.Cdktf.Providers.Azurerm.Provider;
-using HashiCorp.Cdktf.Providers.Azurerm.ResourceGroup;
 using HashiCorp.Cdktf.Providers.Azurerm.StorageAccount;
 using Softville.Prospecting.Infra.Resources;
 
@@ -24,27 +23,24 @@ public class ProspectingAzureStack : TerraformStack
     /// <param name="infrastructure"></param>
     public ProspectingAzureStack(Construct scope, string id, InfrastructureInstance infrastructure) : base(scope, id)
     {
-        string namePostfix = infrastructure.GetResourceNamePostfix();
 
-        new AzurermProvider(this, "azureFeature",
+        _ = new AzurermProvider(this, "azureFeature",
             new AzurermProviderConfig {Features = new AzurermProviderFeatures()});
 
+        DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
+
+        var adminUserObjectId = "035e7cd0-50b7-49bb-bff5-4134329917a4";
         Dictionary<string, string> tags = new() {{"env", infrastructure.Environment}, {"app", "prospecting-app"}};
 
-        ResourceGroup resourceGroup = new(this, "ResourceGroup",
-            new ResourceGroupConfig {Name = $"rg-{namePostfix}", Location = "polandcentral", Tags = tags});
+        var context = new ResourceCreatorContext(this, clientConfig, adminUserObjectId, infrastructure, tags);
 
-        DataAzurermClientConfig clientConfig = new(this, "ClientConfig");
-        var adminUserObjectId = "035e7cd0-50b7-49bb-bff5-4134329917a4";
-
-        var context =
-            new ResourceCreatorContext(this, resourceGroup, clientConfig, adminUserObjectId, infrastructure, tags);
+        context.ResourceGroup = ResourceGroupCreator.CreateResourceGroup(context);
 
         KeyVault kv = KeyVaultCreator.CreateKeyVault(context);
 
         _ = CosmosDbCreator.CreateCosmosDb(context, kv);
 
-        StorageAccount st = StorageCreator.CreateStorageAccount(context, resourceGroup);
+        StorageAccount st = StorageCreator.CreateStorageAccount(context);
 
         var storageAccessKeySecret = new KeyVaultSecret(this, "StorageAccountPrimaryAccessKey",
             new KeyVaultSecretConfig

@@ -26,13 +26,13 @@ internal class ProcessorFunctionCreator
             });
 
         RoleAssignment kvRole = new(context.Scope, "KeyVaultIdentityScope",
-            new RoleAssignmentConfig()
+            new RoleAssignmentConfig
             {
                 Name = $"6b5f0c39-f45e-4db6-96ef-eac922266ee8",
                 PrincipalId = managedIdentity.PrincipalId,
                 Scope = kv.Id,
                 RoleDefinitionName = "Key Vault Secrets User",
-                DependsOn = [managedIdentity, kv]
+                DependsOn = [context.ResourceGroup, managedIdentity, kv]
             });
 
         var asp = new ServicePlan(context.Scope, "ServicePlan", new ServicePlanConfig
