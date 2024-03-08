@@ -28,7 +28,7 @@ internal class ProcessorFunctionCreator
         RoleAssignment kvRole = new(context.Scope, "KeyVaultIdentityScope",
             new RoleAssignmentConfig()
             {
-                Name = $"kv-role{context.Infrastructure.GetResourceNamePostfix()}",
+                Name = $"6b5f0c39-f45e-4db6-96ef-eac922266ee8",
                 PrincipalId = managedIdentity.PrincipalId,
                 Scope = kv.Id,
                 RoleDefinitionName = "Key Vault Secrets User",
@@ -41,7 +41,7 @@ internal class ProcessorFunctionCreator
             ResourceGroupName = context.ResourceGroup.Name,
             Location = context.ResourceGroup.Location,
             Tags = context.Tags,
-            OsType = "Windows",
+            // OsType = "Windows",
             SkuName = "Y1", //Free and B1 is the lowest paid sku
             ZoneBalancingEnabled = false
         });
