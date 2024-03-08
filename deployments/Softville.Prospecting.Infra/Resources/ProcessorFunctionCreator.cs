@@ -52,6 +52,7 @@ internal class ProcessorFunctionCreator
             Location = context.ResourceGroup.Location,
             Tags = context.Tags,
             OsType = "Windows",
+            WorkerCount = 1,
             SkuName = "Y1", //Free and B1 is the lowest paid sku
             ZoneBalancingEnabled = false
         });
