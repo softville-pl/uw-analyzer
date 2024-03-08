@@ -2,6 +2,7 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVault;
+using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultAccessPolicy;
 using HashiCorp.Cdktf.Providers.Azurerm.KeyVaultSecret;
 using HashiCorp.Cdktf.Providers.Azurerm.RoleAssignment;
 using HashiCorp.Cdktf.Providers.Azurerm.ServicePlan;
@@ -33,6 +34,15 @@ internal class ProcessorFunctionCreator
                 Scope = kv.Id,
                 RoleDefinitionName = "Key Vault Secrets User",
                 DependsOn = [context.ResourceGroup, managedIdentity, kv]
+            });
+
+        var idKeyVaultAccess = new KeyVaultAccessPolicyA(context.Scope, "AzureFunctionStorageIdentityAccessPolicy",
+            new KeyVaultAccessPolicyAConfig()
+            {
+                KeyVaultId = kv.Id,
+                TenantId = context.ClientConfig.TenantId,
+                ObjectId = managedIdentity.PrincipalId,
+                SecretPermissions = ["Get"]
             });
 
         var asp = new ServicePlan(context.Scope, "ServicePlan", new ServicePlanConfig
@@ -79,7 +89,7 @@ internal class ProcessorFunctionCreator
                 },
                 KeyVaultReferenceIdentityId = managedIdentity.Id,
                 Tags = context.Tags,
-                DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret],
+                DependsOn = [st, asp, managedIdentity, kvRole, storageAccessKeySecret, idKeyVaultAccess],
 
             });
     }

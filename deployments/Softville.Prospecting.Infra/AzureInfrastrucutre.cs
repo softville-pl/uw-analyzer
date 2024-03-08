@@ -23,7 +23,6 @@ public class ProspectingAzureStack : TerraformStack
     /// <param name="infrastructure"></param>
     public ProspectingAzureStack(Construct scope, string id, InfrastructureInstance infrastructure) : base(scope, id)
     {
-
         _ = new AzurermProvider(this, "azureFeature",
             new AzurermProviderConfig {Features = new AzurermProviderFeatures()});
 
