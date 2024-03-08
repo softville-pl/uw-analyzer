@@ -18,13 +18,13 @@ internal class ResourceGroupCreator
                 Tags = context.Tags
             });
 
-         _ = new RoleAssignment(context.Scope, "ServicePrincipalResourceGroupOwner",
+         _ = new RoleAssignment(context.Scope, "ServicePrincipalResourceGroupRBACAdmin",
             new RoleAssignmentConfig
             {
                 Name = "3ea4f156-9597-48ca-a559-ccc3d4292956",
                 PrincipalId = context.ClientConfig.ObjectId,
                 Scope = resourceGroup.Id,
-                RoleDefinitionName = "Owner",
+                RoleDefinitionName = "Role Based Access Control Administrator",
                 DependsOn = [resourceGroup]
             });
 
