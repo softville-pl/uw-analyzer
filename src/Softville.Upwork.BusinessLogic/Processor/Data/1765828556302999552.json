@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~0169c5406bf40a8cae",
-    "rid": 1011494565,
-    "uid": "1760437257447825408",
+    "ciphertext": "~01bec39c27459e402c",
+    "rid": 1011834658,
+    "uid": "1765828556302999552",
     "type": 2,
     "access": 4,
-    "title": "Hiring Full Stack Developer",
+    "title": "Web Developer to conduct ICO and launch metaverse project.",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-21T22:52:04.683Z",
-    "postedOn": "2024-02-21T22:52:05.165Z",
-    "publishTime": "2024-02-21T22:52:05.165Z",
+    "createdOn": "2024-03-07T19:55:10.503Z",
+    "postedOn": "2024-03-07T19:55:10.971Z",
+    "publishTime": "2024-03-07T19:55:10.971Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 6823887,
+    "companyRecno": 1009939033,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
@@ -35,12 +35,12 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 0,
-      "hourlyBudgetMin": 25,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 80
     },
     "contractorTier": 3,
-    "description": "Overview:\nWe are in search of a skilled Full-Stack Developer to be a key player in a groundbreaking digital imaging project. The candidate should be adept in both front-end and back-end development, with a strong commitment to creating user-friendly interfaces and robust backend systems.\n\nKey Responsibilities:\n- Develop and maintain the front-end website architecture, ensuring optimal performance and responsiveness.\n- Design user interactions on web pages, focusing on intuitive and visually appealing user interfaces.\n- Develop and maintain back-end website applications, including database and server integration.\n- Create servers and databases for functionality, prioritizing system security and data protection.\n- Ensure cross-platform optimization for mobile devices and consistent cross-browser compatibility.\n- Collaborate with a cross-functional team to develop functional web applications, maintaining the responsiveness of these applications.\n- Uphold code integrity and organization, including quality assurance and version control.\n- Implement data storage solutions and integrate multiple data sources and databases into one cohesive system.\n- Manage project priorities, deadlines, and deliverables in a dynamic environment.\n\nSkills and Qualifications:\n- Bachelor\u2019s degree in Computer Science, a related field, or equivalent practical experience.\n- Proficient in front-end languages such as HTML, CSS, and JavaScript.\n- Experience with JavaScript frameworks like Angular JS, React, or Amber.\n- Skills in server-side languages like Python, Ruby, Java, PHP, and .Net.\n- Familiar with database technologies such as MySQL, Oracle, and MongoDB.\n- Excellent verbal communication, problem-solving skills, and attention to detail.\n- Strong organizational skills with the ability to work independently and within team settings.\n\nPreferred Experience:\n- Demonstrable experience in digital imaging solutions is advantageous.\n- Knowledge in implementing user account management and search functionalities.\n- Experience with cloud messaging APIs and push notifications.\n- Deep understanding of UI, cross-browser compatibility, general web functions, and standards.\n\nApplication Requirements:\nPlease submit a portfolio or examples of previous work/projects alongside your application. This should demonstrate your proficiency in both front-end and back-end development.",
+    "description": "Good day! Hope you are doing well\nWe are seeking a skilled  C#, Ruby on Rails, ASP.net Developer who has expertise . Share your expertise when apply this.\nLet\u0027s connect soon",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -52,7 +52,7 @@
       "tests": null,
       "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 4,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -72,20 +72,20 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-22T18:28:17.191Z",
-      "totalApplicants": 146,
+      "lastBuyerActivity": "2024-03-07T19:55:10.296Z",
+      "totalApplicants": 16,
       "totalHired": 0,
-      "totalInvitedToInterview": 1,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -99,13 +99,13 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-21T22:52:05.165Z",
-        "reuse": "1731484510027874304",
+        "publishTime": "2024-03-07T19:55:10.971Z",
+        "reuse": "1706901565730029568",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "7",
-        "type": "RJP",
+        "totalTimeSpentOnReviewPageAIv2": "252",
+        "type": "FJP",
         "browser": "Chrome",
         "device": "Macintosh"
       }
@@ -117,47 +117,45 @@
     "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -18000000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "Columbus",
+      "countryTimezone": "United States (America/N)",
+      "city": null,
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 32,
-      "activeAssignmentsCount": 7,
-      "feedbackCount": 23,
-      "score": 5,
-      "totalJobsWithHires": 30,
-      "hoursCount": 329.833335,
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 11788.81
+        "amount": 0
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2019-10-19T00:00:00.000Z",
+      "contractDate": "2023-09-19T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
+        "size": "10",
+        "industry": "Health \u0026 Fitness",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 32,
+      "postedCount": 26,
       "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 21.179363207784927
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
         "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalMatches": 3,
         "matches": [
           {
             "qualification": 0,
@@ -169,11 +167,11 @@
           },
           {
             "qualification": 4,
-            "qualified": true,
-            "clientPreferred": "0",
+            "qualified": false,
+            "clientPreferred": "4",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Native"
           },
           {
             "qualification": 8,

@@ -1,0 +1,252 @@
+{
+  "job": {
+    "ciphertext": "~017a94f1a0b279b108",
+    "rid": 1011836347,
+    "uid": "1765851687168532480",
+    "type": 2,
+    "access": 1,
+    "title": "Detailed Azure platform diagram of existing platform and product",
+    "status": 1,
+    "category": {
+      "name": "DevOps \u0026 Solution Architecture",
+      "urlSlug": "devops-solution-architecture"
+    },
+    "categoryGroup": {
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-07T21:27:05.130Z",
+    "postedOn": "2024-03-07T21:27:05.437Z",
+    "publishTime": "2024-03-07T21:27:05.437Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1159729,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 2,
+    "description": "I\u0027m looking for someone to help create Visio diagrams of an existing platform / product running in Azure.\n\nWe\u0027ll get on a call and go through all the services and features, how they connect, walk through the code, the product and the ux. I\u0027ll be available to answer questions and re-cover anything in detail.\n\nYou\u0027ll deliver a detailed VISIO diagram outlaying all of the products services and azure components, outlining how they connect, work together and connect externally. We\u0027ll then define some examples processes and start documenting them too (large processes like authentication flow, large file uploads that leverage AI \u002B Vision etc)\n\nThe product is a B2C front end (react spa) ontop of a B2B API (.net) leveraging Azure features including: Static and Function apps, CosmosDb, Data Factory, Azure AD B2C, Azure Storage \u002B more. This includes the deployment pipline from Github \u002B Private LLM instances of Open AI \u0026 other Services\n\nYou should be very comfortable with Azure and Visio.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 4,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-07T21:27:04.950Z",
+      "totalApplicants": 16,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "300",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a skilled Azure expert to create a detailed Azure platform diagram for our project. The diagram should clearly illustrate the overall architecture and design of the system. The ideal candidate should have strong experience with Microsoft Azure and software architecture \u0026 design.\n\nThe expected duration of the project is less than 1 month. We are seeking a candidate who can effectively communicate and understand our requirements to deliver a high-quality diagram.\n\nTo apply for this job, please submit a proposal outlining your experience with Azure and software architecture. Specifically, describe how you can contribute to this project and ensure its success. Additionally, please include links to any relevant past projects or diagrams that you have completed.\n\nWe look forward to reviewing your proposals and selecting the most suitable candidate for this job.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-07T21:27:05.437Z",
+        "totalTimeJobPostFlowAIv2": "5036",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "298",
+        "totalTimeSpentOnReviewPageAIv2": "4659",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709841788300",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Azure Platform Diagram",
+        "finalDescriptionAI": "I\u0027m looking for someone to help creat a Visio diagram of an existing platform / product running in Azure.\n\nWe\u0027ll get on a call and go through all the services and features, how they connect, walk through the code, the product and the ux.\n\nYou\u0027ll deliver a visio diagram outlaying all of the products services, how they connect, work together and connect externally\n\nThe product is a B2C front end (react spa) ontop of a B2B API (.net) leveraging Azure features including: Static and Function apps, CosmosDb, Data Factory, Azure AD B2C, Azure Storage \u002B more. This includes the deployment pipline from Github\n\nYou should be very comfortable with Azure and Visio."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC\u002B01:00)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 42,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 38,
+      "score": 4.998697776,
+      "totalJobsWithHires": 35,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 7809.17
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2013-12-02T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 42,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": false,
+            "clientPreferred": "4",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Native"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
