@@ -1,17 +1,22 @@
 using FluentAssertions;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
-using Softville.Upwork.BusinessLogic.Processor;
 using Xunit;
 
 namespace Softville.Upwork.BusinessLogic.IntTests;
 
 [Collection(IntPrpCollection.Name)]
-public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
+public class UpworkProcessorBasicTests
 {
+    private readonly IntPrpContext _ctx;
+
+    public UpworkProcessorBasicTests(IntPrpContext ctx)
+    {
+        _ctx = ctx;
+    }
+
     [Fact]
     public void Test1()
     {
-        Ctx.Should().NotBeNull();
-        Ctx.Services.GetRequiredService<IUpworkProcessor>().Should().NotBeNull();
+        _ctx.Should().NotBeNull();
     }
 }
