@@ -138,12 +138,12 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 296,
-      "activeAssignmentsCount": 23,
+      "totalAssignments": 297,
+      "activeAssignmentsCount": 24,
       "feedbackCount": 155,
       "score": 4.654202061,
-      "totalJobsWithHires": 257,
-      "hoursCount": 6748.900016,
+      "totalJobsWithHires": 258,
+      "hoursCount": 6752.400016,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 155834.05
@@ -165,7 +165,7 @@
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 21.367141261261207
+      "amount": 21.376799309574555
     }
   },
   "currentUserInfo": {
@@ -195,8 +195,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "253.88",
-            "freelancerValueLabel": "253.88",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
             "clientPreferredLabel": "Any"
           },
           {

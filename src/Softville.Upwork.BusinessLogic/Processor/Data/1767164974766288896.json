@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01cbf168e4c1cefb6b",
+    "rid": 1011905605,
+    "uid": "1767164974766288896",
+    "type": 2,
+    "access": 4,
+    "title": "Telemedicine App with AI integrations and HIPAA compliance with C#, .NET, MS Azure Cloud and Angular",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-11T12:25:37.308Z",
+    "postedOn": "2024-03-11T12:25:37.759Z",
+    "publishTime": "2024-03-11T12:25:37.759Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1009730716,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are looking for skilled developers or an agency with expertise in Healthcare, HIPAA, Telemedicine, AI integrations, and EHR/EMR.\n\nThe project is a cutting-edge SaaS platform for medical providers and patients. The core features include repeat prescriptions, doctor appointment booking, electronic medical record (EMR) management, and comprehensive dashboards for users and healthcare providers, AI integrations.\n\nFunctionality and requirements:\n- Catering to over 10,000 active users;\n- Patients portal;\n- Document Management;\n- Billing and Invoicing;\n- History (audit);\n- Video Calling and Messaging;\n- Tele-consultation Scheduling;\n- Strict adherence to Healthcare regulations such as HIPAA (Health Insurance Portability and Accountability Act) and GDPR (General Data Protection Regulation), WCAG 2.1;\n- Appointment scheduling;\n- Sending E-Mail directly from the app;\n- Sending SMS from the software;\n- Integrations (Calendar Support. EHR/EMR, Medical Billing, Medical Scheduling, Multi-PACS Software, Pharmacies Support, and Video Communications);\n- Hardware Requirements (Mobile Cart Systems, Wall-mounted Access Point of Care Systems, Remote Monitoring Devices, Webcam, Wearable Devices, On-site Kiosk.\n\nFunctionality planned for later:\n- AI Health Services;\n- Remote Patient Monitoring (RPM);\n- Medical Research;\n- Migrating function: from other software: all data, documents, Laboratory value, etc.;\n- Internal E-Mail system.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-11T12:58:18.018Z",
+      "totalApplicants": 80,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "35",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Edge",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a highly skilled developer to join our team and help us create a telemedicine app with AI integrations and ensure HIPAA compliance. The app will be built using C#, .NET, MS Azure Cloud, and Angular.\n\nThe ideal candidate will have experience in web development, API integration, .NET Framework, and healthcare industry. Proficiency in JavaScript, Angular, and C# is a must.\n\nThe project is expected to last for more than 6 months. We are seeking a candidate who can take ownership of the project, contribute innovative ideas, and deliver high-quality code.\n\nTo apply for this job, please submit a detailed proposal describing how you can help with the project. We would also appreciate if you could provide links to some of your past completed projects that showcase your skills and experience in telemedicine app development and HIPAA compliance.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-11T12:25:37.759Z",
+        "totalTimeJobPostFlowAIv2": "631",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221549040252912275456\u0022},{\u0022skillUid\u0022:\u00221031626785614708736\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "31",
+        "totalTimeSpentOnReviewPageAIv2": "31",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710159305988",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Telemedicine App with AI integrations and HIPAA compliance with C#, .NET, MS Azure Cloud and Angular",
+        "finalDescriptionAI": "We are looking for skilled developers or an agency with expertise in Healthcare, HIPAA, Telemedicine, AI integrations, and EHR/EMR.\n\nThe project is a cutting-edge SaaS platform for medical providers and patients. The core features include repeat prescriptions, doctor appointment booking, electronic medical record (EMR) management, and comprehensive dashboards for users and healthcare providers, AI integrations.\n\nFunctionality and requirements:\n- Catering to over 10,000 active users;\n- Patients portal;\n- Document Management;\n- Billing and Invoicing;\n- History (audit);\n- Video Calling and Messaging;\n- Tele-consultation Scheduling;\n- Strict adherence to Healthcare regulations such as HIPAA (Health Insurance Portability and Accountability Act) and GDPR (General Data Protection Regulation), WCAG 2.1;\n- Appointment scheduling;\n- Sending E-Mail directly from the app;\n- Sending SMS from the software;\n- Integrations (Calendar Support. EHR/EMR, Medical Billing, Medical Scheduling, Multi-PACS Software, Pharmacies Support, and Video Communications);\n- Hardware Requirements (Mobile Cart Systems, Wall-mounted Access Point of Care Systems, Remote Monitoring Devices, Webcam, Wearable Devices, On-site Kiosk.\n\nFunctionality planned for later:\n- AI Health Services;\n- Remote Patient Monitoring (RPM);\n- Medical Research;\n- Migrating function: from other software: all data, documents, Laboratory value, etc.;\n- Internal E-Mail system."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (UTC\u002B02:00)",
+      "city": "Potsdam",
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 65,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1701.95
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-08-30T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 3,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 8.000153846153847
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

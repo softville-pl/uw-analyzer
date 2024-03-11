@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01455948a212eaafea",
-    "rid": 1011508587,
-    "uid": "1760682832202711040",
+    "ciphertext": "~014020bfea9cd7178e",
+    "rid": 1011905675,
+    "uid": "1767165979884310528",
     "type": 2,
-    "access": 4,
-    "title": "Cognito User Pool Issue ",
+    "access": 1,
+    "title": "MVP for Mental Health Web Application with React, Next.js, C# and .NET",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,47 +20,56 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-22T15:07:54.101Z",
-    "postedOn": "2024-02-22T15:07:54.608Z",
-    "publishTime": "2024-02-22T15:07:54.608Z",
+    "createdOn": "2024-03-11T12:29:36.958Z",
+    "postedOn": "2024-03-11T12:29:37.421Z",
+    "publishTime": "2024-03-11T12:29:37.421Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 1404307,
-    "durationIdV3": 1,
-    "durationLabel": "Less than a month",
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1009730716,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 10,
+      "hourlyBudgetMin": 40,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server",
+    "description": "We are looking for skilled developers or an agency with expertise in Healthcare, HIPAA, AI integrations to develop an MVP. The project is a cutting-edge Mental Health SaaS platform. \n\nThis application should support the following high-level features:\n\n1. Exchanging messages and having calls with doctors;\n2. Assessment Tests and Mood Control;\n3. Cognitive-behavioral therapy;\n4. Self-guided mood training programs and gamification elements;\n5. Forums;\n6. Daily reports;\n7. Journaling feature;\n8. Pre-recorded courses with step-by-step video guides;\n9. User and doctor profiles;\n10. Registration of patients;\n11. Booking of appointments;\n12. Processing of payments;\n13. Daily symptom control;\n14. Prescription clarification. If a patient forgets about what, when, or how to do it, they can simply go on the app and double-check everything they need to;\n15. Mental health data should flow freely from a mental well-being application to other providers\u2019 psychiatry systems, e.g., EHR/EMR;\n16. Dashboard analytics\n    1. The daily/weekly/monthly number of patients;\n    2. The total number of patients;\n    3. New patients (requests);\n    4. The total revenue (or the total over a certain period);\n    5. The income from each patient;\n    6. Satisfaction rate \u0026 others.",
     "attachments": null,
     "questions": [],
     "qualifications": {
       "type": 0,
-      "location": null,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
       "countries": null,
-      "regions": null,
+      "regions": [
+        "Europe"
+      ],
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -72,20 +81,20 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_PROJECT",
-        "label": "One-time project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 0,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-24T20:40:09.070Z",
-      "totalApplicants": 13,
+      "lastBuyerActivity": "2024-03-11T12:56:19.729Z",
+      "totalApplicants": 130,
       "totalHired": 0,
-      "totalInvitedToInterview": 9,
+      "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -93,28 +102,19 @@
     "annotations": {
       "tags": [
         "contractToHireSet",
-        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "36",
-        "sourcingUpdateForbidden": "false",
-        "type": "RJP",
-        "browser": "Firefox",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled individual to help us resolve an issue with our Cognito User Pool. The job is expected to take less than 1 month to complete. \n\nThe ideal candidate should have expertise in JavaScript, React, and Amazon Web Services. \n\nTo be considered for this project, please submit a proposal outlining how you can help us resolve the issue with our Cognito User Pool. We are specifically interested in your approach to troubleshooting and debugging problems in this area. \n\nAdditionally, please include links to any relevant past projects that you have completed. This will give us a better understanding of your skillset and experience in working with Cognito User Pools. \n\nWe look forward to reviewing your proposals and finding the right candidate to help us resolve this issue.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-22T15:07:54.608Z",
-        "totalTimeJobPostFlowAIv2": "128",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022}]",
+        "publishTime": "2024-03-11T12:29:37.421Z",
+        "reuse": "1767164974766288896",
+        "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "23",
-        "totalTimeSpentOnReviewPageAIv2": "7",
-        "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1708614344190",
-        "inputsDurationAI": "474250516458926083",
-        "inputsTitleAI": "Cognito User Pool Issue ",
-        "finalDescriptionAI": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server"
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "138",
+        "type": "RJP",
+        "browser": "Edge",
+        "device": "Windows"
       }
     },
     "isContractToHire": false,
@@ -123,27 +123,27 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "New York",
-      "country": "United States"
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (UTC\u002B02:00)",
+      "city": "Potsdam",
+      "country": "Germany"
     },
     "stats": {
-      "totalAssignments": 62,
-      "activeAssignmentsCount": 18,
-      "feedbackCount": 40,
-      "score": 4.929088709,
-      "totalJobsWithHires": 54,
-      "hoursCount": 2181.000003,
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 65,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 46313.61
+        "amount": 1701.95
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2014-05-24T00:00:00.000Z",
+      "contractDate": "2023-08-30T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -152,19 +152,19 @@
       }
     },
     "jobs": {
-      "postedCount": 122,
+      "postedCount": 3,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 17.237276454969358
+      "amount": 8.000153846153847
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalQualifications": 5,
+        "totalMatches": 5,
         "matches": [
           {
             "qualification": 0,
@@ -181,6 +181,14 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Europe"
           },
           {
             "qualification": 8,

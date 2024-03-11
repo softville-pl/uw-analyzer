@@ -82,7 +82,7 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-10T16:17:08.233Z",
+      "lastBuyerActivity": "2024-03-11T10:07:10.663Z",
       "totalApplicants": 25,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
@@ -119,7 +119,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 3600000,
       "countryTimezone": "United States (Europe/Be)",
@@ -182,8 +182,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "253.88",
-            "freelancerValueLabel": "253.88",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
             "clientPreferredLabel": "Any"
           },
           {

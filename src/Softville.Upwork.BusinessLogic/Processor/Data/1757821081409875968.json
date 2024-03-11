@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-08T19:43:00.906Z",
-      "totalApplicants": 138,
+      "totalApplicants": 137,
       "totalHired": 1,
       "totalInvitedToInterview": 15,
       "unansweredInvites": 3,
@@ -138,7 +138,7 @@
       "hoursCount": 21463.666846,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 599650.27
+        "amount": 599725.96
       }
     },
     "isEnterprise": false,
@@ -187,8 +187,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "253.88",
-            "freelancerValueLabel": "253.88",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
             "clientPreferredLabel": "Any"
           },
           {

@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01455948a212eaafea",
-    "rid": 1011508587,
-    "uid": "1760682832202711040",
+    "ciphertext": "~0191a39879b7605b31",
+    "rid": 1011907986,
+    "uid": "1767191973491953664",
     "type": 2,
     "access": 4,
-    "title": "Cognito User Pool Issue ",
+    "title": "WEB API Endpoint for SAGE 300 (On Premise)",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-22T15:07:54.101Z",
-    "postedOn": "2024-02-22T15:07:54.608Z",
-    "publishTime": "2024-02-22T15:07:54.608Z",
+    "createdOn": "2024-03-11T14:12:54.344Z",
+    "postedOn": "2024-03-11T14:12:54.823Z",
+    "publishTime": "2024-03-11T14:12:54.823Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1404307,
+    "companyRecno": 8469015,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -35,13 +35,19 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 10,
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server",
-    "attachments": null,
+    "description": "Looking for someone that has experience with implementing WEB API for SAGE 300 and creating an endpoint for SAGE 300 (On Premise).\n\nI want to be able to POST and GET request from SAGE 300 (On premise)\n\nThank you.",
+    "attachments": [
+      {
+        "fileName": "tms to sage.png",
+        "length": 9664,
+        "uri": "/att/download/openings/1767191973491953664/attachments/669fc8f2-b0fe-479c-9a30-a925968a4b44/download"
+      }
+    ],
     "questions": [],
     "qualifications": {
       "type": 0,
@@ -60,7 +66,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,10 +88,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-24T20:40:09.070Z",
-      "totalApplicants": 13,
+      "lastBuyerActivity": "2024-03-11T15:31:45.811Z",
+      "totalApplicants": 9,
       "totalHired": 0,
-      "totalInvitedToInterview": 9,
+      "totalInvitedToInterview": 5,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -97,24 +103,24 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "36",
+        "totalTimeSpentOnDescriptionPageAI": "270",
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
-        "browser": "Firefox",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled individual to help us resolve an issue with our Cognito User Pool. The job is expected to take less than 1 month to complete. \n\nThe ideal candidate should have expertise in JavaScript, React, and Amazon Web Services. \n\nTo be considered for this project, please submit a proposal outlining how you can help us resolve the issue with our Cognito User Pool. We are specifically interested in your approach to troubleshooting and debugging problems in this area. \n\nAdditionally, please include links to any relevant past projects that you have completed. This will give us a better understanding of your skillset and experience in working with Cognito User Pools. \n\nWe look forward to reviewing your proposals and finding the right candidate to help us resolve this issue.",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for a skilled developer to help us create a WEB API Endpoint for SAGE 300 (On Premise) software. This project is expected to be completed in less than 1 month. \n\nThe ideal candidate should have experience working with API integration and be proficient in the .NET Framework. Knowledge of Sage 300 software is also essential for this role.\n\nIn your proposal, please describe how you can assist us in developing the WEB API Endpoint. We would like to know about your previous experience with similar projects and any relevant skills you possess.\n\nAdditionally, please include links to past completed projects that demonstrate your expertise in API integration or working with Sage 300. This will help us assess your suitability for the job.\n\nWe look forward to reviewing your proposals and discussing the project further.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-22T15:07:54.608Z",
-        "totalTimeJobPostFlowAIv2": "128",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628012691471\u0022}]",
+        "publishTime": "2024-03-11T14:12:54.823Z",
+        "totalTimeJobPostFlowAIv2": "438",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580497007235072\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u00221110580482566246400\u0022},{\u0022skillUid\u0022:\u00221031626776278188032\u0022},{\u0022skillUid\u0022:\u00221691099312958222336\u0022}]",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "23",
+        "totalDescriptionEditingTimeAI": "152",
         "totalTimeSpentOnReviewPageAIv2": "7",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1708614344190",
+        "startTimeJobPostFlowAIv2": "1710165935551",
         "inputsDurationAI": "474250516458926083",
-        "inputsTitleAI": "Cognito User Pool Issue ",
-        "finalDescriptionAI": "Cognito User Pool Issue (this is a critical one)\n\nProblem :We have a mobile app and a webapp which is using AWS cognito for user authentication. The problem is, We are now shifting the setup to another aws account and We cannot export the existing cognito user pool with their passwords.\n\nCan there be a solution in which we can transfer the current users with their existing passwords to the new cognito pool?\n\nSetup Details :\nApi endpoints  - API gateway\nCode execution - AWS Lambda Running .Net 6\nFont End delivery - AWS S3\nDatabase - AWS RDS running SQL Server"
+        "inputsTitleAI": "WEB API Endpoint for SAGE 300 (On Premise)",
+        "finalDescriptionAI": "Looking for someone that has experience with implementing WEB API for SAGE 300 and creating an endpoint for SAGE 300 (On Premise).\n\nI want to be able to POST and GET request from SAGE 300 (On premise)\n\nThank you."
       }
     },
     "isContractToHire": false,
@@ -124,26 +130,26 @@
     "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "New York",
-      "country": "United States"
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "Palmerston",
+      "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 62,
-      "activeAssignmentsCount": 18,
-      "feedbackCount": 40,
-      "score": 4.929088709,
-      "totalJobsWithHires": 54,
-      "hoursCount": 2181.000003,
+      "totalAssignments": 5,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 3,
+      "score": 5,
+      "totalJobsWithHires": 5,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 46313.61
+        "amount": 690
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2014-05-24T00:00:00.000Z",
+      "contractDate": "2020-10-27T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -152,12 +158,10 @@
       }
     },
     "jobs": {
-      "postedCount": 122,
+      "postedCount": 5,
       "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 17.237276454969358
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
