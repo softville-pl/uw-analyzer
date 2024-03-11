@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-19T17:00:06.552Z",
-      "totalApplicants": 357,
+      "totalApplicants": 355,
       "totalHired": 0,
       "totalInvitedToInterview": 4,
       "unansweredInvites": 1,
@@ -124,7 +124,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
+      "offsetFromUtcMillis": -21600000,
       "countryTimezone": "United States (UTC-07:00)",
       "city": "Holladay",
       "country": "United States"

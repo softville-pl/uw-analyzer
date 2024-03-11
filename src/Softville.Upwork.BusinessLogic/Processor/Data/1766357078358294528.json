@@ -1,0 +1,260 @@
+{
+  "job": {
+    "ciphertext": "~010d57b7cfc75595ba",
+    "rid": 1011865256,
+    "uid": "1766357078358294528",
+    "type": 2,
+    "access": 4,
+    "title": "Develop basic C# WPF Application .Net 4.5 to communicate with Orca Vue using BTLE Bluetooth",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-09T06:55:19.787Z",
+    "postedOn": "2024-03-09T06:55:20.157Z",
+    "publishTime": "2024-03-09T06:55:20.157Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1005868955,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "*** Please check the attached sample code in Objective C, we will need to covert this into C# WPF ***\n\nWe need a basic C# WPF Application in .Net 4.5 to communicate with the Orcavue (https://orcavue.com/) Hardware for basic features e.g. Trigger, Run Mode, Speed etc.\n\nAll the required details for connect with Device is available in attached PDF document. Sample code written in objective C is also available.\n\nPlease only apply if you have experience in working with Bluetooth devices.",
+    "attachments": [
+      {
+        "fileName": "OV_BTLECentralController (2).h",
+        "length": 86,
+        "uri": "/att/download/openings/1766357078358294528/attachments/fc9c51cb-2fc3-4b32-89da-68cc24f582db/download"
+      },
+      {
+        "fileName": "OrcaVue BTLE Protocol Spec - v2.2 (2).pdf",
+        "length": 51696,
+        "uri": "/att/download/openings/1766357078358294528/attachments/70dbc507-66fc-40ca-8653-c6df96d0f52a/download"
+      },
+      {
+        "fileName": "OV_BTLECentralController_v2_1 (3).m",
+        "length": 22112,
+        "uri": "/att/download/openings/1766357078358294528/attachments/bc4a80b7-e9e1-48ef-accf-e7aef5aa4b18/download"
+      }
+    ],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-10T21:32:40.497Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "117",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "generatedDescriptionAI": "We are looking for a skilled developer to help us develop a basic C# WPF application using .Net 4.5 to communicate with Orca Vue using BTLE Bluetooth. The project is expected to last between 1 to 3 months.\n\nThe ideal candidate should have experience in Python, .NET Framework, Microsoft Windows, Bluetooth LE, and C#. They should be familiar with developing applications that communicate with external devices using Bluetooth.\n\nTo apply for this job, please submit a proposal detailing how you can help with this project. Please include any relevant experience or past projects that demonstrate your expertise in developing applications using C# and Bluetooth. Providing links to past completed projects would be highly beneficial in evaluating your skills and suitability for this job.\n\nWe look forward to reviewing your proposals and selecting the right candidate for this project.",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-09T06:55:20.157Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826497\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826496\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580546827177984\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022,\u0022parentSkillUid\u0022:\u00221225465937630826497\u0022},{\u0022freeText\u0022:\u0022BTLE\u0022},{\u0022skillUid\u0022:\u00221484275318958772224\u0022},{\u0022freeText\u0022:\u0022WPF\u0022},{\u0022freeText\u0022:\u0022.NET 4.5\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "31",
+        "totalTimeSpentOnReviewPageAIv2": "350",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709966900368",
+        "finalDescriptionAI": "We need a basic C# WPF Application in .Net 4.5 to communicate with the Orcavue (https://orcavue.com/) Hardware for basic features e.g. Trigger, Run Mode, Speed etc.\n\nAll the required details for connect with Device is available in attached PDF document. Sample code written in objective C is also available.\n\nPlease only apply if you have experience in working with Bluetooth devices.",
+        "inputsTitleAI": "Develop basic C# WPF Application .Net 4.5 to communicate with Orca Vue using BTLE Bluetooth",
+        "inputsDurationAI": "474250516458926082"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-06:00)",
+      "city": "Aubrey",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 3,
+      "hoursCount": 249,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 4803.6
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-10-19T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 7,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 17
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

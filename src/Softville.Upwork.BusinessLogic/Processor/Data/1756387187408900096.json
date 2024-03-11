@@ -121,7 +121,7 @@
   "buyer": {
     "isPaymentMethodVerified": false,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (America/N)",
       "city": null,
       "country": "United States"

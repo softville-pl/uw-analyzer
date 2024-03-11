@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-27T11:48:16.791Z",
-      "totalApplicants": 42,
+      "totalApplicants": 41,
       "totalHired": 0,
       "totalInvitedToInterview": 4,
       "unansweredInvites": 0,
@@ -124,7 +124,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "Norway (UTC-08:00)",
       "city": "enicnitas",
       "country": "Norway"

@@ -136,7 +136,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 7200000,
       "countryTimezone": "Lithuania (Asia/Jeru)",

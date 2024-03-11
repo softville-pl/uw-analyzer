@@ -141,18 +141,18 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -21600000,
+      "offsetFromUtcMillis": -18000000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Bloomington",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 449,
-      "activeAssignmentsCount": 40,
+      "totalAssignments": 450,
+      "activeAssignmentsCount": 41,
       "feedbackCount": 280,
       "score": 4.985174332,
-      "totalJobsWithHires": 296,
-      "hoursCount": 35495.166683,
+      "totalJobsWithHires": 297,
+      "hoursCount": 35613.833349,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 630409.02
@@ -174,7 +174,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 12.227627323915895
+      "amount": 12.240486041703805
     }
   },
   "currentUserInfo": {

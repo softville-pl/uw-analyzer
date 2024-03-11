@@ -144,7 +144,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (America/T)",
       "city": "BELLEVUE",
       "country": "United States"

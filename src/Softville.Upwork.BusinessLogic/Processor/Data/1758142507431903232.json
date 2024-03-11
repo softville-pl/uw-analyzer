@@ -135,7 +135,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Port Saint Lucie",
       "country": "United States"
@@ -146,7 +146,7 @@
       "feedbackCount": 49,
       "score": 4.981710782,
       "totalJobsWithHires": 56,
-      "hoursCount": 953.333376,
+      "hoursCount": 958.333376,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 19708
@@ -168,7 +168,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 14.566457390032676
+      "amount": 14.564023699410424
     }
   },
   "currentUserInfo": {

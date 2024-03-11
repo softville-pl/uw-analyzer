@@ -1,0 +1,240 @@
+{
+  "job": {
+    "ciphertext": "~01ef701392f5167107",
+    "rid": 1011855005,
+    "uid": "1766158183039262720",
+    "type": 2,
+    "access": 4,
+    "title": "Looking for a .NET Senior Developer | React Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-08T17:44:59.375Z",
+    "postedOn": "2024-03-08T17:45:00.001Z",
+    "publishTime": "2024-03-08T17:45:00.001Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 6954130,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Job description\n\u2022 Experience in Microsoft .Net technologies C# .Net,\n\u2022 Having worked in.NET Core 3.0 and above\n\u2022 Mainly middle tiers (IE not front ends)\n\u2022 Experience of TypeScript\n\u2022 Having work on either React or Angular\n\u2022 Experience in the middle tiers or front end is useful\n\u2022 For both .Net and TypeScript essential experience\n\u2022 Building libraries and API\u0027s\n\u2022 TDD so Unit Testing, Dependency Injection\n\u2022 RESTful APIs and micro services\n\u2022 Optional but useful experience\n\u2022 Docker/containers/k8s\n\u2022 Messaging\n\nRole: Full Stack Developer (React | .NET | C#)\nIndustry Type: IT Services \u0026 Consulting\nDepartment: Engineering - Software \u0026 QA\nEmployment Type: Full Time, Permanent\nRole Category: Software Development",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-09T15:45:38.936Z",
+      "totalApplicants": 210,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "12",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are seeking a highly skilled and experienced .NET Senior Developer who is also proficient in React. This is a long-term project, with an estimated duration of more than 6 months. \n\nThe ideal candidate should have a solid understanding of the .NET Framework, ASP.NET, React, C#, and ASP.NET MVC. They will be responsible for developing and maintaining our web applications, implementing new features, and troubleshooting any issues that may arise. \n\nTo be considered for this position, please submit a detailed proposal outlining how you can contribute to this project. We would like you to provide examples of past completed projects that showcase your expertise in both .NET and React. Additionally, include links to these projects so we can review your work firsthand. \n\nWe look forward to receiving your proposals and finding the perfect candidate to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-08T17:45:00.001Z",
+        "totalTimeJobPostFlowAIv2": "292",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "11",
+        "totalTimeSpentOnReviewPageAIv2": "175",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1709919606607",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Looking for a .NET Senior Developer | React Developer",
+        "finalDescriptionAI": "As a .NET Senior Developer, you will play a key role in designing, developing, and maintaining our software solutions. Your responsibilities will include:\n\nCollaborating with cross-functional teams to define, design, and ship new features.\nWriting clean, scalable, and efficient code using the .NET framework.\nTroubleshooting, debugging, and resolving issues to ensure optimal performance and reliability.\nMentoring junior developers and sharing best practices within the team.\nKeeping up-to-date with the latest trends and technologies in the .NET ecosystem.\nRequirements:\n\nStrong proficiency in C# and the .NET framework.\nExtensive experience with ASP.NET MVC/WebAPI.\nFamiliarity with SQL Server and database design principles.\nExperience with version control systems such as Git.\nExcellent problem-solving and communication skills.\nBachelor\u0027s degree in Computer Science or a related field (preferred).\nPosition: React Developer\n\nAs a React Developer, you will be responsible for building user interfaces for web applications using React.js. Your responsibilities will include:\n\nDeveloping new user-facing features using React.js.\nBuilding reusable components and front-end libraries for future use.\nTranslating designs and wireframes into high-quality code.\nOptimizing components for maximum performance across a vast array of web-capable devices and browsers.\nCollaborating with backend developers to integrate front-end and backend services seamlessly.\nRequirements:\n\nProficiency in JavaScript and React.js.\nStrong understanding of HTML5, CSS3, and responsive web design principles.\nExperience with state management libraries such as Redux or MobX.\nFamiliarity with RESTful APIs and asynchronous request handling.\nAbility to work in a fast-paced environment and adapt to changing priorities.\nBachelor\u0027s degree in Computer Science or a related field (preferred).\nWhy Join Us?\n\nOpportunity to work on challenging projects that impact millions of users.\nCollaborative and inclusive work environment where your ideas are valued.\nContinuous learning and professional development opportunities.\nCompetitive salary and comprehensive benefits package.\nIf you are passionate about software development and eager to take on new challenges, we would love to hear from you. Please submit your resume and portfolio (if applicable) to [email address] with the subject line \u0022Application for .NET Senior Developer\u0022 or \u0022Application for React Developer,\u0022 depending on the position you are applying for.\n\nThank you for considering this opportunity. We look forward to reviewing your application and potentially welcoming you to our team."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "United States (UTC-07:00)",
+      "city": "Adena",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 203,
+      "activeAssignmentsCount": 8,
+      "feedbackCount": 142,
+      "score": 4.962468146,
+      "totalJobsWithHires": 143,
+      "hoursCount": 14485.333385,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 249848.89
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2019-11-27T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 270,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 15.829048866589133
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

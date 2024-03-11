@@ -134,7 +134,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Jackson",
       "country": "United States"
@@ -145,7 +145,7 @@
       "feedbackCount": 96,
       "score": 4.629045545,
       "totalJobsWithHires": 174,
-      "hoursCount": 5648.766672,
+      "hoursCount": 5652.766672,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 162345.17
@@ -167,7 +167,7 @@
       "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 26.028662279290547
+      "amount": 26.035010560223597
     }
   },
   "currentUserInfo": {

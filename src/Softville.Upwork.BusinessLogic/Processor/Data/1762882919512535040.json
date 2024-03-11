@@ -93,7 +93,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-29T17:59:28.447Z",
-      "totalApplicants": 87,
+      "totalApplicants": 86,
       "totalHired": 1,
       "totalInvitedToInterview": 4,
       "unansweredInvites": 0,
@@ -133,7 +133,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (America/N)",
       "city": "Arlington",
       "country": "United States"
@@ -144,7 +144,7 @@
       "feedbackCount": 11,
       "score": 5,
       "totalJobsWithHires": 20,
-      "hoursCount": 303.666668,
+      "hoursCount": 312.666668,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 9653.53
@@ -166,7 +166,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 32.800241348846356
+      "amount": 32.999488132198344
     }
   },
   "currentUserInfo": {

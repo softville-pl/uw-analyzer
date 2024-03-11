@@ -107,7 +107,7 @@
       "totalApplicants": 1,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
-      "unansweredInvites": 19,
+      "unansweredInvites": 18,
       "invitationsSent": 75
     },
     "weeklyRetainerBudget": null,
@@ -146,7 +146,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (America/T)",
       "city": "Kirkland",
       "country": "United States"
@@ -157,7 +157,7 @@
       "feedbackCount": 9,
       "score": 4.998379722,
       "totalJobsWithHires": 11,
-      "hoursCount": 244.166669,
+      "hoursCount": 249.166669,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 4247.84
@@ -179,7 +179,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 15.9665527484425
+      "amount": 16.007357709630096
     }
   },
   "currentUserInfo": {

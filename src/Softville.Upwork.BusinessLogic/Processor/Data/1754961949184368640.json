@@ -141,7 +141,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "Canada (America/N)",
       "city": "Mississauga",
       "country": "Canada"

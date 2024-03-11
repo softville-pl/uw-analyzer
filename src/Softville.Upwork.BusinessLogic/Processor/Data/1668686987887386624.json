@@ -120,7 +120,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -21600000,
+      "offsetFromUtcMillis": -18000000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Schaumburg",
       "country": "United States"

@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-22T21:08:20.364Z",
-      "totalApplicants": 47,
+      "totalApplicants": 46,
       "totalHired": 0,
       "totalInvitedToInterview": 3,
       "unansweredInvites": 2,
@@ -116,7 +116,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "New York",
       "country": "United States"

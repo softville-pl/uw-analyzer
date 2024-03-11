@@ -1,0 +1,220 @@
+{
+  "job": {
+    "ciphertext": "~010f47b1b6544ffd68",
+    "rid": 1011859893,
+    "uid": "1766229983086354432",
+    "type": 2,
+    "access": 4,
+    "title": "Web Application Update and Revision",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-08T22:30:18.041Z",
+    "postedOn": "2024-03-08T22:30:18.589Z",
+    "publishTime": "2024-03-08T22:30:18.589Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1010256101,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 90
+    },
+    "contractorTier": 2,
+    "description": "We are in need of a skilled developer to update and revise our line of business web application. The goal of this project is to enhance the functionality and improve the user experience of the application. The developer will be responsible for implementing new features, fixing bugs, and optimizing the performance of the application. The ideal candidate should have expertise in front-end and back-end development, as well as experience with database management. Strong problem-solving skills and attention to detail are essential.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 1,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-09T22:07:56.774Z",
+      "totalApplicants": 46,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "searchable"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-08T22:30:18.589Z",
+        "reuse": "1711463634732441600",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "123",
+        "type": "FJP",
+        "browser": "Firefox",
+        "device": "Macintosh"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (America/C)",
+      "city": null,
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-10-09T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Retail \u0026 Consumer Goods",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 2,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 2,
+        "totalMatches": 2,
+        "matches": [
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

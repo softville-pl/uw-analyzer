@@ -106,7 +106,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-29T17:18:09.941Z",
-      "totalApplicants": 19,
+      "totalApplicants": 18,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -140,7 +140,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "New York",
       "country": "United States"
@@ -151,7 +151,7 @@
       "feedbackCount": 90,
       "score": 4.983314301,
       "totalJobsWithHires": 100,
-      "hoursCount": 114231.166811,
+      "hoursCount": 114464.166811,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 3982473.95
@@ -173,7 +173,7 @@
       "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 31.29747896136983
+      "amount": 31.332709964349647
     }
   },
   "currentUserInfo": {

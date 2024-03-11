@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-18T19:23:16.163Z",
-      "totalApplicants": 143,
+      "totalApplicants": 142,
       "totalHired": 0,
       "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
@@ -124,18 +124,18 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Sheridan",
       "country": "United States"
     },
     "stats": {
       "totalAssignments": 59,
-      "activeAssignmentsCount": 12,
-      "feedbackCount": 25,
-      "score": 4.878000784,
+      "activeAssignmentsCount": 11,
+      "feedbackCount": 26,
+      "score": 4.878382454,
       "totalJobsWithHires": 48,
-      "hoursCount": 1471.000002,
+      "hoursCount": 1471.500002,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 23116.64
@@ -153,11 +153,11 @@
       }
     },
     "jobs": {
-      "postedCount": 78,
+      "postedCount": 79,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 14.903888490953245
+      "amount": 14.903241569958217
     }
   },
   "currentUserInfo": {

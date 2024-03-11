@@ -123,7 +123,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (UTC-08:00)",
       "city": "New York",
       "country": "United States"

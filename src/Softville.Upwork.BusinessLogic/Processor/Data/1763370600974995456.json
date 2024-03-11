@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-01T14:57:10.215Z",
-      "totalApplicants": 305,
+      "totalApplicants": 306,
       "totalHired": 0,
       "totalInvitedToInterview": 7,
       "unansweredInvites": 0,
@@ -124,7 +124,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-04:00)",
       "city": "Fort Myers",
       "country": "United States"
@@ -135,7 +135,7 @@
       "feedbackCount": 4,
       "score": 5,
       "totalJobsWithHires": 6,
-      "hoursCount": 606.333333,
+      "hoursCount": 626.333333,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 13082.53
@@ -157,7 +157,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 20.33617373300504
+      "amount": 19.910324651362597
     }
   },
   "currentUserInfo": {

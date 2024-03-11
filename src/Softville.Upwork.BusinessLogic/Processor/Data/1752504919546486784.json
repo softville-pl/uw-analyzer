@@ -140,7 +140,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "Australia (UTC-08:00)",
       "city": "Brisbane",
       "country": "Australia"

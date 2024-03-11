@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~01b2e8b8f18d0b43d8",
+    "rid": 1011860355,
+    "uid": "1766239482157924352",
+    "type": 2,
+    "access": 4,
+    "title": "Net Blazor MAUI expert needed",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-08T23:08:02.619Z",
+    "postedOn": "2024-03-08T23:08:03.246Z",
+    "publishTime": "2024-03-08T23:08:03.246Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5052435,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "I\u2019m a developer creating a MAUI Blazor chat app.  In the app there are two windows.  The normal full screen window.  Then there is a phone sized chatbot window. \n\nI need help with how to make the small chatbot window appear in front of all the other windows when an incoming chat is received.\n\nI need to install the MAUI app on Mac and Windows.  On each platform I don\u2019t know how to make the smaller chatbot window come to the forefront.  In front of all the other windows.  I also don\u2019t know if that looks like a virus to the operation system.\n\nI need an expert to create a simple MAUI app with these two windows.  The app itself can be extremely simple, but I need the app to do the window control as I am describing.  \n\nPlease let me know if you are interested and I can explain more.\n\nThanks.\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-10T18:51:58.650Z",
+      "totalApplicants": 23,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "25",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Firefox",
+        "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a Net Blazor MAUI expert to assist with a project that is expected to last less than one month. The ideal candidate should have a strong background in .NET Framework, .NET Core, and Blazor.\n\nThe selected candidate will be responsible for helping us develop and implement a Blazor application using the Net MAUI framework. We are looking for someone who can provide expertise and guidance throughout the project, ensuring that best practices are followed and the application is optimized for performance.\n\nTo apply for this position, please submit a proposal detailing how you can assist with this project. Additionally, please include links to past completed projects that showcase your expertise in Net Blazor MAUI development. We look forward to reviewing your proposals and selecting the best candidate to join our team.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-08T23:08:03.246Z",
+        "totalTimeJobPostFlowAIv2": "543",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221192876962720792576\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "4",
+        "totalTimeSpentOnReviewPageAIv2": "364",
+        "device": "Linux",
+        "startTimeJobPostFlowAIv2": "1709938738948",
+        "inputsDurationAI": "474250516458926083",
+        "inputsTitleAI": "Net Blazor MAUI expert needed",
+        "finalDescriptionAI": "I\u2019m a developer creating a MAUI Blazor chat app.  In the app there are two windows.  The normal full screen window.  Then there is a phone sized chatbot window. \n\nI need help with how to make the small chatbot window appear in front of all the other windows when an incoming chat is received.\n\nI need to install the MAUI app on Mac and Windows.  On each platform I don\u2019t know how to make the smaller chatbot window come to the forefront.  In front of all the other windows.  I also don\u2019t know if that looks like a virus to the operation system.\n\nI need an expert to create a shell MAUI app.  The app itself can be extremely simple, but I need the app to do the window control as I am describing.  \n\nPlease let me know if you are interested and I can explain more.\n\nThanks.\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Jacksonville",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 16,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 12,
+      "score": 4.971117209,
+      "totalJobsWithHires": 14,
+      "hoursCount": 2021.166668,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 47088.37
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-04-16T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 17,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 19.717329911953605
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "253.88",
+            "freelancerValueLabel": "253.88",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

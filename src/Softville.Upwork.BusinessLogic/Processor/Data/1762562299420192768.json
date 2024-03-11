@@ -85,7 +85,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-05T04:03:53.231Z",
-      "totalApplicants": 75,
+      "totalApplicants": 74,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -118,7 +118,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Towson",
       "country": "United States"

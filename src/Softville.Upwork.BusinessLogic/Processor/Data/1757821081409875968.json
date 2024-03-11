@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-27T20:17:00.325Z",
-      "totalApplicants": 140,
-      "totalHired": 0,
-      "totalInvitedToInterview": 14,
-      "unansweredInvites": 0,
-      "invitationsSent": 7
+      "lastBuyerActivity": "2024-03-08T19:43:00.906Z",
+      "totalApplicants": 138,
+      "totalHired": 1,
+      "totalInvitedToInterview": 15,
+      "unansweredInvites": 3,
+      "invitationsSent": 15
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -124,21 +124,21 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Boston",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 382,
-      "activeAssignmentsCount": 41,
+      "totalAssignments": 384,
+      "activeAssignmentsCount": 42,
       "feedbackCount": 239,
       "score": 4.85699874,
-      "totalJobsWithHires": 272,
+      "totalJobsWithHires": 274,
       "hoursCount": 21463.666846,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 599384.27
+        "amount": 599650.27
       }
     },
     "isEnterprise": false,

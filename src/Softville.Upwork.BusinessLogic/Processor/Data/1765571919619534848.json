@@ -123,18 +123,18 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -21600000,
+      "offsetFromUtcMillis": -18000000,
       "countryTimezone": "United States (UTC-06:00)",
       "city": "Franklin",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 194,
-      "activeAssignmentsCount": 23,
+      "totalAssignments": 195,
+      "activeAssignmentsCount": 24,
       "feedbackCount": 132,
-      "score": 4.774450009,
-      "totalJobsWithHires": 145,
-      "hoursCount": 3617.500013,
+      "score": 4.774690552,
+      "totalJobsWithHires": 146,
+      "hoursCount": 3626.333346,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 93593.25
@@ -152,11 +152,11 @@
       }
     },
     "jobs": {
-      "postedCount": 184,
+      "postedCount": 186,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 17.566838914065265
+      "amount": 17.672040567006384
     }
   },
   "currentUserInfo": {

@@ -88,7 +88,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-01T02:12:41.680Z",
-      "totalApplicants": 1,
+      "totalApplicants": 2,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -121,7 +121,7 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (America/T)",
       "city": "Fort Collins",
       "country": "United States"
@@ -132,10 +132,10 @@
       "feedbackCount": 16,
       "score": 4.910486456,
       "totalJobsWithHires": 33,
-      "hoursCount": 1478.500008,
+      "hoursCount": 1481.333341,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 38819.87
+        "amount": 40119.14
       }
     },
     "isEnterprise": false,
@@ -154,7 +154,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 19.62375369834966
+      "amount": 19.630213669780623
     }
   },
   "currentUserInfo": {

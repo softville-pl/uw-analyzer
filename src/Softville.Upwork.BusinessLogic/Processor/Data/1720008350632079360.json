@@ -133,18 +133,18 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
+      "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
       "city": "Dublin",
       "country": "United States"
     },
     "stats": {
       "totalAssignments": 446,
-      "activeAssignmentsCount": 139,
-      "feedbackCount": 225,
-      "score": 4.800593945,
+      "activeAssignmentsCount": 138,
+      "feedbackCount": 226,
+      "score": 4.799837596,
       "totalJobsWithHires": 179,
-      "hoursCount": 93895.00007,
+      "hoursCount": 94479.166735,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 2846495.93
@@ -162,11 +162,11 @@
       }
     },
     "jobs": {
-      "postedCount": 238,
+      "postedCount": 239,
       "openCount": 8
     },
     "avgHourlyJobsRate": {
-      "amount": 29.244698630948093
+      "amount": 29.28055396338694
     }
   },
   "currentUserInfo": {
