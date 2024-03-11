@@ -1,5 +1,4 @@
 using FluentAssertions;
-using Microsoft.Extensions.DependencyInjection;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 using Softville.Upwork.BusinessLogic.Processor;
 using Xunit;
