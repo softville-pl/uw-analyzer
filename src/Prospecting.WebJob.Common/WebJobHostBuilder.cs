@@ -7,13 +7,13 @@ namespace Prospecting.WebJob.Common;
 
 public static class WebJobHostBuilder
 {
-    public static IHostBuilder CreateBuilder(string[] args)
+    public static IHostBuilder CreateBuilder(string[] args, bool isTextContext = false)
     {
         return Host.CreateDefaultBuilder(args)
             .ConfigureAppConfiguration((context, configBuilder) =>
             {
                 configBuilder
-                    .AddJsonFile("appSettings.json", false)
+                    .AddJsonFile("appSettings.json", isTextContext)
                     .AddJsonFile($"appSettings.{context.HostingEnvironment.EnvironmentName}.json", true)
                     .AddEnvironmentVariables(
                         "UPWORK_ANALYZER:"); //https://learn.microsoft.com/en-us/dotnet/core/compatibility/extensions/7.0/environment-variable-prefixn
