@@ -133,12 +133,12 @@
       "country": "Estonia"
     },
     "stats": {
-      "totalAssignments": 21,
+      "totalAssignments": 22,
       "activeAssignmentsCount": 10,
       "feedbackCount": 6,
       "score": 4.467794169,
-      "totalJobsWithHires": 15,
-      "hoursCount": 14768.500041,
+      "totalJobsWithHires": 16,
+      "hoursCount": 14815.166709,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 570741.93
@@ -160,7 +160,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 32.6250105740173
+      "amount": 32.62045439599515
     }
   },
   "currentUserInfo": {
