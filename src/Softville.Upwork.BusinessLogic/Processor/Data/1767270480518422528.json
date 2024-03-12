@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~014020bfea9cd7178e",
-    "rid": 1011905675,
-    "uid": "1767165979884310528",
+    "ciphertext": "~0170138250816590c9",
+    "rid": 1011916432,
+    "uid": "1767270480518422528",
     "type": 2,
-    "access": 1,
-    "title": "MVP for Mental Health Web Application with React, Next.js, C# and .NET",
+    "access": 4,
+    "title": "IT Dev Support ",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,53 +20,53 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-11T12:29:36.958Z",
-    "postedOn": "2024-03-11T12:29:37.421Z",
-    "publishTime": "2024-03-11T12:29:37.421Z",
+    "createdOn": "2024-03-11T19:24:52.003Z",
+    "postedOn": "2024-03-11T19:24:52.438Z",
+    "publishTime": "2024-03-11T19:24:52.438Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1009730716,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Hours to be determined",
+    "companyRecno": 1006238428,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 40,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 55,
+      "hourlyBudgetMax": 70
     },
     "contractorTier": 3,
-    "description": "We are looking for skilled developers or an agency with expertise in Healthcare, HIPAA, AI integrations to develop an MVP. The project is a cutting-edge Mental Health SaaS platform. \n\nThis application should support the following high-level features:\n\n1. Exchanging messages and having calls with doctors;\n2. Assessment Tests and Mood Control;\n3. Cognitive-behavioral therapy;\n4. Self-guided mood training programs and gamification elements;\n5. Forums;\n6. Daily reports;\n7. Journaling feature;\n8. Pre-recorded courses with step-by-step video guides;\n9. User and doctor profiles;\n10. Registration of patients;\n11. Booking of appointments;\n12. Processing of payments;\n13. Daily symptom control;\n14. Prescription clarification. If a patient forgets about what, when, or how to do it, they can simply go on the app and double-check everything they need to;\n15. Mental health data should flow freely from a mental well-being application to other providers\u2019 psychiatry systems, e.g., EHR/EMR;\n16. Dashboard analytics\n    1. The daily/weekly/monthly number of patients;\n    2. The total number of patients;\n    3. New patients (requests);\n    4. The total revenue (or the total over a certain period);\n    5. The income from each patient;\n    6. Satisfaction rate \u0026 others.",
+    "description": "We are seeking a skilled and proactive IT Service Support to provide a full range of IT services, both  projects as well as everyday IT support through our Jira ticketing system. \n\nAs support, you will be required to deliver high-quality technical support and solutions, ensuring that our IT backend systems and software operate efficiently and effectively. You will work closely with the in-house IT team to understand their needs, provide recommendations, and assist in resolving any technical issues they may encounter. This role requires excellent communication skills, strong problem-solving abilities, and a deep understanding of our IT systems.\n\nResponsibilities: \n-\tProvide exceptional technical support responding promptly to inquiries and resolving issues efficiently. \n-\tCollaborate with the management team to understand their business objectives and IT requirements, offering solutions that meet their needs.\n-\tDebugging and maintaining written code.\n-\tReporting and resolving issues \n-\tPerform system analysis and troubleshooting to identify and resolve software related problems.\n-\tPerform regular system maintenance, including patching, updates, and backups, to ensure system stability and data security. \n-\tCreate new tables/views/stored procedure on SQL Server.\n-\tCollaborate with cross-functional teams to resolve complex technical issues and escalate problems as necessary.\n-\tDocument all support activities, including resolutions, troubleshooting steps, and configurations, in a clear and organized manner.\n\n \nAd-Hoc IT Support Examples:\nThey would come in the form of Jira\u2019s from our internal staff\n1)\tMailchimp script not working \n2)\tPull data/reports/lists from our ecommerce backend \n3)\tInvestigate internal login issues \u2013 staff unable to log into our ecommerce system \n4)\tInvestigation into websites crashing \n5)\tSupport in the movement of our system to a cloud-based server (Azure)\n",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
     "qualifications": {
       "type": 0,
-      "location": {
-        "country": null,
-        "city": null,
-        "state": null,
-        "countryTimezone": null,
-        "worldRegion": "Europe",
-        "offsetFromUtcMillis": null
-      },
+      "location": null,
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 10,
       "group": null,
-      "prefEnglishSkill": 0,
-      "minJobSuccessScore": 0,
-      "risingTalent": false,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
       "locationCheckRequired": false,
       "countries": null,
-      "regions": [
-        "Europe"
-      ],
+      "regions": null,
       "states": null,
       "timezones": null,
       "localMarket": false,
@@ -81,20 +81,20 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 0,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-11T12:56:19.729Z",
-      "totalApplicants": 160,
+      "lastBuyerActivity": "2024-03-11T19:24:51.771Z",
+      "totalApplicants": 4,
       "totalHired": 0,
-      "totalInvitedToInterview": 3,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -102,16 +102,17 @@
     "annotations": {
       "tags": [
         "contractToHireSet",
+        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-11T12:29:37.421Z",
-        "reuse": "1767164974766288896",
+        "publishTime": "2024-03-11T19:24:52.438Z",
+        "reuse": "1699068737937858560",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "138",
+        "totalTimeSpentOnReviewPageAIv2": "1",
         "type": "RJP",
         "browser": "Edge",
         "device": "Windows"
@@ -123,27 +124,27 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 3600000,
-      "countryTimezone": "Germany (UTC\u002B02:00)",
-      "city": "Potsdam",
-      "country": "Germany"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "Westmount",
+      "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 3,
-      "activeAssignmentsCount": 1,
-      "feedbackCount": 2,
+      "totalAssignments": 10,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 7,
       "score": 5,
-      "totalJobsWithHires": 3,
-      "hoursCount": 65,
+      "totalJobsWithHires": 10,
+      "hoursCount": 244.5,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 1701.95
+        "amount": 14609.37
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-08-30T00:00:00.000Z",
+      "contractDate": "2022-11-22T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -152,19 +153,19 @@
       }
     },
     "jobs": {
-      "postedCount": 3,
-      "openCount": 0
+      "postedCount": 6,
+      "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 8.000153846153847
+      "amount": 57.7321472392638
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 5,
-        "totalMatches": 5,
+        "totalQualifications": 6,
+        "totalMatches": 4,
         "matches": [
           {
             "qualification": 0,
@@ -175,20 +176,28 @@
             "clientPreferredLabel": "Any"
           },
           {
-            "qualification": 4,
-            "qualified": true,
-            "clientPreferred": "0",
-            "freelancerValue": "3",
-            "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
           },
           {
-            "qualification": 3,
+            "qualification": 4,
             "qualified": true,
-            "clientPreferred": "region=(Europe)",
-            "freelancerValue": "Europe",
-            "freelancerValueLabel": "Europe",
-            "clientPreferredLabel": "Europe"
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
           },
           {
             "qualification": 8,
