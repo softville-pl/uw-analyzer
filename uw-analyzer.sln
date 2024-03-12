@@ -33,6 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{4D2EB93B-8
 		docs\README.md = docs\README.md
 		docs\CONFIGURATION.md = docs\CONFIGURATION.md
 		docs\NAMING.md = docs\NAMING.md
+		docs\MONGO.md = docs\MONGO.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{282209E8-4865-4DB3-85B6-C2D03E77D1C5}"
