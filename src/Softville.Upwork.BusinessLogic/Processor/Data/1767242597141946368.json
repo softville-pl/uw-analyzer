@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0135e2fb47440b2e15",
-    "rid": 1011215777,
-    "uid": "1755689017892233216",
+    "ciphertext": "~01c8ccedd11f0d093e",
+    "rid": 1011913729,
+    "uid": "1767242597141946368",
     "type": 2,
     "access": 4,
-    "title": "Microsoft Platform Developer .Net/ASP",
+    "title": "Seeking a Full Stack Developer",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,27 +20,27 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-08T20:24:15.890Z",
-    "postedOn": "2024-02-08T20:24:16.327Z",
-    "publishTime": "2024-02-08T20:24:16.327Z",
+    "createdOn": "2024-03-11T17:34:04.021Z",
+    "postedOn": "2024-03-11T17:34:05.373Z",
+    "publishTime": "2024-03-11T17:34:05.373Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 1691274,
-    "durationIdV3": 3,
-    "durationLabel": "3 to 6 months",
+    "companyRecno": 1005332228,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 20,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 90
     },
-    "contractorTier": 3,
-    "description": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
+    "contractorTier": 2,
+    "description": "I\u0027m seeking to hire a full-stack developer who is proficient in any of the following programming languages and their frameworks.\n\nJavaScript: React, Angular, Vue, React Native\nPHP: Laravel, CodeIgniter\nPython: Django, Flask\nRuby: Ruby on Rails, Grails, Gem\nC#: ASP.NET, .NET Framework\n\nYou must have native or bilingual proficiency in English.",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-23T20:39:32.136Z",
-      "totalApplicants": 73,
+      "lastBuyerActivity": "2024-03-11T17:34:03.778Z",
+      "totalApplicants": 247,
       "totalHired": 0,
-      "totalInvitedToInterview": 8,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -97,24 +97,24 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "193",
+        "totalTimeSpentOnDescriptionPageAI": "2279",
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
-        "browser": "Firefox",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for an experienced Microsoft Platform Developer with expertise in .Net/ASP to join our team for a 3 to 6-month project. As a Microsoft Platform Developer, you will be responsible for developing and maintaining applications using the .NET framework and ASP.NET.\n\nKey skills required for this role include API development, proficiency in the .NET Framework, experience with application installers, ASP.NET, C#, and application security.\n\nIn your proposal, please provide a detailed description of how you can contribute to the project. Highlight your relevant experience and expertise in Microsoft development, and provide examples of past completed projects that demonstrate your skills.\n\nPlease include links to your portfolio or previous projects that showcase your abilities as a Microsoft Platform Developer. We look forward to reviewing your proposal and discussing this exciting opportunity further.",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are seeking a Full Stack Developer for a project that is expected to last more than 6 months. The ideal candidate should have expertise in TypeScript, Python, ASP.NET, PHP, Ruby, and JavaScript.\n\nAs a Full Stack Developer, your role will be to develop and maintain both the front-end and back-end of our web applications. You will work closely with our team to understand project requirements and translate them into functional and user-friendly applications.\n\nTo apply for this position, please submit a proposal that describes how you can contribute to the success of this project. Please include links to past completed projects that showcase your skills and expertise in Full Stack Development.\n\nWe are looking for a candidate who is proactive, detail-oriented, and has a strong problem-solving ability. If you are passionate about creating high-quality web applications and have a track record of delivering successful projects, we would love to hear from you.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-08T20:24:16.327Z",
-        "totalTimeJobPostFlowAIv2": "324",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580484306882560\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626715037155328\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "publishTime": "2024-03-11T17:34:05.373Z",
+        "totalTimeJobPostFlowAIv2": "2759",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274386\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626775913283584\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274389\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u0022996364628025274385\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022}]",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "171",
-        "totalTimeSpentOnReviewPageAIv2": "4",
+        "totalDescriptionEditingTimeAI": "2277",
+        "totalTimeSpentOnReviewPageAIv2": "49",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1707423530801",
-        "inputsTitleAI": "Microsoft Platform Developer .Net/ASP",
-        "finalDescriptionAI": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
-        "inputsDurationAI": "474250516458926081"
+        "startTimeJobPostFlowAIv2": "1710175683173",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Seeking a Full Stack Developer",
+        "finalDescriptionAI": "I\u0027m seeking to hire a full-stack developer who is proficient in any of the following programming languages and their frameworks.\n\nJavaScript: React, Angular, Vue, React Native\nPHP: Laravel, CodeIgniter\nPython: Django, Flask\nRuby: Ruby on Rails, Grails, Gem\nC#: ASP.NET, .NET Framework\n\nYou must have native or bilingual proficiency in English."
       }
     },
     "isContractToHire": false,
@@ -123,40 +123,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "United States (UTC)",
-      "city": "Aliso Viejo",
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Atlanta",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 197,
-      "activeAssignmentsCount": 21,
-      "feedbackCount": 105,
-      "score": 4.823724077,
-      "totalJobsWithHires": 125,
-      "hoursCount": 80200.500249,
+      "totalAssignments": 128,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 83,
+      "score": 4.737121246,
+      "totalJobsWithHires": 70,
+      "hoursCount": 2241.333335,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 2276106.78
+        "amount": 45900.57
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2014-12-05T00:00:00.000Z",
+      "contractDate": "2022-09-02T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 279,
-      "openCount": 0
+      "postedCount": 128,
+      "openCount": 16
     },
     "avgHourlyJobsRate": {
-      "amount": 27.523210493035833
+      "amount": 17.104211765984378
     }
   },
   "currentUserInfo": {

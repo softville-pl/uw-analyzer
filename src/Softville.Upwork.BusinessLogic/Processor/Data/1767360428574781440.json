@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~015015239e19cd0470",
-    "rid": 1011228579,
-    "uid": "1755931613146443776",
+    "ciphertext": "~01590250ee93df025f",
+    "rid": 1011922481,
+    "uid": "1767360428574781440",
     "type": 2,
-    "access": 1,
-    "title": "Senior Back-End Engineer: .NET Enthusiast for Scalable Solutions",
+    "access": 4,
+    "title": "Only Vue.js with Web API .Net core. No php folks and SQL. Other will be reported.Long term project: ",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,58 +20,56 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-09T12:28:15.246Z",
-    "postedOn": "2024-02-09T12:28:15.761Z",
-    "publishTime": "2024-02-09T12:28:15.761Z",
+    "createdOn": "2024-03-12T01:22:17.103Z",
+    "postedOn": "2024-03-12T01:22:17.447Z",
+    "publishTime": "2024-03-12T01:22:17.447Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 5412402,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2494427,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
-    "numberOfPositionsToHire": 3,
+    "numberOfPositionsToHire": 0,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 35,
+      "hourlyBudgetMin": 30,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "About First Digital Trust:\n\nFirst Digital Trust is a technology-driven financial institution in Hong Kong pioneering digital asset management and custody. We\u0027re trailblazers in our field and believe in leveraging technology to deliver innovative financial solutions.\n\nWho We\u0027re Looking For:\n\nTalented Back-End Engineers with a strong .NET background. If you\u0027re driven by designing and building scalable systems and have a passion for engineering excellence, we\u0027d like to meet you.\n\nWhat\u0027s Special Here:\n\n* Focus on Engineering: Deeply engage in creating robust solutions using .NET.\n* Balanced System Design: Challenges that are stimulating yet manageable.\n* Event-Driven Design:  Make our systems not just reactive, but proactively efficient.\n* Tech Edge: We\u0027re riding the wave of the latest technologies, especially those championed by CNCF.\n* Scalability Central: Build systems designed to grow effectively and sustainably.\n\nYour Role:\n\n* Develop and maintain scalable, high-performance back-end systems using .NET.\n* Keep up with the latest in technology and software design, applying them to real-world problems.\n* Collaborate in a team environment where innovation and skill development are valued.\n\nWhy It\u2019s Great Here:\n\n* You have a passion for .NET and enjoy tackling challenges in scalable software development.\n* You appreciate a workplace that balances engaging engineering problems with achievable solutions.\n* You\u0027re eager to be part of a team that values growth, both personal and in the systems you build.\n\nJoin Us!",
+    "description": "Warning:  No TIME WASTERS..Only working directly with Developers only No third parties or Sales Guy or CEO prohibited on this project: will be reported n case of violence:\nmost of the bidders are just time wasters so please make sure you are not one of them dum persons. thanks\n\nwe are looking Expert in Vue JS - Front End - Web API .Net core and good knowledge of handling web api .net core and store procedure\nthis gonna be a long term project for a right and skilled dev we are looking, so no time wasters please bid only if you are skilled full because technical screening will be done before hiring over here. \nwe have project just started and right candidate expection is to grasp and get going on it\nwe are easy going company and only required a quality and on-time results that is it. we do throw bonuses based on the candidate performances.\n\nNOTE: this will be an NDA project",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Vue.js experience is mandatory. If you have please feel free to apply. And explain of you worked on Vue.js pinia insyead vuex"
+      },
+      {
+        "position": 1,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
     "qualifications": {
       "type": 1,
-      "location": {
-        "country": null,
-        "city": null,
-        "state": null,
-        "countryTimezone": null,
-        "worldRegion": "Europe",
-        "offsetFromUtcMillis": null
-      },
+      "location": null,
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 90,
       "risingTalent": true,
       "locationCheckRequired": false,
-      "countries": [
-        "Vietnam"
-      ],
-      "regions": [
-        "Europe"
-      ],
+      "countries": null,
+      "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -83,71 +81,70 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-03T15:31:15.754Z",
-      "totalApplicants": 21,
+      "lastBuyerActivity": "2024-03-12T01:42:52.288Z",
+      "totalApplicants": 16,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 1,
+      "invitationsSent": 1
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
         "contractToHireSet",
+        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-09T12:28:15.761Z",
-        "reuse": "1747977916100366336",
+        "siteSource": "ios_client_rjp",
+        "publishTime": "2024-03-12T01:22:17.447Z",
+        "reuse": "1738110091164024832",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "6",
+        "totalTimeSpentOnReviewPageAIv2": "7",
         "type": "RJP",
-        "urgency": "2",
         "browser": "Chrome",
-        "device": "Windows"
+        "device": "Android"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 7200000,
-      "countryTimezone": "Estonia (UTC\u002B02:00)",
-      "city": "Veibri",
-      "country": "Estonia"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "baltimore",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 21,
-      "activeAssignmentsCount": 10,
-      "feedbackCount": 6,
-      "score": 4.467794169,
-      "totalJobsWithHires": 15,
-      "hoursCount": 14768.500041,
+      "totalAssignments": 27,
+      "activeAssignmentsCount": 7,
+      "feedbackCount": 11,
+      "score": 4.221288373,
+      "totalJobsWithHires": 23,
+      "hoursCount": 233.666665,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 570741.93
+        "amount": 5474.69
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": false,
-      "contractDate": "2018-08-07T00:00:00.000Z",
+      "isEDCReplicated": true,
+      "contractDate": "2015-06-09T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -156,19 +153,19 @@
       }
     },
     "jobs": {
-      "postedCount": 44,
+      "postedCount": 54,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 32.6250105740173
+      "amount": 19.682225532683493
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 7,
-        "totalMatches": 5,
+        "totalQualifications": 6,
+        "totalMatches": 4,
         "matches": [
           {
             "qualification": 0,
@@ -189,10 +186,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 7,
@@ -201,14 +198,6 @@
             "freelancerValue": "false",
             "freelancerValueLabel": "no",
             "clientPreferredLabel": "yes"
-          },
-          {
-            "qualification": 3,
-            "qualified": true,
-            "clientPreferred": "region=(Europe),country=(Vietnam)",
-            "freelancerValue": "Europe,Poland",
-            "freelancerValueLabel": "Europe, Poland",
-            "clientPreferredLabel": "Europe, Vietnam"
           },
           {
             "qualification": 8,

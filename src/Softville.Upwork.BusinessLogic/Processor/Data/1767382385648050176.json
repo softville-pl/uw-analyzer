@@ -1,0 +1,269 @@
+{
+  "job": {
+    "ciphertext": "~0112581b5d9a3d8289",
+    "rid": 1011923610,
+    "uid": "1767382385648050176",
+    "type": 2,
+    "access": 1,
+    "title": "Full-stack Web Developer with experience in Vue.JS 3.0 and Postgres",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-12T02:49:32.003Z",
+    "postedOn": "2024-03-12T02:49:32.332Z",
+    "publishTime": "2024-03-12T02:49:32.332Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1012267984,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a highly skilled and experienced Web App Developer to join our dynamic team. As a Web App Developer, you will be responsible for designing, developing, and maintaining web applications that meet our company\u0027s needs and exceed our users\u0027 expectations. You will play a crucial role in the entire app lifecycle, from concept stage until delivery and post-launch support. Our ideal candidate is someone who is passionate about building efficient, scalable web applications and is always eager to learn and apply new technologies.\nResponsibilities\nDesign and develop high-quality web applications using VueJS 3.0, Node.js, .NET (transitioning to Node.js), and Django (transitioning to Node.js).\nWork with databases, primarily Postgres, and ensure data integrity and performance.\nUtilize GraphQL for data querying and manipulation.\nWork with a DevOps engineer to maintain CI/CD pipelines using GitHub and GitHub Actions to automate testing and deployment processes.\nCollaborate with the team to integrate front-end and back-end aspects of the web applications.\nEnsure applications are secure, scalable, and responsive across different devices and browsers.\nParticipate in code reviews to maintain high code quality and encourage knowledge sharing.\nStay up-to-date with emerging trends and technologies in web development and suggest improvements to our tech stack and development processes.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 2,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-12T04:00:12.048Z",
+      "totalApplicants": 11,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "361",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "0",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a highly skilled Full-stack Web Developer with experience in Vue.JS 3.0 and Postgres to join our team for a 3 to 6 months project. As a developer, you will be responsible for designing and implementing web applications using Vue.JS 3.0 and Postgres as the backend database. \n\nTo be successful in this role, you should have a strong understanding of web application development, be proficient in Vue.JS 3.0, and have experience working with Postgres. Knowledge of Git, NGINX, GraphQL, Node.js, and JavaScript is also required.\n\nTo apply for this job, please submit a proposal that includes a description of how you can contribute to this project. Please also provide links to past completed projects that showcase your skills in Vue.JS 3.0 and Postgres. We are looking forward to reviewing your application and potentially working with you.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-12T02:49:32.332Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626741293498368\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626743004774400\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022,\u0022parentSkillUid\u0022:\u00221204836457510977536\u0022},{\u0022skillUid\u0022:\u00221031626762785112064\u0022,\u0022parentSkillUid\u0022:\u00221204836482861350912\u0022},{\u0022skillUid\u0022:\u00221031626794477273088\u0022},{\u0022skillUid\u0022:\u0022996364628000108546\u0022},{\u0022skillUid\u0022:\u00221031626762999021568\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "111",
+        "totalTimeSpentOnReviewPageAIv2": "66",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1710210790978",
+        "inputsDurationAI": "474250516458926081",
+        "inputsTitleAI": "Full-stack Web Developer with experience in Vue.JS 3.0 and Postgres",
+        "finalDescriptionAI": "We are seeking a highly skilled and experienced Web App Developer to join our dynamic team. As a Web App Developer, you will be responsible for designing, developing, and maintaining web applications that meet our company\u0027s needs and exceed our users\u0027 expectations. You will play a crucial role in the entire app lifecycle, from concept stage until delivery and post-launch support. Our ideal candidate is someone who is passionate about building efficient, scalable web applications and is always eager to learn and apply new technologies.\nResponsibilities\nDesign and develop high-quality web applications using VueJS 3.0, Node.js, .NET (transitioning to Node.js), and Django (transitioning to Node.js).\nWork with databases, primarily Postgres, and ensure data integrity and performance.\nUtilize GraphQL for data querying and manipulation.\nWork with a DevOps engineer to maintain CI/CD pipelines using GitHub and GitHub Actions to automate testing and deployment processes.\nCollaborate with the team to integrate front-end and back-end aspects of the web applications.\nEnsure applications are secure, scalable, and responsive across different devices and browsers.\nParticipate in code reviews to maintain high code quality and encourage knowledge sharing.\nStay up-to-date with emerging trends and technologies in web development and suggest improvements to our tech stack and development processes."
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (Asia/Calc)",
+      "city": null,
+      "country": "India"
+    },
+    "stats": {
+      "totalAssignments": 5,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 69.666667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1667.78
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-02-19T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Education",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 5,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 25.047846770105995
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

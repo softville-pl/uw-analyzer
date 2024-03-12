@@ -1,0 +1,239 @@
+{
+  "job": {
+    "ciphertext": "~018bed3ffe245b875f",
+    "rid": 1011913637,
+    "uid": "1767241929427517440",
+    "type": 2,
+    "access": 4,
+    "title": "Lead Sitecore Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-11T17:31:24.767Z",
+    "postedOn": "2024-03-11T17:31:25.322Z",
+    "publishTime": "2024-03-11T17:31:25.322Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007406283,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 65
+    },
+    "contractorTier": 3,
+    "description": "Job Description-\n\n\u00B7  7\u002B years of overall development experience with C#, ASP.net and web development.\n\n\u00B7 5\u002B years of experience in Sitecore coding (including version 8.2 or 9\u002B)\n\n\u00B7 Knowledge of Sitecore Forms, SXA/Helix/Habitat, xDB and TDS/Unicorn\n\u00B7 Experience of Solr search including customizing and deploying Solr Cloud\n\u00B7 Some NoSQL experience with Sitecore \u2013 MongoDB, Redis\n\u00B7 Expert level experience in the following technologies: ASP.Net MVC with Sitecore, RESTful services, Entity Framework, LINQ\n\u00B7 Experience with design patterns, Object-Oriented programming\n\u00B7 Proficient knowledge of code versioning tools such as Git, preference of using GitFlow mechanism.\n\u00B7 Strong knowledge of Continuous Integration concepts and experience using Bamboo/Jenkins\n\u00B7 Proficient soft-skills are essential day to day skills to help with client communication via email, conference calls, team chat etc.\n\u00B7 Knowledge, core understanding and experience of working in a team that made use of cloud networking including but not limited to network load balances, SSL, web apps, web servers, CDN\u2019s, Web Application Firewalls etc.\n\u00B7 Experience of deploying to Azure web apps or web servers.\n\u00B7 Ability to constantly learn and stay in touch with evolving standards and development technologies\n\u00B7 Open to learn and work on other CMS, e.g., Optimizely and Core .Net\n\u00B7 Open to work in Application Support and Maintenance\n\nNice to have-\n\n\u00B7 Experience in working with Optimizely CMS\n\u00B7 Sitecore Certification\n\u00B7 Knowledge of other Sitecore CMS competitors is useful (AEM, EPiServer, etc)\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-11T17:31:24.539Z",
+      "totalApplicants": 32,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "53",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a Lead Sitecore Developer to join our team for a long-term project of more than 6 months. The ideal candidate should have extensive experience in .NET Framework, ASP.NET, MongoDB, Sitecore, Redis, CMS Development, Microsoft Azure, and ASP.NET MVC.\n\nAs a Lead Sitecore Developer, you will be responsible for leading the development and implementation of Sitecore-based solutions. You will collaborate with cross-functional teams to gather requirements, define technical solutions, and ensure successful delivery of projects. Your expertise in Sitecore and related technologies will be crucial in designing and developing custom modules, components, and templates.\n\nTo apply for this position, please submit a detailed proposal describing how you can contribute to the project. Additionally, please include links to past completed projects showcasing your Sitecore development skills. We look forward to reviewing your proposal and discussing further details with qualified candidates.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-11T17:31:25.322Z",
+        "totalTimeJobPostFlowAIv2": "527",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364627995914245\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626774218784768\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626780229222400\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626725212536832\u0022},{\u0022freeText\u0022:\u0022Core .Net \u0022},{\u0022freeText\u0022:\u0022Helix\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "33",
+        "totalTimeSpentOnReviewPageAIv2": "36",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1710177757161",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Lead Sitecore Developer",
+        "finalDescriptionAI": "Job Description-\n\n\u00B7  7\u002B years of overall development experience with C#, ASP.net and web development.\n\n\u00B7 5\u002B years of experience in Sitecore coding (including version 8.2 or 9\u002B)\n\n\u00B7 Knowledge of Sitecore Forms, SXA/Helix/Habitat, xDB and TDS/Unicorn\n\u00B7 Experience of Solr search including customizing and deploying Solr Cloud\n\u00B7 Some NoSQL experience with Sitecore \u2013 MongoDB, Redis\n\u00B7 Expert level experience in the following technologies: ASP.Net MVC with Sitecore, RESTful services, Entity Framework, LINQ\n\u00B7 Experience with design patterns, Object-Oriented programming\n\u00B7 Proficient knowledge of code versioning tools such as Git, preference of using GitFlow mechanism.\n\u00B7 Strong knowledge of Continuous Integration concepts and experience using Bamboo/Jenkins\n\u00B7 Proficient soft-skills are essential day to day skills to help with client communication via email, conference calls, team chat etc.\n\u00B7 Knowledge, core understanding and experience of working in a team that made use of cloud networking including but not limited to network load balances, SSL, web apps, web servers, CDN\u2019s, Web Application Firewalls etc.\n\u00B7 Experience of deploying to Azure web apps or web servers.\n\u00B7 Ability to constantly learn and stay in touch with evolving standards and development technologies\n\u00B7 Open to learn and work on other CMS, e.g., Optimizely and Core .Net\n\u00B7 Open to work in Application Support and Maintenance\n\nNice to have-\n\n\u00B7 Experience in working with Optimizely CMS\n\u00B7 Sitecore Certification\n\u00B7 Knowledge of other Sitecore CMS competitors is useful (AEM, EPiServer, etc)\n"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (America/T)",
+      "city": "Fremont",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 4,
+      "hoursCount": 91.833334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 879.65
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2023-02-22T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 10,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 9.030925524276403
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
