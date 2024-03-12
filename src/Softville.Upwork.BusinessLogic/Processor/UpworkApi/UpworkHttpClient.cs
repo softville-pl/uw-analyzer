@@ -3,7 +3,7 @@
 
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
-using Softville.Upwork.BusinessLogic.Processor.Configuration;
+using Softville.Upwork.BusinessLogic.Common.Configuration;
 
 namespace Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 

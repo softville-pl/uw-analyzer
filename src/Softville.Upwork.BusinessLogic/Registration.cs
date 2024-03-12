@@ -5,9 +5,10 @@ using System.Diagnostics.CodeAnalysis;
 using System.Net;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Softville.Upwork.BusinessLogic.Common.Configuration;
 using Softville.Upwork.BusinessLogic.Processor;
 using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
-using Softville.Upwork.BusinessLogic.Processor.Configuration;
+using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 
 namespace Softville.Upwork.BusinessLogic;
@@ -23,7 +24,9 @@ public static class Registration
     public static IServiceCollection AddBusinessLogic(this IServiceCollection services, IConfiguration config)
     {
         services
-            .Configure<UpworkConfig>(config)
+            .Configure<PrpConfig>(config)
+            .Configure<UpworkConfig>(config.GetSection("Upwork"))
+            .Configure<DbConfig>(config.GetSection("Database"))
             .AddHttpClient(UpworkHttpClient.UpworkClientName, UpworkHttpClient.ConfigureDetailsClient)
             .ConfigurePrimaryHttpMessageHandler(_ =>
                 new HttpClientHandler {AutomaticDecompression = DecompressionMethods.All});
@@ -35,6 +38,7 @@ public static class Registration
             .AddScoped<IHttpResponsePersisting, LocalDiskPersisting>()
             .AddScoped<IApplicantsClient, ApplicantsUpworkClient>()
             .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
+            .AddScoped<IOfferRepository, OfferRepository>()
             ;
 
     }

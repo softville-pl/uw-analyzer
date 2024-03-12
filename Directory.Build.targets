@@ -21,6 +21,7 @@
     <PackageReference Update="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.1"/>
     <PackageReference Update="Verify.Xunit" Version="23.0.1"/>
 
+    <PackageReference Update="MongoDB.Driver" Version="2.24.0" />
   </ItemGroup>
 
   <ItemGroup Label="Infrastructure">

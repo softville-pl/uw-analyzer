@@ -1,6 +1,7 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
 using Xunit;
@@ -27,6 +28,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         var ct = CancellationToken.None;
 
         await _database.StartAsync(ct);
+        _hostBuilder.ConfigureAppConfiguration((_, builder) => builder.AddInMemoryCollection(new[] {new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString)}));
         _host = await _hostBuilder.StartAsync(ct);
         _services = new(_host?.Services ?? throw new ArgumentNullException(nameof(_host)));
     }
