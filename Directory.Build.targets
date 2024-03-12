@@ -32,4 +32,10 @@
     <PackageReference Update="Microsoft.Azure.Functions.Worker.Sdk" Version="1.15.1" />
     <PackageReference Update="Microsoft.Azure.Functions.Worker.Extensions.Storage" Version="5.0.0" />
   </ItemGroup>
+
+  <ItemGroup Label="Test infra">
+    <PackageReference Update="Testcontainers" Version="3.7.0" />
+    <PackageReference Update="Testcontainers.CosmosDb" Version="3.7.0" />
+    <PackageReference Update="Testcontainers.MongoDb" Version="3.7.0" />
+  </ItemGroup>
 </Project>

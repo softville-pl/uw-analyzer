@@ -10,6 +10,7 @@ namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 public class IntPrpContext : IAsyncLifetime, IDisposable
 {
     private readonly IHostBuilder _hostBuilder = WebJobHostBuilder.CreateBuilder([], isTextContext: true);
+    private readonly TestDatabase _database = new();
     private IHost? _host;
 
     private TestServices? _services ;
@@ -19,9 +20,14 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         get => _services ?? throw new ArgumentNullException(nameof(_services));
     }
 
+    public TestDatabase Database => _database;
+
     public async Task InitializeAsync()
     {
-        _host = await _hostBuilder.StartAsync();
+        var ct = CancellationToken.None;
+
+        await _database.StartAsync(ct);
+        _host = await _hostBuilder.StartAsync(ct);
         _services = new(_host?.Services ?? throw new ArgumentNullException(nameof(_host)));
     }
 
@@ -33,10 +39,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         await Task.CompletedTask;
     }
 
-    public async Task StopTestAsync()
-    {
-        await Task.CompletedTask;
-    }
+    public async Task StopTestAsync() => await Task.CompletedTask;
 
     public void Dispose()
     {
