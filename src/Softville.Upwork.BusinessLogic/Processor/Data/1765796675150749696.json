@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -18000000,
       "countryTimezone": "Colombia (America/B)",

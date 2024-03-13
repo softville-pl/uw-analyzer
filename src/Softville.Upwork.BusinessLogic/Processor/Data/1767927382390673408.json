@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~01fc4b2b90e0b97da0",
-    "rid": 1011803132,
-    "uid": "1765420030866419712",
+    "ciphertext": "~01256247a14a2d415d",
+    "rid": 1011960231,
+    "uid": "1767927382390673408",
     "type": 2,
     "access": 4,
-    "title": ".NET / Azure Software Engineer needed for long term part time work",
+    "title": "Software Developers",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,40 +20,32 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-06T16:51:50.384Z",
-    "postedOn": "2024-03-06T16:51:50.911Z",
-    "publishTime": "2024-03-06T16:51:50.911Z",
+    "createdOn": "2024-03-13T14:55:09.481Z",
+    "postedOn": "2024-03-13T14:55:09.810Z",
+    "publishTime": "2024-03-13T14:55:09.810Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 2136679,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1005710286,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
-    "numberOfPositionsToHire": 1,
+    "numberOfPositionsToHire": 10,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
+      "hourlyBudgetType": 0,
       "hourlyBudgetMin": 30,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "We need a capable software engineer, experienced in C#, .NET, Azure and Azure DevOps, and located in a compatible timezone to the US (Mexico / LatAm preferred).\n\nIdeal candidates will have a lot of experience in enterprise software development, including unit and end-to-end testing, automated pipelines etc. If you have an understanding of Pulumi, that\u0027s an advantage.\n\nWe\u0027re a team of 15 developers and managers, working with a couple of enterprise clients and your presence will assist us in growing! We\u0027ve been working together for years now and are a very tight-knit team.",
+    "description": "We are requesting Software Developers with the following profile:\nEngineer\nMinimum experience of 8 years in the area\nAdvanced command of English (Essential)\nC#/.NET proficiency (Essential)\nFronted Development (React, Angular)\nMicrosoft Citacore, SharePoint\nImmediate availability\nStable internet connection\nFull time availability\nIf you meet the profile, do not hesitate to apply for this opportunity.",
     "attachments": null,
     "questions": [
       {
         "position": 0,
-        "question": "Are you comfortable with Azure DevOps?"
-      },
-      {
-        "position": 1,
-        "question": "Have you ever used Terraform or Pulumi to automate infrastructure?"
-      },
-      {
-        "position": 2,
-        "question": "Are you comfortable writing unit tests?"
+        "question": "Describe your recent experience with similar projects"
       }
     ],
     "qualifications": {
@@ -63,24 +55,23 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 3,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
       "countries": [
-        "Argentina",
-        "Chile",
+        "Venezuela",
+        "Colombia",
+        "Ecuador",
         "Mexico",
-        "United States",
-        "Costa Rica",
-        "Peru"
+        "Brazil"
       ],
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -92,20 +83,20 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-07T17:35:26.424Z",
-      "totalApplicants": 27,
+      "lastBuyerActivity": "2024-03-13T15:16:47.174Z",
+      "totalApplicants": 8,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -113,19 +104,30 @@
     "annotations": {
       "tags": [
         "jsi_contractToHire",
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-06T16:51:50.911Z",
-        "reuse": "1582885606412062720",
-        "totalTimeJobPostFlowAIv2": "0",
-        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnDescriptionPageAI": "14",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "205",
         "type": "RJP",
+        "urgency": "0",
         "browser": "Chrome",
-        "device": "Macintosh"
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for experienced Software Developers to join our team for a project that is expected to last more than 6 months. The main skills required for this role are C# and Web Development.\n\nAs a Software Developer, you will be responsible for developing and maintaining software applications, ensuring their functionality and performance. You will work closely with our team to understand project requirements and translate them into technical solutions. \n\nTo apply for this position, please submit a proposal that outlines how you can contribute to this project. Describe your relevant skills and experience, and provide links to past completed projects that demonstrate your abilities.\n\nWe are looking for candidates who are detail-oriented, have excellent problem-solving skills, and can work well in a team. If you are passionate about software development and enjoy working on challenging projects, we would love to hear from you.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-13T14:55:09.810Z",
+        "totalTimeJobPostFlowAIv2": "627",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "2",
+        "totalTimeSpentOnReviewPageAIv2": "101",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710341080196",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Software Developers",
+        "finalDescriptionAI": "We are requesting Software Developers with the following profile:\nEngineer\nMinimum experience of 8 years in the area\nAdvanced command of English (Essential)\nC#/.NET proficiency (Essential)\nFronted Development (React, Angular)\nMicrosoft Citacore, SharePoint\nImmediate availability\nStable internet connection\nFull time availability\nIf you meet the profile, do not hesitate to apply for this opportunity."
       }
     },
     "isContractToHire": true,
@@ -134,41 +136,39 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
-      "countryTimezone": "United States (UTC-08:00)",
-      "city": "Carlsbad",
-      "country": "United States"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "Venezuela (America/L)",
+      "city": null,
+      "country": "Venezuela"
     },
     "stats": {
-      "totalAssignments": 175,
-      "activeAssignmentsCount": 11,
-      "feedbackCount": 40,
-      "score": 4.979692848,
-      "totalJobsWithHires": 152,
-      "hoursCount": 14149.766716,
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 501292.19
+        "amount": 0
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": true,
-      "contractDate": "2013-09-10T00:00:00.000Z",
+      "isEDCReplicated": false,
+      "contractDate": "2022-10-05T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
+        "size": "1",
+        "industry": "Sales \u0026 Marketing",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 169,
+      "postedCount": 54,
       "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 30.994655163048414
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
@@ -188,18 +188,18 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
           },
           {
             "qualification": 3,
             "qualified": false,
-            "clientPreferred": "country=(Argentina,Chile,Mexico,United States,Costa Rica,Peru)",
+            "clientPreferred": "country=(Venezuela,Colombia,Ecuador,Mexico,Brazil)",
             "freelancerValue": "Poland",
             "freelancerValueLabel": "Poland",
-            "clientPreferredLabel": "Argentina, Chile, Mexico, United States, Costa Rica, Peru"
+            "clientPreferredLabel": "Venezuela, Colombia, Ecuador, Mexico, Brazil"
           },
           {
             "qualification": 8,
