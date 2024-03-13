@@ -6,4 +6,5 @@ namespace Softville.Upwork.BusinessLogic.Common.Configuration;
 public class UpworkConfig
 {
     public required string Cookie { get; set; }
+    public required string BaseUrl { get; set; }
 }

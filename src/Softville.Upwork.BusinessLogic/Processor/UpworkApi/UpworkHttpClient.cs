@@ -15,7 +15,7 @@ internal static class UpworkHttpClient
     {
         IOptions<UpworkConfig> upworkConfig = serviceProvider.GetRequiredService<IOptions<UpworkConfig>>();
 
-        client.BaseAddress = new Uri("https://www.upwork.com");
+        client.BaseAddress = new Uri(upworkConfig.Value.BaseUrl);
         client.DefaultRequestHeaders.Add("Accept", "application/json, text/plain, */*");
         client.DefaultRequestHeaders.Add("Accept-Encoding", "gzip, deflate, br");
         client.DefaultRequestHeaders.Add("Accept-Language", "en-US,en;q=0.6");
