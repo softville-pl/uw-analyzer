@@ -9,7 +9,7 @@ namespace Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 
 internal class ApplicantsUpworkClient(IUpworkApiCaller apiCaller, IHttpResponsePersisting persisting) : IApplicantsClient
 {
-    public async Task<UpworkApplicantsStats> GetApplicantsStatsAsync(UpworkId id, CancellationToken ct)
+    public async Task<UpworkApplicantsStats> FetchApplicantsStatsAsync(UpworkId id, CancellationToken ct)
     {
         using HttpRequestMessage httpRequestMessage =
             new(HttpMethod.Get, $"job-details/jobdetails/api/job/{id.CipherText}/applicants");

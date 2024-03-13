@@ -19,11 +19,15 @@ internal class LocalDiskPersisting : IHttpResponsePersisting
         {
             string textHttpContent = await response.Content.ReadAsStringAsync(ct);
 
-            string outputPath = Path.Combine(LocalDir, $"{id.Uid}-{requestType.RequestName}.json");
+            string outputPath = Path.Combine(LocalDir,
+                $"{id.Uid}{GetPostfix(requestType)}.json");
 
             await File.WriteAllTextAsync(outputPath, textHttpContent.JsonPrettify(), ct);
         }
 
         return response;
     }
+
+    private static string GetPostfix(IUpworkRequestType requestType) =>
+        requestType.RequestName.Length > 0 ? $"-{requestType.RequestName}" : "";
 }

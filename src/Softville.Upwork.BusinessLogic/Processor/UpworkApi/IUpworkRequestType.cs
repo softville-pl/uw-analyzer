@@ -14,3 +14,10 @@ internal class ApplicantsRequest : IUpworkRequestType
 
     public string RequestName { get; } = "applicants";
 }
+
+internal class DetailsRequest : IUpworkRequestType
+{
+    internal static readonly IUpworkRequestType Instance = new DetailsRequest();
+
+    public string RequestName { get; } = string.Empty;
+}
