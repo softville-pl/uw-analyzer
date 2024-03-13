@@ -25,9 +25,6 @@ internal class EndToEndUpworkProcessor(
 
         List<Offer> offers = new(foundSearchItems.Count);
         List<string> problematicOffers = new();
-        Contracts.ApplicantsStats? applicantsStats = null;
-        Offer? offer = null;
-
 
         OfferSerializer serializer = new();
 
@@ -35,13 +32,8 @@ internal class EndToEndUpworkProcessor(
         {
             var upworkId = new UpworkId(foundOffer.Id, foundOffer.Ciphertext);
 
-            // if (Path.Exists(outputPath))
-            // {
-            //     logger.LogWarning("'{@upworkId}' offer details exists. Skipping.", upworkId);
-            //
-            //     offerDetailsContent = await File.ReadAllTextAsync(outputPath, ct);
-            // }
-            // else
+            Contracts.ApplicantsStats? applicantsStats;
+            Offer? offer;
             {
                 var applicantsStatsTask = statsProvider.GetBidsStatsAsync(upworkId, ct);
 
@@ -72,11 +64,7 @@ internal class EndToEndUpworkProcessor(
             }
         }
 
-        string inputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.BusinessLogic\Processor\Data";
-
         string outputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.WebApp\wwwroot\sample-data";
-
-        string problematicOffersOutput = Path.Combine(inputFolder, "problematic-offers.json");
 
         await using Stream offerStream = await serializer.SerializeAsync(offers, ct);
 
@@ -88,6 +76,7 @@ internal class EndToEndUpworkProcessor(
         await outputOfferFileStream.FlushAsync(ct);
         outputOfferFileStream.Close();
 
-        await File.WriteAllTextAsync(problematicOffersOutput, string.Join(Environment.NewLine, problematicOffers), ct);
+        logger.LogWarning(
+            $"{problematicOffers.Count} problematic offers found: {string.Join(Environment.NewLine, problematicOffers)}");
     }
 }
