@@ -1,0 +1,273 @@
+{
+  "job": {
+    "ciphertext": "~01c8ecbfb6a9f0bf0f",
+    "rid": 1011958442,
+    "uid": "1767908360627175424",
+    "type": 2,
+    "access": 4,
+    "title": "Full Stack Developer - Build the Backbone of a Fitness Revolution",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-13T13:39:34.264Z",
+    "postedOn": "2024-03-13T13:39:34.690Z",
+    "publishTime": "2024-03-13T13:39:34.690Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 9119162,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 2,
+    "description": "We\u0027re seeking a highly skilled Full Stack Developer to join our team and build the core functionalities that will power our client experience.\nThe Project:\nWe\u0027re moving away from clunky paper systems and embracing the future of fitness management. You\u0027ll be the architect, building a secure and scalable web application that handles everything from client accounts to fitness tracking.\nResponsibilities:\nFront-End Development:\nCollaborate with designers to translate UI mockups into a user-friendly and responsive web interface.\nImplement interactive features for client account management (signup, login, membership management).\nDevelop functionality for booking classes, viewing instructor details, and managing schedules.\nBack-End Development:\nDesign and build a secure and scalable back-end system using robust technologies (e.g., Node.js, Python, Django).\nImplement secure user authentication and authorization to manage client data.\nDevelop APIs to connect the web app with existing payment gateways and scheduling platforms (if applicable).\nIntegrate with fitness tracking devices or APIs (if applicable) to facilitate workout tracking.\nFull Stack Expertise:\nWrite clean, maintainable, and well-tested code to ensure application stability and performance.\nImplement unit and integration tests to guarantee code quality and functionality.\nStay up-to-date with the latest web development trends and technologies.\nWe\u0027re looking for a freelancer who:\nHas a minimum of 3 years experience as a Full Stack Developer.\nPossesses a strong understanding of both front-end and back-end development principles.\nIs proficient in modern frameworks and libraries (e.g., React, Angular, Node.js).\nThrives in a collaborative environment and enjoys working with passionate teams.\nCan manage their time effectively and meet deadlines.\nBonus points for:\nExperience with building secure and scalable web applications.\nFamiliarity with fitness or health-related APIs or data structures.\nA portfolio showcasing your full-stack development capabilities.\n\nReady to Code the Future of Fitness?\nIf you\u0027re a talented Full Stack Developer who loves a coding challenge and wants to make a real impact, we want to hear from you! Submit your Upwork profile link, portfolio (if applicable), and a cover letter explaining your experience and why you\u0027d be a perfect fit for this project. Let\u0027s build something revolutionary together!",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "Please list any certifications related to this project"
+      },
+      {
+        "position": 2,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 3,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-13T13:39:34.152Z",
+      "totalApplicants": 56,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "18",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a talented Full Stack Developer to join our team and help us build the backbone of a fitness revolution. This is a long-term project with a duration of more than 6 months. As a Full Stack Developer, you will be responsible for developing and maintaining our fitness app using React Native, CSS, Node.js, JavaScript, and Angular.\n\nTo be successful in this role, you should have experience in developing mobile applications using React Native and have a strong understanding of front-end and back-end technologies. You should also be familiar with Agile methodologies and have excellent problem-solving skills.\n\nTo apply for this position, please submit a proposal detailing how you can contribute to this project. We would like to see examples of your past completed projects, so please include links to your portfolio or relevant work samples. We look forward to reviewing your application and discussing the project further with you.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-13T13:39:34.690Z",
+        "totalTimeJobPostFlowAIv2": "270",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628012691468\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626762999021568\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628012691466\u0022},{\u0022skillUid\u0022:\u00221031626728794472448\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "11",
+        "totalTimeSpentOnReviewPageAIv2": "51",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1710336903549",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "Full Stack Developer - Build the Backbone of a Fitness Revolution",
+        "finalDescriptionAI": "We\u0027re seeking a highly skilled Full Stack Developer to join our team and build the core functionalities that will power our client experience.\nThe Project:\nWe\u0027re moving away from clunky paper systems and embracing the future of fitness management. You\u0027ll be the architect, building a secure and scalable web application that handles everything from client accounts to fitness tracking.\nResponsibilities:\nFront-End Development:\nCollaborate with designers to translate UI mockups into a user-friendly and responsive web interface.\nImplement interactive features for client account management (signup, login, membership management).\nDevelop functionality for booking classes, viewing instructor details, and managing schedules.\nBack-End Development:\nDesign and build a secure and scalable back-end system using robust technologies (e.g., Node.js, Python, Django).\nImplement secure user authentication and authorization to manage client data.\nDevelop APIs to connect the web app with existing payment gateways and scheduling platforms (if applicable).\nIntegrate with fitness tracking devices or APIs (if applicable) to facilitate workout tracking.\nFull Stack Expertise:\nWrite clean, maintainable, and well-tested code to ensure application stability and performance.\nImplement unit and integration tests to guarantee code quality and functionality.\nStay up-to-date with the latest web development trends and technologies.\nWe\u0027re looking for a freelancer who:\nHas a minimum of 3 years experience as a Full Stack Developer.\nPossesses a strong understanding of both front-end and back-end development principles.\nIs proficient in modern frameworks and libraries (e.g., React, Angular, Node.js).\nThrives in a collaborative environment and enjoys working with passionate teams.\nCan manage their time effectively and meet deadlines.\nBonus points for:\nExperience with building secure and scalable web applications.\nFamiliarity with fitness or health-related APIs or data structures.\nA portfolio showcasing your full-stack development capabilities.\n\nReady to Code the Future of Fitness?\nIf you\u0027re a talented Full Stack Developer who loves a coding challenge and wants to make a real impact, we want to hear from you! Submit your Upwork profile link, portfolio (if applicable), and a cover letter explaining your experience and why you\u0027d be a perfect fit for this project. Let\u0027s build something revolutionary together!"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Secaucus",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 3,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 10,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 900
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-04-17T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 10,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 80
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
