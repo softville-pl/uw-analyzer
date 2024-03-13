@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~01c0a402f9e3e28e9c",
+    "rid": 1011941357,
+    "uid": "1767624962222342144",
+    "type": 2,
+    "access": 1,
+    "title": "C# Developer (WinForms / DevExpress)",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-12T18:53:26.805Z",
+    "postedOn": "2024-03-12T18:53:27.088Z",
+    "publishTime": "2024-03-12T18:53:27.088Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Hours to be determined",
+    "companyRecno": 7359908,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Hello C# Gurus,\n\nWe are looking for a senior C# developer to help with our application development.\n\nAt the moment, we use WinForms with .NET and the DevExpress library to build the UI.\n\nWe are looking for a candidate who have 1) Strong C# experience and 2) Strong understanding of the DevExpress library especially wizards, data grid, and the diagramming component with custom shapes.\n\nThe project is still in it is infancy so there is a lot of work to be done and a lot of decisions to be made so we are looking for someone with experience to help shape the product going forward.\n\nMore details will be shared in our initial call.",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 10,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-12T20:17:56.436Z",
+      "totalApplicants": 101,
+      "totalHired": 0,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 3,
+      "invitationsSent": 6
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "totalTimeSpentOnDescriptionPageAI": "260",
+        "sourcingUpdateForbidden": "false",
+        "type": "RJP",
+        "urgency": "1",
+        "browser": "Safari",
+        "timeSpentToGetAPIDescriptionAI": "5",
+        "generatedDescriptionAI": "We are looking for an experienced C# Developer with expertise in WinForms and DevExpress. The project is expected to last for more than 6 months. The ideal candidate should have a strong background in developing desktop applications using C# and the .NET Framework, as well as experience working with the DevExpress framework.\n\nAs a C# Developer, your main responsibility will be to develop and maintain desktop applications using WinForms and DevExpress. You will be working closely with our team to understand the requirements and implement the necessary functionality.\n\nTo apply for this position, please submit a proposal describing how you can contribute to this project. Please also include links to any relevant past completed projects that showcase your skills in C# development, WinForms, and DevExpress.\n\nWe are looking forward to reviewing your proposal and discussing the project further.",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-12T18:53:27.088Z",
+        "totalTimeJobPostFlowAIv2": "453",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626731394940928\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626731478827008\u0022}]",
+        "sourcingUpdateCount": "0",
+        "totalDescriptionEditingTimeAI": "221",
+        "totalTimeSpentOnReviewPageAIv2": "91",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1710269153197",
+        "inputsDurationAI": "474250516458926080",
+        "inputsTitleAI": "C# Developer (WinForms / DevExpress)",
+        "finalDescriptionAI": "Hello C# Gurus,\n\nWe are looking for a senior C# developer to help with our application development.\n\nAt the moment, we use WinForms with .NET and the DevExpress library to build the UI.\n\nWe are looking for a candidate who have 1) Strong C# experience and 2) Strong understanding of the DevExpress library especially wizards, data grid, and the diagramming component with custom shapes.\n\nThe project is still in it is infancy so there is a lot of work to be done and a lot of decisions to be made so we are looking for someone with experience to help shape the product going forward.\n\nMore details will be shared in our initial call."
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "Portland",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 21,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 12,
+      "score": 4.975352401,
+      "totalJobsWithHires": 19,
+      "hoursCount": 637.499999,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 38091.7
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2020-03-26T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 28,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 52.74567851411087
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

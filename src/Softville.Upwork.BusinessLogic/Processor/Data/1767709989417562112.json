@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~017b4adef8bf55b5f9",
-    "rid": 1011749802,
-    "uid": "1764693706390851584",
+    "ciphertext": "~01bf067613b6f4d972",
+    "rid": 1011947245,
+    "uid": "1767709989417562112",
     "type": 2,
     "access": 4,
-    "title": "ASP.NET core and React.js",
+    "title": "Software Engineering Business Partner",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,38 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-04T16:45:41.002Z",
-    "postedOn": "2024-03-04T19:45:42.499Z",
-    "publishTime": "2024-03-04T19:45:42.499Z",
+    "createdOn": "2024-03-13T00:31:18.858Z",
+    "postedOn": "2024-03-13T03:31:23.589Z",
+    "publishTime": "2024-03-13T03:31:23.589Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1012356665,
-    "durationIdV3": 3,
-    "durationLabel": "3 to 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012514842,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 60
+      "hourlyBudgetMin": 50,
+      "hourlyBudgetMax": 100
     },
     "contractorTier": 3,
-    "description": "Looking for Full-stack developer with ASP.NET \u002B React.js. Please write me \u0022coca-cola\u0022 at the first line of your cover.\n\nCheers,\nChris",
+    "description": "We are looking for a proficient communicator and technical supporter to collaborate on a great opportunity together.",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Describe your approach to testing and improving QA"
-      },
-      {
-        "position": 1,
-        "question": "Describe your recent experience with similar projects"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -59,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -69,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -81,62 +72,55 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-05T15:35:01.719Z",
-      "totalApplicants": 71,
+      "lastBuyerActivity": "2024-03-13T00:56:58.026Z",
+      "totalApplicants": 23,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 3,
+      "invitationsSent": 8
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
         "jsi_contractToHire",
         "contractToHireSet",
+        "firstJobPost",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "56",
-        "sourcingUpdateForbidden": "false",
-        "type": "RJP",
-        "browser": "Edge",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled developer with expertise in ASP.NET Core and React.js. The project is expected to last for a duration of 3 to 6 months. \n\nThe ideal candidate should have a strong understanding of the .NET Framework, ASP.NET, SQLite, JavaScript, and web application development. Experience with React and ASP.NET MVC is also required.\n\nTo be considered for this position, please submit a proposal detailing how you can contribute to the project. Explain your familiarity with ASP.NET Core and React.js, and highlight any relevant experience you have in developing web applications using these technologies. Additionally, please provide links to past completed projects that showcase your skills in ASP.NET Core and React.js.\n\nWe look forward to reviewing your proposals and discussing the project further.",
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-04T19:45:42.499Z",
-        "totalTimeJobPostFlowAIv2": "161",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628000108549\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-03-13T03:31:23.589Z",
+        "totalTimeJobPostFlowAIv2": "178",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "53",
-        "totalTimeSpentOnReviewPageAIv2": "29",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "6",
+        "type": "FJP",
+        "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1709570579321",
-        "inputsDurationAI": "474250516458926081",
-        "inputsTitleAI": "ASP.NET core and React.js",
-        "finalDescriptionAI": "Looking for Full-stack developer with ASP.NET \u002B React.js. Please write me \u0022coca-cola\u0022 at the first line of your cover.\n\nCheers,\nChris"
+        "startTimeJobPostFlowAIv2": "1710289699964"
       }
     },
     "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "Germany (Etc/UTC)",
-      "city": null,
-      "country": "Germany"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "New York",
+      "country": "United States"
     },
     "stats": {
       "totalAssignments": 0,
@@ -153,16 +137,16 @@
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2024-02-28T00:00:00.000Z",
+      "contractDate": "2024-03-13T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Finance \u0026 Accounting",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 4,
+      "postedCount": 3,
       "openCount": 0
     },
     "avgHourlyJobsRate": null

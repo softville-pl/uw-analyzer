@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~017b4adef8bf55b5f9",
-    "rid": 1011749802,
-    "uid": "1764693706390851584",
+    "ciphertext": "~01e28bad6afe0446bc",
+    "rid": 1011938448,
+    "uid": "1767595531023929344",
     "type": 2,
     "access": 4,
-    "title": "ASP.NET core and React.js",
+    "title": "React \u0026 .NET Core developer needed",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,38 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-04T16:45:41.002Z",
-    "postedOn": "2024-03-04T19:45:42.499Z",
-    "publishTime": "2024-03-04T19:45:42.499Z",
+    "createdOn": "2024-03-12T16:56:29.820Z",
+    "postedOn": "2024-03-12T16:56:30.095Z",
+    "publishTime": "2024-03-12T16:56:30.095Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1012356665,
-    "durationIdV3": 3,
-    "durationLabel": "3 to 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1010570026,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
+      "hourlyBudgetMin": 25,
       "hourlyBudgetMax": 60
     },
-    "contractorTier": 3,
-    "description": "Looking for Full-stack developer with ASP.NET \u002B React.js. Please write me \u0022coca-cola\u0022 at the first line of your cover.\n\nCheers,\nChris",
+    "contractorTier": 2,
+    "description": "Hi. We need a senior full stack developer with strong experience in .NET Core and React frameworks.\nThere are some bugs in our website. It has been built 4 years ago and it was running properly without any issues. Recently we have faced 2 bugs. Need to fix it in a week.\nThanks",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Describe your approach to testing and improving QA"
-      },
-      {
-        "position": 1,
-        "question": "Describe your recent experience with similar projects"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -59,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -91,8 +82,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-05T15:35:01.719Z",
-      "totalApplicants": 71,
+      "lastBuyerActivity": "2024-03-12T16:56:29.725Z",
+      "totalApplicants": 115,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -107,65 +98,67 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "56",
+        "totalTimeSpentOnDescriptionPageAI": "230",
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
-        "browser": "Edge",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled developer with expertise in ASP.NET Core and React.js. The project is expected to last for a duration of 3 to 6 months. \n\nThe ideal candidate should have a strong understanding of the .NET Framework, ASP.NET, SQLite, JavaScript, and web application development. Experience with React and ASP.NET MVC is also required.\n\nTo be considered for this position, please submit a proposal detailing how you can contribute to the project. Explain your familiarity with ASP.NET Core and React.js, and highlight any relevant experience you have in developing web applications using these technologies. Additionally, please provide links to past completed projects that showcase your skills in ASP.NET Core and React.js.\n\nWe look forward to reviewing your proposals and discussing the project further.",
+        "browser": "Chrome",
+        "timeSpentToGetAPIDescriptionAI": "6",
+        "generatedDescriptionAI": "We are looking for a skilled React \u0026 .NET Core developer to join our team on a temporary basis for a project that will last between 1 to 3 months. The ideal candidate should have expertise in React, JavaScript, .NET Framework, and C#. \n\nAs a React \u0026 .NET Core developer, your main responsibility will be to develop and maintain the user interface of our web application. You will work closely with our team of developers to implement new features, enhance existing functionality, and ensure a seamless user experience.\n\nTo be considered for this position, please submit a detailed proposal outlining how you can contribute to the project. Additionally, we would appreciate if you could provide us with links to some of your past completed projects that showcase your React and .NET Core development skills.\n\nWe look forward to reviewing your proposals and finding the right candidate to join our team.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-04T19:45:42.499Z",
-        "totalTimeJobPostFlowAIv2": "161",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580737240190976\u0022,\u0022parentSkillUid\u0022:\u00221110580578754220032\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u00221031626716547104768\u0022,\u0022parentSkillUid\u0022:\u00221110580578586447872\u0022},{\u0022skillUid\u0022:\u0022996364628000108549\u0022,\u0022parentSkillUid\u0022:\u0022996364627970748416\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022}]",
+        "publishTime": "2024-03-12T16:56:30.095Z",
+        "totalTimeJobPostFlowAIv2": "394",
+        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626773660942336\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "53",
-        "totalTimeSpentOnReviewPageAIv2": "29",
+        "totalDescriptionEditingTimeAI": "226",
+        "totalTimeSpentOnReviewPageAIv2": "18",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1709570579321",
-        "inputsDurationAI": "474250516458926081",
-        "inputsTitleAI": "ASP.NET core and React.js",
-        "finalDescriptionAI": "Looking for Full-stack developer with ASP.NET \u002B React.js. Please write me \u0022coca-cola\u0022 at the first line of your cover.\n\nCheers,\nChris"
+        "startTimeJobPostFlowAIv2": "1710262194943",
+        "inputsDurationAI": "474250516458926082",
+        "inputsTitleAI": "React \u0026 .NET Core developer needed",
+        "finalDescriptionAI": "Hi. We need a senior full stack developer with strong experience in .NET Core and React frameworks.\nThere are some bugs in our website. It has been built 4 years ago and it was running properly without any issues. Recently we have faced 2 bugs. Need to fix it in a week.\nThanks"
       }
     },
     "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "Germany (Etc/UTC)",
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (Europe/Be)",
       "city": null,
       "country": "Germany"
     },
     "stats": {
-      "totalAssignments": 0,
-      "activeAssignmentsCount": 0,
-      "feedbackCount": 0,
-      "score": 0,
-      "totalJobsWithHires": 0,
-      "hoursCount": 0,
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 5,
+      "score": 4.577144976,
+      "totalJobsWithHires": 8,
+      "hoursCount": 22.500001,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 0
+        "amount": 2209.77
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2024-02-28T00:00:00.000Z",
+      "contractDate": "2023-10-30T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Finance \u0026 Accounting",
+        "size": "2",
+        "industry": "Engineering \u0026 Architecture",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 4,
+      "postedCount": 16,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 39.740887122627235
+    }
   },
   "currentUserInfo": {
     "owner": false,

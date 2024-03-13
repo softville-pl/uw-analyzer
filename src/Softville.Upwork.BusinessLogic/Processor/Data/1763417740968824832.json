@@ -102,12 +102,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-06T04:21:10.029Z",
-      "totalApplicants": 17,
+      "lastBuyerActivity": "2024-03-13T03:44:16.130Z",
+      "totalApplicants": 13,
       "totalHired": 0,
       "totalInvitedToInterview": 1,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "unansweredInvites": 2,
+      "invitationsSent": 2
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -150,9 +150,9 @@
     },
     "stats": {
       "totalAssignments": 1,
-      "activeAssignmentsCount": 1,
-      "feedbackCount": 0,
-      "score": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
       "totalJobsWithHires": 1,
       "hoursCount": 0,
       "totalCharges": {

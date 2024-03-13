@@ -83,9 +83,9 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-01T07:26:22.281Z",
-      "totalApplicants": 8,
+      "totalApplicants": 0,
       "totalHired": 0,
-      "totalInvitedToInterview": 2,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -130,15 +130,15 @@
       "country": "India"
     },
     "stats": {
-      "totalAssignments": 70,
+      "totalAssignments": 71,
       "activeAssignmentsCount": 14,
-      "feedbackCount": 44,
+      "feedbackCount": 45,
       "score": 4.91021331,
-      "totalJobsWithHires": 62,
-      "hoursCount": 592.166668,
+      "totalJobsWithHires": 63,
+      "hoursCount": 615.666668,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 25621.57
+        "amount": 25939.27
       }
     },
     "isEnterprise": false,
@@ -157,7 +157,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 13.440759890929897
+      "amount": 13.500276094206225
     }
   },
   "currentUserInfo": {
@@ -187,8 +187,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "218.55",
-            "freelancerValueLabel": "218.55",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
             "clientPreferredLabel": "Any"
           },
           {
