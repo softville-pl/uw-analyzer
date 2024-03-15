@@ -15,13 +15,18 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
 {
     [Theory]
     [BusinessIntTestsAutoData]
-    public async Task GivenOffer_WhenSaveAsync_ThenPersistedIntoDb(Offer offer)
+    public async Task GivenOffer_WhenSaveAsync_ThenPersistedIntoDb(Offer expected)
     {
-        offer.Should().NotBeNull();
-        await Task.CompletedTask;
+        var ct = CancellationToken.None;
 
-        var result = await Ctx.Services.GetRequiredService<IOfferRepository>().SaveAsync(offer, CancellationToken.None);
+        var  offerRepository = Ctx.Services.GetRequiredService<IOfferRepository>();
 
-        result.Should().BeNull();
+        await offerRepository.SaveAsync(expected, ct);
+
+        var actual = await offerRepository.GetAsync(expected.Uid, ct);
+
+        actual.CipherText.Should().Be(expected.CipherText);
+
+        actual.Should().BeEquivalentTo(expected);
     }
 }

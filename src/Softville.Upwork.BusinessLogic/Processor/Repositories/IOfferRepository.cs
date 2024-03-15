@@ -7,6 +7,6 @@ namespace Softville.Upwork.BusinessLogic.Processor.Repositories;
 
 public interface IOfferRepository
 {
-    Task ConnectAsync(CancellationToken ct);
     Task<Offer> SaveAsync(Offer offer, CancellationToken ct);
+    Task<Offer> GetAsync(string uid, CancellationToken ct);
 }

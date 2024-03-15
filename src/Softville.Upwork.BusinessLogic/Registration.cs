@@ -43,7 +43,7 @@ public static class Registration
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
             .AddScoped<IOfferRepository, OfferRepository>()
-            .AddMongoClient()
+            .AddMongo()
             ;
 
     }

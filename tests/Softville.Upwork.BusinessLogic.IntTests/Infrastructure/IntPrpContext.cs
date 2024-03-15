@@ -28,7 +28,10 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         var ct = CancellationToken.None;
 
         await _database.StartAsync(ct);
-        _hostBuilder.ConfigureAppConfiguration((_, builder) => builder.AddInMemoryCollection(new[] {new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString)}));
+        _hostBuilder.ConfigureAppConfiguration((_, builder) => builder.AddInMemoryCollection(new[]
+        {
+            new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString)
+        }));
         _host = await _hostBuilder.StartAsync(ct);
         _services = new(_host?.Services ?? throw new ArgumentNullException(nameof(_host)));
     }
