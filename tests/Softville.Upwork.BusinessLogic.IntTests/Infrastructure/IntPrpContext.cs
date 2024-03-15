@@ -21,6 +21,8 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         get => _services ?? throw new ArgumentNullException(nameof(_services));
     }
 
+    public InternetProxy NetProxy { get; } = new ();
+
     public TestDatabase Database => _database;
     public CancellationToken Ct { get; } = CancellationToken.None;
 
@@ -31,7 +33,9 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         await _database.StartAsync(ct);
         _hostBuilder.ConfigureAppConfiguration((_, builder) => builder.AddInMemoryCollection(new[]
         {
-            new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString)
+            new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString),
+            new KeyValuePair<string, string?>("Upwork:BaseUrl", NetProxy.Url),
+            new KeyValuePair<string, string?>("Upwork:Cookie", Guid.NewGuid().ToString())
         }));
         _host = await _hostBuilder.StartAsync(ct);
         _services = new(_host?.Services ?? throw new ArgumentNullException(nameof(_host)));

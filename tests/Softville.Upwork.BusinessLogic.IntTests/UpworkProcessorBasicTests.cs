@@ -12,7 +12,8 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
     public void GivenDIContainer_WhenGetUpworkProcessor_ThenSuccess()
     {
         Ctx.Should().NotBeNull();
-        Ctx.Services.GetRequiredService<IUpworkProcessor>().Should().NotBeNull();
+        var processor = Ctx.Services.GetRequiredService<IUpworkProcessor>();
+        processor.Should().NotBeNull();
 
         var connString =  Ctx.Database.ConnectionString;
 

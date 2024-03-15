@@ -19,9 +19,9 @@ internal class EndToEndUpworkProcessor(
 {
     public async Task ProcessOffersAsync(CancellationToken ct)
     {
-        List<JobSearch> foundSearchItems = await searchProvider.SearchAsync(ct);
-
         using HttpClient detailsClient = httpClientFactory.CreateClient(UpworkHttpClient.UpworkClientName);
+
+        List<JobSearch> foundSearchItems = await searchProvider.SearchAsync(ct);
 
         List<Offer> offers = new(foundSearchItems.Count);
         List<string> problematicOffers = new();
