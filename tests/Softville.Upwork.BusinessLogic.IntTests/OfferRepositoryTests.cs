@@ -17,13 +17,11 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
     [BusinessIntTestsAutoData]
     public async Task GivenOffer_WhenSaveAsync_ThenPersistedIntoDb(Offer expected)
     {
-        var ct = CancellationToken.None;
-
         var  offerRepository = Ctx.Services.GetRequiredService<IOfferRepository>();
 
-        await offerRepository.SaveAsync(expected, ct);
+        await offerRepository.SaveAsync(expected, Ctx.Ct);
 
-        var actual = await offerRepository.GetAsync(expected.Uid, ct);
+        var actual = await offerRepository.GetAsync(expected.Uid, Ctx.Ct);
 
         actual.CipherText.Should().Be(expected.CipherText);
 

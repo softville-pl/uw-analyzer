@@ -22,6 +22,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
     }
 
     public TestDatabase Database => _database;
+    public CancellationToken Ct { get; } = CancellationToken.None;
 
     public async Task InitializeAsync()
     {
