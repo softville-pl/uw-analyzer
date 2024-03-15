@@ -138,12 +138,12 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 297,
-      "activeAssignmentsCount": 24,
+      "totalAssignments": 298,
+      "activeAssignmentsCount": 25,
       "feedbackCount": 155,
       "score": 4.654202061,
-      "totalJobsWithHires": 258,
-      "hoursCount": 6761.233349,
+      "totalJobsWithHires": 259,
+      "hoursCount": 6764.566682,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 155834.05
@@ -165,7 +165,7 @@
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 21.40112942876038
+      "amount": 21.410293786501548
     }
   },
   "currentUserInfo": {

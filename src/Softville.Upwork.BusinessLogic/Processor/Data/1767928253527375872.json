@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-13T14:58:37.051Z",
-      "totalApplicants": 3,
+      "totalApplicants": 5,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -142,7 +142,7 @@
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": null,
+      "contractDate": "2024-03-13T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -151,7 +151,7 @@
       }
     },
     "jobs": {
-      "postedCount": 0,
+      "postedCount": 1,
       "openCount": 0
     },
     "avgHourlyJobsRate": null

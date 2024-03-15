@@ -92,9 +92,9 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-21T01:14:57.531Z",
-      "totalApplicants": 38,
+      "totalApplicants": 0,
       "totalHired": 1,
-      "totalInvitedToInterview": 1,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -132,21 +132,21 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -28800000,
+      "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (America/T)",
       "city": null,
       "country": "United States"
     },
     "stats": {
       "totalAssignments": 2,
-      "activeAssignmentsCount": 2,
-      "feedbackCount": 0,
-      "score": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
       "totalJobsWithHires": 2,
       "hoursCount": 7.5,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 36.45
+        "amount": 212.03
       }
     },
     "isEnterprise": false,
@@ -203,8 +203,8 @@
             "qualification": 8,
             "qualified": true,
             "clientPreferred": "ANY",
-            "freelancerValue": "0.00",
-            "freelancerValueLabel": "0.00",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
             "clientPreferredLabel": "Any"
           },
           {
@@ -231,7 +231,7 @@
     }
   },
   "paths": {
-    "js": "/nx/jobs/search"
+    "js": "/nx/search/jobs"
   },
   "ff": {
     "isRemoveClientTotalSpentCap": true,

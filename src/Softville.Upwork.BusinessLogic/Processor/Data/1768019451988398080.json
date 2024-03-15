@@ -1,0 +1,247 @@
+{
+  "job": {
+    "ciphertext": "~01007c945c76a59f96",
+    "rid": 1011968597,
+    "uid": "1768019451988398080",
+    "type": 2,
+    "access": 1,
+    "title": "Blazor Net 8 upgrade issues - second opinion / code audit",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-13T21:01:00.455Z",
+    "postedOn": "2024-03-13T21:01:00.787Z",
+    "publishTime": "2024-03-13T21:01:00.787Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Hours to be determined",
+    "companyRecno": 1890991,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "We have a development team that has programmed 2 websites for us. The first one is a customer facing customer portal with login / password reset / open banking connection factilities, the second is an admin portal for us to see client open banking. \n\nOur websites are built on blazor and NET 7. They are running exclusively client (webassembly). \n\nThe websites are slow loading when retrieving information in the admin portal, and both sites have  long load times initially.\n\nWe want to upgrade to Blazor on net 8, and make use of features sure as auto render. \n\nOur concern is that our dev team, whilst talented, are not experienced in Blazor as a technology and they are learning as we go along (this is their first Blazor project). I have some concern that our site is not compky with best Blazor practice.. We have ambitions to deploy the code as IOS / Andriod / destop apps in future and we are lay clients with little experience of whether the coding approach is optimal or best practice. \n\nOur dev team are saying that the NET 8 upgrade is a big task and that NET 8 is not stable / early adopton is risky. They have said there are issues with authentication services, device sniffing components not supporting Net 8 and the auto render not working due to a code glitch, They cannot provide a timeframe yet for migrating. \n\nWe would like a highly experienced blazor expert who has gone through the NET 8 upgrade to initially audit our code and provide honest but private feedback to me as client.\n\nThere is the potential to bring the successful candidate on board to work as part of our dev team as a Blazor tech expert if the candidate is able to bring suggestions and improvements / cut through the upgrade. We have other concerns like buttons and links not being controlled by a single central style sheet.\n\nWe have Microsoft clarity recordings of our site performance issues.  We want to ensure the hygiene of the site code is good, with logical, clean code that works on Net 8. ",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 10,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-14T12:53:32.086Z",
+      "totalApplicants": 59,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-13T21:01:00.787Z",
+        "totalTimeJobPostFlowAIv2": "1289",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "569",
+        "type": "RJP",
+        "urgency": "0",
+        "browser": "Edge",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710362369287"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "Warrington",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 91,
+      "activeAssignmentsCount": 8,
+      "feedbackCount": 34,
+      "score": 4.990989765,
+      "totalJobsWithHires": 90,
+      "hoursCount": 2979.303337,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 223979.27
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": true,
+      "contractDate": "2011-12-28T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Legal",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 126,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 56.31511834204347
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "At Least 1000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en",
+            "freelancerValueLabel": "English",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

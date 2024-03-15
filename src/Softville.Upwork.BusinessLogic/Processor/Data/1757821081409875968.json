@@ -85,8 +85,8 @@
       "lastBuyerActivity": "2024-03-08T19:43:00.906Z",
       "totalApplicants": 137,
       "totalHired": 1,
-      "totalInvitedToInterview": 15,
-      "unansweredInvites": 3,
+      "totalInvitedToInterview": 16,
+      "unansweredInvites": 2,
       "invitationsSent": 15
     },
     "weeklyRetainerBudget": null,
@@ -135,7 +135,7 @@
       "feedbackCount": 239,
       "score": 4.856988279,
       "totalJobsWithHires": 274,
-      "hoursCount": 21466.333513,
+      "hoursCount": 21466.50018,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 599975.96
@@ -153,11 +153,11 @@
       }
     },
     "jobs": {
-      "postedCount": 432,
+      "postedCount": 436,
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 13.151475999803635
+      "amount": 13.151519699658838
     }
   },
   "currentUserInfo": {
