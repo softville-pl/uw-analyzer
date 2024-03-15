@@ -27,4 +27,18 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
 
         actual.Should().BeEquivalentTo(expected);
     }
+
+    [Theory]
+    [BusinessIntTestsAutoData]
+    public async Task GivenOffers_WhenGetAllAsync_ThenReturned(Offer[] expectedOffers)
+    {
+        var  offerRepository = Ctx.Services.GetRequiredService<IOfferRepository>();
+
+        foreach (Offer expected in expectedOffers)
+            await offerRepository.SaveAsync(expected, Ctx.Ct);
+
+        var actualOffers = await offerRepository.GetAllAsync(Ctx.Ct);
+
+        actualOffers.Should().BeEquivalentTo(expectedOffers);
+    }
 }

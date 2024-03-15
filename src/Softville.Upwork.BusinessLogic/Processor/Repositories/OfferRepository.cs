@@ -21,6 +21,14 @@ internal class OfferRepository(IMongoDatabase database)
         return offer;
     }
 
+    public Task<List<Offer>> GetAllAsync(CancellationToken ct)
+    {
+        return database
+            .GetCollection<Offer>(OffersCol)
+            .AsQueryable()
+            .ToListAsync(ct);
+    }
+
     public async Task<Offer> GetAsync(string uid, CancellationToken ct)
     {
         var collection = database.GetCollection<Offer>(OffersCol);

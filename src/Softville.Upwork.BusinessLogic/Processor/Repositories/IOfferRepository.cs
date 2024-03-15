@@ -9,4 +9,5 @@ public interface IOfferRepository
 {
     Task<Offer> SaveAsync(Offer offer, CancellationToken ct);
     Task<Offer> GetAsync(string uid, CancellationToken ct);
+    Task<List<Offer>> GetAllAsync(CancellationToken ct);
 }
