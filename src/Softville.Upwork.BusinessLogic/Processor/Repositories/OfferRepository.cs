@@ -8,11 +8,13 @@ using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor.Repositories;
 
-internal class OfferRepository(IOptions<DbConfig> dbConfig) : IOfferRepository
+internal class OfferRepository(MongoClient mongoClient, IOptions<DbConfig> dbConfig) : IOfferRepository
 {
-    public Task<Offer> SaveAsync(Offer offer, CancellationToken ct)
+    public async Task<Offer> SaveAsync(Offer offer, CancellationToken ct)
     {
-        throw new NotImplementedException();
+        await mongoClient.ListDatabasesAsync(ct);
+
+        return null!;
     }
 
     public async Task ConnectAsync(CancellationToken ct)

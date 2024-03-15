@@ -6,6 +6,7 @@ using System.Net;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Softville.Upwork.BusinessLogic.Common.Configuration;
+using Softville.Upwork.BusinessLogic.Common.Database;
 using Softville.Upwork.BusinessLogic.Processor;
 using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
@@ -42,6 +43,7 @@ public static class Registration
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
             .AddScoped<IOfferRepository, OfferRepository>()
+            .AddMongoClient()
             ;
 
     }

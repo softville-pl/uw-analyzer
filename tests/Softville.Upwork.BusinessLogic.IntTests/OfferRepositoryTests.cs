@@ -4,6 +4,7 @@
 using FluentAssertions;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure.AutoFixture;
+using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.Contracts;
 using Xunit;
 
@@ -19,6 +20,8 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
         offer.Should().NotBeNull();
         await Task.CompletedTask;
 
-        // await Ctx.Services.GetRequiredService<IOfferRepository>().SaveAsync(offer, CancellationToken.None);
+        var result = await Ctx.Services.GetRequiredService<IOfferRepository>().SaveAsync(offer, CancellationToken.None);
+
+        result.Should().BeNull();
     }
 }
