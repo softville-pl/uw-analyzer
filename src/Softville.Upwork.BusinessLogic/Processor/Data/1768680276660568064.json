@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0156625444562f5e37",
-    "rid": 1011581945,
-    "uid": "1762100321733226496",
+    "ciphertext": "~0136e506cc1c1f457d",
+    "rid": 1012010422,
+    "uid": "1768680276660568064",
     "type": 2,
     "access": 4,
-    "title": "Senior .NET Core developer with transcription exp",
+    "title": "C# Desktop developer",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,34 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-26T13:00:30.076Z",
-    "postedOn": "2024-02-26T13:00:30.434Z",
-    "publishTime": "2024-02-26T13:00:30.434Z",
+    "createdOn": "2024-03-15T16:46:53.330Z",
+    "postedOn": "2024-03-15T16:46:53.737Z",
+    "publishTime": "2024-03-15T16:46:53.737Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1007424734,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5882687,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 20,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 80
     },
     "contractorTier": 3,
-    "description": "We\u0027re building AI software built with .NET Core for pastors to use when preparing and distributing their blogs or posts. We\u0027re seeking a senior full stack .NET Core developer with AI and transcription experience. Prefer to work with individual developers.",
+    "description": "We are in search of a Desktop Application Developer with a strong background in C# .NET framework, specializing in reverse engineering of desktop software components. The candidate will be pivotal in dissecting and enhancing an enterprise-level desktop add-on for Microsoft Excel, primarily involving EXE and DLL files.\n\nResponsibilities:\n\nPerform in-depth reverse engineering of desktop application binaries (EXE, DLL) to extract, analyze, and document code structure and functionality.\n\nRefine and advance desktop C# codebase for seamless Excel integration and feature expansion.\nWork closely with product development teams to understand end-user requirements and provide desktop application solutions.\nEnsure all reverse-engineered desktop solutions adhere to strict coding and security standards.\nOffer technical expertise to support desktop application upgrades and optimizations.\nQualifications:\n\nDemonstrated proficiency in desktop application development with C# and .NET.\nExperience with reverse engineering tools and techniques specific to desktop software.\nSolid understanding of desktop environments and Excel add-in architectures.\nExceptional problem-solving aptitude and attention to detail.\nEffective communication skills for both technical and non-technical audiences.\nBachelor\u2019s degree in Computer Science or related field, or equivalent work experience.\nApplication:\n\nInterested candidates should send a resume and a brief cover letter that showcases reverse engineering projects with desktop applications.\n\nWe are committed to fostering an inclusive workplace and encourage applicants from all backgrounds to apply.",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Describe your recent experience with similar projects"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -55,9 +50,9 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -65,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -77,84 +72,83 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-28T17:42:17.618Z",
-      "totalApplicants": 2,
+      "lastBuyerActivity": "2024-03-15T17:04:25.166Z",
+      "totalApplicants": 76,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-26T13:00:30.434Z",
-        "reuse": "1760654790697013248",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-15T16:46:53.737Z",
+        "totalTimeJobPostFlowAIv2": "553",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "91",
+        "totalTimeSpentOnReviewPageAIv2": "4",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Windows"
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710520660859"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
-      "countryTimezone": "United States (America/T)",
-      "city": "Fort Collins",
-      "country": "United States"
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "Canada (UTC-07:00)",
+      "city": "Edmonton",
+      "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 36,
-      "activeAssignmentsCount": 13,
-      "feedbackCount": 16,
-      "score": 4.910486456,
-      "totalJobsWithHires": 33,
-      "hoursCount": 1524.500008,
+      "totalAssignments": 35,
+      "activeAssignmentsCount": 14,
+      "feedbackCount": 12,
+      "score": 4.928694114,
+      "totalJobsWithHires": 29,
+      "hoursCount": 1608,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 40786.07
+        "amount": 70025.03
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-02-24T00:00:00.000Z",
+      "contractDate": "2019-01-12T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Art \u0026 Design",
+        "size": "10",
+        "industry": "Tech \u0026 IT",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 46,
-      "openCount": 3
+      "postedCount": 50,
+      "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 19.65336821434769
+      "amount": 41.54526741293532
     }
   },
   "currentUserInfo": {
@@ -175,10 +169,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 8,

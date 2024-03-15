@@ -54,6 +54,10 @@
       {
         "position": 2,
         "question": "In how many projects have you implemented real time communications / interactive web pages (eg. using SignalR)?"
+      },
+      {
+        "position": 3,
+        "question": "Do you have Azure experience? How many years of that, and in how many projects?"
       }
     ],
     "qualifications": {
@@ -104,7 +108,7 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T21:25:06.226Z",
+      "lastBuyerActivity": "2024-03-15T17:05:18.070Z",
       "totalApplicants": 63,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
@@ -125,7 +129,7 @@
         "totalTimeJobPostFlowAIv2": "",
         "sourcingUpdateCount": "1",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "318",
+        "totalTimeSpentOnReviewPageAIv2": "399",
         "type": "RJP",
         "sourcingTime": "2024-03-13T20:38:40.562Z",
         "browser": "Chrome",

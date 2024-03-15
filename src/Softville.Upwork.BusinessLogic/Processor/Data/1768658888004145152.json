@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~0156625444562f5e37",
-    "rid": 1011581945,
-    "uid": "1762100321733226496",
+    "ciphertext": "~01d2cd3dd061189d3c",
+    "rid": 1012008658,
+    "uid": "1768658888004145152",
     "type": 2,
     "access": 4,
-    "title": "Senior .NET Core developer with transcription exp",
+    "title": "Senior .NET/Angular developer needed urgently",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,32 +20,32 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-26T13:00:30.076Z",
-    "postedOn": "2024-02-26T13:00:30.434Z",
-    "publishTime": "2024-02-26T13:00:30.434Z",
+    "createdOn": "2024-03-15T15:21:54.383Z",
+    "postedOn": "2024-03-15T15:21:54.672Z",
+    "publishTime": "2024-03-15T15:21:54.672Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1007424734,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1000478609,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 20,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 90
     },
     "contractorTier": 3,
-    "description": "We\u0027re building AI software built with .NET Core for pastors to use when preparing and distributing their blogs or posts. We\u0027re seeking a senior full stack .NET Core developer with AI and transcription experience. Prefer to work with individual developers.",
+    "description": "Looking for a senior .NET developer to work on our client project.\n\nWe have our senior developer ready to do the knowledge transfer and need someone to jump on this immediately.\n\nCandidate should have 4\u002B years of ASP.NET/Angular experience, and be available between 9 AM - 4 PM EDT.\n\nLooking to hire ASAP.",
     "attachments": null,
     "questions": [
       {
         "position": 0,
-        "question": "Describe your recent experience with similar projects"
+        "question": "Include a link to your GitHub profile and/or website"
       }
     ],
     "qualifications": {
@@ -55,9 +55,9 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -77,18 +77,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 0,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-28T17:42:17.618Z",
-      "totalApplicants": 2,
+      "lastBuyerActivity": "2024-03-15T15:21:54.008Z",
+      "totalApplicants": 151,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -97,64 +97,61 @@
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
-        "contractToHireSet",
-        "searchable",
-        "C2HJobsOptInEducation"
+        "searchable"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-26T13:00:30.434Z",
-        "reuse": "1760654790697013248",
+        "publishTime": "2024-03-15T15:21:54.672Z",
+        "reuse": "1709636539256946688",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "91",
+        "totalTimeSpentOnReviewPageAIv2": "111",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Windows"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
-      "countryTimezone": "United States (America/T)",
-      "city": "Fort Collins",
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Largo",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 36,
-      "activeAssignmentsCount": 13,
-      "feedbackCount": 16,
-      "score": 4.910486456,
-      "totalJobsWithHires": 33,
-      "hoursCount": 1524.500008,
+      "totalAssignments": 147,
+      "activeAssignmentsCount": 25,
+      "feedbackCount": 93,
+      "score": 4.848879591,
+      "totalJobsWithHires": 98,
+      "hoursCount": 11390.166682,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 40786.07
+        "amount": 165836.2
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-02-24T00:00:00.000Z",
+      "contractDate": "2021-04-24T00:00:00.000Z",
       "profile": {
         "size": "2",
-        "industry": "Art \u0026 Design",
+        "industry": "Tech \u0026 IT",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 46,
-      "openCount": 3
+      "postedCount": 191,
+      "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 19.65336821434769
+      "amount": 14.19217510271023
     }
   },
   "currentUserInfo": {
@@ -175,10 +172,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 8,

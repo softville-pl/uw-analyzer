@@ -1,5 +1,406 @@
 [
   {
+    "Title": "Login to the is website using my email and password from the From. ",
+    "Uid": "1768698047092989952",
+    "Rid": 1012011962,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01a62d15c2d78ef08d",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-15T17:57:30.854Z",
+    "Rate": {
+      "Minimum": 25,
+      "Maximum": 50,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01a62d15c2d78ef08d",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Malaysia",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "N/A",
+        "Size": "100"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 0,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 0,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 0
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      "VB.NET"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-15T18:04:04.831Z",
+      "TotalApplicants": 3,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 1,
+      "UnansweredInvites": 5,
+      "InvitationsSent": 7
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "861.48",
+          "FreelancerValueLabel": "861.48",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 16
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 27.125
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 40
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "C# Desktop developer",
+    "Uid": "1768680276660568064",
+    "Rid": 1012010422,
+    "Cooperation": {
+      "DurationLabel": "1 to 3 months",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~0136e506cc1c1f457d",
+    "Category": "Desktop Application Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-15T16:46:53.737Z",
+    "Rate": {
+      "Minimum": 30,
+      "Maximum": 80,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~0136e506cc1c1f457d",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "Canada",
+        "City": "Edmonton"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 35,
+        "ActiveAssignmentsCount": 14,
+        "FeedbackCount": 12,
+        "Score": 4.928694114,
+        "TotalJobsWithHires": 29,
+        "HoursCount": 1608,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 70025.03
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "Application Improvement",
+      "Microsoft Windows",
+      "Desktop Application Testing",
+      "C#",
+      "Microsoft Visual Studio"
+    ],
+    "Duties": "N/A",
+    "Questions": [],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-15T17:04:25.166Z",
+      "TotalApplicants": 76,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 2,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "861.48",
+          "FreelancerValueLabel": "861.48",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 14
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 43.85014619883041
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 100
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Senior .NET/Angular developer needed urgently",
+    "Uid": "1768658888004145152",
+    "Rid": 1012008658,
+    "Cooperation": {
+      "DurationLabel": "Less than a month",
+      "Workload": "Less than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~01d2cd3dd061189d3c",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-03-15T15:21:54.672Z",
+    "Rate": {
+      "Minimum": 40,
+      "Maximum": 90,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~01d2cd3dd061189d3c",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "Largo"
+      },
+      "Profile": {
+        "Industry": "Tech \u0026 IT",
+        "Size": "2"
+      },
+      "Stats": {
+        "TotalAssignments": 147,
+        "ActiveAssignmentsCount": 25,
+        "FeedbackCount": 93,
+        "Score": 4.848879591,
+        "TotalJobsWithHires": 98,
+        "HoursCount": 11390.166682,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 165836.2
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "ASP.NET",
+      "TypeScript",
+      "Microsoft Azure",
+      "C#",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Include a link to your GitHub profile and/or website"
+    ],
+    "ConnectPrice": 8,
+    "Activity": {
+      "LastBuyerActivity": "2024-03-15T15:21:54.008Z",
+      "TotalApplicants": 151,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "0",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "861.48",
+          "FreelancerValueLabel": "861.48",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 10
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 42.72638888888889
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": 150
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
     "Title": "Senior Fullstack Engineer - .Net/C# and Angular",
     "Uid": "1768496843567648768",
     "Rid": 1011998734,
@@ -72,10 +473,10 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T05:14:02.529Z",
-      "TotalApplicants": 22,
+      "TotalApplicants": 31,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 1,
+      "UnansweredInvites": 0,
       "InvitationsSent": 2
     },
     "Qualifications": {
@@ -119,7 +520,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 29.94202898550726
+        "Amount": 29.583333333333343
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -210,7 +611,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T22:14:15.747Z",
-      "TotalApplicants": 25,
+      "TotalApplicants": 27,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 1,
@@ -257,7 +658,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.68
+        "Amount": 40.925925925925924
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -342,7 +743,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T10:08:17.075Z",
-      "TotalApplicants": 63,
+      "TotalApplicants": 66,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -389,7 +790,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 30.108042328042334
+        "Amount": 30.027373737373743
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -479,10 +880,10 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-14T19:54:30.144Z",
-      "TotalApplicants": 81,
+      "LastBuyerActivity": "2024-03-15T14:18:01.845Z",
+      "TotalApplicants": 91,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
+      "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -527,7 +928,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 51.434595336076825
+        "Amount": 52.15606837606838
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -616,11 +1017,11 @@
     "Questions": [],
     "ConnectPrice": 8,
     "Activity": {
-      "LastBuyerActivity": "2024-03-14T14:15:55.031Z",
-      "TotalApplicants": 23,
+      "LastBuyerActivity": "2024-03-15T13:20:19.782Z",
+      "TotalApplicants": 25,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 8,
-      "UnansweredInvites": 2,
+      "TotalInvitedToInterview": 9,
+      "UnansweredInvites": 1,
       "InvitationsSent": 6
     },
     "Qualifications": {
@@ -664,7 +1065,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.91304347826087
+        "Amount": 38.56
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -672,7 +1073,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 21
+        "Amount": 22
       }
     }
   },
@@ -885,7 +1286,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T12:53:32.086Z",
-      "TotalApplicants": 60,
+      "TotalApplicants": 62,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -946,7 +1347,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 44.15
+        "Amount": 43.53225806451613
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1031,11 +1432,12 @@
     "Questions": [
       "How many how many projects have you done in Blazor, and for a total of how many years?",
       "How many years of experience do you have in Microsoft .NET (any framework / version)?",
-      "In how many projects have you implemented real time communications / interactive web pages (eg. using SignalR)?"
+      "In how many projects have you implemented real time communications / interactive web pages (eg. using SignalR)?",
+      "Do you have Azure experience? How many years of that, and in how many projects?"
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-13T21:25:06.226Z",
+      "LastBuyerActivity": "2024-03-15T17:05:18.07Z",
       "TotalApplicants": 63,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
@@ -1181,7 +1583,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T18:10:45.039Z",
-      "TotalApplicants": 114,
+      "TotalApplicants": 118,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1228,7 +1630,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.63771072796935
+        "Amount": 39.32103703703703
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1455,7 +1857,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T14:58:37.051Z",
-      "TotalApplicants": 6,
+      "TotalApplicants": 8,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1498,11 +1900,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39
+        "Amount": 24
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 71.5
+        "Amount": 60.375
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1590,7 +1992,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T16:52:52.269Z",
-      "TotalApplicants": 30,
+      "TotalApplicants": 31,
       "TotalHired": 0,
       "TotalInvitedToInterview": 16,
       "UnansweredInvites": 0,
@@ -1637,7 +2039,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.233333333333334
+        "Amount": 31.516129032258064
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1722,7 +2124,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T15:16:47.174Z",
-      "TotalApplicants": 11,
+      "TotalApplicants": 12,
       "TotalHired": 0,
       "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
@@ -1776,7 +2178,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 32.666666666666664
+        "Amount": 32.76923076923077
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1868,7 +2270,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T07:16:23.72Z",
-      "TotalApplicants": 234,
+      "TotalApplicants": 239,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1929,7 +2331,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.35121513002363
+        "Amount": 47.61577314814814
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2017,7 +2419,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-12T20:17:56.436Z",
-      "TotalApplicants": 125,
+      "TotalApplicants": 126,
       "TotalHired": 0,
       "TotalInvitedToInterview": 5,
       "UnansweredInvites": 2,
@@ -2071,7 +2473,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.742063492063494
+        "Amount": 39.625984251968504
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2412,7 +2814,7 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 4,
-        "HoursCount": 100.833333,
+        "HoursCount": 102.333333,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 1667.78
@@ -2751,12 +3153,12 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-14T17:30:38.592Z",
-      "TotalApplicants": 287,
+      "LastBuyerActivity": "2024-03-15T17:31:20.066Z",
+      "TotalApplicants": 286,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
+      "UnansweredInvites": 1,
+      "InvitationsSent": 1
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -2799,7 +3201,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36.35725423728813
+        "Amount": 36.3584693877551
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2944,287 +3346,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": 60.45454545454545
-      }
-    }
-  },
-  {
-    "Title": "MVP for Mental Health Web Application with React, Next.js, C# and .NET",
-    "Uid": "1767165979884310528",
-    "Rid": 1011905675,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~014020bfea9cd7178e",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-11T12:29:37.421Z",
-    "Rate": {
-      "Minimum": 40,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~014020bfea9cd7178e",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Germany",
-        "City": "Potsdam"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 3,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 2,
-        "Score": 5,
-        "TotalJobsWithHires": 3,
-        "HoursCount": 65,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 1701.95
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "JavaScript",
-      "Web Application",
-      "C#",
-      "Web Development",
-      "React",
-      "API",
-      "Healthcare",
-      "Telemedicine"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-12T16:28:47.229Z",
-      "TotalApplicants": 170,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 3,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 5,
-      "MatchedQualifications": 5,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "region=(Europe)",
-          "FreelancerValue": "Europe",
-          "FreelancerValueLabel": "Europe",
-          "ClientPreferredLabel": "Europe"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "861.48",
-          "FreelancerValueLabel": "861.48",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 10
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 40.059393358876115
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 85
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 48.333333333333336
-      }
-    }
-  },
-  {
-    "Title": "Telemedicine App with AI integrations and HIPAA compliance with C#, .NET, MS Azure Cloud and Angular",
-    "Uid": "1767164974766288896",
-    "Rid": 1011905605,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "More than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01cbf168e4c1cefb6b",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-11T12:25:37.759Z",
-    "Rate": {
-      "Minimum": 40,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01cbf168e4c1cefb6b",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Germany",
-        "City": "Potsdam"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 3,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 2,
-        "Score": 5,
-        "TotalJobsWithHires": 3,
-        "HoursCount": 65,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 1701.95
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "JavaScript",
-      "Web Application",
-      "C#",
-      "Angular",
-      "Web Development",
-      "API",
-      "Healthcare",
-      "Telemedicine"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 16,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-12T17:03:18.782Z",
-      "TotalApplicants": 122,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 3,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "861.48",
-          "FreelancerValueLabel": "861.48",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 10
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 37.482045855379184
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 80
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 33.333333333333336
       }
     }
   },
@@ -3935,7 +4056,7 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 5,
-        "HoursCount": 300.999999,
+        "HoursCount": 308.999999,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 4803.6
@@ -4069,7 +4190,7 @@
         "FeedbackCount": 142,
         "Score": 4.962431788,
         "TotalJobsWithHires": 145,
-        "HoursCount": 14572.666718,
+        "HoursCount": 14578.333384,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 253061.37
@@ -4103,7 +4224,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-12T20:15:58.246Z",
-      "TotalApplicants": 239,
+      "TotalApplicants": 240,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -4150,7 +4271,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 32.581060606060596
+        "Amount": 32.61159122085047
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4515,7 +4636,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-07T17:48:29.067Z",
-      "TotalApplicants": 56,
+      "TotalApplicants": 57,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -4562,7 +4683,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 29.15482142857143
+        "Amount": 28.906491228070177
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -4648,7 +4769,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T08:41:54.435Z",
-      "TotalApplicants": 47,
+      "TotalApplicants": 48,
       "TotalHired": 0,
       "TotalInvitedToInterview": 44,
       "UnansweredInvites": 0,
@@ -4695,7 +4816,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 25.395833333333332
+        "Amount": 25.591836734693878
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5008,7 +5129,7 @@
         "FeedbackCount": 40,
         "Score": 4.979692848,
         "TotalJobsWithHires": 152,
-        "HoursCount": 14155.600049,
+        "HoursCount": 14156.600049,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 501292.19
@@ -5296,7 +5417,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11213.700009,
+        "HoursCount": 11216.866676,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 631699.77
@@ -6129,7 +6250,7 @@
         "FeedbackCount": 46,
         "Score": 4.917265462,
         "TotalJobsWithHires": 69,
-        "HoursCount": 12181.500011,
+        "HoursCount": 12185.666678,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636584.34
@@ -6854,7 +6975,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-03T04:45:28.233Z",
-      "TotalApplicants": 51,
+      "TotalApplicants": 52,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 2,
@@ -6901,7 +7022,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 62.13888888888888
+        "Amount": 63.32494758909852
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -6985,7 +7106,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T02:45:43.239Z",
-      "TotalApplicants": 6,
+      "TotalApplicants": 7,
       "TotalHired": 0,
       "TotalInvitedToInterview": 6,
       "UnansweredInvites": 0,
@@ -7039,11 +7160,11 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 69.16666666666667
+        "Amount": 71.42857142857143
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 75
+        "Amount": 85
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -7394,8 +7515,8 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-13T03:44:16.13Z",
-      "TotalApplicants": 14,
+      "LastBuyerActivity": "2024-03-15T18:03:26.878Z",
+      "TotalApplicants": 11,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 1,
@@ -7445,11 +7566,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 25
+        "Amount": 40
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 66
+        "Amount": 73.54545454545455
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -7760,7 +7881,7 @@
         "FeedbackCount": 45,
         "Score": 4.91021331,
         "TotalJobsWithHires": 63,
-        "HoursCount": 615.666668,
+        "HoursCount": 618.500001,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 25939.27
@@ -8322,9 +8443,9 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-01T08:18:33.013Z",
-      "TotalApplicants": 19,
+      "TotalApplicants": 18,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 5,
+      "TotalInvitedToInterview": 4,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -8376,7 +8497,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.6
+        "Amount": 40.36842105263158
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -8384,7 +8505,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 46.4
+        "Amount": 46.75
       }
     }
   },
@@ -8428,7 +8549,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1517.333342,
+        "HoursCount": 1524.500008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -8562,11 +8683,11 @@
       },
       "Stats": {
         "TotalAssignments": 22,
-        "ActiveAssignmentsCount": 8,
-        "FeedbackCount": 11,
+        "ActiveAssignmentsCount": 7,
+        "FeedbackCount": 12,
         "Score": 5,
         "TotalJobsWithHires": 20,
-        "HoursCount": 312.666668,
+        "HoursCount": 314.666668,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 10110.61
@@ -9699,7 +9820,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1517.333342,
+        "HoursCount": 1524.500008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -9837,7 +9958,7 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 8,
-        "HoursCount": 222.16667,
+        "HoursCount": 223.500003,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 5340.92
@@ -10412,7 +10533,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11213.700009,
+        "HoursCount": 11216.866676,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 631699.77
@@ -10822,7 +10943,7 @@
         "FeedbackCount": 40,
         "Score": 4.929088709,
         "TotalJobsWithHires": 54,
-        "HoursCount": 2187.500003,
+        "HoursCount": 2188.16667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 46313.61
@@ -11126,7 +11247,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T12:39:09.201Z",
-      "TotalApplicants": 14,
+      "TotalApplicants": 15,
       "TotalHired": 0,
       "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
@@ -11166,7 +11287,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.642857142857146
+        "Amount": 45.3
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -11218,7 +11339,7 @@
         "FeedbackCount": 35,
         "Score": 4.923691786,
         "TotalJobsWithHires": 44,
-        "HoursCount": 4119.500001,
+        "HoursCount": 4123.666667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 108570.87
@@ -12047,7 +12168,7 @@
         "FeedbackCount": 46,
         "Score": 4.917265462,
         "TotalJobsWithHires": 69,
-        "HoursCount": 12181.500011,
+        "HoursCount": 12185.666678,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636584.34
@@ -13011,7 +13132,7 @@
         "FeedbackCount": 281,
         "Score": 4.985240896,
         "TotalJobsWithHires": 299,
-        "HoursCount": 35745.83335,
+        "HoursCount": 35759.166683,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636177.67
@@ -13180,7 +13301,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-18T22:09:03.337Z",
-      "TotalApplicants": 31,
+      "TotalApplicants": 30,
       "TotalHired": 0,
       "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
@@ -13227,7 +13348,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 56.83870967741935
+        "Amount": 57.56666666666667
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -13364,6 +13485,145 @@
       "MaxRateBid": {
         "CurrencyCode": "USD",
         "Amount": 90
+      },
+      "AvgInterviewedRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      }
+    }
+  },
+  {
+    "Title": "Senior Angular Developer with .NET and REST API experience",
+    "Uid": "1746957931363721216",
+    "Rid": 1010688036,
+    "Cooperation": {
+      "DurationLabel": "More than 6 months",
+      "Workload": "More than 30 hrs/week",
+      "StartDate": null,
+      "DeliveryDate": null,
+      "NumberOfPositionsToHire": 1
+    },
+    "CipherText": "~014a47508ae21538ae",
+    "Category": "Web Development",
+    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
+    "PublishedTime": "2024-01-15T21:10:03.779Z",
+    "Rate": {
+      "Minimum": 15,
+      "Maximum": 55,
+      "Currency": "USD"
+    },
+    "LinkUrl": "~014a47508ae21538ae",
+    "Developers": {
+      "MoreDevsExplicitly": false,
+      "MoreDevsImplicitly": 0
+    },
+    "Customer": {
+      "Location": {
+        "Country": "United States",
+        "City": "N/A"
+      },
+      "Profile": {
+        "Industry": "Health \u0026 Fitness",
+        "Size": "10"
+      },
+      "Stats": {
+        "TotalAssignments": 1,
+        "ActiveAssignmentsCount": 1,
+        "FeedbackCount": 0,
+        "Score": 0,
+        "TotalJobsWithHires": 1,
+        "HoursCount": 84.666668,
+        "TotalCharges": {
+          "CurrencyCode": "USD",
+          "Amount": 856.08
+        }
+      }
+    },
+    "BusinessDomain": "N/A",
+    "Technology": {
+      "Architecture": "N/A",
+      "DotnetVersion": "N/A",
+      "BackendFrameworks": "N/A",
+      "FrontendFrameworks": "N/A",
+      "Databases": "N/A",
+      "Cloud": {
+        "Provider": "N/A",
+        "Services": "N/A"
+      },
+      "ThirdParty": "N/A"
+    },
+    "ApplicationProcess": "N/A",
+    "UnusualRequirements": "N/A",
+    "Requirements": [
+      ".NET Framework",
+      "ASP.NET",
+      "Docker",
+      "AngularJS",
+      "Angular 6",
+      "Angular",
+      "C#",
+      "Angular Material",
+      "Cypress"
+    ],
+    "Duties": "N/A",
+    "Questions": [
+      "Describe your recent experience with similar projects"
+    ],
+    "ConnectPrice": 16,
+    "Activity": {
+      "LastBuyerActivity": "2024-02-21T01:30:26.899Z",
+      "TotalApplicants": 0,
+      "TotalHired": 0,
+      "TotalInvitedToInterview": 0,
+      "UnansweredInvites": 0,
+      "InvitationsSent": 0
+    },
+    "Qualifications": {
+      "TotalQualifications": 4,
+      "MatchedQualifications": 4,
+      "QualificationsDetails": [
+        {
+          "Qualified": true,
+          "ClientPreferred": "all",
+          "FreelancerValue": "IC",
+          "FreelancerValueLabel": "Not Specified",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "3",
+          "FreelancerValue": "3",
+          "FreelancerValueLabel": "Fluent",
+          "ClientPreferredLabel": "Fluent"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "ANY",
+          "FreelancerValue": "861.48",
+          "FreelancerValueLabel": "861.48",
+          "ClientPreferredLabel": "Any"
+        },
+        {
+          "Qualified": true,
+          "ClientPreferred": "Any",
+          "FreelancerValue": "en",
+          "FreelancerValueLabel": "English",
+          "ClientPreferredLabel": null
+        }
+      ]
+    },
+    "Stats": {
+      "MinRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      },
+      "AvgRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
+      },
+      "MaxRateBid": {
+        "CurrencyCode": "USD",
+        "Amount": -1
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -13966,7 +14226,7 @@
         "FeedbackCount": 102,
         "Score": 4.992724378,
         "TotalJobsWithHires": 194,
-        "HoursCount": 109262.667223,
+        "HoursCount": 109270.167223,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 3555595.46
@@ -14256,7 +14516,7 @@
         "FeedbackCount": 49,
         "Score": 4.981710782,
         "TotalJobsWithHires": 57,
-        "HoursCount": 968.166709,
+        "HoursCount": 968.666709,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 19959.7
@@ -14533,7 +14793,7 @@
         "FeedbackCount": 3,
         "Score": 5,
         "TotalJobsWithHires": 7,
-        "HoursCount": 13186.500013,
+        "HoursCount": 13193.16668,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 211234.4
@@ -14941,7 +15201,7 @@
         "FeedbackCount": 239,
         "Score": 4.856988279,
         "TotalJobsWithHires": 274,
-        "HoursCount": 21466.50018,
+        "HoursCount": 21466.833513,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 599975.96
@@ -15639,7 +15899,7 @@
         "FeedbackCount": 35,
         "Score": 4.923691786,
         "TotalJobsWithHires": 44,
-        "HoursCount": 4119.500001,
+        "HoursCount": 4123.666667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 108570.87
@@ -15920,7 +16180,7 @@
         "FeedbackCount": 34,
         "Score": 4.97767151,
         "TotalJobsWithHires": 41,
-        "HoursCount": 3400.666684,
+        "HoursCount": 3403.000017,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 55524.74
@@ -16192,7 +16452,7 @@
         "FeedbackCount": 13,
         "Score": 5,
         "TotalJobsWithHires": 18,
-        "HoursCount": 837.83333,
+        "HoursCount": 838.666663,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 11502.36
@@ -16465,7 +16725,7 @@
         "FeedbackCount": 6,
         "Score": 4.467794169,
         "TotalJobsWithHires": 17,
-        "HoursCount": 15001.666709,
+        "HoursCount": 15028.500043,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 570741.93
@@ -16583,139 +16843,6 @@
     }
   },
   {
-    "Title": ".net fullstack developer (for existing web based platform finetuning and new features) - co-founder ",
-    "Uid": "1755690673901416448",
-    "Rid": 1011215925,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~0162328a3ad5129957",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-08T20:30:51.341Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 70,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~0162328a3ad5129957",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "Belgium",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "Tech \u0026 IT",
-        "Size": "2"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      "ASP.NET",
-      "C#",
-      "Web Development",
-      "Microsoft SQL Server",
-      "API Integration"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 12,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-14T15:55:40.346Z",
-      "TotalApplicants": 73,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 5,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "861.48",
-          "FreelancerValueLabel": "861.48",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 5
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 36.88546423135464
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 85
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 43.75
-      }
-    }
-  },
-  {
     "Title": "Microsoft Platform Developer .Net/ASP",
     "Uid": "1755689017892233216",
     "Rid": 1011215777,
@@ -16755,7 +16882,7 @@
         "FeedbackCount": 106,
         "Score": 4.830051265,
         "TotalJobsWithHires": 125,
-        "HoursCount": 80323.83358,
+        "HoursCount": 80346.666912,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2276106.78
@@ -16889,7 +17016,7 @@
         "FeedbackCount": 11,
         "Score": 4.998351058,
         "TotalJobsWithHires": 22,
-        "HoursCount": 3003.500004,
+        "HoursCount": 3006.666671,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 167252.8
@@ -17037,7 +17164,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1517.333342,
+        "HoursCount": 1524.500008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -17312,7 +17439,7 @@
         "FeedbackCount": 5,
         "Score": 4.954397143,
         "TotalJobsWithHires": 8,
-        "HoursCount": 15760.33336,
+        "HoursCount": 15776.83336,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 432158.29
@@ -17446,7 +17573,7 @@
         "FeedbackCount": 3,
         "Score": 4.563237064,
         "TotalJobsWithHires": 6,
-        "HoursCount": 191.5,
+        "HoursCount": 192.666667,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2455.83
@@ -18602,7 +18729,7 @@
         "FeedbackCount": 73,
         "Score": 4.55374583,
         "TotalJobsWithHires": 82,
-        "HoursCount": 10216.50001,
+        "HoursCount": 10217.833343,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 201394.77
@@ -18731,7 +18858,7 @@
         "FeedbackCount": 228,
         "Score": 4.799895154,
         "TotalJobsWithHires": 180,
-        "HoursCount": 94924.166734,
+        "HoursCount": 95060.666734,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2881667.84
@@ -19019,7 +19146,7 @@
         "FeedbackCount": 155,
         "Score": 4.654202061,
         "TotalJobsWithHires": 259,
-        "HoursCount": 6764.566682,
+        "HoursCount": 6776.066682,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 155834.05
@@ -19291,7 +19418,7 @@
         "FeedbackCount": 21,
         "Score": 4.864736834,
         "TotalJobsWithHires": 50,
-        "HoursCount": 23367.143389,
+        "HoursCount": 23375.643389,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 494286.41
