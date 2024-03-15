@@ -84,12 +84,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-15T04:39:23.370Z",
-      "totalApplicants": 7,
+      "lastBuyerActivity": "2024-03-15T05:14:02.529Z",
+      "totalApplicants": 22,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 1,
+      "invitationsSent": 2
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -156,7 +156,7 @@
       }
     },
     "jobs": {
-      "postedCount": 0,
+      "postedCount": 1,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
