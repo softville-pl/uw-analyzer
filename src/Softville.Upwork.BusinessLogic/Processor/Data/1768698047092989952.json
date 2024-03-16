@@ -83,10 +83,10 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-15T18:04:04.831Z",
-      "totalApplicants": 3,
+      "totalApplicants": 10,
       "totalHired": 0,
-      "totalInvitedToInterview": 1,
-      "unansweredInvites": 5,
+      "totalInvitedToInterview": 4,
+      "unansweredInvites": 2,
       "invitationsSent": 7
     },
     "weeklyRetainerBudget": null,
@@ -144,7 +144,7 @@
       }
     },
     "jobs": {
-      "postedCount": 2,
+      "postedCount": 3,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
@@ -184,8 +184,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

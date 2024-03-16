@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-15T13:20:19.782Z",
-      "totalApplicants": 25,
+      "totalApplicants": 26,
       "totalHired": 0,
       "totalInvitedToInterview": 9,
       "unansweredInvites": 1,
@@ -187,8 +187,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

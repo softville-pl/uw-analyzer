@@ -164,7 +164,7 @@
       }
     },
     "jobs": {
-      "postedCount": 124,
+      "postedCount": 125,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
@@ -214,8 +214,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

@@ -69,10 +69,10 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T18:04:04.831Z",
-      "TotalApplicants": 3,
+      "TotalApplicants": 10,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 5,
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 2,
       "InvitationsSent": 7
     },
     "Qualifications": {
@@ -103,8 +103,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -112,19 +112,19 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 16
+        "Amount": 10
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 27.125
+        "Amount": 26.227272727272727
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40
+        "Amount": 50
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 30.25
       }
     }
   },
@@ -202,10 +202,10 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-15T17:04:25.166Z",
-      "TotalApplicants": 76,
+      "LastBuyerActivity": "2024-03-15T22:22:02.62Z",
+      "TotalApplicants": 97,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 2,
+      "TotalInvitedToInterview": 5,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -237,8 +237,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -250,7 +250,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.85014619883041
+        "Amount": 45.42450113378685
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -258,7 +258,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 67
       }
     }
   },
@@ -302,7 +302,7 @@
         "FeedbackCount": 93,
         "Score": 4.848879591,
         "TotalJobsWithHires": 98,
-        "HoursCount": 11390.166682,
+        "HoursCount": 11401.333349,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 165836.2
@@ -341,7 +341,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T15:21:54.008Z",
-      "TotalApplicants": 151,
+      "TotalApplicants": 188,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -375,8 +375,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -388,7 +388,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 42.72638888888889
+        "Amount": 43.94594328703704
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -473,7 +473,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T05:14:02.529Z",
-      "TotalApplicants": 31,
+      "TotalApplicants": 33,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
@@ -507,8 +507,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -520,7 +520,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 29.583333333333343
+        "Amount": 30.49019607843138
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -611,7 +611,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T22:14:15.747Z",
-      "TotalApplicants": 27,
+      "TotalApplicants": 29,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 1,
@@ -645,8 +645,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -658,7 +658,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 40.925925925925924
+        "Amount": 40.86206896551724
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -742,8 +742,8 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-15T10:08:17.075Z",
-      "TotalApplicants": 66,
+      "LastBuyerActivity": "2024-03-15T22:23:06.969Z",
+      "TotalApplicants": 67,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -777,8 +777,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -790,7 +790,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 30.027373737373743
+        "Amount": 30.250845771144284
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -880,12 +880,12 @@
     "Questions": [],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-15T14:18:01.845Z",
-      "TotalApplicants": 91,
+      "LastBuyerActivity": "2024-03-15T21:48:39.049Z",
+      "TotalApplicants": 96,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 1,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
+      "TotalInvitedToInterview": 4,
+      "UnansweredInvites": 5,
+      "InvitationsSent": 9
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -915,8 +915,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -924,11 +924,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 16
+        "Amount": 15
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 52.15606837606838
+        "Amount": 51.366689814814826
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -936,7 +936,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 48.25
       }
     }
   },
@@ -1018,7 +1018,7 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-15T13:20:19.782Z",
-      "TotalApplicants": 25,
+      "TotalApplicants": 26,
       "TotalHired": 0,
       "TotalInvitedToInterview": 9,
       "UnansweredInvites": 1,
@@ -1052,8 +1052,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1065,7 +1065,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 38.56
+        "Amount": 38.61538461538461
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1152,7 +1152,7 @@
       "LastBuyerActivity": "2024-03-14T01:13:34.695Z",
       "TotalApplicants": 109,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 8,
+      "TotalInvitedToInterview": 7,
       "UnansweredInvites": 0,
       "InvitationsSent": 7
     },
@@ -1184,8 +1184,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1197,7 +1197,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 28.733233233233236
+        "Amount": 28.5980980980981
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1205,7 +1205,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36
+        "Amount": 34
       }
     }
   },
@@ -1334,8 +1334,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1347,7 +1347,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.53225806451613
+        "Amount": 43.29032258064516
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1479,8 +1479,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1497,144 +1497,6 @@
       "MaxRateBid": {
         "CurrencyCode": "USD",
         "Amount": 65
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Looking for senior C#, .NET, Javascript full stack Developer",
-    "Uid": "1767976605734391808",
-    "Rid": 1011965032,
-    "Cooperation": {
-      "DurationLabel": "More than 6 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~01f2fbe087dc524308",
-    "Category": "Web Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-03-13T18:10:45.508Z",
-    "Rate": {
-      "Minimum": 25,
-      "Maximum": 50,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~01f2fbe087dc524308",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United States",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 1,
-        "ActiveAssignmentsCount": 1,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 1,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "ASP.NET",
-      "ASP.NET MVC",
-      "ASP.NET Core",
-      "JavaScript",
-      "C#",
-      "API",
-      "AngularJS",
-      "API Integration",
-      "React"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 12,
-    "Activity": {
-      "LastBuyerActivity": "2024-03-13T18:10:45.039Z",
-      "TotalApplicants": 118,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "861.48",
-          "FreelancerValueLabel": "861.48",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 15
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 39.32103703703703
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 100
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
@@ -1719,12 +1581,12 @@
     "Questions": [],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-13T17:29:44.803Z",
-      "TotalApplicants": 8,
+      "LastBuyerActivity": "2024-03-15T22:13:37.879Z",
+      "TotalApplicants": 10,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 0,
-      "UnansweredInvites": 0,
-      "InvitationsSent": 0
+      "TotalInvitedToInterview": 7,
+      "UnansweredInvites": 2,
+      "InvitationsSent": 6
     },
     "Qualifications": {
       "TotalQualifications": 4,
@@ -1754,8 +1616,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1763,11 +1625,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 27
+        "Amount": 25
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 77.125
+        "Amount": 69.2
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1775,7 +1637,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 67.85714285714286
       }
     }
   },
@@ -1857,7 +1719,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T14:58:37.051Z",
-      "TotalApplicants": 8,
+      "TotalApplicants": 7,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -1891,8 +1753,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -1904,7 +1766,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 60.375
+        "Amount": 59
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -1992,9 +1854,9 @@
     "ConnectPrice": 8,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T16:52:52.269Z",
-      "TotalApplicants": 31,
+      "TotalApplicants": 30,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 16,
+      "TotalInvitedToInterview": 15,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -2026,8 +1888,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2039,7 +1901,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.516129032258064
+        "Amount": 31.066666666666666
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2047,7 +1909,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 31.125
+        "Amount": 30.2
       }
     }
   },
@@ -2165,8 +2027,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2270,7 +2132,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-14T07:16:23.72Z",
-      "TotalApplicants": 239,
+      "TotalApplicants": 240,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -2318,8 +2180,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2331,7 +2193,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.61577314814814
+        "Amount": 47.625666205624704
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2419,7 +2281,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-12T20:17:56.436Z",
-      "TotalApplicants": 126,
+      "TotalApplicants": 125,
       "TotalHired": 0,
       "TotalInvitedToInterview": 5,
       "UnansweredInvites": 2,
@@ -2460,8 +2322,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2473,7 +2335,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 39.625984251968504
+        "Amount": 39.464285714285715
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2523,7 +2385,7 @@
         "TotalAssignments": 24,
         "ActiveAssignmentsCount": 2,
         "FeedbackCount": 18,
-        "Score": 4.999023647,
+        "Score": 4.991956514,
         "TotalJobsWithHires": 22,
         "HoursCount": 3905.166676,
         "TotalCharges": {
@@ -2568,10 +2430,10 @@
     ],
     "ConnectPrice": 12,
     "Activity": {
-      "LastBuyerActivity": "2024-03-14T22:46:05.436Z",
-      "TotalApplicants": 56,
+      "LastBuyerActivity": "2024-03-15T20:27:15.422Z",
+      "TotalApplicants": 55,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 1,
+      "TotalInvitedToInterview": 3,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -2617,8 +2479,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2630,7 +2492,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 50.98245614035088
+        "Amount": 50.82142857142857
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -2638,7 +2500,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": -1
+        "Amount": 46.666666666666664
       }
     }
   },
@@ -2749,8 +2611,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -2814,7 +2676,7 @@
         "FeedbackCount": 1,
         "Score": 5,
         "TotalJobsWithHires": 4,
-        "HoursCount": 102.333333,
+        "HoursCount": 132.666666,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 1667.78
@@ -2903,8 +2765,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3054,8 +2916,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3188,8 +3050,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3290,9 +3152,9 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-03-13T16:54:12.919Z",
-      "TotalApplicants": 41,
+      "TotalApplicants": 40,
       "TotalHired": 0,
-      "TotalInvitedToInterview": 11,
+      "TotalInvitedToInterview": 10,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
     },
@@ -3324,8 +3186,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3337,7 +3199,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 47.16279069767442
+        "Amount": 46.73809523809524
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -3345,7 +3207,7 @@
       },
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 60.45454545454545
+        "Amount": 60
       }
     }
   },
@@ -3456,8 +3318,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3594,8 +3456,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3726,8 +3588,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3858,8 +3720,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -3991,8 +3853,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4125,8 +3987,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4190,7 +4052,7 @@
         "FeedbackCount": 142,
         "Score": 4.962431788,
         "TotalJobsWithHires": 145,
-        "HoursCount": 14578.333384,
+        "HoursCount": 14598.333383,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 253061.37
@@ -4258,8 +4120,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4402,8 +4264,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4537,8 +4399,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4670,8 +4532,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4803,8 +4665,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -4933,8 +4795,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5030,7 +4892,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-11T18:23:28.016Z",
-      "TotalApplicants": 52,
+      "TotalApplicants": 51,
       "TotalHired": 0,
       "TotalInvitedToInterview": 2,
       "UnansweredInvites": 0,
@@ -5064,8 +4926,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5077,7 +4939,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 53.07388888888889
+        "Amount": 52.754528301886786
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5129,7 +4991,7 @@
         "FeedbackCount": 40,
         "Score": 4.979692848,
         "TotalJobsWithHires": 152,
-        "HoursCount": 14156.600049,
+        "HoursCount": 14157.266716,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 501292.19
@@ -5167,7 +5029,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-03-07T17:35:26.424Z",
-      "TotalApplicants": 27,
+      "TotalApplicants": 28,
       "TotalHired": 0,
       "TotalInvitedToInterview": 0,
       "UnansweredInvites": 0,
@@ -5208,8 +5070,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5221,7 +5083,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 48.666666666666664
+        "Amount": 48
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -5352,8 +5214,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5417,7 +5279,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11216.866676,
+        "HoursCount": 11221.533342,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 631699.77
@@ -5493,8 +5355,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5631,8 +5493,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5768,8 +5630,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -5905,8 +5767,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6047,8 +5909,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6185,8 +6047,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6250,7 +6112,7 @@
         "FeedbackCount": 46,
         "Score": 4.917265462,
         "TotalJobsWithHires": 69,
-        "HoursCount": 12185.666678,
+        "HoursCount": 12187.666678,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636584.34
@@ -6322,8 +6184,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6469,8 +6331,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6595,8 +6457,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6740,8 +6602,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -6877,8 +6739,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7009,8 +6871,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7147,8 +7009,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7285,8 +7147,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7350,7 +7212,7 @@
         "FeedbackCount": 11,
         "Score": 4.999318099,
         "TotalJobsWithHires": 15,
-        "HoursCount": 2617.666666,
+        "HoursCount": 2632.666666,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40940.18
@@ -7416,8 +7278,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7557,8 +7419,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7622,7 +7484,7 @@
         "FeedbackCount": 4,
         "Score": 5,
         "TotalJobsWithHires": 6,
-        "HoursCount": 626.333333,
+        "HoursCount": 646.333333,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 13229.53
@@ -7690,8 +7552,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7816,8 +7678,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -7951,8 +7813,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8077,8 +7939,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8208,8 +8070,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8337,8 +8199,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8484,8 +8346,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8549,7 +8411,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1524.500008,
+        "HoursCount": 1530.000008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -8622,8 +8484,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8764,8 +8626,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -8909,8 +8771,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9051,8 +8913,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9208,8 +9070,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9358,8 +9220,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9491,8 +9353,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9620,8 +9482,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9755,8 +9617,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -9820,7 +9682,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1524.500008,
+        "HoursCount": 1530.000008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -9893,8 +9755,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10041,8 +9903,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10186,8 +10048,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10318,8 +10180,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10468,8 +10330,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10533,7 +10395,7 @@
         "FeedbackCount": 59,
         "Score": 4.997930719,
         "TotalJobsWithHires": 111,
-        "HoursCount": 11216.866676,
+        "HoursCount": 11221.533342,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 631699.77
@@ -10609,8 +10471,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10745,8 +10607,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -10878,8 +10740,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11009,8 +10871,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11147,8 +11009,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11274,8 +11136,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11379,9 +11241,9 @@
     ],
     "ConnectPrice": 16,
     "Activity": {
-      "LastBuyerActivity": "2024-03-13T02:56:17.06Z",
-      "TotalApplicants": 17,
-      "TotalHired": 1,
+      "LastBuyerActivity": "2024-03-16T03:24:39.574Z",
+      "TotalApplicants": 16,
+      "TotalHired": 2,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 0,
       "InvitationsSent": 0
@@ -11428,8 +11290,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11437,11 +11299,11 @@
     "Stats": {
       "MinRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 15
+        "Amount": 20
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 36.05
+        "Amount": 37.28823529411765
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -11527,7 +11389,7 @@
     "ConnectPrice": 12,
     "Activity": {
       "LastBuyerActivity": "2024-02-27T03:26:01.724Z",
-      "TotalApplicants": 17,
+      "TotalApplicants": 18,
       "TotalHired": 0,
       "TotalInvitedToInterview": 1,
       "UnansweredInvites": 4,
@@ -11568,8 +11430,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11581,7 +11443,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 37.535
+        "Amount": 38.71736842105263
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -11701,8 +11563,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11834,8 +11696,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -11966,8 +11828,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12103,8 +11965,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12168,7 +12030,7 @@
         "FeedbackCount": 46,
         "Score": 4.917265462,
         "TotalJobsWithHires": 69,
-        "HoursCount": 12185.666678,
+        "HoursCount": 12187.666678,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636584.34
@@ -12238,8 +12100,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12374,8 +12236,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12519,8 +12381,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12664,8 +12526,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12729,7 +12591,7 @@
         "FeedbackCount": 9,
         "Score": 4.984716712,
         "TotalJobsWithHires": 11,
-        "HoursCount": 3394.000013,
+        "HoursCount": 3396.000014,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 151716.4
@@ -12763,7 +12625,7 @@
     "ConnectPrice": 16,
     "Activity": {
       "LastBuyerActivity": "2024-02-19T17:00:06.552Z",
-      "TotalApplicants": 356,
+      "TotalApplicants": 357,
       "TotalHired": 0,
       "TotalInvitedToInterview": 4,
       "UnansweredInvites": 1,
@@ -12797,8 +12659,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -12810,7 +12672,7 @@
       },
       "AvgRateBid": {
         "CurrencyCode": "USD",
-        "Amount": 43.56729186010523
+        "Amount": 43.724049382716046
       },
       "MaxRateBid": {
         "CurrencyCode": "USD",
@@ -12931,8 +12793,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13067,8 +12929,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13132,7 +12994,7 @@
         "FeedbackCount": 281,
         "Score": 4.985240896,
         "TotalJobsWithHires": 299,
-        "HoursCount": 35759.166683,
+        "HoursCount": 35819.666684,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 636177.67
@@ -13202,8 +13064,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13335,8 +13197,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13467,8 +13329,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13532,7 +13394,7 @@
         "FeedbackCount": 0,
         "Score": 0,
         "TotalJobsWithHires": 1,
-        "HoursCount": 84.666668,
+        "HoursCount": 85.666668,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 856.08
@@ -13606,8 +13468,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13744,8 +13606,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -13874,8 +13736,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14021,8 +13883,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14161,8 +14023,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14226,7 +14088,7 @@
         "FeedbackCount": 102,
         "Score": 4.992724378,
         "TotalJobsWithHires": 194,
-        "HoursCount": 109270.167223,
+        "HoursCount": 109297.167225,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 3555595.46
@@ -14315,8 +14177,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14451,8 +14313,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14593,8 +14455,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14728,8 +14590,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -14868,8 +14730,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15000,8 +14862,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15136,8 +14998,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15274,8 +15136,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15417,8 +15279,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15557,8 +15419,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15716,8 +15578,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15834,8 +15696,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -15978,8 +15840,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16115,8 +15977,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16180,7 +16042,7 @@
         "FeedbackCount": 34,
         "Score": 4.97767151,
         "TotalJobsWithHires": 41,
-        "HoursCount": 3403.000017,
+        "HoursCount": 3403.666684,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 55524.74
@@ -16250,8 +16112,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16272,143 +16134,6 @@
       "AvgInterviewedRateBid": {
         "CurrencyCode": "USD",
         "Amount": -1
-      }
-    }
-  },
-  {
-    "Title": "Cryptographic Algorithms Developer",
-    "Uid": "1757051352639086592",
-    "Rid": 1011283901,
-    "Cooperation": {
-      "DurationLabel": "1 to 3 months",
-      "Workload": "Less than 30 hrs/week",
-      "StartDate": null,
-      "DeliveryDate": null,
-      "NumberOfPositionsToHire": 1
-    },
-    "CipherText": "~012af1279d98ee1bc5",
-    "Category": "Desktop Application Development",
-    "CategoryGroup": "Web, Mobile \u0026 Software Dev",
-    "PublishedTime": "2024-02-12T14:37:42.501Z",
-    "Rate": {
-      "Minimum": 75,
-      "Maximum": 105,
-      "Currency": "USD"
-    },
-    "LinkUrl": "~012af1279d98ee1bc5",
-    "Developers": {
-      "MoreDevsExplicitly": false,
-      "MoreDevsImplicitly": 0
-    },
-    "Customer": {
-      "Location": {
-        "Country": "United Kingdom",
-        "City": "N/A"
-      },
-      "Profile": {
-        "Industry": "N/A",
-        "Size": "N/A"
-      },
-      "Stats": {
-        "TotalAssignments": 0,
-        "ActiveAssignmentsCount": 0,
-        "FeedbackCount": 0,
-        "Score": 0,
-        "TotalJobsWithHires": 0,
-        "HoursCount": 0,
-        "TotalCharges": {
-          "CurrencyCode": "USD",
-          "Amount": 0
-        }
-      }
-    },
-    "BusinessDomain": "N/A",
-    "Technology": {
-      "Architecture": "N/A",
-      "DotnetVersion": "N/A",
-      "BackendFrameworks": "N/A",
-      "FrontendFrameworks": "N/A",
-      "Databases": "N/A",
-      "Cloud": {
-        "Provider": "N/A",
-        "Services": "N/A"
-      },
-      "ThirdParty": "N/A"
-    },
-    "ApplicationProcess": "N/A",
-    "UnusualRequirements": "N/A",
-    "Requirements": [
-      ".NET Framework",
-      "Python",
-      "Node.js",
-      "Artificial Intelligence",
-      "AngularJS",
-      "D3.js",
-      "PHP",
-      "Machine Learning",
-      "IDE"
-    ],
-    "Duties": "N/A",
-    "Questions": [],
-    "ConnectPrice": 12,
-    "Activity": {
-      "LastBuyerActivity": "2024-02-14T20:06:50.662Z",
-      "TotalApplicants": 14,
-      "TotalHired": 0,
-      "TotalInvitedToInterview": 8,
-      "UnansweredInvites": 10,
-      "InvitationsSent": 30
-    },
-    "Qualifications": {
-      "TotalQualifications": 4,
-      "MatchedQualifications": 4,
-      "QualificationsDetails": [
-        {
-          "Qualified": true,
-          "ClientPreferred": "all",
-          "FreelancerValue": "IC",
-          "FreelancerValueLabel": "Not Specified",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "0",
-          "FreelancerValue": "3",
-          "FreelancerValueLabel": "Fluent",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "ANY",
-          "FreelancerValue": "861.48",
-          "FreelancerValueLabel": "861.48",
-          "ClientPreferredLabel": "Any"
-        },
-        {
-          "Qualified": true,
-          "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
-          "ClientPreferredLabel": null
-        }
-      ]
-    },
-    "Stats": {
-      "MinRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 20
-      },
-      "AvgRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 75.73333333333333
-      },
-      "MaxRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 130
-      },
-      "AvgInterviewedRateBid": {
-        "CurrencyCode": "USD",
-        "Amount": 79.375
       }
     }
   },
@@ -16526,8 +16251,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16660,8 +16385,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16725,7 +16450,7 @@
         "FeedbackCount": 6,
         "Score": 4.467794169,
         "TotalJobsWithHires": 17,
-        "HoursCount": 15028.500043,
+        "HoursCount": 15033.66671,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 570741.93
@@ -16817,8 +16542,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -16882,7 +16607,7 @@
         "FeedbackCount": 106,
         "Score": 4.830051265,
         "TotalJobsWithHires": 125,
-        "HoursCount": 80346.666912,
+        "HoursCount": 80348.500245,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2276106.78
@@ -16951,8 +16676,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17016,7 +16741,7 @@
         "FeedbackCount": 11,
         "Score": 4.998351058,
         "TotalJobsWithHires": 22,
-        "HoursCount": 3006.666671,
+        "HoursCount": 3008.666671,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 167252.8
@@ -17099,8 +16824,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17164,7 +16889,7 @@
         "FeedbackCount": 16,
         "Score": 4.910486456,
         "TotalJobsWithHires": 33,
-        "HoursCount": 1524.500008,
+        "HoursCount": 1530.000008,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 40786.07
@@ -17237,8 +16962,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17374,8 +17099,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17508,8 +17233,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17659,8 +17384,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -17800,8 +17525,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "en",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": "English"
         }
       ]
@@ -17860,11 +17585,11 @@
         "Size": "10"
       },
       "Stats": {
-        "TotalAssignments": 1,
-        "ActiveAssignmentsCount": 1,
+        "TotalAssignments": 2,
+        "ActiveAssignmentsCount": 2,
         "FeedbackCount": 0,
         "Score": 0,
-        "TotalJobsWithHires": 1,
+        "TotalJobsWithHires": 2,
         "HoursCount": 0,
         "TotalCharges": {
           "CurrencyCode": "USD",
@@ -17935,8 +17660,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18085,8 +17810,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18220,8 +17945,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18380,8 +18105,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18532,8 +18257,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18664,8 +18389,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18729,7 +18454,7 @@
         "FeedbackCount": 73,
         "Score": 4.55374583,
         "TotalJobsWithHires": 82,
-        "HoursCount": 10217.833343,
+        "HoursCount": 10218.00001,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 201394.77
@@ -18793,8 +18518,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -18858,7 +18583,7 @@
         "FeedbackCount": 228,
         "Score": 4.799895154,
         "TotalJobsWithHires": 180,
-        "HoursCount": 95060.666734,
+        "HoursCount": 95163.166734,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 2881667.84
@@ -18932,8 +18657,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -19081,8 +18806,8 @@
         {
           "Qualified": false,
           "ClientPreferred": "it",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": "Italian"
         }
       ]
@@ -19146,7 +18871,7 @@
         "FeedbackCount": 155,
         "Score": 4.654202061,
         "TotalJobsWithHires": 259,
-        "HoursCount": 6776.066682,
+        "HoursCount": 6778.566682,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 155834.05
@@ -19216,8 +18941,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -19353,8 +19078,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]
@@ -19418,7 +19143,7 @@
         "FeedbackCount": 21,
         "Score": 4.864736834,
         "TotalJobsWithHires": 50,
-        "HoursCount": 23375.643389,
+        "HoursCount": 23381.143389,
         "TotalCharges": {
           "CurrencyCode": "USD",
           "Amount": 494286.41
@@ -19494,8 +19219,8 @@
         {
           "Qualified": true,
           "ClientPreferred": "Any",
-          "FreelancerValue": "en",
-          "FreelancerValueLabel": "English",
+          "FreelancerValue": "en, pl",
+          "FreelancerValueLabel": "English, Polish",
           "ClientPreferredLabel": null
         }
       ]

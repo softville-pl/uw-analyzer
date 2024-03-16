@@ -85,7 +85,7 @@
       "lastBuyerActivity": "2024-03-14T01:13:34.695Z",
       "totalApplicants": 109,
       "totalHired": 0,
-      "totalInvitedToInterview": 8,
+      "totalInvitedToInterview": 7,
       "unansweredInvites": 0,
       "invitationsSent": 7
     },
@@ -186,8 +186,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

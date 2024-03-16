@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T17:29:44.803Z",
-      "totalApplicants": 8,
+      "lastBuyerActivity": "2024-03-15T22:13:37.879Z",
+      "totalApplicants": 10,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 7,
+      "unansweredInvites": 2,
+      "invitationsSent": 6
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (America/N)",
@@ -191,8 +191,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]
