@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01d2cd3dd061189d3c",
-    "rid": 1012008658,
-    "uid": "1768658888004145152",
+    "ciphertext": "~01fbc3ef8828d6cbed",
+    "rid": 1012035699,
+    "uid": "1769158271893286912",
     "type": 2,
     "access": 4,
-    "title": "Senior .NET/Angular developer needed urgently",
+    "title": "Long Term Company for long contract for developing Event Management System",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,34 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-15T15:21:54.383Z",
-    "postedOn": "2024-03-15T15:21:54.672Z",
-    "publishTime": "2024-03-15T15:21:54.672Z",
+    "createdOn": "2024-03-17T00:26:16.301Z",
+    "postedOn": "2024-03-17T00:26:16.714Z",
+    "publishTime": "2024-03-17T00:26:16.714Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 1000478609,
-    "durationIdV3": 1,
-    "durationLabel": "Less than a month",
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1169306,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 40,
+      "hourlyBudgetMin": 25,
       "hourlyBudgetMax": 90
     },
     "contractorTier": 3,
-    "description": "Looking for a senior .NET developer to work on our client project.\n\nWe have our senior developer ready to do the knowledge transfer and need someone to jump on this immediately.\n\nCandidate should have 4\u002B years of ASP.NET/Angular experience, and be available between 9 AM - 4 PM EDT.\n\nLooking to hire ASAP.",
+    "description": "I am looking for \u0022 company\u0022 to develop Event management system to control Exhibition Registrations and Exhibitors and Visitors management with advanced features and approval and workflows, and related addons for printing badges and check in points and advance live reports and mobile application for both android and IOS, \nCompany should have strong profile and have and can achieve any requirements that and special requirements that can be requested . ",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Include a link to your GitHub profile and/or website"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -55,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -65,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -77,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_PROJECT",
-        "label": "One-time project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 0,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-15T15:21:54.008Z",
-      "totalApplicants": 212,
+      "lastBuyerActivity": "2024-03-17T08:53:45.922Z",
+      "totalApplicants": 25,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -97,19 +92,21 @@
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-15T15:21:54.672Z",
-        "reuse": "1709636539256946688",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-17T00:26:16.714Z",
+        "totalTimeJobPostFlowAIv2": "559",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "111",
+        "totalTimeSpentOnReviewPageAIv2": "8",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Windows"
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710634615840"
       }
     },
     "isContractToHire": false,
@@ -118,41 +115,39 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "Largo",
-      "country": "United States"
+      "offsetFromUtcMillis": 10800000,
+      "countryTimezone": "Qatar (UTC\u002B03:00)",
+      "city": "doha",
+      "country": "Qatar"
     },
     "stats": {
-      "totalAssignments": 147,
-      "activeAssignmentsCount": 25,
-      "feedbackCount": 93,
-      "score": 4.848879591,
-      "totalJobsWithHires": 98,
-      "hoursCount": 11414.000016,
+      "totalAssignments": 112,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 85,
+      "score": 4.648683526,
+      "totalJobsWithHires": 99,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 165836.2
+        "amount": 7396.24
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-04-24T00:00:00.000Z",
+      "contractDate": "2013-12-10T00:00:00.000Z",
       "profile": {
-        "size": "2",
+        "size": "1",
         "industry": "Tech \u0026 IT",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 192,
+      "postedCount": 125,
       "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 14.198344994990931
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,

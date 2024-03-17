@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T14:58:37.051Z",
-      "totalApplicants": 7,
+      "lastBuyerActivity": "2024-03-16T23:16:00.847Z",
+      "totalApplicants": 10,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 16,
+      "invitationsSent": 22
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United Kingdom (America/N)",

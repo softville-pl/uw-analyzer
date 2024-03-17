@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~01d2cd3dd061189d3c",
-    "rid": 1012008658,
-    "uid": "1768658888004145152",
+    "ciphertext": "~0139e9f6bc6589bb88",
+    "rid": 1012024453,
+    "uid": "1768957301156204544",
     "type": 2,
     "access": 4,
-    "title": "Senior .NET/Angular developer needed urgently",
+    "title": "SQL Developer - Database Optimization Specialist",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Other - Software Development",
+      "urlSlug": "other-software-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,34 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-15T15:21:54.383Z",
-    "postedOn": "2024-03-15T15:21:54.672Z",
-    "publishTime": "2024-03-15T15:21:54.672Z",
+    "createdOn": "2024-03-16T11:07:41.105Z",
+    "postedOn": "2024-03-16T11:07:41.766Z",
+    "publishTime": "2024-03-16T11:07:41.766Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1000478609,
-    "durationIdV3": 1,
-    "durationLabel": "Less than a month",
+    "companyRecno": 3707115,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 40,
-      "hourlyBudgetMax": 90
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 70
     },
     "contractorTier": 3,
-    "description": "Looking for a senior .NET developer to work on our client project.\n\nWe have our senior developer ready to do the knowledge transfer and need someone to jump on this immediately.\n\nCandidate should have 4\u002B years of ASP.NET/Angular experience, and be available between 9 AM - 4 PM EDT.\n\nLooking to hire ASAP.",
+    "description": "We are currently seeking an experienced and dynamic SQL Developer to join our team as a Database Optimization Specialist. As part of our growing company, you will play a key role in developing and optimizing SQL queries for our Flexibookings system. If you have a proven track record in SQL development, database optimization, and a passion for enhancing system performance, we invite you to be part of our innovative team.\nKey Responsibilities:\n1. Develop and implement efficient SQL queries to enhance the functionality of our Flexibookings system.\n2. Collaborate with cross-functional teams to optimize database performance and resolve any query-related challenges.\n3. Contribute to the design and implementation of new SQL queries, ensuring seamless integration with existing systems.\n4. Fine-tune existing SQL queries to improve overall system responsiveness and user experience.\n5. Work closely with .NET developers to optimize calculations\nRequired Skills and Experience:\n1. Proven experience in SQL development and database optimization.\n2. Familiarity with the .NET framework and the ability to collaborate with .NET developers.\n3. Strong analytical and problem-solving skills.\n4. Excellent communication and teamwork abilities.\n5. Bachelor\u0027s degree in Computer Science, Information Technology, or a related field.\ni need a tittle to put on Upwork to hire for the above job",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Include a link to your GitHub profile and/or website"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -65,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -77,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_PROJECT",
-        "label": "One-time project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 0,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-15T15:21:54.008Z",
-      "totalApplicants": 212,
+      "lastBuyerActivity": "2024-03-16T11:07:41.030Z",
+      "totalApplicants": 88,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -97,19 +92,21 @@
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-15T15:21:54.672Z",
-        "reuse": "1709636539256946688",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-16T11:07:41.766Z",
+        "totalTimeJobPostFlowAIv2": "421",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "111",
+        "totalTimeSpentOnReviewPageAIv2": "12",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Windows"
+        "browser": "Edge",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710586840029"
       }
     },
     "isContractToHire": false,
@@ -118,40 +115,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "Largo",
-      "country": "United States"
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 147,
-      "activeAssignmentsCount": 25,
-      "feedbackCount": 93,
-      "score": 4.848879591,
-      "totalJobsWithHires": 98,
-      "hoursCount": 11414.000016,
+      "totalAssignments": 33,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 22,
+      "score": 4.984519339,
+      "totalJobsWithHires": 26,
+      "hoursCount": 469.333332,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 165836.2
+        "amount": 52122.35
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-04-24T00:00:00.000Z",
+      "contractDate": "2017-01-28T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 192,
+      "postedCount": 44,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 14.198344994990931
+      "amount": 40.51316772873059
     }
   },
   "currentUserInfo": {
