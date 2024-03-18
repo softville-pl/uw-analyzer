@@ -2,9 +2,9 @@
   SearchResults: {
     Q: .net,
     Paging: {
-      Total: 145,
-      Offset: 100,
-      Count: 50
+      Total: 116,
+      Offset: 10,
+      Count: 10
     },
     Jobs: [
       {

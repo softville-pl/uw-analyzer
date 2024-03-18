@@ -1,5 +1,5 @@
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
-using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
+using Softville.Upwork.Tests.Common.Data;
 
 namespace Softville.Upwork.BusinessLogic.Tests.Processor.Parsers;
 
@@ -8,7 +8,7 @@ public class UpworkParserTests
     [Fact(DisplayName = "Complete Upwork data parsed successfully")]
     public async Task GivenCompleteUpworkJsonData_WhenParse_ThenParsed()
     {
-        await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
+        await using Stream stream = TestData.GetCompleteUpworkOffer();
 
         UpworkOffer actual = await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);
 

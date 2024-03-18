@@ -3,7 +3,7 @@
 
 using System.Reflection;
 
-namespace Softville.Upwork.BusinessLogic.Tests.Infrastructure;
+namespace Softville.Upwork.Tests.Common.Data;
 
 internal static class ResourceHelper
 {

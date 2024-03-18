@@ -5,4 +5,10 @@
       <PackageReference Include="AutoFixture.Xunit2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <EmbeddedResource Include="Data\upwork-applicantsmodel.json" />
+      <EmbeddedResource Include="Data\upwork-fulldatamodel.json" />
+      <EmbeddedResource Include="Data\upwork-searchresultmodel.json" />
+    </ItemGroup>
+
 </Project>

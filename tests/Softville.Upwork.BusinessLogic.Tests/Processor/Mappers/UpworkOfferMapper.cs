@@ -3,7 +3,7 @@
 
 using Softville.Upwork.BusinessLogic.Processor;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
-using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
+using Softville.Upwork.Tests.Common.Data;
 
 namespace Softville.Upwork.BusinessLogic.Tests.Processor.Mappers;
 
@@ -12,7 +12,7 @@ public class UpworkOfferMapper
     [Fact(DisplayName = "UpworkOffer is mapped to Offer")]
     public async Task GivenUpworkOffer_WhenMapToOffer_ThenMapped()
     {
-        await using Stream stream = ProcessorTestData.GetCompleteUpworkOffer();
+        await using Stream stream = TestData.GetCompleteUpworkOffer();
 
         UpworkOffer expected =
             await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);
