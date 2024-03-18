@@ -20,4 +20,11 @@ internal static class ResourceHelper
 
         return assembly.GetManifestResourceStream(foundResource)!;
     }
+
+    internal static async Task<string> GetResourceTextAsync(this Assembly assembly, string resourceName, CancellationToken ct)
+    {
+        using var sr = new StreamReader(assembly.GetResourceStream(resourceName));
+
+        return await sr.ReadToEndAsync(ct);
+    }
 }

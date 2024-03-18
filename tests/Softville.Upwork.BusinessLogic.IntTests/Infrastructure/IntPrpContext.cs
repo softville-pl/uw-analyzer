@@ -16,11 +16,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
 
     private TestServices? _services ;
 
-    public TestServices Services
-    {
-        get => _services ?? throw new ArgumentNullException(nameof(_services));
-    }
-
+    public TestServices Services { get => _services ?? throw new ArgumentNullException(nameof(_services)); }
     public InternetProxy NetProxy { get; } = new ();
 
     public TestDatabase Database => _database;
@@ -46,6 +42,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
     public async Task StartTestAsync()
     {
         Services.InitScope();
+        NetProxy.Restart();
         await Task.CompletedTask;
     }
 

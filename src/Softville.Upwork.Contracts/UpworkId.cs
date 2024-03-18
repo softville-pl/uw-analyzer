@@ -23,5 +23,5 @@ public class UpworkId
         CipherText = cipherText;
     }
 
-    public override string ToString() => Uid;
+    public override string ToString() =>  $"{Uid}/{CipherText}";
 }

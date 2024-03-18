@@ -7,8 +7,11 @@ namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 
 public class InternetProxy
 {
-    private WireMockServer _server = WireMockServer.Start();
+    public WireMockServer Server { get; } = WireMockServer.StartWithAdminInterface();
+    public string Url => Server.Url!;
 
-    public string Url => _server.Url!;
-
+    public void Restart()
+    {
+        Server.Reset();
+    }
 }
