@@ -2,8 +2,12 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
+using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.Tests.Common.Stubs;
 using Xunit;
 
 namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
@@ -33,6 +37,12 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
             new KeyValuePair<string, string?>("Upwork:BaseUrl", NetProxy.Url),
             new KeyValuePair<string, string?>("Upwork:Cookie", Guid.NewGuid().ToString())
         }));
+        _hostBuilder.ConfigureServices((_, services) =>
+            {
+                services.RemoveAll(typeof(IHttpResponsePersisting));
+                services.AddScoped<IHttpResponsePersisting, InMemoryPersistingStub>();
+            }
+        );
         _host = await _hostBuilder.StartAsync(ct);
         _services = new(_host?.Services ?? throw new ArgumentNullException(nameof(_host)));
     }

@@ -2,6 +2,8 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Microsoft.Extensions.DependencyInjection;
+using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.Tests.Common.Stubs;
 
 namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 
@@ -10,8 +12,8 @@ public class TestServices : IDisposable
     private IServiceScope? _scopedProvider;
     private IServiceProvider RootProvider { get; }
 
-    private IServiceScope ScopedProvider =>
-        _scopedProvider ?? throw new InvalidOperationException("Scoped provider hasn't been initialized");
+    private IServiceProvider ScopedProvider =>
+        _scopedProvider?.ServiceProvider ?? throw new InvalidOperationException("Scoped provider hasn't been initialized");
 
     public TestServices(IServiceProvider rootProvider)
     {
@@ -39,8 +41,10 @@ public class TestServices : IDisposable
         }
     }
 
+    public InMemoryPersistingStub ResponsePersisting => (InMemoryPersistingStub)ScopedProvider.GetRequiredService<IHttpResponsePersisting>();
+
     public T GetRequiredService<T>() where T : notnull
     {
-        return ScopedProvider.ServiceProvider.GetRequiredService<T>();
+        return ScopedProvider.GetRequiredService<T>();
     }
 }

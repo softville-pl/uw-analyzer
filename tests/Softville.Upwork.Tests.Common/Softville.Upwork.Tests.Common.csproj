@@ -11,4 +11,8 @@
       <EmbeddedResource Include="Data\upwork-searchresultmodel.json" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+    </ItemGroup>
+
 </Project>

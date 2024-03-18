@@ -8,14 +8,14 @@ public interface IUpworkRequestType
     public string RequestName { get; }
 }
 
-internal class ApplicantsRequest : IUpworkRequestType
+internal record ApplicantsRequest : IUpworkRequestType
 {
     internal static readonly IUpworkRequestType Instance = new ApplicantsRequest();
 
     public string RequestName { get; } = "applicants";
 }
 
-internal class DetailsRequest : IUpworkRequestType
+internal record DetailsRequest : IUpworkRequestType
 {
     internal static readonly IUpworkRequestType Instance = new DetailsRequest();
 

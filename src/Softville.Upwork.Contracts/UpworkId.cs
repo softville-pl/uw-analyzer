@@ -3,7 +3,7 @@
 
 namespace Softville.Upwork.Contracts;
 
-public class UpworkId
+public record UpworkId
 {
     public string Uid { get; }
     public string CipherText { get; }
