@@ -16,7 +16,7 @@ internal class OfferRepository(IMongoDatabase database)
     {
         var collection = database.GetCollection<Offer>(OffersCol);
 
-        await collection.InsertOneAsync(offer, new InsertOneOptions(),ct);
+        await collection.InsertOneAsync(offer, new InsertOneOptions(), ct);
 
         return offer;
     }
@@ -29,11 +29,11 @@ internal class OfferRepository(IMongoDatabase database)
             .ToListAsync(ct);
     }
 
-    public async Task<Offer> GetAsync(string uid, CancellationToken ct)
-    {
-        var collection = database.GetCollection<Offer>(OffersCol);
+    public Task<Offer> GetAsync(string uid, CancellationToken ct) =>
+        database
+            .GetCollection<Offer>(OffersCol)
+            .AsQueryable()
+            .FirstOrDefaultAsync(o => o.Uid == uid, ct);
 
-        return await collection.AsQueryable().FirstOrDefaultAsync(o => o.Uid == uid, ct);
-    }
-
+    public Task<Offer> GetAsync(UpworkId id, CancellationToken ct) => GetAsync(id.Uid, ct);
 }

@@ -4,6 +4,7 @@
 using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
+using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Contracts;
 
@@ -14,6 +15,7 @@ internal class EndToEndUpworkProcessor(
     IOfferDetailsProvider detailsProvider,
     IApplicantsStatsProvider statsProvider,
     IHttpClientFactory httpClientFactory,
+    IOfferRepository offerRepository,
     ILogger<EndToEndUpworkProcessor> logger)
     : IUpworkProcessor
 {
@@ -25,8 +27,6 @@ internal class EndToEndUpworkProcessor(
 
         List<Offer> offers = new(foundSearchItems.Count);
         List<string> problematicOffers = new();
-
-        OfferSerializer serializer = new();
 
         foreach (JobSearch foundOffer in foundSearchItems)
         {
@@ -62,21 +62,13 @@ internal class EndToEndUpworkProcessor(
                     e.Message + " -> " + e.InnerException?.Message);
                 problematicOffers.Add(offerId);
             }
+
+            await offerRepository.SaveAsync(offer, ct);
         }
 
-        string outputFolder = @"D:\Sources\Softville\uw-analyzer\src\Softville.Upwork.WebApp\wwwroot\sample-data";
-
-        await using Stream offerStream = await serializer.SerializeAsync(offers, ct);
-
-        await using FileStream outputOfferFileStream =
-            new(Path.Join(outputFolder, "offers.json"), FileMode.Truncate);
-
-        await offerStream.CopyToAsync(outputOfferFileStream, ct);
-
-        await outputOfferFileStream.FlushAsync(ct);
-        outputOfferFileStream.Close();
+        logger.LogInformation("{processedCount} offers successfully processed", offers.Count);
 
         logger.LogWarning(
-            $"{problematicOffers.Count} problematic offers found: {string.Join(Environment.NewLine, problematicOffers)}");
+            "{problematicCount} problematic offers found: {problematicId}", problematicOffers.Count, string.Join(Environment.NewLine, problematicOffers));
     }
 }
