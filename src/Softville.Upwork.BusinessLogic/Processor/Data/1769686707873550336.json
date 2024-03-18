@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~014f95777af101fb7c",
-    "rid": 1011682872,
-    "uid": "1763516314619170816",
+    "ciphertext": "~014c80ddaaa5d2e7ce",
+    "rid": 1012062256,
+    "uid": "1769686707873550336",
     "type": 2,
     "access": 4,
-    "title": "Visual C\u002B\u002B Developer for a small project",
+    "title": "Disable email attachment based on certain email",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Scripts \u0026 Utilities",
+      "urlSlug": "scripts-utilities"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-01T10:47:09.061Z",
-    "postedOn": "2024-03-01T10:47:09.617Z",
-    "publishTime": "2024-03-01T10:47:09.617Z",
+    "createdOn": "2024-03-18T11:26:05.251Z",
+    "postedOn": "2024-03-18T11:26:05.492Z",
+    "publishTime": "2024-03-18T11:26:05.492Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1000482096,
+    "companyRecno": 6327999,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -36,11 +36,11 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 16,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 5,
+      "hourlyBudgetMax": 60
     },
-    "contractorTier": 2,
-    "description": "We\u0027ve a working Visual C\u002B\u002B software. We need to create a .NET Wrapper around it. All the data types have already been mapped. We need someone with experience who understand how C\u002B\u002B works and how we export functionality from C\u002B\u002B to .NET. \nThe work will be done remotely on a RDP environment, so a very good internet connection is required. ",
+    "contractorTier": 3,
+    "description": "Disable outlook email attachment and any hyperlink based on identified email( similar to phising email)\n\nNeed to have onclick event which will disable email attachment and any hyperlink when user clicks on the email",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,71 +82,74 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-05T09:53:13.484Z",
-      "totalApplicants": 28,
-      "totalHired": 1,
-      "totalInvitedToInterview": 0,
+      "lastBuyerActivity": "2024-03-18T13:36:01.485Z",
+      "totalApplicants": 6,
+      "totalHired": 0,
+      "totalInvitedToInterview": 3,
       "unansweredInvites": 0,
-      "invitationsSent": 1
+      "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "searchable"
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-01T10:47:09.617Z",
-        "reuse": "1762525555190587392",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-18T11:26:05.492Z",
+        "totalTimeJobPostFlowAIv2": "271",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "112",
+        "totalTimeSpentOnReviewPageAIv2": "3",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Windows"
+        "browser": "Edge",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710760893484"
       }
     },
-    "isContractToHire": false,
+    "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": 0,
-      "countryTimezone": "Sweden (UTC)",
-      "city": "J\u00E4rf\u00E4lla",
-      "country": "Sweden"
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "Milton Keynes",
+      "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 21,
-      "activeAssignmentsCount": 7,
-      "feedbackCount": 11,
-      "score": 4.999318099,
-      "totalJobsWithHires": 15,
-      "hoursCount": 2642.666666,
+      "totalAssignments": 44,
+      "activeAssignmentsCount": 18,
+      "feedbackCount": 20,
+      "score": 4.941221216,
+      "totalJobsWithHires": 37,
+      "hoursCount": 513.666664,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 42607.58
+        "amount": 4013.14
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-04-24T00:00:00.000Z",
+      "contractDate": "2019-05-24T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
+        "size": "1",
+        "industry": null,
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 18,
-      "openCount": 1
+      "postedCount": 198,
+      "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 15.628864786990126
+      "amount": 3.6278390843755437
     }
   },
   "currentUserInfo": {

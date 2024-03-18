@@ -135,10 +135,10 @@
       "feedbackCount": 3,
       "score": 5,
       "totalJobsWithHires": 7,
-      "hoursCount": 40.833333,
+      "hoursCount": 65.833333,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 1359.9
+        "amount": 1989.9
       }
     },
     "isEnterprise": false,
@@ -153,11 +153,11 @@
       }
     },
     "jobs": {
-      "postedCount": 10,
+      "postedCount": 11,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 24.106041013110538
+      "amount": 24.065772273750746
     }
   },
   "currentUserInfo": {
