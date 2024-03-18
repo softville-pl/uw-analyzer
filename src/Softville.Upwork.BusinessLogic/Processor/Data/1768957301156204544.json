@@ -82,9 +82,9 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-16T11:07:41.030Z",
-      "totalApplicants": 88,
-      "totalHired": 0,
+      "lastBuyerActivity": "2024-03-17T16:19:02.892Z",
+      "totalApplicants": 107,
+      "totalHired": 1,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
@@ -121,15 +121,15 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 33,
-      "activeAssignmentsCount": 6,
+      "totalAssignments": 34,
+      "activeAssignmentsCount": 7,
       "feedbackCount": 22,
       "score": 4.984519339,
-      "totalJobsWithHires": 26,
+      "totalJobsWithHires": 27,
       "hoursCount": 469.333332,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 52122.35
+        "amount": 52222.35
       }
     },
     "isEnterprise": false,

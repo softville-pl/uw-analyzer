@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0135e2fb47440b2e15",
-    "rid": 1011215777,
-    "uid": "1755689017892233216",
+    "ciphertext": "~01ca5274f0288ba2b6",
+    "rid": 1012046082,
+    "uid": "1769403933859299328",
     "type": 2,
     "access": 4,
-    "title": "Microsoft Platform Developer .Net/ASP",
+    "title": "Expert Full Stack Developer",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,16 +20,16 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-08T20:24:15.890Z",
-    "postedOn": "2024-02-08T20:24:16.327Z",
-    "publishTime": "2024-02-08T20:24:16.327Z",
+    "createdOn": "2024-03-17T16:42:26.807Z",
+    "postedOn": "2024-03-17T16:42:27.239Z",
+    "publishTime": "2024-03-17T16:42:27.239Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1691274,
-    "durationIdV3": 3,
-    "durationLabel": "3 to 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 7637852,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
@@ -40,7 +40,7 @@
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
+    "description": "We have developed a custom dashboard for our bookkeeping clients to monitor data and print reports. It was built on a LAMP stack with a Vue.js frontend. It is integrated with QuickBooks Enterprise (NOT online) through a custom .NET web connector. Additionally, the application syncs with Plaid, a third-party service, to pull in our client bank transactions. However, that last part has recently been deactivated because of numerous issues we would need help working through with you. \n\nThis was built by a firm we hired. However, the continuous, ongoing maintenance, revisions, and new add-ons is proving that they are not a good match for us looking forward.\n\nTherefore, you MUST be comfortable coming in and taking over what they have created. But able to bring your expertise in so we can get things done faster and more efficiently. \n\nThis could become full-time at some point. But that is uncertain. There is certainly a lot of work to do right now. \n\nYou MUST be easy to understand on video chats, fluent in US English, and posses good grammar skills. \n\n",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -50,11 +50,11 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 0,
-      "minJobSuccessScore": 0,
-      "risingTalent": false,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
       "locationCheckRequired": false,
       "countries": null,
       "regions": null,
@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-23T20:39:32.136Z",
-      "totalApplicants": 73,
+      "lastBuyerActivity": "2024-03-17T16:42:26.562Z",
+      "totalApplicants": 79,
       "totalHired": 0,
-      "totalInvitedToInterview": 8,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -97,24 +97,17 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "193",
-        "sourcingUpdateForbidden": "false",
-        "type": "RJP",
-        "browser": "Firefox",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for an experienced Microsoft Platform Developer with expertise in .Net/ASP to join our team for a 3 to 6-month project. As a Microsoft Platform Developer, you will be responsible for developing and maintaining applications using the .NET framework and ASP.NET.\n\nKey skills required for this role include API development, proficiency in the .NET Framework, experience with application installers, ASP.NET, C#, and application security.\n\nIn your proposal, please provide a detailed description of how you can contribute to the project. Highlight your relevant experience and expertise in Microsoft development, and provide examples of past completed projects that demonstrate your skills.\n\nPlease include links to your portfolio or previous projects that showcase your abilities as a Microsoft Platform Developer. We look forward to reviewing your proposal and discussing this exciting opportunity further.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-08T20:24:16.327Z",
-        "totalTimeJobPostFlowAIv2": "324",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221110580484306882560\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626715037155328\u0022,\u0022parentSkillUid\u0022:\u00221110580546852343808\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022}]",
+        "publishTime": "2024-03-17T16:42:27.239Z",
+        "totalTimeJobPostFlowAIv2": "605",
         "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "171",
-        "totalTimeSpentOnReviewPageAIv2": "4",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "93",
+        "type": "RJP",
+        "urgency": "3",
+        "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1707423530801",
-        "inputsTitleAI": "Microsoft Platform Developer .Net/ASP",
-        "finalDescriptionAI": "I am looking for a Windows developer who knows how to design/create an application to de-identify data.  For example see if a text, PDF, Database tables, or an image on a desktop contains personal information such as email ID, phone number, etc. Review these few open-source platforms to understand more:\n\nhttps://github.com/microsoft/presidio?tab=readme-ov-file#readme\nhttps://www.capitalone.com/tech/open-source/basics-of-data-profiler/\n\nThe application should create a service on individual laptops/desktop and scan the system\n\n\n",
-        "inputsDurationAI": "474250516458926081"
+        "startTimeJobPostFlowAIv2": "1710693141570"
       }
     },
     "isContractToHire": false,
@@ -125,45 +118,45 @@
     "location": {
       "offsetFromUtcMillis": 0,
       "countryTimezone": "United States (UTC)",
-      "city": "Aliso Viejo",
+      "city": "Gilbert",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 197,
-      "activeAssignmentsCount": 20,
-      "feedbackCount": 106,
-      "score": 4.830051265,
-      "totalJobsWithHires": 125,
-      "hoursCount": 80388.666911,
+      "totalAssignments": 16,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 11,
+      "score": 5,
+      "totalJobsWithHires": 13,
+      "hoursCount": 2499.166665,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 2276106.78
+        "amount": 47277.41
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2014-12-05T00:00:00.000Z",
+      "contractDate": "2020-05-21T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
+        "size": "2",
+        "industry": "HR \u0026 Business Services",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 279,
-      "openCount": 0
+      "postedCount": 11,
+      "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 27.525276074670447
+      "amount": 15.739234421966811
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
+        "totalQualifications": 6,
         "totalMatches": 4,
         "matches": [
           {
@@ -175,12 +168,28 @@
             "clientPreferredLabel": "Any"
           },
           {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
           },
           {
             "qualification": 8,

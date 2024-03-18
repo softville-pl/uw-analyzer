@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01631b8488f6bf23e0",
-    "rid": 1011814581,
-    "uid": "1765571919619534848",
+    "ciphertext": "~01ea8625c2c152152a",
+    "rid": 1012053407,
+    "uid": "1769527231301648384",
     "type": 2,
     "access": 4,
-    "title": ".NET Engine very strong in Azure to debug crashing event",
+    "title": "ASP.Net Core \u002B Tailwind CCS",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-07T02:55:23.294Z",
-    "postedOn": "2024-03-07T02:55:23.762Z",
-    "publishTime": "2024-03-07T02:55:23.762Z",
+    "createdOn": "2024-03-18T00:52:23.161Z",
+    "postedOn": "2024-03-18T00:52:23.486Z",
+    "publishTime": "2024-03-18T00:52:23.486Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 5262233,
+    "companyRecno": 1823930,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -35,12 +35,12 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 16,
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
       "hourlyBudgetMax": 50
     },
-    "contractorTier": 2,
-    "description": "I need someone to brainstorm and consult me regarding the behavior of my platform and give me ideas as to why it is crashing quite suddenly. My team has been helpless for 3 days and I need someone to give me new ideas.\n\nIt\u0027s .NET Core running on Azure as a web app.\n\nI am only interested in talking to someone who is very advanced in .NET Core and knows Azure quite well.\n\nI hope that you will have ideas and then I can connect you with my developer to help research these ideas further.  I hope that you will be able to get the code to build and deploy and research this. \n\nI want a fresh set of eyes on this problem.",
+    "contractorTier": 3,
+    "description": "Hello!\n\nI have a website in ASP;Net Core (Razor) and i\u2019m using Tailwind CSS. \n\nI want to know if any body have added or worked with some UI libary to get more flexibility and power.\n\nLike flowbite, daisy UI or other.  The lib are made for Angular, Vue\u2026 \n\nI don\u2019t know if he have something available in .Net \n\nPS. Answer omly if you have a solution and if you have already worked with Tailwind css in .net with a powerful additionnal lib.\n\nThanks\n",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-07T04:51:22.581Z",
-      "totalApplicants": 51,
-      "totalHired": 1,
+      "lastBuyerActivity": "2024-03-18T01:11:58.046Z",
+      "totalApplicants": 33,
+      "totalHired": 0,
       "totalInvitedToInterview": 1,
-      "unansweredInvites": 1,
-      "invitationsSent": 4
+      "unansweredInvites": 0,
+      "invitationsSent": 1
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -97,24 +97,16 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "2286",
+        "siteSource": "mobile_web_ios_rjp",
+        "publishTime": "2024-03-18T00:52:23.486Z",
+        "totalTimeJobPostFlowAIv2": "509",
+        "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "8",
         "type": "RJP",
         "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "5",
-        "generatedDescriptionAI": "I am looking for a highly skilled .NET Engineer with a strong expertise in Azure to assist with debugging a crashing event. The project is expected to last less than 1 month. \n\nThe ideal candidate should have in-depth knowledge and hands-on experience working with the .NET Framework and Microsoft Azure. They should be proficient in troubleshooting and resolving complex issues related to application crashes in an Azure environment.\n\nTo apply for this job, please submit a detailed proposal outlining how you can help with this project. Specifically, describe your experience in debugging crashing events in Azure and highlight any relevant past projects. Additionally, please provide links to your completed projects that demonstrate your skills in both .NET Framework and Azure.\n\nI am excited to review your proposals and discuss this project further. Thank you!",
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-07T02:55:23.762Z",
-        "totalTimeJobPostFlowAIv2": "2371",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022freeText\u0022:\u0022azure web apps\u0022},{\u0022skillUid\u0022:\u00221031626795962056704\u0022}]",
-        "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "360",
-        "totalTimeSpentOnReviewPageAIv2": "4",
-        "device": "Macintosh",
-        "startTimeJobPostFlowAIv2": "1709777750933",
-        "inputsDurationAI": "474250516458926083",
-        "inputsTitleAI": ".NET Engine very strong in Azure to debug crashing event",
-        "finalDescriptionAI": "I need someone to brainstorm and consult me regarding the behavior of my platform and give me ideas as to why it is crashing quite suddenly. My team has been helpless for 3 days and I need someone to give me new ideas.\n\nIt\u0027s .NET Core running on Azure as a web app.\n\nI am only interested in talking to someone who is very advanced in .NET Core and knows Azure quite well.\n\nI hope that you will have ideas and then I can connect you with my developer to help research these ideas further.  I hope that you will be able to get the code to build and deploy and research this. \n\nI want a fresh set of eyes on this problem."
+        "device": "iPad",
+        "startTimeJobPostFlowAIv2": "1710722633181"
       }
     },
     "isContractToHire": false,
@@ -123,40 +115,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -18000000,
-      "countryTimezone": "United States (UTC-06:00)",
-      "city": "Franklin",
-      "country": "United States"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "St-Hyacinthe",
+      "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 195,
-      "activeAssignmentsCount": 23,
-      "feedbackCount": 133,
-      "score": 4.774690552,
-      "totalJobsWithHires": 146,
-      "hoursCount": 3649.666679,
+      "totalAssignments": 152,
+      "activeAssignmentsCount": 14,
+      "feedbackCount": 98,
+      "score": 3.950161062,
+      "totalJobsWithHires": 125,
+      "hoursCount": 4107.500016,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 96190.19
+        "amount": 83161.78
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2018-06-22T00:00:00.000Z",
+      "contractDate": "2015-02-27T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
+        "size": "2",
+        "industry": null,
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 187,
+      "postedCount": 188,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 17.90520772102542
+      "amount": 15.394149666145735
     }
   },
   "currentUserInfo": {

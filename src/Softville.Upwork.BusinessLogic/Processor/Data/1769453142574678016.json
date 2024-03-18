@@ -1,33 +1,33 @@
 {
   "job": {
-    "ciphertext": "~015aeb2d8f457dd535",
-    "rid": 1011525579,
-    "uid": "1760960445163573248",
+    "ciphertext": "~01908de5e5860ecf7b",
+    "rid": 1012049901,
+    "uid": "1769453142574678016",
     "type": 2,
     "access": 4,
-    "title": "Windows \u0026 Linux DevOps Engineer",
+    "title": "CIO- Lead Software Engineer",
     "status": 1,
     "category": {
-      "name": "DevOps \u0026 Solution Architecture",
-      "urlSlug": "devops-solution-architecture"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
-      "name": "IT \u0026 Networking",
-      "urlSlug": "it-networking"
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-23T09:31:02.183Z",
-    "postedOn": "2024-02-23T09:50:52.860Z",
-    "publishTime": "2024-02-23T09:50:52.860Z",
-    "wasRenewed": false,
+    "createdOn": "2024-03-17T19:57:59.042Z",
+    "postedOn": "2024-03-17T19:58:37.134Z",
+    "publishTime": "2024-03-17T19:57:59.492Z",
+    "wasRenewed": true,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 2162171,
+    "companyRecno": 1290436,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
@@ -35,24 +35,17 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 0,
-      "hourlyBudgetMin": 39,
-      "hourlyBudgetMax": 60
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 100
     },
     "contractorTier": 3,
-    "description": "The DevOps Engineer\nAdvanced networking\nIntermediate Configuration management\nIntermediate Linux and windows system administration\nIntermediate Apache/Nginx/IISwebservers\nIntermediate Database management\nIntermediate Microsoft Active Directory and LDAP\nIntermediate Knowledge of CI/CD",
+    "description": "Description:  Our fast-growing Edtech company provides K12 schools with systems that better track and improve student attendance, we love our work because we truly believe we are making a difference in the many communities we serve.  Our company strives for constant improvement in our products and our performance.   \nWe utilize desktop software and mobile apps that connect to a centralized SAAS backend SQL server database.   This database shares data with over 400 client systems through SFTP imports/exports and direct API\u2019s.\n\nDuties:  After many years at the helm, our current Chief Programmer will be leaving our organization.  We are looking for a key addition to our team to replace him.   You will supervise a team of 3 and be in charge of all backend and front end SAAS operations.   Keeping our system running and troubleshooting specific client issues Monday through Friday.\n\nYou are a technology rock star, a technical switchblade with full stack knowledge.  Education Industry experience a plus.   Powerschool, etc\u2026.\nYou are Captain Kirk, Mr. Spock, and Scottie rolled into one.    There is nothing you can\u2019t figure out and a good day for you is when you have to do very little to keep the system humming along and performing for our clients.  \n\nYou will cross-train and groom your team.  Putting in place development guidelines and product rollout strategies as well as performance monitors that alert the team of system anomalies.     You will bring this company to the next level of its growth and be rewarded with a percentage of the recurring revenue after 2 years.\n\nHOURS:   40 hours, start time 6am EST, AFTER HOURS AS EMERGENCIES ARISE\n\n\nSkills required:\n1.\tMust be proficient with Microsoft SQL server, including creating tables and fields, creating SSIS packages, writing stored procedures, and writing optimized queries\n2.\tHTML (with HTML5 experience), CSS, jQuery/Bootstrap, and JSON\n3.\tASP.NET, C#, Typescript, Angular, Reacts, .Net Core 3/5/6\n4.\tExperience with GitLab/GitHub/Bitbucket or other DVCS\n5.\tExperience with building and integrating REST APIs\n6.\tExperience with Building IOS and Android Apps\n7.\tExperience with KendoUI jQuery toolkit.\n8.\tExperience using MongoDB or other document database.\n9.\tExperience with event driven architectures\n10.\tUnderstanding of open source projects ServiceStack, Mass Transit\n11.\tExperience with Golang\n12.\tExperience writing WPF applications",
     "attachments": null,
     "questions": [],
     "qualifications": {
       "type": 0,
-      "location": {
-        "country": null,
-        "city": null,
-        "state": null,
-        "countryTimezone": null,
-        "worldRegion": "Europe",
-        "offsetFromUtcMillis": null
-      },
+      "location": null,
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
@@ -64,9 +57,7 @@
       "risingTalent": false,
       "locationCheckRequired": false,
       "countries": null,
-      "regions": [
-        "Europe"
-      ],
+      "regions": null,
       "states": null,
       "timezones": null,
       "localMarket": true,
@@ -77,7 +68,7 @@
       "earnings": null,
       "languages": null
     },
-    "isPremium": false,
+    "isPremium": true,
     "segmentationData": [
       {
         "name": "Employment",
@@ -91,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-23T10:23:34.513Z",
+      "lastBuyerActivity": "2024-03-17T22:19:22.070Z",
       "totalApplicants": 62,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -102,29 +93,23 @@
     "annotations": {
       "tags": [
         "jsi_contractToHire",
+        "premium",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "130",
-        "sourcingUpdateForbidden": "false",
-        "type": "RJP",
-        "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled Windows DevOps Engineer to join our team for a project that will last more than 6 months. As a Windows DevOps Engineer, you will be responsible for overseeing the network administration, system administration, and Windows administration tasks. Your expertise in the .NET Framework and Microsoft Windows will be crucial in ensuring smooth operations and efficient deployment.\n\nTo be successful in this role, you should have experience in DevOps practices and be familiar with various automation tools. You will be responsible for streamlining the software development and deployment processes, as well as managing and maintaining the infrastructure.\n\nIf you are confident in your abilities and have a proven track record in similar projects, we encourage you to submit a proposal. Please include details on how you can contribute to the project and share links to your past completed projects that highlight your Windows DevOps expertise.",
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-23T09:50:52.860Z",
-        "totalTimeJobPostFlowAIv2": "423",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626784536772608\u0022},{\u0022skillUid\u0022:\u00221031626795936890880\u0022},{\u0022skillUid\u0022:\u00221031626731499798528\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626762348904448\u0022}]",
-        "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "64",
-        "totalTimeSpentOnReviewPageAIv2": "19",
+        "publishTime": "2024-03-17T19:57:59.492Z",
+        "totalTimeJobPostFlowAIv2": "351",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "70",
+        "type": "RJP",
+        "sourcingTime": "2024-03-17T19:58:37.134Z",
+        "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1708680238173",
-        "inputsDurationAI": "474250516458926080",
-        "inputsTitleAI": "Windows DevOps Engineer",
-        "finalDescriptionAI": "The DevOps Engineer\nAdvanced networking\nIntermediate Configuration management\nIntermediate Linux and windows system administration\nIntermediate Apache/Nginx/IISwebservers\nIntermediate Database management\nIntermediate Microsoft Active Directory and LDAP\nIntermediate Knowledge of CI/CD"
+        "startTimeJobPostFlowAIv2": "1710705126866"
       }
     },
     "isContractToHire": true,
@@ -133,48 +118,48 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "United Kingdom (UTC)",
-      "city": "Canterbury",
-      "country": "United Kingdom"
+      "offsetFromUtcMillis": -10800000,
+      "countryTimezone": "United States (UTC-03:00)",
+      "city": "St Augustine",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 123,
-      "activeAssignmentsCount": 2,
-      "feedbackCount": 59,
-      "score": 4.997930719,
-      "totalJobsWithHires": 111,
-      "hoursCount": 11230.700009,
+      "totalAssignments": 15,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 3,
+      "score": 4.94,
+      "totalJobsWithHires": 13,
+      "hoursCount": 3502.166671,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 631699.77
+        "amount": 47436.7
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": true,
-      "contractDate": "2012-07-09T00:00:00.000Z",
+      "isEDCReplicated": false,
+      "contractDate": "2014-03-10T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
+        "size": "2",
+        "industry": "Education",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 103,
+      "postedCount": 22,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 31.161390627436177
+      "amount": 12.08137532412717
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 5,
-        "totalMatches": 5,
+        "totalQualifications": 4,
+        "totalMatches": 4,
         "matches": [
           {
             "qualification": 0,
@@ -191,14 +176,6 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
-          },
-          {
-            "qualification": 3,
-            "qualified": true,
-            "clientPreferred": "region=(Europe)",
-            "freelancerValue": "Europe",
-            "freelancerValueLabel": "Europe",
-            "clientPreferredLabel": "Europe"
           },
           {
             "qualification": 8,
