@@ -1,44 +1,43 @@
 ﻿{
-  Title: Senior Microsoft App Developer (Angular/Windows Forms),
-  Uid: 1752776060163973120,
-  Rid: 1011039267,
+  Title: Lead Sitecore / .Net Engineer,
+  Uid: 1745755393334956032,
+  Rid: 1010624703,
   Cooperation: {
-    DurationLabel: 1 to 3 months,
-    Workload: Less than 30 hrs/week,
+    DurationLabel: More than 6 months,
+    Workload: More than 30 hrs/week,
     NumberOfPositionsToHire: 1
   },
-  CipherText: ~01597fef36c54365ec,
-  Category: Desktop Application Development,
+  CipherText: ~019bb7b2a2c6f33572,
+  Category: Web Development,
   CategoryGroup: Web, Mobile & Software Dev,
   PublishedTime: DateTime_1,
   Rate: {
-    Minimum: 20.0,
-    Maximum: 53.0,
+    Minimum: 40.0,
+    Maximum: 50.0,
     Currency: USD
   },
-  LinkUrl: ~01597fef36c54365ec,
+  LinkUrl: ~019bb7b2a2c6f33572,
   Developers: {
     MoreDevsExplicitly: false
   },
   Customer: {
     Location: {
-      Country: United States,
-      City: Philadelphia
+      Country: Georgia,
+      City: Tbilisi
     },
     Profile: {
-      Industry: Tech & IT,
-      Size: 10
+      Industry: N/A,
+      Size: 100
     },
     Stats: {
-      TotalAssignments: 128,
-      ActiveAssignmentsCount: 14,
-      FeedbackCount: 85,
-      Score: 4.930113497,
-      TotalJobsWithHires: 104,
-      HoursCount: 23268.833339,
+      TotalAssignments: 5,
+      ActiveAssignmentsCount: 0,
+      FeedbackCount: 4,
+      Score: 5.0,
+      TotalJobsWithHires: 5,
       TotalCharges: {
         CurrencyCode: USD,
-        Amount: 386531.66
+        Amount: 21194.0
       }
     }
   },
@@ -66,29 +65,34 @@
   ],
   Activity: {
     LastBuyerActivity: DateTime_2,
-    TotalApplicants: 22000,
-    TotalHired: 100,
-    TotalInvitedToInterview: 5000,
-    UnansweredInvites: 3000,
-    InvitationsSent: 10000
+    TotalApplicants: 18,
+    TotalInvitedToInterview: 1,
+    InvitationsSent: 2
   },
   Qualifications: {
-    TotalQualifications: 4,
-    MatchedQualifications: 4,
+    TotalQualifications: 5,
+    MatchedQualifications: 5,
     QualificationsDetails: [
       {
         Qualified: true,
-        ClientPreferred: all,
+        ClientPreferred: individuals,
         FreelancerValue: IC,
         FreelancerValueLabel: Not Specified,
-        ClientPreferredLabel: Any
+        ClientPreferredLabel: Freelancers only
       },
       {
         Qualified: true,
-        ClientPreferred: 0,
+        ClientPreferred: 3,
         FreelancerValue: 3,
         FreelancerValueLabel: Fluent,
-        ClientPreferredLabel: Any
+        ClientPreferredLabel: Fluent
+      },
+      {
+        Qualified: true,
+        ClientPreferred: region=(Europe),country=(Bulgaria,Cyprus,Czech Republic,Estonia,Georgia,Germany,Hungary,Latvia,Lithuania,Montenegro,Poland,Portugal,Romania,Slovakia,Spain,Turkey,Ukraine,Armenia,Moldova),
+        FreelancerValue: Europe,Poland,
+        FreelancerValueLabel: Europe, Poland,
+        ClientPreferredLabel: Europe, Bulgaria, Cyprus, Czech Republic, Estonia, Georgia, Germany, Hungary, Latvia, Lithuania, Montenegro, Poland, Portugal, Romania, Slovakia, Spain, Turkey, Ukraine, Armenia, Moldova
       },
       {
         Qualified: true,

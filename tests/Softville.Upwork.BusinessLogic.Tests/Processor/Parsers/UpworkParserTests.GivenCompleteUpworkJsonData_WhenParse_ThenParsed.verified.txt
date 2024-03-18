@@ -1,15 +1,15 @@
 ﻿{
   Job: {
-    Ciphertext: ~01597fef36c54365ec,
-    Rid: 1011039267,
-    Uid: 1752776060163973120,
+    Ciphertext: ~019bb7b2a2c6f33572,
+    Rid: 1010624703,
+    Uid: 1745755393334956032,
     Type: 2,
     Access: 4,
-    Title: Senior Microsoft App Developer (Angular/Windows Forms),
+    Title: Lead Sitecore / .Net Engineer,
     Status: 1,
     Category: {
-      Name: Desktop Application Development,
-      UrlSlug: desktop-application-development
+      Name: Web Development,
+      UrlSlug: web-development
     },
     CategoryGroup: {
       Name: Web, Mobile & Software Dev,
@@ -19,24 +19,60 @@
     Budget: {
       CurrencyCode: USD
     },
-    CreatedOn: 2024-01-31 19:29:12.645 Utc,
-    PostedOn: 2024-01-31 19:29:13.048 Utc,
-    PublishTime: 2024-01-31 19:29:13.048 Utc,
+    CreatedOn: 2024-01-12 10:31:35.443 Utc,
+    PostedOn: 2024-01-12 10:31:36.198 Utc,
+    PublishTime: 2024-01-12 10:31:36.198 Utc,
     WasRenewed: false,
-    Workload: Less than 30 hrs/week,
-    DurationIdV3: 2,
-    DurationLabel: 1 to 3 months,
+    Workload: More than 30 hrs/week,
+    DurationIdV3: 4,
+    DurationLabel: More than 6 months,
     NotSureProjectDuration: false,
     NotSureFreelancersToHire: false,
     NotSureExperienceLevel: false,
     NumberOfPositionsToHire: 1,
     ExtendedBudgetInfo: {
       HourlyBudgetType: 1,
-      HourlyBudgetMin: 20.0,
-      HourlyBudgetMax: 53.0
+      HourlyBudgetMin: 40.0,
+      HourlyBudgetMax: 50.0
     },
     ContractorTier: 3,
-    Description: Overview:,
+    Description:
+We are looking for Lead Engineer to join our development team. It's a long-term project (6+ months) with full-time load (40 hours per week).
+
+Job Description:
+The Lead Sitecore Developer will specialize in back-end development with a primary focus on .Net development and Sitecore as a headless CMS. This individual will be responsible for designing and building robust back-end solutions that interact seamlessly with front-end applications through APIs. The role requires a deep understanding of Sitecore CMS, including customizing admin interfaces and implementing workflows. The ideal candidate will excel in a team setting, bringing expertise in CMS development and a commitment to crafting high-quality, scalable web solutions.
+Responsibilities:
+● Design and develop back-end functionalities using .Net and Sitecore as a headless CMS.
+● Architect and implement API endpoints for data interactions in Sitecore.
+● Customize the Sitecore admin interface to enhance content management capabilities.
+● Develop and implement workflows in Sitecore to streamline content management processes.
+● Ensure optimized performance and scalability of back-end services in the Sitecore environment.
+● Write clean, maintainable, and efficient code; conduct code reviews to maintain high quality.
+● Collaborate with front-end developers to define API specifications and ensure seamless integration.
+● Diagnose and resolve bugs and performance issues in back-end systems.
+● Document code, API endpoints, and technical solutions effectively in the Sitecore context.
+● Stay up-to-date with the latest trends in CMS development, particularly regarding Sitecore.
+● Participate actively in system architecture design and database design discussions.
+
+Requirements:
+● At least 8 years of experience in back-end development, with a strong focus on .Net and
+Sitecore CMS.
+● Profound knowledge of .NET framework and C# for building APIs.
+● Extensive experience in customizing Sitecore admin interfaces, implementing workflows, and
+integrating 3rd-party services into the CMS.
+● Experience collaborating with front-end and back-end development teams to implement
+Sitecore-based solutions.
+● Should have experience working with Microservice based applications.
+● Experience with database technologies, preferably SQL Server.
+● Excellent problem-solving skills and understanding of algorithmic concepts.
+● Effective communication skills to articulate technical concepts to non-technical audiences.
+● Ability to work in a fast-paced, deadline-driven environment while maintaining high-quality
+standards.
+● Proven ability to collaborate effectively with front-end developers and other team members.
+
+Fluent English is required.
+
+WE DON'T WORK WITH AGENCIES!!!,
     Questions: [
       {
         Question: How many Microsoft apps have you built with wrappers around Angular?
@@ -56,10 +92,10 @@
     ],
     Qualifications: {
       ShouldHavePortfolio: false,
-      MinHoursWeek: 30,
+      MinHoursWeek: 40,
       RisingTalent: false,
       LocationCheckRequired: false,
-      LocalMarket: true
+      LocalMarket: false
     },
     IsPremium: false,
     SegmentationData: [
@@ -73,15 +109,16 @@
       }
     ],
     ClientActivity: {
-      LastBuyerActivity: 2024-01-31 21:06:22.966 Utc,
-      TotalApplicants: 22000,
-      TotalHired: 100,
-      TotalInvitedToInterview: 5000,
-      UnansweredInvites: 3000,
-      InvitationsSent: 10000
+      LastBuyerActivity: 2024-01-15 07:31:26.4 Utc,
+      TotalApplicants: 18,
+      TotalHired: 0,
+      TotalInvitedToInterview: 1,
+      UnansweredInvites: 0,
+      InvitationsSent: 2
     },
     Annotations: {
       Tags: [
+        jsi_contractToHire,
         contractToHireSet,
         searchable,
         C2HJobsOptInEducation
@@ -93,79 +130,115 @@
         SourcingUpdateCount: 0,
         SourcingUpdateForbidden: false,
         TotalTimeSpentOnReviewPageAIv2: 118,
-        Type: FJP,
-        FinalInputsAIv2: Some text,
-        JpgV2Prompt: NET Developer,
+        Type: RJP,
         Browser: Chrome,
         TimeSpentToGetAPIDescriptionAI: 4,
         Device: Macintosh,
         StartTimeJobPostFlowAIv2: 1706729073701,
-        GeneratedDescriptionAI: We are looking for a s,
-        InputsSkillsAI: Some text,
+        GeneratedDescriptionAI:
+We are looking for a skilled Senior Microsoft App Developer with experience in Angular and Windows Forms. The project is expected to last 1 to 3 months. 
+
+The ideal candidate should have expertise in API integration, .NET Framework, AngularJS, Microsoft Windows, Windows App Development, JavaScript, and Angular. 
+
+As a Senior Microsoft App Developer, you will be responsible for developing robust and scalable applications using Angular and Windows Forms. You will need to have a strong understanding of API implementation and integration, as well as experience with Microsoft Windows app development.
+
+To apply for this role, please submit a proposal detailing how you can contribute to the project. Please include links to your past completed projects that showcase your skills in Angular and Windows Forms development.
+
+We look forward to reviewing your proposals and finding the right candidate for this project.,
+        InputsSkillsAI: [{"skillUid":"1031626732825198592"},{"skillUid":"1110580482322976768"},{"skillUid":"996364628025274383"},{"skillUid":"1031626795949473792"},{"skillUid":"996364628025274378"},{"skillUid":"1031626712877088768"},{"skillUid":"996364628012691468"}],
         TotalDescriptionEditingTimeAI: 102,
         InputsDurationAI: 474250516458926082,
         InputsTitleAI: Senior Microsoft App Developer (Angular/Windows Forms),
-        FinalDescriptionAI: Text
+        FinalDescriptionAI:
+Overview:
+
+We are seeking an experienced Microsoft App Developer with a strong background in Angular and expertise in automating Windows forms. The primary focus of this role will be developing an Angular-based application that functions like a CRM, enabling users to view a list of their clients and auto-populate Windows popup forms on their computers.
+
+Key Responsibilities:
+
+• CRM Application Development: Design and develop an Angular-based application that allows users to view a list of their Client on our database.
+• Windows Forms Automation: Implement functionality to auto-populate Windows forms with Client data from the Client List mentioned above, enhancing user efficiency and data accuracy.
+• Application Integration: Ensure seamless integration of the Angular application with existing systems and databases.
+• Testing and Debugging: Conduct thorough testing to identify bugs and issues, ensuring the reliability and performance of the application.
+• Documentation: Create detailed documentation for the application, facilitating easy use and maintenance.
+
+Required Skills and Experience:
+
+• Proven experience in developing Microsoft Apps using Angular.
+• Extensive knowledge of automating Windows forms, with experience in frameworks like Delphi.
+• Strong understanding of Microsoft application development and ecosystem.
+• Familiarity with CRM systems and the ability to implement CRM-like features.
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and collaboration abilities.
+
+Application Process:
+
+Interested candidates should submit a resume highlighting relevant experience and a portfolio showcasing previous projects. Please include details of your experience with Angular and Windows forms automation, specifically any CRM-like applications you have developed.
       }
     },
-    IsContractToHire: false
+    IsContractToHire: true
   },
   Buyer: {
     IsPaymentMethodVerified: true,
     Location: {
-      City: Philadelphia,
-      Country: United States
+      City: Tbilisi,
+      Country: Georgia
     },
     Stats: {
-      TotalAssignments: 128,
-      ActiveAssignmentsCount: 14,
-      FeedbackCount: 85,
-      Score: 4.930113497,
-      TotalJobsWithHires: 104,
-      HoursCount: 23268.833339,
+      TotalAssignments: 5,
+      FeedbackCount: 4,
+      Score: 5.0,
+      TotalJobsWithHires: 5,
       TotalCharges: {
         CurrencyCode: USD,
-        Amount: 386531.66
+        Amount: 21194.0
       }
     },
     IsEnterprise: false,
     Company: {
       IsEDCReplicated: false,
-      ContractDate: 2018-10-14 Utc,
+      ContractDate: 2019-03-06 Utc,
       Profile: {
-        Size: 10,
-        Industry: Tech & IT,
+        Size: 100,
         Visible: true
       }
     },
     Jobs: {
-      PostedCount: 171
+      PostedCount: 303
     },
     AvgHourlyJobsRate: {
-      Amount: 14.921304602670778
+      Amount: 15.063593497413923
     }
   },
   CurrentUserInfo: {
     Owner: false,
     FreelancerInfo: {
       QualificationsMatches: {
-        TotalQualifications: 4,
-        TotalMatches: 4,
+        TotalQualifications: 5,
+        TotalMatches: 5,
         Matches: [
           {
             Qualified: true,
-            ClientPreferred: all,
+            ClientPreferred: individuals,
             FreelancerValue: IC,
             FreelancerValueLabel: Not Specified,
-            ClientPreferredLabel: Any
+            ClientPreferredLabel: Freelancers only
           },
           {
             Qualification: 4,
             Qualified: true,
-            ClientPreferred: 0,
+            ClientPreferred: 3,
             FreelancerValue: 3,
             FreelancerValueLabel: Fluent,
-            ClientPreferredLabel: Any
+            ClientPreferredLabel: Fluent
+          },
+          {
+            Qualification: 3,
+            Qualified: true,
+            ClientPreferred: region=(Europe),country=(Bulgaria,Cyprus,Czech Republic,Estonia,Georgia,Germany,Hungary,Latvia,Lithuania,Montenegro,Poland,Portugal,Romania,Slovakia,Spain,Turkey,Ukraine,Armenia,Moldova),
+            FreelancerValue: Europe,Poland,
+            FreelancerValueLabel: Europe, Poland,
+            ClientPreferredLabel: Europe, Bulgaria, Cyprus, Czech Republic, Estonia, Georgia, Germany, Hungary, Latvia, Lithuania, Montenegro, Poland, Portugal, Romania, Slovakia, Spain, Turkey, Ukraine, Armenia, Moldova
           },
           {
             Qualification: 8,

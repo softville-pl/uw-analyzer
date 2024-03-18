@@ -1,15 +1,15 @@
 {
     "job": {
-        "ciphertext": "~01597fef36c54365ec",
-        "rid": 1011039267,
-        "uid": "1752776060163973120",
+        "ciphertext": "~019bb7b2a2c6f33572",
+        "rid": 1010624703,
+        "uid": "1745755393334956032",
         "type": 2,
         "access": 4,
-        "title": "Senior Microsoft App Developer (Angular\/Windows Forms)",
+        "title": "Lead Sitecore / .Net Engineer",
         "status": 1,
         "category": {
-            "name": "Desktop Application Development",
-            "urlSlug": "desktop-application-development"
+            "name": "Web Development",
+            "urlSlug": "web-development"
         },
         "categoryGroup": {
             "name": "Web, Mobile \u0026 Software Dev",
@@ -20,27 +20,27 @@
             "currencyCode": "USD",
             "amount": 0
         },
-        "createdOn": "2024-01-31T19:29:12.645Z",
-        "postedOn": "2024-01-31T19:29:13.048Z",
-        "publishTime": "2024-01-31T19:29:13.048Z",
+        "createdOn": "2024-01-12T10:31:35.443Z",
+        "postedOn": "2024-01-12T10:31:36.198Z",
+        "publishTime": "2024-01-12T10:31:36.198Z",
         "wasRenewed": false,
         "startDate": null,
         "deliveryDate": null,
-        "workload": "Less than 30 hrs\/week",
-        "companyRecno": 5621636,
-        "durationIdV3": 2,
-        "durationLabel": "1 to 3 months",
+        "workload": "More than 30 hrs/week",
+        "companyRecno": 6062111,
+        "durationIdV3": 4,
+        "durationLabel": "More than 6 months",
         "notSureProjectDuration": false,
         "notSureFreelancersToHire": false,
         "notSureExperienceLevel": false,
         "numberOfPositionsToHire": 1,
         "extendedBudgetInfo": {
             "hourlyBudgetType": 1,
-            "hourlyBudgetMin": 20,
-            "hourlyBudgetMax": 53
+            "hourlyBudgetMin": 40,
+            "hourlyBudgetMax": 50
         },
         "contractorTier": 3,
-        "description": "Overview:",
+        "description": "We are looking for Lead Engineer to join our development team. It\u0027s a long-term project (6\u002B months) with full-time load (40 hours per week).\n\nJob Description:\nThe Lead Sitecore Developer will specialize in back-end development with a primary focus on .Net development and Sitecore as a headless CMS. This individual will be responsible for designing and building robust back-end solutions that interact seamlessly with front-end applications through APIs. The role requires a deep understanding of Sitecore CMS, including customizing admin interfaces and implementing workflows. The ideal candidate will excel in a team setting, bringing expertise in CMS development and a commitment to crafting high-quality, scalable web solutions.\nResponsibilities:\n\u25CF Design and develop back-end functionalities using .Net and Sitecore as a headless CMS.\n\u25CF Architect and implement API endpoints for data interactions in Sitecore.\n\u25CF Customize the Sitecore admin interface to enhance content management capabilities.\n\u25CF Develop and implement workflows in Sitecore to streamline content management processes.\n\u25CF Ensure optimized performance and scalability of back-end services in the Sitecore environment.\n\u25CF Write clean, maintainable, and efficient code; conduct code reviews to maintain high quality.\n\u25CF Collaborate with front-end developers to define API specifications and ensure seamless integration.\n\u25CF Diagnose and resolve bugs and performance issues in back-end systems.\n\u25CF Document code, API endpoints, and technical solutions effectively in the Sitecore context.\n\u25CF Stay up-to-date with the latest trends in CMS development, particularly regarding Sitecore.\n\u25CF Participate actively in system architecture design and database design discussions.\n\nRequirements:\n\u25CF At least 8 years of experience in back-end development, with a strong focus on .Net and\nSitecore CMS.\n\u25CF Profound knowledge of .NET framework and C# for building APIs.\n\u25CF Extensive experience in customizing Sitecore admin interfaces, implementing workflows, and\nintegrating 3rd-party services into the CMS.\n\u25CF Experience collaborating with front-end and back-end development teams to implement\nSitecore-based solutions.\n\u25CF Should have experience working with Microservice based applications.\n\u25CF Experience with database technologies, preferably SQL Server.\n\u25CF Excellent problem-solving skills and understanding of algorithmic concepts.\n\u25CF Effective communication skills to articulate technical concepts to non-technical audiences.\n\u25CF Ability to work in a fast-paced, deadline-driven environment while maintaining high-quality\nstandards.\n\u25CF Proven ability to collaborate effectively with front-end developers and other team members.\n\nFluent English is required.\n\nWE DON\u0027T WORK WITH AGENCIES!!!",
         "attachments": null,
         "questions": [
             {
@@ -61,23 +61,52 @@
             }
         ],
         "qualifications": {
-            "type": 0,
-            "location": null,
+            "type": 1,
+            "location": {
+                "country": null,
+                "city": null,
+                "state": null,
+                "countryTimezone": null,
+                "worldRegion": "Europe",
+                "offsetFromUtcMillis": null
+            },
             "minOdeskHours": 0,
             "groupRecno": null,
             "shouldHavePortfolio": false,
             "tests": null,
-            "minHoursWeek": 30,
+            "minHoursWeek": 40,
             "group": null,
-            "prefEnglishSkill": 0,
+            "prefEnglishSkill": 3,
             "minJobSuccessScore": 0,
             "risingTalent": false,
             "locationCheckRequired": false,
-            "countries": null,
-            "regions": null,
+            "countries": [
+                "Bulgaria",
+                "Cyprus",
+                "Czech Republic",
+                "Estonia",
+                "Georgia",
+                "Germany",
+                "Hungary",
+                "Latvia",
+                "Lithuania",
+                "Montenegro",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Spain",
+                "Turkey",
+                "Ukraine",
+                "Armenia",
+                "Moldova"
+            ],
+            "regions": [
+                "Europe"
+            ],
             "states": null,
             "timezones": null,
-            "localMarket": true,
+            "localMarket": false,
             "onSiteType": null,
             "locations": null,
             "localDescription": null,
@@ -99,113 +128,114 @@
             }
         ],
         "clientActivity": {
-            "lastBuyerActivity": "2024-01-31T21:06:22.966Z",
-            "totalApplicants": 22000,
-            "totalHired": 100,
-            "totalInvitedToInterview": 5000,
-            "unansweredInvites": 3000,
-            "invitationsSent": 10000
+            "lastBuyerActivity": "2024-01-15T07:31:26.400Z",
+            "totalApplicants": 18,
+            "totalHired": 0,
+            "totalInvitedToInterview": 1,
+            "unansweredInvites": 0,
+            "invitationsSent": 2
         },
         "weeklyRetainerBudget": null,
         "annotations": {
             "tags": [
+                "jsi_contractToHire",
                 "contractToHireSet",
                 "searchable",
                 "C2HJobsOptInEducation"
             ],
             "customFields": {
-                "siteSource": "desktop_instant",
-                "publishTime": "2024-01-31T22:12:47.002Z",
-                "totalTimeJobPostFlowAIv2": "71",
-                "sourcingUpdateCount": "0",
+                "totalTimeSpentOnDescriptionPageAI": "103",
                 "sourcingUpdateForbidden": "false",
-                "totalTimeSpentOnReviewPageAIv2": "3",
-                "type": "FJP",
-                "finalInputsAIv2": "Some text",
-                "jpgV2Prompt": "NET Developer",
+                "type": "RJP",
                 "browser": "Chrome",
                 "timeSpentToGetAPIDescriptionAI": "4",
-                "device": "Windows",
-                "startTimeJobPostFlowAIv2": "1706739094734",
-                "generatedDescriptionAI": "We are looking for a s",
+                "generatedDescriptionAI": "We are looking for a skilled Senior Microsoft App Developer with experience in Angular and Windows Forms. The project is expected to last 1 to 3 months. \n\nThe ideal candidate should have expertise in API integration, .NET Framework, AngularJS, Microsoft Windows, Windows App Development, JavaScript, and Angular. \n\nAs a Senior Microsoft App Developer, you will be responsible for developing robust and scalable applications using Angular and Windows Forms. You will need to have a strong understanding of API implementation and integration, as well as experience with Microsoft Windows app development.\n\nTo apply for this role, please submit a proposal detailing how you can contribute to the project. Please include links to your past completed projects that showcase your skills in Angular and Windows Forms development.\n\nWe look forward to reviewing your proposals and finding the right candidate for this project.",
                 "siteSource": "desktop_rjp",
                 "publishTime": "2024-01-31T19:29:13.048Z",
                 "totalTimeJobPostFlowAIv2": "278",
-                "inputsSkillsAI": "Some text",
+                "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626712877088768\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022}]",
                 "sourcingUpdateCount": "0",
                 "totalDescriptionEditingTimeAI": "102",
                 "totalTimeSpentOnReviewPageAIv2": "118",
                 "device": "Macintosh",
                 "startTimeJobPostFlowAIv2": "1706729073701",
                 "inputsDurationAI": "474250516458926082",
-                "inputsTitleAI": "Senior Microsoft App Developer (Angular\/Windows Forms)",
-                "finalDescriptionAI": "Text"
+                "inputsTitleAI": "Senior Microsoft App Developer (Angular/Windows Forms)",
+                "finalDescriptionAI": "Overview:\n\nWe are seeking an experienced Microsoft App Developer with a strong background in Angular and expertise in automating Windows forms. The primary focus of this role will be developing an Angular-based application that functions like a CRM, enabling users to view a list of their clients and auto-populate Windows popup forms on their computers.\n\nKey Responsibilities:\n\n\u2022 CRM Application Development: Design and develop an Angular-based application that allows users to view a list of their Client on our database.\n\u2022 Windows Forms Automation: Implement functionality to auto-populate Windows forms with Client data from the Client List mentioned above, enhancing user efficiency and data accuracy.\n\u2022 Application Integration: Ensure seamless integration of the Angular application with existing systems and databases.\n\u2022 Testing and Debugging: Conduct thorough testing to identify bugs and issues, ensuring the reliability and performance of the application.\n\u2022 Documentation: Create detailed documentation for the application, facilitating easy use and maintenance.\n\nRequired Skills and Experience:\n\n\u2022 Proven experience in developing Microsoft Apps using Angular.\n\u2022 Extensive knowledge of automating Windows forms, with experience in frameworks like Delphi.\n\u2022 Strong understanding of Microsoft application development and ecosystem.\n\u2022 Familiarity with CRM systems and the ability to implement CRM-like features.\n\u2022 Excellent problem-solving skills and attention to detail.\n\u2022 Strong communication and collaboration abilities.\n\nApplication Process:\n\nInterested candidates should submit a resume highlighting relevant experience and a portfolio showcasing previous projects. Please include details of your experience with Angular and Windows forms automation, specifically any CRM-like applications you have developed."
             }
         },
-        "isContractToHire": false,
+        "isContractToHire": true,
         "recruitingServices": null
     },
     "buyer": {
         "isPaymentMethodVerified": true,
         "location": {
-            "offsetFromUtcMillis": -18000000,
-            "countryTimezone": "United States (UTC-05:00)",
-            "city": "Philadelphia",
-            "country": "United States"
+            "offsetFromUtcMillis": 0,
+            "countryTimezone": "Georgia (UTC)",
+            "city": "Tbilisi",
+            "country": "Georgia"
         },
         "stats": {
-            "totalAssignments": 128,
-            "activeAssignmentsCount": 14,
-            "feedbackCount": 85,
-            "score": 4.930113497,
-            "totalJobsWithHires": 104,
-            "hoursCount": 23268.833339,
+            "totalAssignments": 5,
+            "activeAssignmentsCount": 0,
+            "feedbackCount": 4,
+            "score": 5,
+            "totalJobsWithHires": 5,
+            "hoursCount": 0,
             "totalCharges": {
                 "currencyCode": "USD",
-                "amount": 386531.66
+                "amount": 21194
             }
         },
         "isEnterprise": false,
         "company": {
             "isEDCReplicated": false,
-            "contractDate": "2018-10-14T00:00:00.000Z",
+            "contractDate": "2019-03-06T00:00:00.000Z",
             "profile": {
-                "size": "10",
-                "industry": "Tech \u0026 IT",
+                "size": "100",
+                "industry": null,
                 "visible": true,
                 "l3Occupations": []
             }
         },
         "jobs": {
-            "postedCount": 171,
+            "postedCount": 303,
             "openCount": 0
         },
         "avgHourlyJobsRate": {
-            "amount": 14.921304602670778
+            "amount": 15.063593497413923
         }
     },
     "currentUserInfo": {
         "owner": false,
         "freelancerInfo": {
             "qualificationsMatches": {
-                "totalQualifications": 4,
-                "totalMatches": 4,
+                "totalQualifications": 5,
+                "totalMatches": 5,
                 "matches": [
                     {
                         "qualification": 0,
                         "qualified": true,
-                        "clientPreferred": "all",
+                        "clientPreferred": "individuals",
                         "freelancerValue": "IC",
                         "freelancerValueLabel": "Not Specified",
-                        "clientPreferredLabel": "Any"
+                        "clientPreferredLabel": "Freelancers only"
                     },
                     {
                         "qualification": 4,
                         "qualified": true,
-                        "clientPreferred": "0",
+                        "clientPreferred": "3",
                         "freelancerValue": "3",
                         "freelancerValueLabel": "Fluent",
-                        "clientPreferredLabel": "Any"
+                        "clientPreferredLabel": "Fluent"
+                    },
+                    {
+                        "qualification": 3,
+                        "qualified": true,
+                        "clientPreferred": "region=(Europe),country=(Bulgaria,Cyprus,Czech Republic,Estonia,Georgia,Germany,Hungary,Latvia,Lithuania,Montenegro,Poland,Portugal,Romania,Slovakia,Spain,Turkey,Ukraine,Armenia,Moldova)",
+                        "freelancerValue": "Europe,Poland",
+                        "freelancerValueLabel": "Europe, Poland",
+                        "clientPreferredLabel": "Europe, Bulgaria, Cyprus, Czech Republic, Estonia, Georgia, Germany, Hungary, Latvia, Lithuania, Montenegro, Poland, Portugal, Romania, Slovakia, Spain, Turkey, Ukraine, Armenia, Moldova"
                     },
                     {
                         "qualification": 8,
@@ -239,7 +269,7 @@
         }
     },
     "paths": {
-        "js": "\/nx\/jobs\/search"
+        "js": "/nx/jobs/search"
     },
     "ff": {
         "isRemoveClientTotalSpentCap": true,
