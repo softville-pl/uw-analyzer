@@ -16,7 +16,11 @@ internal class OfferRepository(IMongoDatabase database)
     {
         var collection = database.GetCollection<Offer>(OffersCol);
 
-        await collection.InsertOneAsync(offer, new InsertOneOptions(), ct);
+        await collection.ReplaceOneAsync(
+            dbOffer => dbOffer.Uid == offer.Uid,
+            offer,
+            new ReplaceOptions {IsUpsert = true},
+            ct);
 
         return offer;
     }

@@ -31,10 +31,8 @@
     <PackageReference Include="AutoFixture.Xunit2">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-
-    <PackageReference Include="WireMock.Net">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
+    <PackageReference Include="WireMock.Net" PrivateAssets="all" />
+    <PackageReference Include="Verify.Xunit" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>

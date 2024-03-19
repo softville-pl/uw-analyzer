@@ -3,8 +3,13 @@
 
 namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 
-[CollectionDefinition(Name, DisableParallelization = true)]
-public class IntPrpCollection : ICollectionFixture<IntPrpContext>
+public class TestVerify
 {
-    public const string Name = nameof(IntPrpContext);
+    internal VerifySettings CreateSettings()
+    {
+        var result = new VerifySettings();
+        result.DontScrubDateTimes();
+
+        return result;
+    }
 }

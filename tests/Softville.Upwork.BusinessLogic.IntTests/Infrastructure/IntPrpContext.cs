@@ -8,7 +8,6 @@ using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Tests.Common.Stubs;
-using Xunit;
 
 namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 
@@ -19,6 +18,8 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
     private IHost? _host;
 
     private TestServices? _services ;
+
+    public List<KeyValuePair<string, string?>> Configuration { get; } = new();
 
     public TestServices Services { get => _services ?? throw new ArgumentNullException(nameof(_services)); }
     public InternetProxy NetProxy { get; } = new ();
@@ -31,12 +32,17 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
         var ct = CancellationToken.None;
 
         await _database.StartAsync(ct);
-        _hostBuilder.ConfigureAppConfiguration((_, builder) => builder.AddInMemoryCollection(new[]
+        _hostBuilder.ConfigureAppConfiguration((_, builder) =>
         {
-            new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString),
-            new KeyValuePair<string, string?>("Upwork:BaseUrl", NetProxy.Url),
-            new KeyValuePair<string, string?>("Upwork:Cookie", Guid.NewGuid().ToString())
-        }));
+            Configuration.AddRange(
+            [
+                new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString),
+                new KeyValuePair<string, string?>("Upwork:BaseUrl", NetProxy.Url),
+                new KeyValuePair<string, string?>("Upwork:Cookie", Guid.NewGuid().ToString())
+            ]);
+
+            builder.AddInMemoryCollection(Configuration);
+        });
         _hostBuilder.ConfigureServices((_, services) =>
             {
                 services.RemoveAll(typeof(IHttpResponsePersisting));
@@ -49,8 +55,11 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
 
     public async Task DisposeAsync() => await (_host?.StopAsync() ?? Task.CompletedTask);
 
+    public TestVerify Verify { get; } = new();
+
     public async Task StartTestAsync()
     {
+        await Database.CleanupDatabaseAsync();
         Services.InitScope();
         NetProxy.Restart();
         await Task.CompletedTask;

@@ -13,6 +13,9 @@ public class TestData
     public static Task<string> GetCompleteUpworkOfferText() =>
         typeof(TestData).Assembly.GetResourceTextAsync("upwork-fulldatamodel.json", _ct);
 
+    public static Task<string> GetCompleteUpworkOfferV2Text() =>
+        typeof(TestData).Assembly.GetResourceTextAsync("upwork-fulldatamodel-v2.json", _ct);
+
     public static Stream UpworkSearchResult() =>
         typeof(TestData).Assembly.GetResourceStream("upwork-searchresultmodel.json");
 
@@ -24,4 +27,7 @@ public class TestData
 
     public static Task<string> UpworkApplicantsText() =>
         typeof(TestData).Assembly.GetResourceTextAsync("upwork-applicantsmodel.json", _ct);
+
+    public static Task<string> UpworkApplicantsV2Text() =>
+        typeof(TestData).Assembly.GetResourceTextAsync("upwork-applicantsmodel-v2.json", _ct);
 }

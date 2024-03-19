@@ -30,8 +30,10 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
 
         string content = await response.Content.ReadAsStringAsync(ct);
 
-        if (_cache.TryAdd((requestType, id), content) is false)
-            throw new InvalidOperationException($"{id} {requestType.GetType().Name} already added");
+        var cacheId = (requestType, id);
+
+        if (_cache.TryAdd(cacheId, content) is false)
+            _cache.TryUpdate(cacheId, content, _cache[cacheId]);
 
         return response;
     }
