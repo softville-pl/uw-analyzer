@@ -1,0 +1,262 @@
+{
+  "job": {
+    "ciphertext": "~019f9679143f74c56e",
+    "rid": 1012080880,
+    "uid": "1769907515395624960",
+    "type": 2,
+    "access": 4,
+    "title": "MongoDB Build, Webcrawlers, PDF OCR, and LLMs",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-19T02:03:30.086Z",
+    "postedOn": "2024-03-19T02:03:30.729Z",
+    "publishTime": "2024-03-19T02:03:30.729Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4214264,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 75
+    },
+    "contractorTier": 3,
+    "description": "**I\u0027m looking for someone highly experienced with MondoDB, ROBUST web crawling applications, OCR technology, language learning models (AI?). Someone who can suggest certain technologies and architectures with efficiency and cost in mind. This is phase 1 of a potentially 10-15 phase project. The goal is to build Phase 1, and evaluate effectiveness and cost, and understand if continuing to additional phases is worth the cost.  I would prefer to pay per project, but willing to entertain an hourly cost. Hourly price will depend greatly on experience and resume!\n\n**PLEASE READ PROJECT VISION AND PHASE 1 ATTACHMENTS. WATCH VIDEO FOR MORE DETAIL.  \n\nVideo: https://www.dropbox.com/scl/fi/a5httd7bqa38xqs6b5xyi/Data-Project.mp4?rlkey=c69lge1x13l7uz1tgbb2gmum5\u0026dl=0\n\nCompany Background:\nEquity Connect (HQ: Phoenix, AZ) is a real estate investment firm that has created a niche in distressed acquisitions through proprietary data harvesting and analysis, where they purchase directly from the homeowner, and without the use of real estate agents. \n\nProblem:\nEquity Connect currently uses stand alone and independent software\u2019s to extract data from many different sources. Data is warehoused independently and analyzed independently. They also use overseas assistants to manually read through PDF to harvest data that can later be used. The combination of these things creates a very inefficient, highly manual system, without the ability the re-use data because there is no centralized data warehouse.  \n\nSolution:\nCreate robust web crawlers for data extraction. Implement OCR/LLMs to scan and extract plain text from thousands of PDFs daily. Discard or warehouse the plain text that is extracted from PDFs using specific parameters. All extracted data (web crawled) is tied to a specific piece of real estate where the property locations are displayed in one of three ways 1) address, 2) parcel number, or 3) legal description. All results must be normalized into Address format. Student is allowed to hire subject matter experts for help, in addition to labor on repetitive tasks with approval of company. \n\nScope A \u0026 B: Build web crawler in MondoDB to Extract information via OCR\n\u2022\tBuild Web crawler to scrape \u201CMaricopa County Recorder\u201D https://recorder.maricopa.gov/recdocdata/ Document Codes to search and harvest:\n1.\tSubstitution of Trustee on Deed of Trust\n2.\tNotice of Trustee Sale\n3.\tLis Pendens\n\u2022\tEvery night, at midnight, initiate webcrawler application\n\u2022\tNeed ability to specify \u201CBegin Date\u201D \u0026 \u201CEnd Date\u201D\n\u2022\tNeed ability to specify \u201CDocument Code\u201D \n\u2022\tRate limits, shuffle IP\u2019s AWS hosted\n\u2022\t.net application / HTTP Requests\n\u2022\tEach record will have a corresponding PDF \u2013 We need to OCR to read this PDF, and based on the parameters provided (Use LLMs?), import data into Database\no\tEach Recording will have a different set of parameters than need to be harvested. \no\tEach Recording will have a different data sets than need to be imported into database. \nNote: The objective is to associate each of the #1-4 recordings above, with a property address. And there will be three ways a property is identified within each PDF:\no\tProperty Address\no\tAssessor Parcel Number (\u201CAPN\u201D)\no\tLegal Description\nNote: Inside the database will be a \u201CMaster List\u201D of all parcels within Maricopa County. Steps for obtaining a property address based on what is provided below. \no\tProperty Address \u2013 No Master Database Search. Verify Address via USPS Validation\no\tAssessor Parcel Number (\u201CAPN\u201D) \u2013 Search Master List by APN to obtain property address, then validate property address via USPS Validation\no\tLegal Description - Search Master List by Legal Description to obtain property address, then validate property address via USPS Validation\n\u2022\tWhen validating address via USPS validation \u2013 we need to specify which addresses are Vacant inside MongoDB\n",
+    "attachments": [
+      {
+        "fileName": "Project Vision 03-11-24.docx",
+        "length": 20199,
+        "uri": "/att/download/openings/1769907515395624960/attachments/0d3a1979-b27f-448e-b710-5a28c635f3f9/download"
+      },
+      {
+        "fileName": "(Upwork) Phase 1 Scope 03-11-24.docx",
+        "length": 59737,
+        "uri": "/att/download/openings/1769907515395624960/attachments/911e88f9-cdd0-403d-aeb5-5939891df7d8/download"
+      }
+    ],
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Canada"
+      ],
+      "regions": [
+        "Americas"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-19T04:10:37.269Z",
+      "totalApplicants": 21,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-19T02:03:30.729Z",
+        "totalTimeJobPostFlowAIv2": "14114",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "7",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710799696344"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United States (UTC)",
+      "city": "Phoenix",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 111,
+      "activeAssignmentsCount": 27,
+      "feedbackCount": 72,
+      "score": 4.993316789,
+      "totalJobsWithHires": 98,
+      "hoursCount": 3236.000016,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 70488.65
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2017-07-11T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 106,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 13.35212292532943
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Americas),country=(Canada)",
+            "freelancerValue": "Europe,Poland",
+            "freelancerValueLabel": "Europe, Poland",
+            "clientPreferredLabel": "Americas, Canada"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -1,0 +1,250 @@
+{
+  "job": {
+    "ciphertext": "~0143498253d8448e5f",
+    "rid": 1012080905,
+    "uid": "1769908035912945664",
+    "type": 2,
+    "access": 1,
+    "title": "Tech Lead for long term engagement",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-19T02:05:34.031Z",
+    "postedOn": "2024-03-19T02:17:42.439Z",
+    "publishTime": "2024-03-19T02:05:34.558Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 270929,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "Description: We are a growing software development firm seeking a skilled client-facing Tech Lead to join our team. The ideal candidate will be responsible for managing software development projects, coordinating work across a small team of developers, providing front-line support, and working closely with clients to ensure successful project delivery. \n\nFor the right candidate, this could be a long-term engagement that will provide consistent hours that can ramp up as you learn the tech stack and operating environment. The ideal candidate will have a good mix of technical skills, be a good communicator, present well to clients, with some project and product management capabilities to execute effectively.\n\nWe have a long-standing multi-year relationship with this client and, as a result, this role has significant long-term potential. Several of our team members have been working on this account for 3\u002B years. It is just as important that you gel with our internal team as it is that you gel with our key client contacts. \n\nTechnology Landscape:\n\u25CF\tReactJS \u002B SCSS\n\u25CF\tReact Native \u002B Expo\n\u25CF\tDjango \u002B Python 3\n\u25CF\tWordpress 6.4\n\u25CF\tMySQL\n\u25CF\tUbuntu Server 18.04\n\u25CF\t.NET Core\n\u25CF\tWindows Server 2022\n\u25CF\tSQL Server 2022\n\u25CF\tSymmetric DS Database sync\nThe ideal candidate has at least some competence in most of these technologies and significant experience in at least a few of them.\n\nResponsibilities:\n\u25CF\tManage a team of software developers, providing technical guidance and mentorship\n\u25CF\tWork directly with clients to gather project requirements, understand their needs, and translate them into actionable tasks for the development team\n\u25CF\tAs a key client-facing team member, you will be on the front-line for client support issues. You will be able to effectively problem solve and coordinate resolution activities across internal and external teams. \n\u25CF\tA mix of project management, product management, and technical skills to develop effective solutions, manage client expectations, and provide timely deliverables. \n\u25CF\tHands on technical ability to build solutions alongside the technical team and, as needed, quickly resolve issues without handoff to team members.\n\nRequired Skills and Experience:\n\u25CF\tFluent in English\n\u25CF\tComfortable working in US Eastern time zone\u2019s business hours. \n\u25CF\tProficiency in a major portion of our technology landscape (see above)\n\u25CF\tProven experience leading software development teams\n\u25CF\tStrong management skills - both of team members and of one\u2019s self. \n\u25CF\tEffective and professional communicator (both written and verbal)\n\u25CF\tProcess oriented and capable of managing multiple projects, tasks and timelines\n\u25CF\tAbility to work effectively with clients and manage their expectations\n\u25CF\tIn-depth understanding of software development methodologies and best practices\n\u25CF\tAbility to work with a high degree of autonomy while keeping key parties informed and included. \n\nA major plus if you have skills in the following:\n\u25CF\tFamiliarity with design principles and user experience (UX) best practices\n\u25CF\tExperience working with designers and turning Figma designs into functioning software\n\u25CF\tAgile development experience (e.g., Scrum, Kanban)\n\u25CF\tAbility to author requirements for client-facing review and approval. \n\u25CF\tExperience estimating effort and duration for projects\n\u25CF\tExperience working in agencies or in a consultant capacity\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Americas",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Americas",
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-19T02:26:38.167Z",
+      "totalApplicants": 47,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-19T02:05:34.558Z",
+        "totalTimeJobPostFlowAIv2": "552",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "142",
+        "type": "RJP",
+        "sourcingTime": "2024-03-19T02:17:42.439Z",
+        "browser": "Chrome",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1710813381170"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -18000000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Staten Island",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 90,
+      "activeAssignmentsCount": 14,
+      "feedbackCount": 53,
+      "score": 4.624789276,
+      "totalJobsWithHires": 77,
+      "hoursCount": 15787.166718,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 524218.39
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2010-11-15T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 118,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 31.449218778054334
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Americas,Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Americas, Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
