@@ -143,7 +143,7 @@
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": null,
+      "contractDate": "2024-03-19T00:00:00.000Z",
       "profile": {
         "size": null,
         "industry": null,
@@ -152,7 +152,7 @@
       }
     },
     "jobs": {
-      "postedCount": 0,
+      "postedCount": 1,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
