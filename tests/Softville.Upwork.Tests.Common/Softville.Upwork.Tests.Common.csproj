@@ -3,6 +3,14 @@
     <ItemGroup>
       <PackageReference Include="AutoFixture" />
       <PackageReference Include="AutoFixture.Xunit2" />
+      <PackageReference Include="Testcontainers">
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="Testcontainers.MongoDb">
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="WireMock.Net" PrivateAssets="all" />
+      <PackageReference Include="Verify.Xunit" PrivateAssets="all" />
     </ItemGroup>
 
     <ItemGroup>
@@ -14,6 +22,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\src\Prospecting.WebJob.Common\Prospecting.WebJob.Common.csproj" />
       <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
     </ItemGroup>
 

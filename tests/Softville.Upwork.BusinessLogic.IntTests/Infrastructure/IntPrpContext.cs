@@ -1,13 +1,15 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+using Softville.Upwork.Tests.Common.Components;
+
 namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 
 public class IntPrpContext : IAsyncLifetime, IDisposable
 {
-    public TestDatabase Database { get; } = new();
-    public InternetProxy NetProxy { get; } = new();
-    public TestWebJob Job { get; } = new();
+    public DatabaseComponent Database { get; } = new();
+    public InternetComponent NetProxy { get; } = new();
+    public WebJobComponent Job { get; } = new();
     public CancellationToken Ct { get; } = CancellationToken.None;
 
     public async Task InitializeAsync()
@@ -28,7 +30,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable
 
     public async Task DisposeAsync() => await Job.DisposeAsync();
 
-    public TestVerify Verify { get; } = new();
+    public VerifyComponent Verify { get; } = new();
 
     public async Task StartTestAsync()
     {

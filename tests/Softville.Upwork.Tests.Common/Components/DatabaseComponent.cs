@@ -4,9 +4,9 @@
 using MongoDB.Driver;
 using Testcontainers.MongoDb;
 
-namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
+namespace Softville.Upwork.Tests.Common.Components;
 
-public class TestDatabase
+public class DatabaseComponent
 {
     private readonly MongoDbContainer _dbContainer = new MongoDbBuilder()
         .WithImage("mongodb/mongodb-community-server:latest")
@@ -16,7 +16,7 @@ public class TestDatabase
 
     public async Task StartAsync(CancellationToken ct) => await _dbContainer.StartAsync(ct);
 
-    internal async Task CleanupDatabaseAsync()
+    public async Task CleanupDatabaseAsync()
     {
         var mongoClient = new MongoClient(ConnectionString);
         await mongoClient.DropDatabaseAsync("Prospecting");

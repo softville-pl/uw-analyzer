@@ -9,30 +9,30 @@ using Prospecting.WebJob.Common;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Tests.Common.Stubs;
 
-namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
+namespace Softville.Upwork.Tests.Common.Components;
 
-public sealed class TestWebJob : IAsyncLifetime, IDisposable
+public sealed class WebJobComponent : IAsyncLifetime, IDisposable
 {
-    private TestServices? _services ;
+    private WebJobServicesComponent? _services ;
 
     private readonly IHostBuilder _hostBuilder = WebJobHostBuilder.CreateBuilder([], isTextContext: true);
     private IHost? _host;
 
     public List<KeyValuePair<string, string?>> Configuration { get; } = new();
 
-    public TestServices Services { get => _services ?? throw new ArgumentNullException(nameof(_services)); }
+    public WebJobServicesComponent Services { get => _services ?? throw new ArgumentNullException(nameof(_services)); }
     public async Task InitializeAsync()
     {
         var ct = CancellationToken.None;
 
         _hostBuilder.ConfigureAppConfiguration((_, builder) =>
         {
-            builder.AddInMemoryCollection(Configuration);
+            MemoryConfigurationBuilderExtensions.AddInMemoryCollection(builder, Configuration);
         });
         _hostBuilder.ConfigureServices((_, services) =>
             {
-                services.RemoveAll(typeof(IHttpResponsePersisting));
-                services.AddScoped<IHttpResponsePersisting, InMemoryPersistingStub>();
+                ServiceCollectionDescriptorExtensions.RemoveAll(services, typeof(IHttpResponsePersisting));
+                ServiceCollectionServiceExtensions.AddScoped<IHttpResponsePersisting, InMemoryPersistingStub>(services);
             }
         );
         _host = await _hostBuilder.StartAsync(ct);

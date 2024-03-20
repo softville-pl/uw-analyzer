@@ -3,9 +3,9 @@
 
 using WireMock.Server;
 
-namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
+namespace Softville.Upwork.Tests.Common.Components;
 
-public class InternetProxy
+public class InternetComponent
 {
     public WireMockServer Server { get; } = WireMockServer.StartWithAdminInterface();
     public string Url => Server.Url!;

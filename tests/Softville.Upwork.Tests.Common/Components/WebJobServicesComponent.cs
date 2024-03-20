@@ -5,9 +5,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Tests.Common.Stubs;
 
-namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
+namespace Softville.Upwork.Tests.Common.Components;
 
-public class TestServices : IDisposable
+public class WebJobServicesComponent : IDisposable
 {
     private IServiceScope? _scopedProvider;
     private IServiceProvider RootProvider { get; }
@@ -15,7 +15,7 @@ public class TestServices : IDisposable
     private IServiceProvider ScopedProvider =>
         _scopedProvider?.ServiceProvider ?? throw new InvalidOperationException("Scoped provider hasn't been initialized");
 
-    public TestServices(IServiceProvider rootProvider)
+    public WebJobServicesComponent(IServiceProvider rootProvider)
     {
         RootProvider = rootProvider;
     }

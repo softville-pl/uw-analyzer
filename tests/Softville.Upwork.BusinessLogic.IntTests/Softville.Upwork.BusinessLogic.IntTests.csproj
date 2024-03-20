@@ -19,16 +19,16 @@
     <PackageReference Include="FluentAssertions">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="Testcontainers">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
-    <PackageReference Include="Testcontainers.MongoDb">
-      <PrivateAssets>all</PrivateAssets>
-    </PackageReference>
     <PackageReference Include="AutoFixture">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="AutoFixture.Xunit2">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Testcontainers">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Testcontainers.MongoDb">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="WireMock.Net" PrivateAssets="all" />
