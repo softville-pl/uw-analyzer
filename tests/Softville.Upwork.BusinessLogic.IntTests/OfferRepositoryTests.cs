@@ -6,7 +6,6 @@ using Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure.AutoFixture;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.Contracts;
-using Xunit;
 
 namespace Softville.Upwork.BusinessLogic.IntTests;
 
@@ -17,7 +16,7 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
     [BusinessIntTestsAutoData]
     public async Task GivenOffer_WhenSaveAsync_ThenPersistedIntoDb(Offer expected)
     {
-        var  offerRepository = Ctx.Services.GetRequiredService<IOfferRepository>();
+        var  offerRepository = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
 
         await offerRepository.SaveAsync(expected, Ctx.Ct);
 
@@ -32,7 +31,7 @@ public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
     [BusinessIntTestsAutoData]
     public async Task GivenOffers_WhenGetAllAsync_ThenReturned(Offer[] expectedOffers)
     {
-        var  offerRepository = Ctx.Services.GetRequiredService<IOfferRepository>();
+        var  offerRepository = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
 
         foreach (Offer expected in expectedOffers)
             await offerRepository.SaveAsync(expected, Ctx.Ct);

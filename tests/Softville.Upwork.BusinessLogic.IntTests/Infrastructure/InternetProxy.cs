@@ -10,7 +10,7 @@ public class InternetProxy
     public WireMockServer Server { get; } = WireMockServer.StartWithAdminInterface();
     public string Url => Server.Url!;
 
-    public void Restart()
+    public void Reset()
     {
         Server.Reset();
     }

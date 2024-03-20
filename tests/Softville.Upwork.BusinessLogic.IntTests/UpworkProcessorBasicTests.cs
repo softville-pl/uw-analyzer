@@ -19,7 +19,7 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
         var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
 
         Ctx.Should().NotBeNull();
-        var processor = Ctx.Services.GetRequiredService<IUpworkProcessor>();
+        var processor = Ctx.Job.Services.GetRequiredService<IUpworkProcessor>();
         processor.Should().NotBeNull();
 
         Ctx.NetProxy.Server
@@ -45,16 +45,16 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
 
         await processor.ProcessOffersAsync(Ctx.Ct);
 
-        var offerRepo = Ctx.Services.GetRequiredService<IOfferRepository>();
+        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
 
         var offer = await offerRepo.GetAsync(expectedId, Ctx.Ct);
 
         await Verify(offer, Ctx.Verify.CreateSettings());
 
-        Ctx.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
             .Contain("We are looking for Lead Engineer to join our development team");
 
-        Ctx.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
             .Contain("avgInterviewedRateBid");
     }
 
@@ -62,10 +62,10 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
     public async Task GivenOfferInDbAndTheNewVersionInUpworkApi_WhenProcessed_ThenOfferInDbAndRawResponsesUpdated()
     {
         var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
-        var offerRepo = Ctx.Services.GetRequiredService<IOfferRepository>();
+        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
 
         Ctx.Should().NotBeNull();
-        var processor = Ctx.Services.GetRequiredService<IUpworkProcessor>();
+        var processor = Ctx.Job.Services.GetRequiredService<IUpworkProcessor>();
         processor.Should().NotBeNull();
 
         Ctx.NetProxy.Server
@@ -109,10 +109,10 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
 
         await Verify(offer, Ctx.Verify.CreateSettings());
 
-        Ctx.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
             .Contain("New description");
 
-        Ctx.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
             .Contain("900");
     }
 }
