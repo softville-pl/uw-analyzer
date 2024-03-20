@@ -1,0 +1,232 @@
+{
+  "job": {
+    "ciphertext": "~0190b91a2c8ab23682",
+    "rid": 1012096906,
+    "uid": "1770134240934694912",
+    "type": 2,
+    "access": 4,
+    "title": "IT Senior developer - .net core, React, Powershell",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-19T17:04:25.500Z",
+    "postedOn": "2024-03-19T17:04:25.856Z",
+    "publishTime": "2024-03-19T17:04:25.856Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 2763164,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Seeking a Software Developer responsible for developing and maintaining the core engine of our cybersecurity product. This role requires hands-on experience with IT infrastructure development in Windows environments and proven skills in developing for VMware Storage and Networks. Full stack system IT \u002B PowerShell. \nKey Responsibilities:\n- Plan, develop, test, and implement the engine within the product.\n- Construct engine architecture for on-premise cyber solutions and the cloud.\n- Maintain and improve the engine, developing innovative and rapid solutions.\n\nQualifications:\n- Senior Fulk-stack development experience \u2013 Mandatory.\n- Deep knowledge in .Net core and React \u2013 Mandatory.\n- Expertise in PowerShell \u2013 Mandatory.\n- Experience with on-premise product development for Windows/Linux applications \u2013 required.\n- Proficiency in Postgres, RabbitMQ.\n- Advantageous to have experience with VMware, Storage solutions (especially NetApp), Active Directory, and Networking - required.\n- Knowledge in cloud and cybersecurity development is a plus.\n- 5\u002B years of development experience \u2013 required.\n- A degree in Computer Science is an advantage.\n- Previous IT or IT development experience is beneficial.\n- High level of English speaking - Mandatory\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-19T17:04:25.383Z",
+      "totalApplicants": 62,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-19T17:04:25.856Z",
+        "totalTimeJobPostFlowAIv2": "249",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "8",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710867616185"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Israel (UTC\u002B02:00)",
+      "city": "Herzelia",
+      "country": "Israel"
+    },
+    "stats": {
+      "totalAssignments": 30,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 19,
+      "score": 4.913901312,
+      "totalJobsWithHires": 28,
+      "hoursCount": 67.333335,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 2519.56
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2016-02-19T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 38,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 23.64089050393835
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
