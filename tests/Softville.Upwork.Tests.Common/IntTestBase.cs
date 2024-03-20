@@ -1,13 +1,11 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-using Xunit;
+namespace Softville.Upwork.Tests.Common;
 
-namespace Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
-
-public abstract class IntTestBase(IntPrpContext ctx) : IAsyncLifetime
+public abstract class IntTestBase<TContext>(TContext ctx) : IAsyncLifetime where TContext : ITestContext
 {
-    public IntPrpContext Ctx { get; } = ctx;
+    protected TContext Ctx { get; } = ctx;
 
     public async Task InitializeAsync() => await Ctx.StartTestAsync();
 

@@ -10,7 +10,7 @@ using Softville.Upwork.Contracts;
 namespace Softville.Upwork.BusinessLogic.IntTests;
 
 [Collection(IntPrpCollection.Name)]
-public class OfferRepositoryTests(IntPrpContext ctx) : IntTestBase(ctx)
+public class OfferRepositoryTests(IntPrpContext ctx) : BusinessLogicTestBase(ctx)
 {
     [Theory]
     [BusinessIntTestsAutoData]

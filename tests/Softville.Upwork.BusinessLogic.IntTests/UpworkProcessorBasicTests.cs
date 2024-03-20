@@ -11,7 +11,7 @@ using WireMock.ResponseBuilders;
 namespace Softville.Upwork.BusinessLogic.IntTests;
 
 [Collection(IntPrpCollection.Name)]
-public class UpworkProcessorBasicTests(IntPrpContext ctx) : IntTestBase(ctx)
+public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBase(ctx)
 {
     [Fact(DisplayName = "New offers from search result saved to db and responses persisted during processing")]
     public async Task GivenOfferInUpworkApi_WhenProcessed_ThenOffersAddedToDbAndRawResponsesPersisted()
