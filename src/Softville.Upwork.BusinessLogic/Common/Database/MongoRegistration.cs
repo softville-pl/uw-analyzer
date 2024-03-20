@@ -14,7 +14,7 @@ namespace Softville.Upwork.BusinessLogic.Common.Database;
 
 internal static class MongoRegistration
 {
-    internal static IServiceCollection AddMongo(this IServiceCollection services)
+    static MongoRegistration()
     {
         BsonSerializer.RegisterSerializer(typeof(DateTime), new DateTimeSerializer(DateTimeKind.Local, BsonType.Document));
 
@@ -23,7 +23,10 @@ internal static class MongoRegistration
             classMap.AutoMap();
             classMap.MapIdMember(o => o.Uid);
         });
+    }
 
+    internal static IServiceCollection AddMongo(this IServiceCollection services)
+    {
         services.AddSingleton(sp =>
         {
             string connectionString = sp.GetRequiredService<IOptions<DbConfig>>().Value.ConnectionString;

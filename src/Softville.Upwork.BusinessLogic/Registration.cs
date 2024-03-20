@@ -12,6 +12,7 @@ using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.BusinessLogic.Queries.Offers;
 
 namespace Softville.Upwork.BusinessLogic;
 
@@ -23,7 +24,7 @@ public static class Registration
     [UnconditionalSuppressMessage("AOT",
         "IL3050:Calling members annotated with 'RequiresDynamicCodeAttribute' may break functionality when AOT compiling.",
         Justification = "<Pending>")]
-    public static IServiceCollection AddBusinessLogic(this IServiceCollection services, IConfiguration config)
+    public static IServiceCollection AddProcessorWebJob(this IServiceCollection services, IConfiguration config)
     {
         services
             .Configure<PrpConfig>(config)
@@ -43,6 +44,26 @@ public static class Registration
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
             .AddScoped<IOfferRepository, OfferRepository>()
+            .AddMongo()
+            ;
+
+    }
+
+    [UnconditionalSuppressMessage("Trimming",
+        "IL2026:Members annotated with 'RequiresUnreferencedCodeAttribute' require dynamic access otherwise can break functioconfig = {ConfigurationRoot} Sections = 65 nality when trimming application code",
+        Justification = "<Pending>")]
+    [UnconditionalSuppressMessage("AOT",
+        "IL3050:Calling members annotated with 'RequiresDynamicCodeAttribute' may break functionality when AOT compiling.",
+        Justification = "<Pending>")]
+    public static IServiceCollection AddProspectingWebApi(this IServiceCollection services, IConfiguration config)
+    {
+        services
+            .Configure<WebApiConfig>(config)
+            .Configure<DbConfig>(config.GetSection("Database"));
+
+        return services
+            .AddScoped<IOfferRepository, OfferRepository>()
+            .AddScoped<IGetOffersQuery, GetOffersQuery>()
             .AddMongo()
             ;
 

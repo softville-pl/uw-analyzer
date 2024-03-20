@@ -23,6 +23,6 @@ public static class WebJobHostBuilder
                 .AddFilter("Microsoft.Hosting", LogLevel.Warning)
                 .AddFilter("System.Net.Http", LogLevel.Warning)
                 .SetMinimumLevel(LogLevel.Information))
-            .ConfigureServices((context, services) => { services.AddBusinessLogic(context.Configuration); });
+            .ConfigureServices((context, services) => { services.AddProcessorWebJob(context.Configuration); });
     }
 }

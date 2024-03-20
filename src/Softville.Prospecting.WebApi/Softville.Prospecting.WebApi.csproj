@@ -29,4 +29,8 @@
     <InternalsVisibleTo Include="Softville.Prospecting.WebApi.IntTests" /> <!--To Alba framework in int tests, sees Program.Main in Minimal API -->
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
