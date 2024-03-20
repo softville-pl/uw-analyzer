@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.BusinessLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Upwork.Tests.Common", "tests\Softville.Upwork.Tests.Common\Softville.Upwork.Tests.Common.csproj", "{D85731A9-3687-4B39-BDAA-BC3BF2707528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Prospecting.WebApi", "src\Softville.Prospecting.WebApi\Softville.Prospecting.WebApi.csproj", "{12B57C41-2BD2-4D43-BDB2-28868DF900AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softville.Prospecting.WebApi.IntTests", "tests\Softville.Prospecting.WebApi.IntTests\Softville.Prospecting.WebApi.IntTests.csproj", "{5AB988BE-8F22-4693-8933-27787D5001E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -130,6 +134,14 @@ Global
 		{D85731A9-3687-4B39-BDAA-BC3BF2707528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D85731A9-3687-4B39-BDAA-BC3BF2707528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D85731A9-3687-4B39-BDAA-BC3BF2707528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B57C41-2BD2-4D43-BDB2-28868DF900AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B57C41-2BD2-4D43-BDB2-28868DF900AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B57C41-2BD2-4D43-BDB2-28868DF900AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B57C41-2BD2-4D43-BDB2-28868DF900AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB988BE-8F22-4693-8933-27787D5001E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB988BE-8F22-4693-8933-27787D5001E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB988BE-8F22-4693-8933-27787D5001E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB988BE-8F22-4693-8933-27787D5001E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{59FA7E00-9569-4EFF-81FA-565508D9F003} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
@@ -143,5 +155,7 @@ Global
 		{9CF38968-CB86-4DA9-813E-F7344C719C65} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
 		{4831E83D-9F96-4BF5-8533-7CF313336694} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
 		{D85731A9-3687-4B39-BDAA-BC3BF2707528} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
+		{12B57C41-2BD2-4D43-BDB2-28868DF900AC} = {6D7FD92B-9F1B-4E2F-9F4D-8F2775D33697}
+		{5AB988BE-8F22-4693-8933-27787D5001E7} = {7EBB7D97-7D2D-4B38-9952-6AB94B83BB00}
 	EndGlobalSection
 EndGlobal
