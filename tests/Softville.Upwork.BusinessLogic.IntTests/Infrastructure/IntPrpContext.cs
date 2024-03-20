@@ -1,6 +1,7 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
+using Softville.Upwork.BusinessLogic.Common.Configuration;
 using Softville.Upwork.Tests.Common;
 using Softville.Upwork.Tests.Common.Components;
 
@@ -19,14 +20,20 @@ public class IntPrpContext : IAsyncLifetime, IDisposable, ITestContext
 
         await Database.StartAsync(ct);
 
-        Job.Configuration.AddRange(
-        [
-            new KeyValuePair<string, string?>("Database:ConnectionString", Database.ConnectionString),
-            new KeyValuePair<string, string?>("Upwork:BaseUrl", NetProxy.Url),
-            new KeyValuePair<string, string?>("Upwork:Cookie", Guid.NewGuid().ToString())
-        ]);
+        var config = new PrpConfig
+        {
+            Database = new DbConfig
+            {
+                ConnectionString = Database.ConnectionString,
+            },
+            Upwork = new UpworkConfig
+            {
+                BaseUrl = NetProxy.Url,
+                Cookie = Guid.NewGuid().ToString()
+            }
+        };
 
-        await Job.InitializeAsync();
+        await Job.StartAsync(config);
     }
 
     public async Task DisposeAsync() => await Job.DisposeAsync();
