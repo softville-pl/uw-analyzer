@@ -23,7 +23,7 @@ public class WebApiContext : IDisposable, IAsyncLifetime, ITestContext
 
         await Database.StartAsync(ct);
 
-        var jobTask = Job.StartAsync(new PrpConfig
+        var jobTask = Job.StartAsync(new WebJobConfig
         {
             Database = new DbConfig {ConnectionString = Database.ConnectionString,},
             Upwork = new UpworkConfig {BaseUrl = NetProxy.Url, Cookie = Guid.NewGuid().ToString()}

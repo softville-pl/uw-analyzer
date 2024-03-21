@@ -27,9 +27,9 @@ public static class Registration
     public static IServiceCollection AddProcessorWebJob(this IServiceCollection services, IConfiguration config)
     {
         services
-            .Configure<PrpConfig>(config)
-            .Configure<UpworkConfig>(config.GetSection("Upwork"))
-            .Configure<DbConfig>(config.GetSection("Database"))
+            .Configure<WebJobConfig>(config.GetSection(WebJobConfig.Name))
+            .Configure<UpworkConfig>(config.GetSection($"{WebJobConfig.Name}:{UpworkConfig.Name}"))
+            .Configure<DbConfig>(config.GetSection($"{WebJobConfig.Name}:{DbConfig.Name}"))
             .AddHttpClient(UpworkHttpClient.UpworkClientName, UpworkHttpClient.ConfigureDetailsClient)
             .ConfigurePrimaryHttpMessageHandler(_ =>
                 new HttpClientHandler {AutomaticDecompression = DecompressionMethods.All});
@@ -58,8 +58,8 @@ public static class Registration
     public static IServiceCollection AddProspectingWebApi(this IServiceCollection services, IConfiguration config)
     {
         services
-            .Configure<WebApiConfig>(config)
-            .Configure<DbConfig>(config.GetSection("Database"));
+            .Configure<WebApiConfig>(config.GetSection(WebApiConfig.Name))
+            .Configure<DbConfig>(config.GetSection($"{WebApiConfig.Name}:{DbConfig.Name}"));
 
         return services
             .AddScoped<IOfferRepository, OfferRepository>()

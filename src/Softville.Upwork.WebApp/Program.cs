@@ -8,8 +8,8 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-builder.Services.Configure<WebAppConfig>(builder.Configuration.GetSection(WebAppConfig.ConfigSectionName));
-builder.Services.Configure<BackendConfig>(builder.Configuration.GetSection(WebAppConfig.ConfigSectionName).GetSection(BackendConfig.ConfigSectionName));
+builder.Services.Configure<WebAppConfig>(builder.Configuration.GetSection(WebAppConfig.Name));
+builder.Services.Configure<BackendConfig>(builder.Configuration.GetSection(WebAppConfig.Name).GetSection(BackendConfig.Name));
 builder.Services.AddScoped(sp => new HttpClient
 {
     BaseAddress = new Uri(sp.GetRequiredService<IOptions<BackendConfig>>().Value.BaseUrl)

@@ -5,6 +5,11 @@ namespace Softville.Upwork.BusinessLogic.Common.Configuration;
 
 public class UpworkConfig
 {
+    /// <summary>
+    /// Config Section Name
+    /// </summary>
+    public const string Name = "Upwork";
+
     public required string Cookie { get; set; }
     public required string BaseUrl { get; set; }
 }

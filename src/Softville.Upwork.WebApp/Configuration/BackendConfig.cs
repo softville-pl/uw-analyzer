@@ -5,6 +5,9 @@ namespace Softville.Upwork.WebApp.Configuration;
 
 public class BackendConfig
 {
-    public const string ConfigSectionName = "Backend";
+    /// <summary>
+    /// Config Section Name
+    /// </summary>
+    public const string Name = "Backend";
     public required string BaseUrl { get; set; }
 }

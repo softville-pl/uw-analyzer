@@ -20,7 +20,7 @@ public class IntPrpContext : IAsyncLifetime, IDisposable, ITestContext
 
         await Database.StartAsync(ct);
 
-        var config = new PrpConfig
+        var config = new WebJobConfig
         {
             Database = new DbConfig
             {

@@ -5,5 +5,9 @@ namespace Softville.Upwork.BusinessLogic.Common.Configuration;
 
 public class WebApiConfig
 {
+    /// <summary>
+    /// Config Section Name
+    /// </summary>
+    public const string Name = "PrpWebApi";
     public required DbConfig Database { get; set; }
 }

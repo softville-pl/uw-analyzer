@@ -21,7 +21,7 @@ public sealed class WebJobComponent : IDisposable
 
     public WebJobServicesComponent Services { get => _services ?? throw new ArgumentNullException(nameof(_services)); }
 
-    public async Task StartAsync(PrpConfig config)
+    public async Task StartAsync(WebJobConfig config)
     {
         var ct = CancellationToken.None;
 
@@ -29,9 +29,9 @@ public sealed class WebJobComponent : IDisposable
         {
             builder.AddInMemoryCollection(
             [
-                new KeyValuePair<string, string?>("Database:ConnectionString", config.Database.ConnectionString),
-                new KeyValuePair<string, string?>("Upwork:BaseUrl", config.Upwork.BaseUrl),
-                new KeyValuePair<string, string?>("Upwork:Cookie", config.Upwork.Cookie)
+                new($"{WebJobConfig.Name}:{DbConfig.Name}:{nameof(DbConfig.ConnectionString)}", config.Database.ConnectionString),
+                new($"{WebJobConfig.Name}:{UpworkConfig.Name}:{nameof(UpworkConfig.BaseUrl)}", config.Upwork.BaseUrl),
+                new($"{WebJobConfig.Name}:{UpworkConfig.Name}:{nameof(UpworkConfig.Cookie)}", config.Upwork.Cookie)
             ]);
         });
         _hostBuilder.ConfigureServices((_, services) =>

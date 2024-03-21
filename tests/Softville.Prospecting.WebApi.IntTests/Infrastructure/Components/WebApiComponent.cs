@@ -19,7 +19,7 @@ public class WebApiComponent
             {
                 configBuilder.AddInMemoryCollection(
                 [
-                    new KeyValuePair<string, string?>("Database:ConnectionString", config.Database.ConnectionString)
+                    new($"{WebApiConfig.Name}:{DbConfig.Name}:{nameof(DbConfig.ConnectionString)}", config.Database.ConnectionString)
                 ]);
             });
         });

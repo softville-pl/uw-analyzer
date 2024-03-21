@@ -5,6 +5,10 @@ namespace Softville.Upwork.BusinessLogic.Common.Configuration;
 
 public class DbConfig
 {
+    /// <summary>
+    /// Config Section Name
+    /// </summary>
+    public const string Name = "Database";
     public required string ConnectionString { get; set; }
     public string DatabaseName { get; init; } = "Prospecting";
 }
