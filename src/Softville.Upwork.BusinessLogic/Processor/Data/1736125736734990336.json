@@ -5,7 +5,7 @@
     "uid": "1736125736734990336",
     "type": 2,
     "access": 1,
-    "title": "Blazor .NET 8 Senior Developer needed",
+    "title": "Build web platform in Blazor / MySql",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -128,20 +128,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
-        "generatedDescriptionAI": "We are looking for a senior developer with expertise in Blazor and .NET 8 for a project lasting 3 to 6 months. As a Blazor .NET 8 Senior Developer, you will be responsible for developing and maintaining web applications using Blazor and .NET technologies. This includes designing user interfaces, implementing business logic, and integrating with backend systems.\n\nTo be successful in this role, you should have a strong understanding of Blazor and .NET 8, as well as experience in building scalable and performant web applications. Familiarity with frontend technologies such as HTML, CSS, and JavaScript is also required.\n\nIn your proposal, please outline how you can contribute to the project and highlight any relevant experience or certifications you hold. Additionally, include links to past completed projects that demonstrate your proficiency in Blazor and .NET development. We look forward to reviewing your proposals and finding the right candidate for this position.",
         "timeSpentToGetAPIDescriptionAI": "4",
+        "generatedDescriptionAI": "We are looking for a senior developer with expertise in Blazor and .NET 8 for a project lasting 3 to 6 months. As a Blazor .NET 8 Senior Developer, you will be responsible for developing and maintaining web applications using Blazor and .NET technologies. This includes designing user interfaces, implementing business logic, and integrating with backend systems.\n\nTo be successful in this role, you should have a strong understanding of Blazor and .NET 8, as well as experience in building scalable and performant web applications. Familiarity with frontend technologies such as HTML, CSS, and JavaScript is also required.\n\nIn your proposal, please outline how you can contribute to the project and highlight any relevant experience or certifications you hold. Additionally, include links to past completed projects that demonstrate your proficiency in Blazor and .NET development. We look forward to reviewing your proposals and finding the right candidate for this position.",
         "siteSource": "desktop_rjp",
         "publishTime": "2023-12-16T20:51:46.688Z",
         "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876962720792576\u0022},{\u0022freeText\u0022:\u0022.NET MAUI\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "269",
-        "totalTimeSpentOnReviewPageAIv2": "368",
+        "totalTimeSpentOnReviewPageAIv2": "472",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1702758611884",
-        "finalDescriptionAI": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\nThank you very much!\n",
+        "inputsDurationAI": "474250516458926081",
         "inputsTitleAI": "Blazor .NET 8 Senior Developer needed",
-        "inputsDurationAI": "474250516458926081"
+        "finalDescriptionAI": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor .NET 8. Additionally, familiarity with .NET MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor .NET 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\nThank you very much!\n"
       }
     },
     "isContractToHire": false,
@@ -156,15 +156,15 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 3,
+      "totalAssignments": 4,
       "activeAssignmentsCount": 0,
       "feedbackCount": 2,
       "score": 5,
-      "totalJobsWithHires": 3,
+      "totalJobsWithHires": 4,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 180
+        "amount": 210
       }
     },
     "isEnterprise": false,
@@ -179,7 +179,7 @@
       }
     },
     "jobs": {
-      "postedCount": 9,
+      "postedCount": 10,
       "openCount": 2
     },
     "avgHourlyJobsRate": null
@@ -235,8 +235,8 @@
             "qualification": 10,
             "qualified": false,
             "clientPreferred": "it",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": "Italian"
           }
         ]

@@ -1,0 +1,241 @@
+{
+  "job": {
+    "ciphertext": "~01cf91fa2d52fb825a",
+    "rid": 1011998734,
+    "uid": "1768496843567648768",
+    "type": 2,
+    "access": 4,
+    "title": "Senior Fullstack Engineer - .Net/C# and Angular",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-15T04:37:59.494Z",
+    "postedOn": "2024-03-15T04:37:59.961Z",
+    "publishTime": "2024-03-15T04:37:59.961Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1011865751,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We\u0027re looking for a highly skilled senior full-stack engineer (.NET/C# and Angular - bonus: Python) to join our small but mighty team. You will be responsible for developing our employer-facing web app and work alongside our existing engineering team and our founders.\n\n**Responsibilities**\n\n- Develop and maintain our web application and APIs, ensuring high performance and responsiveness\n- Manage and optimise container orchestration with Kubernetes (K8s) to streamline deployment and scaling of our applications\n- Create user-friendly, efficient, and visually appealing front-end interfaces\n- Implement best practices for code quality, security, and scalability\n- Continuously monitor and improve application performance and usability\n- Help foster a culture of technical excellence and collaborate with the team to improve software design\n\n# **Requirements**\n\n- Strong background in full-stack development, ideally in a startup\n- Deep customer empathy and passion for solving gnarly problems with tech\n- Strong proficiency in .NET/C# and Angular (bonus: Python)\n- Expertise in AWS cloud services (EKS, S3, CloudWatch) and familiarity with cloud architecture best practices\n- Solid understanding and practical experience with Kubernetes for container orchestration\n- Excellent problem-solving abilities and a detail-oriented mindset\n- Strong English communication skills and ability to work collaboratively in a team environment\n- ***Bonus:*** Experience with LLMs (OpenAI, Claude) and vector databases",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 1,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "Vietnam"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-19T11:31:05.925Z",
+      "totalApplicants": 31,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 2,
+      "invitationsSent": 4
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable"
+      ],
+      "customFields": {
+        "sourcingUpdateForbidden": "false",
+        "totalDescriptionEditingTimeAIv2": "17",
+        "type": "FJP",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Senior Fullstack Engineer - .Net/C# and Angular\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u0022996364628025274380\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:25,\u0022hourlyBudgetMax\u0022:50,\u0022amount\u0022:null}}",
+        "generatedDescriptionAIv2": "We are seeking a Senior Fullstack Engineer with significant startup experience to join our team. The ideal candidate should have strong expertise in .Net/C# and Angular. As a Senior Fullstack Engineer, you will be responsible for developing and maintaining our web applications, ensuring they are robust, performant, and scalable. You should have a deep understanding of software development principles and be able to work independently or collaboratively in an Agile environment. If you have a proven track record of delivering high-quality code on time and are passionate about building innovative products, we want to hear from you!\n\nRelevant skills:\n- .Net\n- C#\n- Angular\n- Startup experience",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022Senior Fullstack Engineer - .Net/C# and Angular\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u00221031626712877088768\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626716513550336\u0022},{\u0022skillUid\u0022:\u0022996364627995914246\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926081\u0022,\u0022segmentation\u0022:\u0022535795054385852416\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{}}",
+        "browser": "Chrome",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:8,\u0022description\u0022:\u0022We are seeking a Senior Fullstack Engineer with significant startup experience to join our team. The ideal candidate should have strong expertise in .Net/C# and Angular. As a Senior Fullstack Engineer, you will be responsible for developing and maintaining our web applications, ensuring they are robust, performant, and scalable. You should have a deep understanding of software development principles and be able to work independently or collaboratively in an Agile environment. If you have a proven track record of delivering high-quality code on time and are passionate about building innovative products, we want to hear from you!\\n\\nRelevant skills:\\n- .Net\\n- C#\\n- Angular\\n- Startup experience\u0022,\u0022editedDescription\u0022:\u0022We\u0027re looking for a highly skilled senior full-stack engineer (.NET/C# and Angular - bonus: Python) to join our small but mighty team. You will be responsible for developing our employer-facing web app and work alongside our existing engineering team and our founders.\\n\\n**Responsibilities**\\n\\n- Develop and maintain our web application and APIs, ensuring high performance and responsiveness\\n- Manage and optimise container orchestration with Kubernetes (K8s) to streamline deployment and scaling of our applications\\n- Create user-friendly, efficient, and visually appealing front-end interfaces\\n- Implement best practices for code quality, security, and scalability\\n- Continuously monitor and improve application performance and usability\\n- Help foster a culture of technical excellence and collaborate with the team to improve software design\\n\\n# **Requirements**\\n\\n- Strong background in full-stack development, ideally in a startup\\n- Deep customer empathy and passion for solving gnarly problems with tech\\n- Strong proficiency in .NET/C# and Angular (bonus: Python)\\n- Expertise in AWS cloud services (EKS, S3, CloudWatch) and familiarity with cloud architecture best practices\\n- Solid understanding and practical experience with Kubernetes for container orchestration\\n- Excellent problem-solving abilities and a detail-oriented mindset\\n- Strong English communication skills and ability to work collaboratively in a team environment\\n- ***Bonus:*** Experience with LLMs (OpenAI, Claude) and vector databases\u0022,\u0022similarityScore\u0022:0.5221097496004262}]",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-03-15T04:37:59.961Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "totalTimeSpentOnReviewPageAIv2": "175",
+        "optInDescriptionAIv2": "yes",
+        "finalDescriptionAIv2": "We\u0027re looking for a highly skilled senior full-stack engineer (.NET/C# and Angular - bonus: Python) to join our small but mighty team. You will be responsible for developing our employer-facing web app and work alongside our existing engineering team and our founders.\n\n**Responsibilities**\n\n- Develop and maintain our web application and APIs, ensuring high performance and responsiveness\n- Manage and optimise container orchestration with Kubernetes (K8s) to streamline deployment and scaling of our applications\n- Create user-friendly, efficient, and visually appealing front-end interfaces\n- Implement best practices for code quality, security, and scalability\n- Continuously monitor and improve application performance and usability\n- Help foster a culture of technical excellence and collaborate with the team to improve software design\n\n# **Requirements**\n\n- Strong background in full-stack development, ideally in a startup\n- Deep customer empathy and passion for solving gnarly problems with tech\n- Strong proficiency in .NET/C# and Angular (bonus: Python)\n- Expertise in AWS cloud services (EKS, S3, CloudWatch) and familiarity with cloud architecture best practices\n- Solid understanding and practical experience with Kubernetes for container orchestration\n- Excellent problem-solving abilities and a detail-oriented mindset\n- Strong English communication skills and ability to work collaboratively in a team environment\n- ***Bonus:*** Experience with LLMs (OpenAI, Claude) and vector databases",
+        "jpgV2Prompt": "Senior fullstack engineer with startup experience. .Net/C# and Angular are a must.",
+        "descriptionDifferenceScoreAIv2": "0.52210974960043",
+        "device": "Macintosh",
+        "retriesAIv2": "1",
+        "startTimeJobPostFlowAIv2": "1710477265802"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 39600000,
+      "countryTimezone": "Australia (Australia)",
+      "city": null,
+      "country": "Australia"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-01-15T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "individuals",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Vietnam)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Vietnam"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

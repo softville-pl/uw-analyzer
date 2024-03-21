@@ -110,20 +110,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Chrome",
-        "generatedDescriptionAI": "We are seeking a skilled .NET developer with specific experience in Electronic Data Interchange (EDI) for a short-term project lasting 1 to 3 months. The ideal candidate should have expertise in EDIFACT, C#, and .NET Core.\n\nAs part of this project, you will be responsible for developing and implementing EDI solutions using the mentioned technologies. Your main tasks will include building and maintaining EDI interfaces, mapping EDI documents, and troubleshooting any issues that may arise.\n\nTo be considered, please submit a detailed proposal outlining how you can contribute to this project. Specifically, describe your experience with EDI and provide examples of past completed projects that highlight your expertise. Additionally, include links to any relevant work samples or code repositories.\n\nWe look forward to reviewing your proposals and finding the right candidate for this exciting opportunity.",
         "timeSpentToGetAPIDescriptionAI": "3",
+        "generatedDescriptionAI": "We are seeking a skilled .NET developer with specific experience in Electronic Data Interchange (EDI) for a short-term project lasting 1 to 3 months. The ideal candidate should have expertise in EDIFACT, C#, and .NET Core.\n\nAs part of this project, you will be responsible for developing and implementing EDI solutions using the mentioned technologies. Your main tasks will include building and maintaining EDI interfaces, mapping EDI documents, and troubleshooting any issues that may arise.\n\nTo be considered, please submit a detailed proposal outlining how you can contribute to this project. Specifically, describe your experience with EDI and provide examples of past completed projects that highlight your expertise. Additionally, include links to any relevant work samples or code repositories.\n\nWe look forward to reviewing your proposals and finding the right candidate for this exciting opportunity.",
         "siteSource": "desktop_rjp",
         "publishTime": "2023-11-15T00:05:08.647Z",
         "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221192876970299899904\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221192876983507763200\u0022},{\u0022skillUid\u0022:\u00221031626733966049280\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "120",
-        "totalTimeSpentOnReviewPageAIv2": "28",
+        "totalTimeSpentOnReviewPageAIv2": "30",
         "device": "Macintosh",
         "startTimeJobPostFlowAIv2": "1700005790790",
-        "finalDescriptionAI": "I\u0027m looking to work with an experience .net developer to help build an integration with an EDI provider\n\nThe provider we will be using is OpenText\nhttps://www.opentext.com/products/b2b-edi-integration\nwho have a very specific file format\n\nExperience with EDI is essential.\n\nWe will essentially need to consume these files, map to our domain objects, and call internal APIs to our despatch system.\nI can help with our despatch system, and integrating with that, but it\u0027s the EDI part we will specifically need help with.\n\n",
+        "inputsDurationAI": "474250516458926082",
         "inputsTitleAI": ".net developer with specific experience with EDI",
-        "inputsDurationAI": "474250516458926082"
+        "finalDescriptionAI": "I\u0027m looking to work with an experience .net developer to help build an integration with an EDI provider\n\nThe provider we will be using is OpenText\nhttps://www.opentext.com/products/b2b-edi-integration\nwho have a very specific file format\n\nExperience with EDI is essential.\n\nWe will essentially need to consume these files, map to our domain objects, and call internal APIs to our despatch system.\nI can help with our despatch system, and integrating with that, but it\u0027s the EDI part we will specifically need help with.\n\n"
       }
     },
     "isContractToHire": false,
@@ -138,15 +138,15 @@
       "country": "United Kingdom"
     },
     "stats": {
-      "totalAssignments": 297,
-      "activeAssignmentsCount": 24,
+      "totalAssignments": 298,
+      "activeAssignmentsCount": 25,
       "feedbackCount": 155,
       "score": 4.654202061,
-      "totalJobsWithHires": 258,
-      "hoursCount": 6761.233349,
+      "totalJobsWithHires": 259,
+      "hoursCount": 6798.566682,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 155834.05
+        "amount": 156999.32
       }
     },
     "isEnterprise": false,
@@ -165,7 +165,7 @@
       "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 21.40112942876038
+      "amount": 21.464650833882928
     }
   },
   "currentUserInfo": {
@@ -203,8 +203,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

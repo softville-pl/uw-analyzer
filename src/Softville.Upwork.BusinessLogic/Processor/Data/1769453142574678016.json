@@ -1,0 +1,234 @@
+{
+  "job": {
+    "ciphertext": "~01908de5e5860ecf7b",
+    "rid": 1012049901,
+    "uid": "1769453142574678016",
+    "type": 2,
+    "access": 4,
+    "title": "CIO- Lead Software Engineer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-17T19:57:59.042Z",
+    "postedOn": "2024-03-17T19:58:37.134Z",
+    "publishTime": "2024-03-17T19:57:59.492Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1290436,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 100
+    },
+    "contractorTier": 3,
+    "description": "Description:  Our fast-growing Edtech company provides K12 schools with systems that better track and improve student attendance, we love our work because we truly believe we are making a difference in the many communities we serve.  Our company strives for constant improvement in our products and our performance.   \nWe utilize desktop software and mobile apps that connect to a centralized SAAS backend SQL server database.   This database shares data with over 400 client systems through SFTP imports/exports and direct API\u2019s.\n\nDuties:  After many years at the helm, our current Chief Programmer will be leaving our organization.  We are looking for a key addition to our team to replace him.   You will supervise a team of 3 and be in charge of all backend and front end SAAS operations.   Keeping our system running and troubleshooting specific client issues Monday through Friday.\n\nYou are a technology rock star, a technical switchblade with full stack knowledge.  Education Industry experience a plus.   Powerschool, etc\u2026.\nYou are Captain Kirk, Mr. Spock, and Scottie rolled into one.    There is nothing you can\u2019t figure out and a good day for you is when you have to do very little to keep the system humming along and performing for our clients.  \n\nYou will cross-train and groom your team.  Putting in place development guidelines and product rollout strategies as well as performance monitors that alert the team of system anomalies.     You will bring this company to the next level of its growth and be rewarded with a percentage of the recurring revenue after 2 years.\n\nHOURS:   40 hours, start time 6am EST, AFTER HOURS AS EMERGENCIES ARISE\n\n\nSkills required:\n1.\tMust be proficient with Microsoft SQL server, including creating tables and fields, creating SSIS packages, writing stored procedures, and writing optimized queries\n2.\tHTML (with HTML5 experience), CSS, jQuery/Bootstrap, and JSON\n3.\tASP.NET, C#, Typescript, Angular, Reacts, .Net Core 3/5/6\n4.\tExperience with GitLab/GitHub/Bitbucket or other DVCS\n5.\tExperience with building and integrating REST APIs\n6.\tExperience with Building IOS and Android Apps\n7.\tExperience with KendoUI jQuery toolkit.\n8.\tExperience using MongoDB or other document database.\n9.\tExperience with event driven architectures\n10.\tUnderstanding of open source projects ServiceStack, Mass Transit\n11.\tExperience with Golang\n12.\tExperience writing WPF applications",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-17T22:19:22.070Z",
+      "totalApplicants": 77,
+      "totalHired": 0,
+      "totalInvitedToInterview": 1,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-17T19:57:59.492Z",
+        "totalTimeJobPostFlowAIv2": "351",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "70",
+        "type": "RJP",
+        "sourcingTime": "2024-03-17T19:58:37.134Z",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710705126866"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -10800000,
+      "countryTimezone": "United States (UTC-03:00)",
+      "city": "St Augustine",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 15,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 3,
+      "score": 4.94,
+      "totalJobsWithHires": 13,
+      "hoursCount": 3521.833338,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 48339.66
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-03-10T00:00:00.000Z",
+      "profile": {
+        "size": "2",
+        "industry": "Education",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 22,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 12.082766535501516
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

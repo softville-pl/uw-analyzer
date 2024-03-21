@@ -120,7 +120,7 @@
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": false,
+    "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -18000000,
       "countryTimezone": "Colombia (America/B)",
@@ -128,12 +128,12 @@
       "country": "Colombia"
     },
     "stats": {
-      "totalAssignments": 0,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 2,
       "feedbackCount": 0,
       "score": 0,
-      "totalJobsWithHires": 0,
-      "hoursCount": 0,
+      "totalJobsWithHires": 2,
+      "hoursCount": 2.5,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 0
@@ -151,10 +151,12 @@
       }
     },
     "jobs": {
-      "postedCount": 5,
+      "postedCount": 12,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 15.5
+    }
   },
   "currentUserInfo": {
     "owner": false,
@@ -191,8 +193,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

@@ -1,0 +1,231 @@
+{
+  "job": {
+    "ciphertext": "~0136e506cc1c1f457d",
+    "rid": 1012010422,
+    "uid": "1768680276660568064",
+    "type": 2,
+    "access": 4,
+    "title": "C# Desktop developer",
+    "status": 1,
+    "category": {
+      "name": "Desktop Application Development",
+      "urlSlug": "desktop-application-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-15T16:46:53.330Z",
+    "postedOn": "2024-03-15T16:46:53.737Z",
+    "publishTime": "2024-03-15T16:46:53.737Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5882687,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 80
+    },
+    "contractorTier": 3,
+    "description": "We are in search of a Desktop Application Developer with a strong background in C# .NET framework, specializing in reverse engineering of desktop software components. The candidate will be pivotal in dissecting and enhancing an enterprise-level desktop add-on for Microsoft Excel, primarily involving EXE and DLL files.\n\nResponsibilities:\n\nPerform in-depth reverse engineering of desktop application binaries (EXE, DLL) to extract, analyze, and document code structure and functionality.\n\nRefine and advance desktop C# codebase for seamless Excel integration and feature expansion.\nWork closely with product development teams to understand end-user requirements and provide desktop application solutions.\nEnsure all reverse-engineered desktop solutions adhere to strict coding and security standards.\nOffer technical expertise to support desktop application upgrades and optimizations.\nQualifications:\n\nDemonstrated proficiency in desktop application development with C# and .NET.\nExperience with reverse engineering tools and techniques specific to desktop software.\nSolid understanding of desktop environments and Excel add-in architectures.\nExceptional problem-solving aptitude and attention to detail.\nEffective communication skills for both technical and non-technical audiences.\nBachelor\u2019s degree in Computer Science or related field, or equivalent work experience.\nApplication:\n\nInterested candidates should send a resume and a brief cover letter that showcases reverse engineering projects with desktop applications.\n\nWe are committed to fostering an inclusive workplace and encourage applicants from all backgrounds to apply.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-15T22:22:02.620Z",
+      "totalApplicants": 107,
+      "totalHired": 0,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-15T16:46:53.737Z",
+        "totalTimeJobPostFlowAIv2": "553",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "4",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710520660859"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -21600000,
+      "countryTimezone": "Canada (UTC-07:00)",
+      "city": "Edmonton",
+      "country": "Canada"
+    },
+    "stats": {
+      "totalAssignments": 35,
+      "activeAssignmentsCount": 13,
+      "feedbackCount": 13,
+      "score": 4.928694114,
+      "totalJobsWithHires": 29,
+      "hoursCount": 1612.166667,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 70130.28
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2019-01-12T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 52,
+      "openCount": 1
+    },
+    "avgHourlyJobsRate": {
+      "amount": 41.48958130021925
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

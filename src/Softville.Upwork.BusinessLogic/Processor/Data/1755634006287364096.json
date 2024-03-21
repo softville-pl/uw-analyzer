@@ -132,12 +132,12 @@
       "country": "South Africa"
     },
     "stats": {
-      "totalAssignments": 27,
-      "activeAssignmentsCount": 12,
+      "totalAssignments": 28,
+      "activeAssignmentsCount": 13,
       "feedbackCount": 11,
       "score": 4.998351058,
-      "totalJobsWithHires": 21,
-      "hoursCount": 2999.333337,
+      "totalJobsWithHires": 22,
+      "hoursCount": 3008.666671,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 167252.8
@@ -155,11 +155,11 @@
       }
     },
     "jobs": {
-      "postedCount": 22,
+      "postedCount": 23,
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 51.91581678472171
+      "amount": 51.892521529514426
     }
   },
   "currentUserInfo": {
@@ -197,8 +197,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

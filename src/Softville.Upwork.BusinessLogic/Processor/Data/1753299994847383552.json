@@ -92,7 +92,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-23T05:39:55.507Z",
-      "totalApplicants": 53,
+      "totalApplicants": 55,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -139,11 +139,11 @@
       "country": "India"
     },
     "stats": {
-      "totalAssignments": 5,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 4,
       "score": 5,
-      "totalJobsWithHires": 5,
+      "totalJobsWithHires": 6,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
@@ -162,7 +162,7 @@
       }
     },
     "jobs": {
-      "postedCount": 23,
+      "postedCount": 30,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
@@ -202,8 +202,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

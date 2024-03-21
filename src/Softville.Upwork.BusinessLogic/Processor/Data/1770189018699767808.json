@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~01a571bb0f4898cbb2",
+    "rid": 1012101814,
+    "uid": "1770189018699767808",
+    "type": 2,
+    "access": 1,
+    "title": "Super Sinior C# Backend Developer (with .NET Core \u0026 AWS)",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-19T20:42:05.563Z",
+    "postedOn": "2024-03-19T20:42:33.412Z",
+    "publishTime": "2024-03-19T20:42:05.976Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Hours to be determined",
+    "companyRecno": 1276049,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 2,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Position Summary:\n\nWe are seeking a skilled and passionate C# Backend Developer to join our dynamic development team. The ideal candidate will have a strong foundation in C# and .NET Core development, with extensive experience working within AWS environments. You will play a crucial role in designing, developing, and maintaining scalable and high-performing backend services that meet our business objectives and customer needs.\n\nKey Responsibilities:\n\nDesign and develop robust, scalable, and high-performance backend services using C# and .NET Core.\nWork closely with the development team to integrate backend services with cloud-based AWS infrastructure.\nEnsure the implementation of best practices for code quality, security, and performance.\nParticipate in the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment.\nCollaborate with cross-functional teams (including front-end developers, UX/UI designers, and product managers) to define and achieve project goals.\nTroubleshoot, debug, and upgrade existing systems.\nContribute to the evolution of our technology stack and development practices.\nStay abreast of emerging technologies and industry trends, and evaluate their applicability to our goals and needs.\n\nRequired Skills \u0026 Qualifications:\n\nMaster degree in Computer Science, Information Technology, or related field.\nMinimum of 10 years of experience in backend development with a strong proficiency in C# and .NET Core.\nProven experience with AWS cloud services (e.g., EC2, S3, Lambda, RDS, DynamoDB).\nFamiliarity with RESTful API design and microservices architecture.\nSolid understanding of database technologies (SQL/NoSQL).\nExperience with version control tools, such as Git.\nStrong analytical and problem-solving skills.\nExcellent communication and teamwork abilities.\nPreferred Skills \u0026 Qualifications:\nExperience with containerization technologies (e.g., Docker, Kubernetes).\nKnowledge of CI/CD pipelines and automation tools.\nFamiliarity with Agile development methodologies.\nCertifications in AWS or .NET technologies.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 10,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": [
+        "Ukraine"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-19T20:42:05.428Z",
+      "totalApplicants": 124,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-19T20:42:05.976Z",
+        "reuse": "1229174183596326912",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "507",
+        "type": "RJP",
+        "sourcingTime": "2024-03-19T20:42:33.412Z",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "New York",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 80,
+      "activeAssignmentsCount": 8,
+      "feedbackCount": 52,
+      "score": 4.921167676,
+      "totalJobsWithHires": 72,
+      "hoursCount": 37983.666672,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1336968.4
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2014-02-28T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 91,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 34.85908618127313
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 7,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(Ukraine)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "Ukraine"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_10000",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "At Least 10000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

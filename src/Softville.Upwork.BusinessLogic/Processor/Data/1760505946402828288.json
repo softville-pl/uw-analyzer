@@ -90,9 +90,9 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T02:56:17.060Z",
-      "totalApplicants": 17,
-      "totalHired": 1,
+      "lastBuyerActivity": "2024-03-16T03:24:39.574Z",
+      "totalApplicants": 16,
+      "totalHired": 2,
       "totalInvitedToInterview": 1,
       "unansweredInvites": 0,
       "invitationsSent": 0
@@ -140,15 +140,15 @@
       "country": "Australia"
     },
     "stats": {
-      "totalAssignments": 52,
-      "activeAssignmentsCount": 13,
+      "totalAssignments": 53,
+      "activeAssignmentsCount": 14,
       "feedbackCount": 35,
-      "score": 4.923691786,
+      "score": 4.926626526,
       "totalJobsWithHires": 44,
-      "hoursCount": 4103.833334,
+      "hoursCount": 4139.5,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 108570.87
+        "amount": 109510.62
       }
     },
     "isEnterprise": false,
@@ -167,7 +167,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 24.306355029962823
+      "amount": 24.33608406812417
     }
   },
   "currentUserInfo": {
@@ -221,8 +221,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

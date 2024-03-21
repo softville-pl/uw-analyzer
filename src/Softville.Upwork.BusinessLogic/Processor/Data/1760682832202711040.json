@@ -83,9 +83,9 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-02-24T20:40:09.070Z",
-      "totalApplicants": 13,
+      "totalApplicants": 11,
       "totalHired": 0,
-      "totalInvitedToInterview": 9,
+      "totalInvitedToInterview": 8,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -134,10 +134,10 @@
       "feedbackCount": 40,
       "score": 4.929088709,
       "totalJobsWithHires": 54,
-      "hoursCount": 2182.833336,
+      "hoursCount": 2194.66667,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 46313.61
+        "amount": 46658.06
       }
     },
     "isEnterprise": false,
@@ -156,7 +156,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 17.252196665187817
+      "amount": 17.34788727620309
     }
   },
   "currentUserInfo": {
@@ -194,8 +194,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

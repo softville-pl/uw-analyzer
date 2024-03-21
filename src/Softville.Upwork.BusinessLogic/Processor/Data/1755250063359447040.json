@@ -139,15 +139,15 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 36,
-      "activeAssignmentsCount": 13,
+      "totalAssignments": 37,
+      "activeAssignmentsCount": 14,
       "feedbackCount": 16,
       "score": 4.910486456,
-      "totalJobsWithHires": 33,
-      "hoursCount": 1495.833342,
+      "totalJobsWithHires": 34,
+      "hoursCount": 1581.833343,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 40786.07
+        "amount": 42703.97
       }
     },
     "isEnterprise": false,
@@ -166,7 +166,7 @@
       "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 19.650624955784682
+      "amount": 19.608412060131926
     }
   },
   "currentUserInfo": {
@@ -204,8 +204,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

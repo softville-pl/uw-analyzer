@@ -1,0 +1,236 @@
+{
+  "job": {
+    "ciphertext": "~018dcc2e04afeeebff",
+    "rid": 1012048297,
+    "uid": "1769426693778759680",
+    "type": 2,
+    "access": 4,
+    "title": "Short term help for C\u002B\u002B/C# interaction and memory safety on embedded Linux",
+    "status": 1,
+    "category": {
+      "name": "Other - Software Development",
+      "urlSlug": "other-software-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-17T18:12:53.007Z",
+    "postedOn": "2024-03-17T18:12:53.555Z",
+    "publishTime": "2024-03-17T18:12:53.555Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1012564508,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 35,
+      "hourlyBudgetMax": 140
+    },
+    "contractorTier": 3,
+    "description": "I\u0027m currently seeking a qualified individual for a short-term freelance or consulting position. Here\u0027s the profile we\u0027re looking for:\n\n- C\u002B\u002B, with extensive experience in memory management \u0026 best practices\n- C# with good understanding of C\u002B\u002B interoperability\n- Previous experience with CAN protocol\n- Preferably in Stuttgart Region or option to travel here 1 - 2 days per week\n\nThe relevant part of the system is a SBC running a C\u002B\u002B library that is embedded as .so file into a C# layer on Linux via mono. We\u0027re looking to troubleshoot an intermittent issue and stabilize the data flow on both sides of the interface.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-17T18:12:52.986Z",
+      "totalApplicants": 15,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "jpgV2Generated",
+        "firstJobPost",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_no_email_instant",
+        "publishTime": "2024-03-17T18:12:53.555Z",
+        "totalTimeJobPostFlowAIv2": "130",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "8",
+        "type": "FJP",
+        "optInDescriptionAIv2": "no",
+        "finalInputsAIv2": "{\u0022title\u0022:\u0022Short term help for C\u002B\u002B/C# interaction and memory safety on embedded Linux\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u0022996364628025274381\u0022},{\u0022skillUid\u0022:\u00221031626734867824640\u0022},{\u0022skillUid\u0022:\u0022996364628025274380\u0022},{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221031626761229025280\u0022},{\u0022skillUid\u0022:\u00221484275318849720320\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926083\u0022,\u0022segmentation\u0022:\u0022535794351185620993\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{\u0022hourlyBudgetMin\u0022:35,\u0022hourlyBudgetMax\u0022:140,\u0022amount\u0022:null}}",
+        "jpgV2Prompt": "Short term help for C\u002B\u002B/C# interaction and memory safety on embedded Linux",
+        "generatedInputsAIv2": "{\u0022title\u0022:\u0022C\u002B\u002B/C# Interaction and Memory Safety on Embedded Linux\u0022,\u0022skills\u0022:[{\u0022skillUid\u0022:\u0022996364628025274379\u0022},{\u0022skillUid\u0022:\u0022996364628025274381\u0022},{\u0022skillUid\u0022:\u00221031626734867824640\u0022},{\u0022skillUid\u0022:\u00221031626734842658816\u0022},{\u0022skillUid\u0022:\u00221031626734880407552\u0022}],\u0022scope\u0022:{\u0022duration\u0022:\u0022474250516458926083\u0022,\u0022segmentation\u0022:\u0022535794351185620993\u0022,\u0022expertise\u0022:2},\u0022budget\u0022:{}}",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710698990062",
+        "generatedDescriptionHistoryAIV2": "[{\u0022tag\u0022:\u0022AI Prompt\u0022,\u0022timeSpent\u0022:6,\u0022description\u0022:\u0022We are looking for short-term help with C\u002B\u002B/C# interaction and ensuring memory safety on embedded Linux systems. The successful candidate will have the following skills:\\n- Strong proficiency in C\u002B\u002B and C#\\n- Knowledge of embedded Linux and associated development tools\\n- Understanding of memory management and safety techniques\\n- Experience with debugging and troubleshooting\\n- Ability to work independently and deliver high-quality results\\n\\nThis is a small-sized project that will require dedicated attention and expertise. The duration is expected to be under 1 month. We are seeking an expert in C\u002B\u002B/C# development with a proven track record of working on embedded Linux systems.\u0022,\u0022editedDescription\u0022:\u0022We are looking for short-term help with C\u002B\u002B/C# interaction and ensuring memory safety on embedded Linux systems. The successful candidate will have the following skills:\\n- Strong proficiency in C\u002B\u002B and C#\\n- Knowledge of embedded Linux and associated development tools\\n- Understanding of memory management and safety techniques\\n- Experience with debugging and troubleshooting\\n- Ability to work independently and deliver high-quality results\\n\\nThis is a small-sized project that will require dedicated attention and expertise. The duration is expected to be under 1 month. We are seeking an expert in C\u002B\u002B/C# development with a proven track record of working on embedded Linux systems.\u0022,\u0022similarityScore\u0022:1}]"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": false,
+    "location": {
+      "offsetFromUtcMillis": 3600000,
+      "countryTimezone": "Germany (Europe/Be)",
+      "city": null,
+      "country": "Germany"
+    },
+    "stats": {
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 0
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2024-03-17T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Science \u0026 Medicine",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 1,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

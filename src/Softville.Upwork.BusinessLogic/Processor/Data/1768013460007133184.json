@@ -1,0 +1,265 @@
+{
+  "job": {
+    "ciphertext": "~0149c6a4e8b8d14848",
+    "rid": 1011968114,
+    "uid": "1768013460007133184",
+    "type": 2,
+    "access": 4,
+    "title": "Blazor .NET 8 Senior Developer needed",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-13T20:37:11.890Z",
+    "postedOn": "2024-03-13T20:38:40.562Z",
+    "publishTime": "2024-03-13T20:42:12.562Z",
+    "wasRenewed": true,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 8926843,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 60
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a senior Blazor .NET 8 web developer with expertise in implementing real-time communication for our online courses platform.\n\nThe primary challenge involves managing 15,000 students concurrently online and engaging in real-time interactions with both their peers and the teacher.\n\nThe right candidate will have:\n\n- Proven expertise to design and implement the right architecture to handle such load (interactive client-side or server-side rendering modes, use of SignalR or SocketIO, caching, load balancing, load testing etc.)\n- Over 2 years of solid Blazor experience, including the latest .NET 8 rendering modes\n- Over 7 years of C#/.NET experience\n- Strong experience of API integration\n- Azure experience is a plus\n- Experience with MAUI is advantageous, as the development of a mobile app could be a future stage of the project.\n\nThe project is expected to last 4 to 6 months.\nThe work is fully remote.\nWe offer flexibility in terms of the weekly hours you can commit to the project.\nOur preferred compensation model is an hourly tariff rather than a fixed project fee.\n\nThis is an innovative and exciting project where you will have the opportunity to shape the future of online education!\n\nPlease only apply if you have proven experience in Blazor.\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "How many how many projects have you done in Blazor, and for a total of how many years?"
+      },
+      {
+        "position": 1,
+        "question": "How many years of experience do you have in Microsoft .NET (any framework / version)?"
+      },
+      {
+        "position": 2,
+        "question": "In how many projects have you implemented real time communications / interactive web pages (eg. using SignalR)?"
+      },
+      {
+        "position": 3,
+        "question": "Do you have Azure experience? How many years of that, and in how many projects?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 40,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": [
+        "Europe"
+      ],
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": true,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 1,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-17T14:47:32.490Z",
+      "totalApplicants": 62,
+      "totalHired": 0,
+      "totalInvitedToInterview": 2,
+      "unansweredInvites": 1,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "premium",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-13T20:42:12.562Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "1",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "399",
+        "type": "RJP",
+        "sourcingTime": "2024-03-13T20:38:40.562Z",
+        "browser": "Chrome",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710361510273"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 4,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 4,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 210
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-01-16T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 10,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 5,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Europe"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

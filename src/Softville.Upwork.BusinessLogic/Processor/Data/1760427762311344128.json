@@ -137,7 +137,7 @@
       "hoursCount": 335.833334,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 36919.52
+        "amount": 37832.02
       }
     },
     "isEnterprise": false,
@@ -194,8 +194,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

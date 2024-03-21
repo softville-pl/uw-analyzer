@@ -85,8 +85,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-11T01:46:47.571Z",
-      "totalApplicants": 16,
+      "lastBuyerActivity": "2024-03-13T22:06:46.764Z",
+      "totalApplicants": 17,
       "totalHired": 2,
       "totalInvitedToInterview": 7,
       "unansweredInvites": 14,
@@ -135,8 +135,8 @@
     },
     "stats": {
       "totalAssignments": 77,
-      "activeAssignmentsCount": 2,
-      "feedbackCount": 24,
+      "activeAssignmentsCount": 1,
+      "feedbackCount": 25,
       "score": 4.955262812,
       "totalJobsWithHires": 62,
       "hoursCount": 1342.500011,
@@ -207,8 +207,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]

@@ -99,8 +99,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T13:39:34.152Z",
-      "totalApplicants": 56,
+      "lastBuyerActivity": "2024-03-14T07:16:23.720Z",
+      "totalApplicants": 245,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -170,7 +170,7 @@
       }
     },
     "jobs": {
-      "postedCount": 10,
+      "postedCount": 12,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
@@ -228,8 +228,8 @@
             "qualification": 10,
             "qualified": true,
             "clientPreferred": "Any",
-            "freelancerValue": "en",
-            "freelancerValueLabel": "English",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
             "clientPreferredLabel": null
           }
         ]
