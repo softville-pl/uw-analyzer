@@ -16,20 +16,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="wwwroot\appSettings.json">
+    <Content Update="wwwroot\appsettings.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Update="wwwroot\appSettings.dev.json">
+    <Content Update="wwwroot\appsettings.dev.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
-    <Content Update="wwwroot\appSettings.prod.json">
+    <Content Update="wwwroot\appsettings.prod.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
-    <Content Update="wwwroot\appSettings.stag.json">
+    <Content Update="wwwroot\appsettings.stag.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
   </ItemGroup>
 

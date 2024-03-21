@@ -10,20 +10,20 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Update="appSettings.json">
+    <Content Update="appsettings.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Update="appSettings.dev.json">
+    <Content Update="appsettings.dev.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
-    <Content Update="appSettings.prod.json">
+    <Content Update="appsettings.prod.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
-    <Content Update="appSettings.stag.json">
+    <Content Update="appsettings.stag.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <DependentUpon>appSettings.json</DependentUpon>
+      <DependentUpon>appsettings.json</DependentUpon>
     </Content>
 
     <InternalsVisibleTo Include="Softville.Prospecting.WebApi.IntTests" /> <!--To Alba framework in int tests, sees Program.Main in Minimal API -->
