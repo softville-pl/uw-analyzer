@@ -1,5 +1,7 @@
 using Softville.Upwork.BusinessLogic;
+using Softville.Upwork.BusinessLogic.Common.Configuration;
 using Softville.Upwork.WebApi;
+using Softville.Upwork.WebApi.Extensions;
 
 var builder = WebApplication.CreateSlimBuilder(args);
 
@@ -9,7 +11,14 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddProspectingWebApi(builder.Configuration);
 
+builder.Services.Configure<WebApiConfig>(builder.Configuration.GetSection(WebApiConfig.Name));
+
+string corsPolicyName = "DefaultPolicy";
+builder.Services.AddPrpWebApiCors(corsPolicyName, builder.Configuration);
+
 var app = builder.Build();
+
+app.UseCors(corsPolicyName);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.EnvironmentName == "dev")

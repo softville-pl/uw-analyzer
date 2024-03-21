@@ -9,6 +9,7 @@ public class DbConfig
     /// Config Section Name
     /// </summary>
     public const string Name = "Database";
-    public required string ConnectionString { get; set; }
+
+    public string ConnectionString { get; set; } = "Not set";
     public string DatabaseName { get; init; } = "Prospecting";
 }

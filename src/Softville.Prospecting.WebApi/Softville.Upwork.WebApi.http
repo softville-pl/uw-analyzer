@@ -4,3 +4,6 @@ GET {{Softville.Upwork.WebApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+GET {{Softville.Upwork.WebApi_HostAddress}}/offers
+Accept: application/json

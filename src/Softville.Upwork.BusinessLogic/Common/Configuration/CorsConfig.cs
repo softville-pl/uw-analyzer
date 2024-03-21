@@ -3,13 +3,12 @@
 
 namespace Softville.Upwork.BusinessLogic.Common.Configuration;
 
-public class WebApiConfig
+public class CorsConfig
 {
     /// <summary>
     /// Config Section Name
     /// </summary>
-    public const string Name = "PrpWebApi";
+    public const string Name = "Cors";
 
-    public CorsConfig Cors { get; set; } = new();
-    public DbConfig Database { get; set; } = new();
+    public string[] CorsOrigins { get; set; } = { };
 }
