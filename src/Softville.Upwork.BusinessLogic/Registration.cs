@@ -43,7 +43,7 @@ public static class Registration
             .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
-            .AddScoped<IOfferRepository, OfferRepository>()
+            .AddScoped<IOfferProcessorRepository, OfferProcessorRepository>()
             .AddMongo()
             ;
 
@@ -62,7 +62,7 @@ public static class Registration
             .Configure<DbConfig>(config.GetSection($"{WebApiConfig.Name}:{DbConfig.Name}"));
 
         return services
-            .AddScoped<IOfferRepository, OfferRepository>()
+            .AddScoped<IOfferProcessorRepository, OfferProcessorRepository>()
             .AddScoped<IGetOffersQuery, GetOffersQuery>()
             .AddMongo()
             ;

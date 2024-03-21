@@ -6,7 +6,7 @@ using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Queries.Offers;
 
-public class GetOffersQuery(IOfferRepository offerRepository) : IGetOffersQuery
+public class GetOffersQuery(IOfferProcessorRepository offerRepository) : IGetOffersQuery
 {
     public Task<List<Offer>> GetOffersAsync(CancellationToken ct)
     {

@@ -15,7 +15,7 @@ internal class EndToEndUpworkProcessor(
     IOfferDetailsProvider detailsProvider,
     IApplicantsStatsProvider statsProvider,
     IHttpClientFactory httpClientFactory,
-    IOfferRepository offerRepository,
+    IOfferProcessorRepository offerRepository,
     ILogger<EndToEndUpworkProcessor> logger)
     : IUpworkProcessor
 {

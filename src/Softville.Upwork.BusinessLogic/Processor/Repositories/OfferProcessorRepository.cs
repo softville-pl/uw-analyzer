@@ -7,8 +7,8 @@ using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor.Repositories;
 
-internal class OfferRepository(IMongoDatabase database)
-    : IOfferRepository
+internal class OfferProcessorRepository(IMongoDatabase database)
+    : IOfferProcessorRepository
 {
     private const string OffersCol = "Offers";
 

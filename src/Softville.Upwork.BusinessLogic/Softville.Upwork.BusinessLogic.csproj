@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Migrator\" />
     <Folder Include="Processor\Configuration\" />
   </ItemGroup>
 

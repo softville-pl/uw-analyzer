@@ -45,7 +45,7 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         await processor.ProcessOffersAsync(Ctx.Ct);
 
-        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
+        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferProcessorRepository>();
 
         var offer = await offerRepo.GetAsync(expectedId, Ctx.Ct);
 
@@ -62,7 +62,7 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
     public async Task GivenOfferInDbAndTheNewVersionInUpworkApi_WhenProcessed_ThenOfferInDbAndRawResponsesUpdated()
     {
         var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
-        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferRepository>();
+        var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferProcessorRepository>();
 
         Ctx.Should().NotBeNull();
         var processor = Ctx.Job.Services.GetRequiredService<IUpworkProcessor>();
