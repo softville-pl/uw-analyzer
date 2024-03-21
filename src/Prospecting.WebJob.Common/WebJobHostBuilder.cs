@@ -13,8 +13,8 @@ public static class WebJobHostBuilder
             .ConfigureAppConfiguration((context, configBuilder) =>
             {
                 configBuilder
-                    .AddJsonFile("appSettings.json", isTextContext)
-                    .AddJsonFile($"appSettings.{context.HostingEnvironment.EnvironmentName}.json", true)
+                    .AddJsonFile("appsettings.json", isTextContext)
+                    .AddJsonFile($"appsettings.{context.HostingEnvironment.EnvironmentName}.json", true)
                     .AddEnvironmentVariables(
                         "UPWORK_ANALYZER:"); //https://learn.microsoft.com/en-us/dotnet/core/compatibility/extensions/7.0/environment-variable-prefixn
             })
