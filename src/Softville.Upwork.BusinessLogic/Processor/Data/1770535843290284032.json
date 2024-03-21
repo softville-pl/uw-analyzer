@@ -1,33 +1,33 @@
 {
   "job": {
-    "ciphertext": "~0139e9f6bc6589bb88",
-    "rid": 1012024453,
-    "uid": "1768957301156204544",
+    "ciphertext": "~01f66e109676bc447c",
+    "rid": 1012125912,
+    "uid": "1770535843290284032",
     "type": 2,
     "access": 4,
-    "title": "SQL Developer - Database Optimization Specialist",
+    "title": "SciChart Expert",
     "status": 1,
     "category": {
-      "name": "Other - Software Development",
-      "urlSlug": "other-software-development"
+      "name": "Data Analysis \u0026 Testing",
+      "urlSlug": "data-analysis-testing"
     },
     "categoryGroup": {
-      "name": "Web, Mobile \u0026 Software Dev",
-      "urlSlug": "web-mobile-software-dev"
+      "name": "Data Science \u0026 Analytics",
+      "urlSlug": "data-science-analytics"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-16T11:07:41.105Z",
-    "postedOn": "2024-03-16T11:07:41.766Z",
-    "publishTime": "2024-03-16T11:07:41.766Z",
+    "createdOn": "2024-03-20T19:40:15.026Z",
+    "postedOn": "2024-03-20T19:40:15.345Z",
+    "publishTime": "2024-03-20T19:40:15.345Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 3707115,
+    "companyRecno": 161311,
     "durationIdV3": 2,
     "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
@@ -36,11 +36,11 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 0,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 70
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
     },
-    "contractorTier": 3,
-    "description": "We are currently seeking an experienced and dynamic SQL Developer to join our team as a Database Optimization Specialist. As part of our growing company, you will play a key role in developing and optimizing SQL queries for our Flexibookings system. If you have a proven track record in SQL development, database optimization, and a passion for enhancing system performance, we invite you to be part of our innovative team.\nKey Responsibilities:\n1. Develop and implement efficient SQL queries to enhance the functionality of our Flexibookings system.\n2. Collaborate with cross-functional teams to optimize database performance and resolve any query-related challenges.\n3. Contribute to the design and implementation of new SQL queries, ensuring seamless integration with existing systems.\n4. Fine-tune existing SQL queries to improve overall system responsiveness and user experience.\n5. Work closely with .NET developers to optimize calculations\nRequired Skills and Experience:\n1. Proven experience in SQL development and database optimization.\n2. Familiarity with the .NET framework and the ability to collaborate with .NET developers.\n3. Strong analytical and problem-solving skills.\n4. Excellent communication and teamwork abilities.\n5. Bachelor\u0027s degree in Computer Science, Information Technology, or a related field.\ni need a tittle to put on Upwork to hire for the above job",
+    "contractorTier": 2,
+    "description": "We need someone who has experience in SciChart deploying on a desktop .net application. IF YOU DO NOT HAVE THIS EXPERIENCE, DO NOT APPLY.  No other graphing experience will be accepted. We are a software company looking for an additional set of hands. Do not apply if you cannot answer basic questions about WPF and C#. ",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-21T08:42:11.378Z",
-      "totalApplicants": 110,
-      "totalHired": 1,
-      "totalInvitedToInterview": 7,
+      "lastBuyerActivity": "2024-03-21T05:09:06.987Z",
+      "totalApplicants": 14,
+      "totalHired": 0,
+      "totalInvitedToInterview": 12,
       "unansweredInvites": 0,
-      "invitationsSent": 0
+      "invitationsSent": 5
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -98,15 +98,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-16T11:07:41.766Z",
-        "totalTimeJobPostFlowAIv2": "421",
+        "publishTime": "2024-03-20T19:40:15.345Z",
+        "totalTimeJobPostFlowAIv2": "311",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "12",
+        "totalTimeSpentOnReviewPageAIv2": "5",
         "type": "RJP",
-        "browser": "Edge",
+        "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1710586840029"
+        "startTimeJobPostFlowAIv2": "1710963299895"
       }
     },
     "isContractToHire": false,
@@ -115,40 +115,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 0,
-      "countryTimezone": "United Kingdom (UTC)",
-      "city": "London",
-      "country": "United Kingdom"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Newport Coast",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 34,
+      "totalAssignments": 56,
       "activeAssignmentsCount": 7,
-      "feedbackCount": 22,
-      "score": 4.984519339,
-      "totalJobsWithHires": 27,
-      "hoursCount": 469.333332,
+      "feedbackCount": 38,
+      "score": 4.895733434,
+      "totalJobsWithHires": 47,
+      "hoursCount": 2685.333326,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 52222.35
+        "amount": 63768.15
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2017-01-28T00:00:00.000Z",
+      "contractDate": "2010-02-01T00:00:00.000Z",
       "profile": {
-        "size": null,
-        "industry": null,
-        "visible": false,
+        "size": "10",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 44,
-      "openCount": 0
+      "postedCount": 56,
+      "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 40.51316772873059
+      "amount": 20.31283769201619
     }
   },
   "currentUserInfo": {

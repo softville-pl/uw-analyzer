@@ -133,7 +133,7 @@
       "feedbackCount": 0,
       "score": 0,
       "totalJobsWithHires": 2,
-      "hoursCount": 0,
+      "hoursCount": 2.5,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 0
@@ -151,10 +151,12 @@
       }
     },
     "jobs": {
-      "postedCount": 11,
+      "postedCount": 12,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 15.5
+    }
   },
   "currentUserInfo": {
     "owner": false,

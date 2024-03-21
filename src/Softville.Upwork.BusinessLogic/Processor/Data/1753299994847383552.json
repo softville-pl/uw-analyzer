@@ -139,11 +139,11 @@
       "country": "India"
     },
     "stats": {
-      "totalAssignments": 5,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 4,
       "score": 5,
-      "totalJobsWithHires": 5,
+      "totalJobsWithHires": 6,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
@@ -162,7 +162,7 @@
       }
     },
     "jobs": {
-      "postedCount": 29,
+      "postedCount": 30,
       "openCount": 0
     },
     "avgHourlyJobsRate": null

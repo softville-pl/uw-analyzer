@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0169c5406bf40a8cae",
-    "rid": 1011494565,
-    "uid": "1760437257447825408",
+    "ciphertext": "~01bb633103f0c79079",
+    "rid": 1012115530,
+    "uid": "1770432747553816576",
     "type": 2,
     "access": 4,
-    "title": "Hiring Full Stack Developer",
+    "title": "Unity Software Engineer Needed to Develop Optical Simulation Experience",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Game Design \u0026 Development",
+      "urlSlug": "game-design-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,29 +20,50 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-21T22:52:04.683Z",
-    "postedOn": "2024-02-21T22:52:05.165Z",
-    "publishTime": "2024-02-21T22:52:05.165Z",
+    "createdOn": "2024-03-20T12:50:34.944Z",
+    "postedOn": "2024-03-20T12:50:35.395Z",
+    "publishTime": "2024-03-20T12:50:35.395Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 6823887,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "companyRecno": 8621732,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 0,
+      "hourlyBudgetType": 1,
       "hourlyBudgetMin": 25,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Overview:\nWe are in search of a skilled Full-Stack Developer to be a key player in a groundbreaking digital imaging project. The candidate should be adept in both front-end and back-end development, with a strong commitment to creating user-friendly interfaces and robust backend systems.\n\nKey Responsibilities:\n- Develop and maintain the front-end website architecture, ensuring optimal performance and responsiveness.\n- Design user interactions on web pages, focusing on intuitive and visually appealing user interfaces.\n- Develop and maintain back-end website applications, including database and server integration.\n- Create servers and databases for functionality, prioritizing system security and data protection.\n- Ensure cross-platform optimization for mobile devices and consistent cross-browser compatibility.\n- Collaborate with a cross-functional team to develop functional web applications, maintaining the responsiveness of these applications.\n- Uphold code integrity and organization, including quality assurance and version control.\n- Implement data storage solutions and integrate multiple data sources and databases into one cohesive system.\n- Manage project priorities, deadlines, and deliverables in a dynamic environment.\n\nSkills and Qualifications:\n- Bachelor\u2019s degree in Computer Science, a related field, or equivalent practical experience.\n- Proficient in front-end languages such as HTML, CSS, and JavaScript.\n- Experience with JavaScript frameworks like Angular JS, React, or Amber.\n- Skills in server-side languages like Python, Ruby, Java, PHP, and .Net.\n- Familiar with database technologies such as MySQL, Oracle, and MongoDB.\n- Excellent verbal communication, problem-solving skills, and attention to detail.\n- Strong organizational skills with the ability to work independently and within team settings.\n\nPreferred Experience:\n- Demonstrable experience in digital imaging solutions is advantageous.\n- Knowledge in implementing user account management and search functionalities.\n- Experience with cloud messaging APIs and push notifications.\n- Deep understanding of UI, cross-browser compatibility, general web functions, and standards.\n\nApplication Requirements:\nPlease submit a portfolio or examples of previous work/projects alongside your application. This should demonstrate your proficiency in both front-end and back-end development.",
+    "description": "About the Optical Training Institute:\n\nThe Optical Training Institute (OTI) is a leading provider of exam preparation, continuing education, and career development for opticians and ophthalmic personnel. OTI has played a pivotal role in shaping the careers of countless opticians for over 30 years. We are dedicated to  offering innovative, high-quality educational solutions, including our newest project: a virtual practical simulation that replicates a real-life optical practice to help opticians master the operation of optical instruments and tools.\n\nJob Description:\n\nWe are seeking a highly skilled and experienced Unity Software Engineer to develop an optical office virtual simulation experience. The simulation aims to enhance optician\u2019s proficiency with common optical instruments and tools, improving their on-the-job skills. Each piece of equipment will have virtual functionality that allows students to practice and learn essential skills, such as lensometry, slit lamp, pupillary distance measurement, and frame adjustments. \n\nSkills and Qualification:\n\nREQUIRED:\n4\u002B years Unity 3D development experience\nStrong proficiency in C# and .NET\nStrong proficiency with Unity\u2019s UI systems including UGUI and UI Toolkit\nProficiency with Unity\u2019s animation systems and ability to import, pose, and apply simple animations to 3D characters and props\nProficiency with JSON, Postman, and server-side APIs such as REST and GraphQL\nProficiency setting up and managing Git source control repositories through GitHub or GitLabs\nExperience developing for WebGL and deploying applications to webpages\nExperience incorporating user authentication in a web application such as through OAuth2, SAML, or WebAuthn\nWeb-development experience including HTML, CSS, and JavaScript\nExperience working with cloud-based hosting services like AWS S3\nAbility to effectively collaborate with 3D Artists, Animators, and Illustrators and to troubleshoot issues with source assets\nExcellent communication skills\nAbility to handle multiple tasks and adhere to tight deadlines\n\nPREFERRED:\nFamiliarity with eLearning, Learning Management Services, and SCORM standards\nExperience configuring automatic deployment and CI/CD through GitLabs, Jenkins, or Unity Cloud Services\nProficiency writing unit tests and other automated tests to maintain a high standard of product quality\nExperience with working on medical equipment or instrumentation a plus \n\n\nWe look forward to receiving your application!\n",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Can you provide a portfolio or examples of previous Unity projects you\u0027ve developed?"
+      },
+      {
+        "position": 1,
+        "question": "What are your available hours per week?"
+      },
+      {
+        "position": 2,
+        "question": "How soon can you start?"
+      },
+      {
+        "position": 3,
+        "question": "How many years of Unity 3D development experience do you have?"
+      },
+      {
+        "position": 4,
+        "question": "Do you have experience with working on medical equipment/instrumentation?"
+      }
+    ],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -52,7 +73,7 @@
       "tests": null,
       "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 3,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -82,35 +103,34 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-22T18:28:17.191Z",
-      "totalApplicants": 141,
+      "lastBuyerActivity": "2024-03-20T13:02:41.886Z",
+      "totalApplicants": 72,
       "totalHired": 0,
-      "totalInvitedToInterview": 1,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 1,
+      "invitationsSent": 1
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-21T22:52:05.165Z",
-        "reuse": "1731484510027874304",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-20T12:50:35.395Z",
+        "totalTimeJobPostFlowAIv2": "2531",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "7",
+        "totalTimeSpentOnReviewPageAIv2": "1767",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Macintosh"
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1710936504776"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
@@ -118,38 +138,38 @@
     "location": {
       "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
-      "city": "Columbus",
+      "city": "Atlanta",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 32,
-      "activeAssignmentsCount": 7,
-      "feedbackCount": 23,
-      "score": 5,
-      "totalJobsWithHires": 30,
-      "hoursCount": 331.166668,
+      "totalAssignments": 19,
+      "activeAssignmentsCount": 9,
+      "feedbackCount": 9,
+      "score": 4.978854414,
+      "totalJobsWithHires": 18,
+      "hoursCount": 147.666667,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 11943.83
+        "amount": 38202.23
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2019-10-19T00:00:00.000Z",
+      "contractDate": "2020-11-24T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
+        "size": "10",
+        "industry": null,
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 36,
+      "postedCount": 16,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 21.23501752899842
+      "amount": 23.881489788077904
     }
   },
   "currentUserInfo": {
@@ -170,10 +190,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
           },
           {
             "qualification": 8,
