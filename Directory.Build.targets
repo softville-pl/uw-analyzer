@@ -7,12 +7,14 @@
     <PackageReference Update="Microsoft.Extensions.Logging" Version="8.0.0"/>
     <PackageReference Update="Microsoft.Extensions.Http" Version="8.0.0"/>
     <PackageReference Update="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0"/>
+    <PackageReference Update="Microsoft.NET.Sdk.WebAssembly.Pack" Version="8.0.0" />
     <PackageReference Update="FluentValidation" Version="11.8.1"/>
     <PackageReference Update="MongoDB.Driver" Version="2.24.0" />
     <PackageReference Update="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.1"/>
     <PackageReference Update="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.1"/>
     <PackageReference Update="Microsoft.AspNetCore.OpenApi" Version="8.0.3"/>
     <PackageReference Update="Swashbuckle.AspNetCore" Version="6.4.0"/>
+
 
   </ItemGroup>
 

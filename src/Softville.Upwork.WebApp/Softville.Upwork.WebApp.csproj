@@ -7,10 +7,30 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly"/>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" PrivateAssets="all"/>
+    <PackageReference Include="Microsoft.NET.Sdk.WebAssembly.Pack" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Softville.Upwork.Contracts\Softville.Upwork.Contracts.csproj"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\appSettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\appSettings.dev.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </Content>
+    <Content Update="wwwroot\appSettings.prod.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </Content>
+    <Content Update="wwwroot\appSettings.stag.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>appSettings.json</DependentUpon>
+    </Content>
   </ItemGroup>
 
 </Project>
