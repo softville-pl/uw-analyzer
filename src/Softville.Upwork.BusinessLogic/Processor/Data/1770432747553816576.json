@@ -4,7 +4,7 @@
     "rid": 1012115530,
     "uid": "1770432747553816576",
     "type": 2,
-    "access": 4,
+    "access": 1,
     "title": "Unity Software Engineer Needed to Develop Optical Simulation Experience",
     "status": 1,
     "category": {
@@ -103,27 +103,26 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-20T13:02:41.886Z",
-      "totalApplicants": 72,
+      "lastBuyerActivity": "2024-03-22T00:34:22.452Z",
+      "totalApplicants": 77,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
-      "unansweredInvites": 1,
+      "totalInvitedToInterview": 6,
+      "unansweredInvites": 0,
       "invitationsSent": 1
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
         "contractToHireSet",
-        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
         "publishTime": "2024-03-20T12:50:35.395Z",
-        "totalTimeJobPostFlowAIv2": "2531",
+        "totalTimeJobPostFlowAIv2": "",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "1767",
+        "totalTimeSpentOnReviewPageAIv2": "1778",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Windows",
@@ -144,7 +143,7 @@
     "stats": {
       "totalAssignments": 19,
       "activeAssignmentsCount": 9,
-      "feedbackCount": 9,
+      "feedbackCount": 10,
       "score": 4.978854414,
       "totalJobsWithHires": 18,
       "hoursCount": 147.666667,
