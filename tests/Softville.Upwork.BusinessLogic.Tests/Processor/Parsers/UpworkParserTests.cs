@@ -8,7 +8,7 @@ public class UpworkParserTests
     [Fact(DisplayName = "Complete Upwork data parsed successfully")]
     public async Task GivenCompleteUpworkJsonData_WhenParse_ThenParsed()
     {
-        await using Stream stream = TestData.GetCompleteUpworkOffer();
+        await using Stream stream = TestData.Offer1DetailsV1.GetStream();
 
         UpworkOffer actual = await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);
 

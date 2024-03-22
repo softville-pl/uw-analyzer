@@ -12,7 +12,7 @@ public class UpworkOfferMapper
     [Fact(DisplayName = "UpworkOffer is mapped to Offer")]
     public async Task GivenUpworkOffer_WhenMapToOffer_ThenMapped()
     {
-        await using Stream stream = TestData.GetCompleteUpworkOffer();
+        await using Stream stream = TestData.Offer1DetailsV1.GetStream();
 
         UpworkOffer expected =
             await UpworkParser.ParseAsync<UpworkOffer>(stream, CancellationToken.None);

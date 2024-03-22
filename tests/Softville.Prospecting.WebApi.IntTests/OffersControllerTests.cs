@@ -16,7 +16,7 @@ public class OffersControllerTests(WebApiContext ctx) : WebApiTestBase(ctx)
     [Fact]
     public async Task GivenOffersInDb_WhenGetOffers_ThenOffersReturned()
     {
-        var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
+        var expectedId = TestData.Offer1DetailsV1.Id;
 
         Ctx.Should().NotBeNull();
         var processor = Ctx.Job.Services.GetRequiredService<IUpworkProcessor>();
@@ -37,11 +37,11 @@ public class OffersControllerTests(WebApiContext ctx) : WebApiTestBase(ctx)
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/summary"))
-            .RespondWith(Response.Create().WithBody(await TestData.GetCompleteUpworkOfferText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1DetailsV1.GetText()));
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/applicants"))
-            .RespondWith(Response.Create().WithBody(await TestData.UpworkApplicantsText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1ApplicantsV1.GetText()));
 
         await processor.ProcessOffersAsync(Ctx.Ct);
 

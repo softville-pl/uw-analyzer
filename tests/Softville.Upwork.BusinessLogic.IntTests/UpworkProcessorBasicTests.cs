@@ -2,7 +2,6 @@ using FluentAssertions;
 using Softville.Upwork.BusinessLogic.IntTests.Infrastructure;
 using Softville.Upwork.BusinessLogic.Processor;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
-using Softville.Upwork.Contracts;
 using Softville.Upwork.Tests.Common.Data;
 using WireMock.Matchers;
 using WireMock.RequestBuilders;
@@ -16,7 +15,7 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
     [Fact(DisplayName = "New offers from search result saved to db and responses persisted during processing")]
     public async Task GivenOfferInUpworkApi_WhenProcessed_ThenOffersAddedToDbAndRawResponsesPersisted()
     {
-        var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
+        var expectedId = TestData.Offer1DetailsV1.Id;
 
         Ctx.Should().NotBeNull();
         var processor = Ctx.Job.Services.GetRequiredService<IUpworkProcessor>();
@@ -37,11 +36,11 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/summary"))
-            .RespondWith(Response.Create().WithBody(await TestData.GetCompleteUpworkOfferText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1DetailsV1.GetText()));
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/applicants"))
-            .RespondWith(Response.Create().WithBody(await TestData.UpworkApplicantsText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1ApplicantsV1.GetText()));
 
         await processor.ProcessOffersAsync(Ctx.Ct);
 
@@ -61,7 +60,7 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
     [Fact(DisplayName = "Updated offers from search result updated in db and responses persisted during processing")]
     public async Task GivenOfferInDbAndTheNewVersionInUpworkApi_WhenProcessed_ThenOfferInDbAndRawResponsesUpdated()
     {
-        var expectedId = new UpworkId("1745755393334956032", "~019bb7b2a2c6f33572");
+        var expectedId = TestData.Offer1DetailsV1.Id;
         var offerRepo = Ctx.Job.Services.GetRequiredService<IOfferProcessorRepository>();
 
         Ctx.Should().NotBeNull();
@@ -83,11 +82,11 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/summary"))
-            .RespondWith(Response.Create().WithBody(await TestData.GetCompleteUpworkOfferText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1DetailsV1.GetText()));
 
         Ctx.NetProxy.Server
             .Given(Request.Create().WithPath($"/job-details/jobdetails/api/job/{expectedId.CipherText}/applicants"))
-            .RespondWith(Response.Create().WithBody(await TestData.UpworkApplicantsText()));
+            .RespondWith(Response.Create().WithBody(await TestData.Offer1ApplicantsV1.GetText()));
 
         (await offerRepo.GetAsync(expectedId, Ctx.Ct)).Should().BeNull();
 
