@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-08T10:46:55.819Z",
+      "lastBuyerActivity": "2024-03-22T11:21:00.030Z",
       "totalApplicants": 21,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "unansweredInvites": 1,
+      "invitationsSent": 1
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -100,20 +100,20 @@
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
         "browser": "Firefox",
-        "timeSpentToGetAPIDescriptionAI": "6",
         "generatedDescriptionAI": "We are looking for a skilled Azure expert to create a detailed Azure platform diagram for our project. The diagram should clearly illustrate the overall architecture and design of the system. The ideal candidate should have strong experience with Microsoft Azure and software architecture \u0026 design.\n\nThe expected duration of the project is less than 1 month. We are seeking a candidate who can effectively communicate and understand our requirements to deliver a high-quality diagram.\n\nTo apply for this job, please submit a proposal outlining your experience with Azure and software architecture. Specifically, describe how you can contribute to this project and ensure its success. Additionally, please include links to any relevant past projects or diagrams that you have completed.\n\nWe look forward to reviewing your proposals and selecting the most suitable candidate for this job.",
+        "timeSpentToGetAPIDescriptionAI": "6",
         "siteSource": "desktop_rjp",
         "publishTime": "2024-03-07T21:27:05.437Z",
-        "totalTimeJobPostFlowAIv2": "5036",
+        "totalTimeJobPostFlowAIv2": "",
         "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626795962056704\u0022},{\u0022skillUid\u0022:\u00221031626781382656000\u0022}]",
         "sourcingUpdateCount": "0",
         "totalDescriptionEditingTimeAI": "298",
-        "totalTimeSpentOnReviewPageAIv2": "4659",
+        "totalTimeSpentOnReviewPageAIv2": "4668",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1709841788300",
-        "inputsDurationAI": "474250516458926083",
+        "finalDescriptionAI": "I\u0027m looking for someone to help creat a Visio diagram of an existing platform / product running in Azure.\n\nWe\u0027ll get on a call and go through all the services and features, how they connect, walk through the code, the product and the ux.\n\nYou\u0027ll deliver a visio diagram outlaying all of the products services, how they connect, work together and connect externally\n\nThe product is a B2C front end (react spa) ontop of a B2B API (.net) leveraging Azure features including: Static and Function apps, CosmosDb, Data Factory, Azure AD B2C, Azure Storage \u002B more. This includes the deployment pipline from Github\n\nYou should be very comfortable with Azure and Visio.",
         "inputsTitleAI": "Azure Platform Diagram",
-        "finalDescriptionAI": "I\u0027m looking for someone to help creat a Visio diagram of an existing platform / product running in Azure.\n\nWe\u0027ll get on a call and go through all the services and features, how they connect, walk through the code, the product and the ux.\n\nYou\u0027ll deliver a visio diagram outlaying all of the products services, how they connect, work together and connect externally\n\nThe product is a B2C front end (react spa) ontop of a B2B API (.net) leveraging Azure features including: Static and Function apps, CosmosDb, Data Factory, Azure AD B2C, Azure Storage \u002B more. This includes the deployment pipline from Github\n\nYou should be very comfortable with Azure and Visio."
+        "inputsDurationAI": "474250516458926083"
       }
     },
     "isContractToHire": false,
