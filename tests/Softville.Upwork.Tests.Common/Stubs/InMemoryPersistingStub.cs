@@ -12,7 +12,6 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
     private readonly ConcurrentDictionary<(IUpworkRequestType, UpworkId), string> _cache = new();
 
     public string? GetDetails(UpworkId id) => GetImpl(DetailsRequest.Instance, id);
-
     public string? GetApplicants(UpworkId id) => GetImpl(ApplicantsRequest.Instance, id);
 
     private string? GetImpl(IUpworkRequestType requestType, UpworkId id)
@@ -22,6 +21,9 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
         return result;
     }
 
+    public void AddDetails(UpworkId id, string content) => AddImpl(id, DetailsRequest.Instance, content);
+    public void AddApplicants(UpworkId id, string content) => AddImpl(id, ApplicantsRequest.Instance, content);
+
     public async Task<HttpResponseMessage> PersistAsync(UpworkId id, IUpworkRequestType requestType,
         HttpResponseMessage response, CancellationToken ct)
     {
@@ -30,11 +32,16 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
 
         string content = await response.Content.ReadAsStringAsync(ct);
 
+        AddImpl(id, requestType, content);
+
+        return response;
+    }
+
+    private void AddImpl(UpworkId id, IUpworkRequestType requestType, string content)
+    {
         var cacheId = (requestType, id);
 
         if (_cache.TryAdd(cacheId, content) is false)
             _cache.TryUpdate(cacheId, content, _cache[cacheId]);
-
-        return response;
     }
 }
