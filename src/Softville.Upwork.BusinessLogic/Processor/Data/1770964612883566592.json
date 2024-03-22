@@ -1,0 +1,268 @@
+{
+  "job": {
+    "ciphertext": "~0109d02533d72deafe",
+    "rid": 1012155351,
+    "uid": "1770964612883566592",
+    "type": 2,
+    "access": 1,
+    "title": "Develop a custom CRM for Real Estate website",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-22T00:04:01.598Z",
+    "postedOn": "2024-03-22T00:04:01.857Z",
+    "publishTime": "2024-03-22T00:04:01.857Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 5024802,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 55
+    },
+    "contractorTier": 3,
+    "description": "Project involves the development and incorporation of a custom CRM into a real estate listing website where multiple users can track and manage visitor leads and then market their listings to those prospective buyer leads.  \n\nI would like to hire a developer that has prior experience in building a custom CRM preferably for the real estate industry.... So please list any relevant CRM projects that you or your company have completed. \n\nThe CRM should have basic marketing automation and the ability to initiate and track multiple forms of communication.  Any AI integration or functionality is a plus. ",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "What frameworks have you worked with?"
+      },
+      {
+        "position": 2,
+        "question": "Please list any certifications related to this project"
+      },
+      {
+        "position": 3,
+        "question": "Include a link to your GitHub profile and/or website"
+      },
+      {
+        "position": 4,
+        "question": "Describe your approach to testing and improving QA"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-22T05:20:21.890Z",
+      "totalApplicants": 50,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 1,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-22T00:04:01.857Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "1252",
+        "type": "RJP",
+        "urgency": "2",
+        "browser": "Firefox",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1711063236559"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": "Orlando",
+      "country": "United States"
+    },
+    "stats": {
+      "totalAssignments": 8,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 2,
+      "score": 5,
+      "totalJobsWithHires": 8,
+      "hoursCount": 1.5,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 1007.75
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2018-04-08T00:00:00.000Z",
+      "profile": {
+        "size": "1",
+        "industry": null,
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 12,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 20
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 3,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "2",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_10000",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "At Least 10000"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

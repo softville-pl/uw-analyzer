@@ -140,14 +140,14 @@
     },
     "stats": {
       "totalAssignments": 6,
-      "activeAssignmentsCount": 1,
-      "feedbackCount": 4,
-      "score": 5,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 5,
+      "score": 4.947368421,
       "totalJobsWithHires": 6,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 140
+        "amount": 190
       }
     },
     "isEnterprise": false,
