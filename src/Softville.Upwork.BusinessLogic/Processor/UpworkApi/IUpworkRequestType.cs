@@ -10,14 +10,16 @@ public interface IUpworkRequestType
 
 internal record ApplicantsRequest : IUpworkRequestType
 {
-    internal static readonly IUpworkRequestType Instance = new ApplicantsRequest();
+    private ApplicantsRequest() { }
+    internal static IUpworkRequestType Instance { get; } = new ApplicantsRequest();
 
     public string RequestName { get; } = "applicants";
 }
 
 internal record DetailsRequest : IUpworkRequestType
 {
-    internal static readonly IUpworkRequestType Instance = new DetailsRequest();
+    private DetailsRequest() { }
+    internal static IUpworkRequestType Instance { get; } = new DetailsRequest();
 
     public string RequestName { get; } = string.Empty;
 }

@@ -36,8 +36,8 @@ public sealed class WebJobComponent : IDisposable
         });
         _hostBuilder.ConfigureServices((_, services) =>
             {
-                services.RemoveAll(typeof(IHttpResponsePersisting));
-                services.AddScoped<IHttpResponsePersisting, InMemoryPersistingStub>();
+                services.RemoveAll(typeof(IHttpResponseStoring));
+                services.AddScoped<IHttpResponseStoring, InMemoryStoringStub>();
             }
         );
         _host = await _hostBuilder.StartAsync(ct);

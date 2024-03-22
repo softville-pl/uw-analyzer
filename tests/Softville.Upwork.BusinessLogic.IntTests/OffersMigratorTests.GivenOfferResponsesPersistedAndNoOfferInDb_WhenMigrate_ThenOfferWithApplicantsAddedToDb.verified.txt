@@ -1,0 +1,134 @@
+﻿{
+  Title: Lead Sitecore / .Net Engineer,
+  Uid: 1745755393334956032,
+  Rid: 1010624703,
+  Cooperation: {
+    DurationLabel: More than 6 months,
+    Workload: More than 30 hrs/week,
+    NumberOfPositionsToHire: 1
+  },
+  CipherText: ~019bb7b2a2c6f33572,
+  Category: Web Development,
+  CategoryGroup: Web, Mobile & Software Dev,
+  PublishedTime: 2024-01-12 11:31:36.198 Local,
+  Rate: {
+    Minimum: 40.0,
+    Maximum: 50.0,
+    Currency: USD
+  },
+  LinkUrl: ~019bb7b2a2c6f33572,
+  Developers: {
+    MoreDevsExplicitly: false
+  },
+  Customer: {
+    Location: {
+      Country: Georgia,
+      City: Tbilisi
+    },
+    Profile: {
+      Industry: N/A,
+      Size: 100
+    },
+    Stats: {
+      TotalAssignments: 5,
+      ActiveAssignmentsCount: 0,
+      FeedbackCount: 4,
+      Score: 5.0,
+      TotalJobsWithHires: 5,
+      TotalCharges: {
+        CurrencyCode: USD,
+        Amount: 21194.0
+      }
+    }
+  },
+  BusinessDomain: N/A,
+  Technology: {
+    Architecture: N/A,
+    DotnetVersion: N/A,
+    BackendFrameworks: N/A,
+    FrontendFrameworks: N/A,
+    Databases: N/A,
+    Cloud: {
+      Provider: N/A,
+      Services: N/A
+    },
+    ThirdParty: N/A
+  },
+  ApplicationProcess: N/A,
+  UnusualRequirements: N/A,
+  Requirements: [
+    N/A
+  ],
+  Duties: N/A,
+  Questions: [
+    How many Microsoft apps have you built with wrappers around Angular?,
+    How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?,
+    What core coding frameworks have you been working on in the last 5 years (please list top 2)?,
+    Who is the most notable company that you developed software for directly on your resume?
+  ],
+  ConnectPrice: -1,
+  Activity: {
+    LastBuyerActivity: 2024-01-15 08:31:26.4 Local,
+    TotalApplicants: 18,
+    TotalInvitedToInterview: 1,
+    InvitationsSent: 2
+  },
+  Qualifications: {
+    TotalQualifications: 5,
+    MatchedQualifications: 5,
+    QualificationsDetails: [
+      {
+        Qualified: true,
+        ClientPreferred: individuals,
+        FreelancerValue: IC,
+        FreelancerValueLabel: Not Specified,
+        ClientPreferredLabel: Freelancers only
+      },
+      {
+        Qualified: true,
+        ClientPreferred: 3,
+        FreelancerValue: 3,
+        FreelancerValueLabel: Fluent,
+        ClientPreferredLabel: Fluent
+      },
+      {
+        Qualified: true,
+        ClientPreferred: region=(Europe),country=(Bulgaria,Cyprus,Czech Republic,Estonia,Georgia,Germany,Hungary,Latvia,Lithuania,Montenegro,Poland,Portugal,Romania,Slovakia,Spain,Turkey,Ukraine,Armenia,Moldova),
+        FreelancerValue: Europe,Poland,
+        FreelancerValueLabel: Europe, Poland,
+        ClientPreferredLabel: Europe, Bulgaria, Cyprus, Czech Republic, Estonia, Georgia, Germany, Hungary, Latvia, Lithuania, Montenegro, Poland, Portugal, Romania, Slovakia, Spain, Turkey, Ukraine, Armenia, Moldova
+      },
+      {
+        Qualified: true,
+        ClientPreferred: ANY,
+        FreelancerValue: 0.00,
+        FreelancerValueLabel: 0.00,
+        ClientPreferredLabel: Any
+      },
+      {
+        Qualified: true,
+        ClientPreferred: Any,
+        FreelancerValue: en,
+        FreelancerValueLabel: English
+      }
+    ]
+  },
+  Stats: {
+    MinRateBid: {
+      CurrencyCode: USD,
+      Amount: 13.0
+    },
+    AvgRateBid: {
+      CurrencyCode: USD,
+      Amount: 43.28
+    },
+    MaxRateBid: {
+      CurrencyCode: USD,
+      Amount: 90.0
+    },
+    AvgInterviewedRateBid: {
+      CurrencyCode: USD,
+      Amount: 45.0
+    }
+  }
+}

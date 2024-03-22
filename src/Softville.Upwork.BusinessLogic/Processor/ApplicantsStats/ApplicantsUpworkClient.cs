@@ -8,7 +8,7 @@ using Softville.Upwork.Contracts;
 
 namespace Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 
-internal class ApplicantsUpworkClient(IUpworkApiCaller apiCaller, IHttpResponsePersisting persisting) : IApplicantsClient
+internal class ApplicantsUpworkClient(IUpworkApiCaller apiCaller, IHttpResponseStoring storing) : IApplicantsClient
 {
     public async Task<UpworkApplicantsStats> FetchApplicantsStatsAsync(UpworkId id, CancellationToken ct)
     {
@@ -17,7 +17,7 @@ internal class ApplicantsUpworkClient(IUpworkApiCaller apiCaller, IHttpResponseP
 
         var response = await apiCaller.SendRequestAsync(httpRequestMessage, ct);
 
-        await persisting.PersistAsync(id, ApplicantsRequest.Instance, response, ct);
+        await storing.PersistAsync(id, ApplicantsRequest.Instance, response, ct);
 
         if (response.IsSuccessStatusCode is false)
         {

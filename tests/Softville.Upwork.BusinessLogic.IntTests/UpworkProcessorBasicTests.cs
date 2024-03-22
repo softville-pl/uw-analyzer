@@ -50,10 +50,10 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         await Verify(offer, Ctx.Verify.CreateSettings());
 
-        Ctx.Job.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponseStoring.GetDetails(expectedId).Should().NotBeNull().And
             .Contain("We are looking for Lead Engineer to join our development team");
 
-        Ctx.Job.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponseStoring.GetApplicants(expectedId).Should().NotBeNull().And
             .Contain("avgInterviewedRateBid");
     }
 
@@ -108,10 +108,10 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         await Verify(offer, Ctx.Verify.CreateSettings());
 
-        Ctx.Job.Services.ResponsePersisting.GetDetails(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponseStoring.GetDetails(expectedId).Should().NotBeNull().And
             .Contain("New description");
 
-        Ctx.Job.Services.ResponsePersisting.GetApplicants(expectedId).Should().NotBeNull().And
+        Ctx.Job.Services.ResponseStoring.GetApplicants(expectedId).Should().NotBeNull().And
             .Contain("900");
     }
 }

@@ -2,12 +2,14 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using System.Collections.Concurrent;
+using System.Text;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Contracts;
+using Softville.Upwork.Tests.Common.Data;
 
 namespace Softville.Upwork.Tests.Common.Stubs;
 
-public class InMemoryPersistingStub : IHttpResponsePersisting
+public class InMemoryStoringStub : IHttpResponseStoring
 {
     private readonly ConcurrentDictionary<(IUpworkRequestType, UpworkId), string> _cache = new();
 
@@ -22,7 +24,14 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
     }
 
     public void AddDetails(UpworkId id, string content) => AddImpl(id, DetailsRequest.Instance, content);
+
+    public async Task AddDetailsAsync(ResourceOffer offer) =>
+        AddImpl(offer.Id, DetailsRequest.Instance, await offer.GetText());
+
     public void AddApplicants(UpworkId id, string content) => AddImpl(id, ApplicantsRequest.Instance, content);
+
+    public async Task AddApplicantsAsync(ResourceOffer offer) =>
+        AddImpl(offer.Id, ApplicantsRequest.Instance, await offer.GetText());
 
     public async Task<HttpResponseMessage> PersistAsync(UpworkId id, IUpworkRequestType requestType,
         HttpResponseMessage response, CancellationToken ct)
@@ -35,6 +44,23 @@ public class InMemoryPersistingStub : IHttpResponsePersisting
         AddImpl(id, requestType, content);
 
         return response;
+    }
+
+    public Task<string?> ReadAsync(UpworkId id, IUpworkRequestType requestType, CancellationToken ct)
+    {
+        _cache.TryGetValue((requestType, id), out string? result);
+
+        return Task.FromResult(result);
+    }
+
+    public ValueTask<UpworkId[]> ListAllAsync(CancellationToken ct) =>
+        ValueTask.FromResult(_cache.Keys.Select(k => k.Item2).ToArray());
+
+    public Stream? Read(UpworkId id, IUpworkRequestType requestType)
+    {
+        _cache.TryGetValue((requestType, id), out string? result);
+
+        return result is not null ? new MemoryStream(Encoding.UTF8.GetBytes(result)) : null;
     }
 
     private void AddImpl(UpworkId id, IUpworkRequestType requestType, string content)

@@ -36,10 +36,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UpworkProcessorTests\"/>
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\src\Prospecting.WebJob.Common\Prospecting.WebJob.Common.csproj"/>
     <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj"/>
     <ProjectReference Include="..\Softville.Upwork.Tests.Common\Softville.Upwork.Tests.Common.csproj"/>

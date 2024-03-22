@@ -9,6 +9,7 @@ using Softville.Upwork.BusinessLogic.Common.Configuration;
 using Softville.Upwork.BusinessLogic.Common.Database;
 using Softville.Upwork.BusinessLogic.Processor;
 using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
+using Softville.Upwork.BusinessLogic.Processor.Migrator;
 using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
@@ -38,12 +39,13 @@ public static class Registration
             .AddScoped<IUpworkProcessor, EndToEndUpworkProcessor>()
             .AddScoped<ISearchResultProvider, SearchResultProvider>()
             .AddScoped<IUpworkApiCaller, UpworkApiCaller>()
-            .AddScoped<IHttpResponsePersisting, LocalDiskPersisting>()
+            .AddScoped<IHttpResponseStoring, LocalDiskStoring>()
             .AddScoped<IApplicantsClient, ApplicantsUpworkClient>()
             .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
             .AddScoped<IOfferProcessorRepository, OfferProcessorRepository>()
+            .AddScoped<IOffersMigrator, OffersMigrator>()
             .AddMongo()
             ;
 

@@ -41,7 +41,8 @@ public class WebJobServicesComponent : IDisposable
         }
     }
 
-    public InMemoryPersistingStub ResponsePersisting => (InMemoryPersistingStub)ScopedProvider.GetRequiredService<IHttpResponsePersisting>();
+    public InMemoryStoringStub ResponseStoring =>
+        (InMemoryStoringStub)ScopedProvider.GetRequiredService<IHttpResponseStoring>();
 
     public T GetRequiredService<T>() where T : notnull
     {
