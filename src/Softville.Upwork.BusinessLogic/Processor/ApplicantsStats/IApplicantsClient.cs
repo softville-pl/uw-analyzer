@@ -7,5 +7,5 @@ namespace Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 
 internal interface IApplicantsClient
 {
-    Task<UpworkApplicantsStats> GetApplicantsStatsAsync(UpworkId id, CancellationToken ct);
+    Task<UpworkApplicantsStats> FetchApplicantsStatsAsync(UpworkId id, CancellationToken ct);
 }

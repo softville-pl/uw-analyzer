@@ -1,0 +1,294 @@
+{
+    "job": {
+        "ciphertext": "~019bb7b2a2c6f33572",
+        "rid": 1010624703,
+        "uid": "1745755393334956032",
+        "type": 2,
+        "access": 4,
+        "title": "Lead Sitecore / .Net Engineer",
+        "status": 1,
+        "category": {
+            "name": "Web Development",
+            "urlSlug": "web-development"
+        },
+        "categoryGroup": {
+            "name": "Web, Mobile \u0026 Software Dev",
+            "urlSlug": "web-mobile-software-dev"
+        },
+        "hideBudget": false,
+        "budget": {
+            "currencyCode": "USD",
+            "amount": 0
+        },
+        "createdOn": "2024-01-12T10:31:35.443Z",
+        "postedOn": "2024-01-12T10:31:36.198Z",
+        "publishTime": "2024-01-12T10:31:36.198Z",
+        "wasRenewed": false,
+        "startDate": null,
+        "deliveryDate": null,
+        "workload": "More than 30 hrs/week",
+        "companyRecno": 6062111,
+        "durationIdV3": 4,
+        "durationLabel": "More than 6 months",
+        "notSureProjectDuration": false,
+        "notSureFreelancersToHire": false,
+        "notSureExperienceLevel": false,
+        "numberOfPositionsToHire": 1,
+        "extendedBudgetInfo": {
+            "hourlyBudgetType": 1,
+            "hourlyBudgetMin": 40,
+            "hourlyBudgetMax": 50
+        },
+        "contractorTier": 3,
+        "description": "We are looking for Lead Engineer to join our development team. It\u0027s a long-term project (6\u002B months) with full-time load (40 hours per week).\n\nJob Description:\nThe Lead Sitecore Developer will specialize in back-end development with a primary focus on .Net development and Sitecore as a headless CMS. This individual will be responsible for designing and building robust back-end solutions that interact seamlessly with front-end applications through APIs. The role requires a deep understanding of Sitecore CMS, including customizing admin interfaces and implementing workflows. The ideal candidate will excel in a team setting, bringing expertise in CMS development and a commitment to crafting high-quality, scalable web solutions.\nResponsibilities:\n\u25CF Design and develop back-end functionalities using .Net and Sitecore as a headless CMS.\n\u25CF Architect and implement API endpoints for data interactions in Sitecore.\n\u25CF Customize the Sitecore admin interface to enhance content management capabilities.\n\u25CF Develop and implement workflows in Sitecore to streamline content management processes.\n\u25CF Ensure optimized performance and scalability of back-end services in the Sitecore environment.\n\u25CF Write clean, maintainable, and efficient code; conduct code reviews to maintain high quality.\n\u25CF Collaborate with front-end developers to define API specifications and ensure seamless integration.\n\u25CF Diagnose and resolve bugs and performance issues in back-end systems.\n\u25CF Document code, API endpoints, and technical solutions effectively in the Sitecore context.\n\u25CF Stay up-to-date with the latest trends in CMS development, particularly regarding Sitecore.\n\u25CF Participate actively in system architecture design and database design discussions.\n\nRequirements:\n\u25CF At least 8 years of experience in back-end development, with a strong focus on .Net and\nSitecore CMS.\n\u25CF Profound knowledge of .NET framework and C# for building APIs.\n\u25CF Extensive experience in customizing Sitecore admin interfaces, implementing workflows, and\nintegrating 3rd-party services into the CMS.\n\u25CF Experience collaborating with front-end and back-end development teams to implement\nSitecore-based solutions.\n\u25CF Should have experience working with Microservice based applications.\n\u25CF Experience with database technologies, preferably SQL Server.\n\u25CF Excellent problem-solving skills and understanding of algorithmic concepts.\n\u25CF Effective communication skills to articulate technical concepts to non-technical audiences.\n\u25CF Ability to work in a fast-paced, deadline-driven environment while maintaining high-quality\nstandards.\n\u25CF Proven ability to collaborate effectively with front-end developers and other team members.\n\nFluent English is required.\n\nWE DON\u0027T WORK WITH AGENCIES!!!",
+        "attachments": null,
+        "questions": [
+            {
+                "position": 0,
+                "question": "How many Microsoft apps have you built with wrappers around Angular?"
+            },
+            {
+                "position": 1,
+                "question": "How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?"
+            },
+            {
+                "position": 2,
+                "question": "What core coding frameworks have you been working on in the last 5 years (please list top 2)?"
+            },
+            {
+                "position": 3,
+                "question": "Who is the most notable company that you developed software for directly on your resume?"
+            }
+        ],
+        "qualifications": {
+            "type": 1,
+            "location": {
+                "country": null,
+                "city": null,
+                "state": null,
+                "countryTimezone": null,
+                "worldRegion": "Europe",
+                "offsetFromUtcMillis": null
+            },
+            "minOdeskHours": 0,
+            "groupRecno": null,
+            "shouldHavePortfolio": false,
+            "tests": null,
+            "minHoursWeek": 40,
+            "group": null,
+            "prefEnglishSkill": 3,
+            "minJobSuccessScore": 0,
+            "risingTalent": false,
+            "locationCheckRequired": false,
+            "countries": [
+                "Bulgaria",
+                "Cyprus",
+                "Czech Republic",
+                "Estonia",
+                "Georgia",
+                "Germany",
+                "Hungary",
+                "Latvia",
+                "Lithuania",
+                "Montenegro",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Spain",
+                "Turkey",
+                "Ukraine",
+                "Armenia",
+                "Moldova"
+            ],
+            "regions": [
+                "Europe"
+            ],
+            "states": null,
+            "timezones": null,
+            "localMarket": false,
+            "onSiteType": null,
+            "locations": null,
+            "localDescription": null,
+            "localFlexibilityDescription": null,
+            "earnings": null,
+            "languages": null
+        },
+        "isPremium": false,
+        "segmentationData": [
+            {
+                "name": "Employment",
+                "value": "EMPLOYMENT_COMPLEX_PROJECT",
+                "label": "Complex project",
+                "type": "EMPLOYMENT",
+                "sortOrder": 2,
+                "typeUid": "535792587707281410",
+                "customValue": null,
+                "skill": null
+            }
+        ],
+        "clientActivity": {
+            "lastBuyerActivity": "2024-01-15T07:31:26.400Z",
+            "totalApplicants": 18,
+            "totalHired": 0,
+            "totalInvitedToInterview": 1,
+            "unansweredInvites": 0,
+            "invitationsSent": 2
+        },
+        "weeklyRetainerBudget": null,
+        "annotations": {
+            "tags": [
+                "jsi_contractToHire",
+                "contractToHireSet",
+                "searchable",
+                "C2HJobsOptInEducation"
+            ],
+            "customFields": {
+                "totalTimeSpentOnDescriptionPageAI": "103",
+                "sourcingUpdateForbidden": "false",
+                "type": "RJP",
+                "browser": "Chrome",
+                "timeSpentToGetAPIDescriptionAI": "4",
+                "generatedDescriptionAI": "We are looking for a skilled Senior Microsoft App Developer with experience in Angular and Windows Forms. The project is expected to last 1 to 3 months. \n\nThe ideal candidate should have expertise in API integration, .NET Framework, AngularJS, Microsoft Windows, Windows App Development, JavaScript, and Angular. \n\nAs a Senior Microsoft App Developer, you will be responsible for developing robust and scalable applications using Angular and Windows Forms. You will need to have a strong understanding of API implementation and integration, as well as experience with Microsoft Windows app development.\n\nTo apply for this role, please submit a proposal detailing how you can contribute to the project. Please include links to your past completed projects that showcase your skills in Angular and Windows Forms development.\n\nWe look forward to reviewing your proposals and finding the right candidate for this project.",
+                "siteSource": "desktop_rjp",
+                "publishTime": "2024-01-31T19:29:13.048Z",
+                "totalTimeJobPostFlowAIv2": "278",
+                "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626732825198592\u0022},{\u0022skillUid\u0022:\u00221110580482322976768\u0022},{\u0022skillUid\u0022:\u0022996364628025274383\u0022},{\u0022skillUid\u0022:\u00221031626795949473792\u0022},{\u0022skillUid\u0022:\u0022996364628025274378\u0022},{\u0022skillUid\u0022:\u00221031626712877088768\u0022},{\u0022skillUid\u0022:\u0022996364628012691468\u0022}]",
+                "sourcingUpdateCount": "0",
+                "totalDescriptionEditingTimeAI": "102",
+                "totalTimeSpentOnReviewPageAIv2": "118",
+                "device": "Macintosh",
+                "startTimeJobPostFlowAIv2": "1706729073701",
+                "inputsDurationAI": "474250516458926082",
+                "inputsTitleAI": "Senior Microsoft App Developer (Angular/Windows Forms)",
+                "finalDescriptionAI": "Overview:\n\nWe are seeking an experienced Microsoft App Developer with a strong background in Angular and expertise in automating Windows forms. The primary focus of this role will be developing an Angular-based application that functions like a CRM, enabling users to view a list of their clients and auto-populate Windows popup forms on their computers.\n\nKey Responsibilities:\n\n\u2022 CRM Application Development: Design and develop an Angular-based application that allows users to view a list of their Client on our database.\n\u2022 Windows Forms Automation: Implement functionality to auto-populate Windows forms with Client data from the Client List mentioned above, enhancing user efficiency and data accuracy.\n\u2022 Application Integration: Ensure seamless integration of the Angular application with existing systems and databases.\n\u2022 Testing and Debugging: Conduct thorough testing to identify bugs and issues, ensuring the reliability and performance of the application.\n\u2022 Documentation: Create detailed documentation for the application, facilitating easy use and maintenance.\n\nRequired Skills and Experience:\n\n\u2022 Proven experience in developing Microsoft Apps using Angular.\n\u2022 Extensive knowledge of automating Windows forms, with experience in frameworks like Delphi.\n\u2022 Strong understanding of Microsoft application development and ecosystem.\n\u2022 Familiarity with CRM systems and the ability to implement CRM-like features.\n\u2022 Excellent problem-solving skills and attention to detail.\n\u2022 Strong communication and collaboration abilities.\n\nApplication Process:\n\nInterested candidates should submit a resume highlighting relevant experience and a portfolio showcasing previous projects. Please include details of your experience with Angular and Windows forms automation, specifically any CRM-like applications you have developed."
+            }
+        },
+        "isContractToHire": true,
+        "recruitingServices": null
+    },
+    "buyer": {
+        "isPaymentMethodVerified": true,
+        "location": {
+            "offsetFromUtcMillis": 0,
+            "countryTimezone": "Georgia (UTC)",
+            "city": "Tbilisi",
+            "country": "Georgia"
+        },
+        "stats": {
+            "totalAssignments": 5,
+            "activeAssignmentsCount": 0,
+            "feedbackCount": 4,
+            "score": 5,
+            "totalJobsWithHires": 5,
+            "hoursCount": 0,
+            "totalCharges": {
+                "currencyCode": "USD",
+                "amount": 21194
+            }
+        },
+        "isEnterprise": false,
+        "company": {
+            "isEDCReplicated": false,
+            "contractDate": "2019-03-06T00:00:00.000Z",
+            "profile": {
+                "size": "100",
+                "industry": null,
+                "visible": true,
+                "l3Occupations": []
+            }
+        },
+        "jobs": {
+            "postedCount": 303,
+            "openCount": 0
+        },
+        "avgHourlyJobsRate": {
+            "amount": 15.063593497413923
+        }
+    },
+    "currentUserInfo": {
+        "owner": false,
+        "freelancerInfo": {
+            "qualificationsMatches": {
+                "totalQualifications": 5,
+                "totalMatches": 5,
+                "matches": [
+                    {
+                        "qualification": 0,
+                        "qualified": true,
+                        "clientPreferred": "individuals",
+                        "freelancerValue": "IC",
+                        "freelancerValueLabel": "Not Specified",
+                        "clientPreferredLabel": "Freelancers only"
+                    },
+                    {
+                        "qualification": 4,
+                        "qualified": true,
+                        "clientPreferred": "3",
+                        "freelancerValue": "3",
+                        "freelancerValueLabel": "Fluent",
+                        "clientPreferredLabel": "Fluent"
+                    },
+                    {
+                        "qualification": 3,
+                        "qualified": true,
+                        "clientPreferred": "region=(Europe),country=(Bulgaria,Cyprus,Czech Republic,Estonia,Georgia,Germany,Hungary,Latvia,Lithuania,Montenegro,Poland,Portugal,Romania,Slovakia,Spain,Turkey,Ukraine,Armenia,Moldova)",
+                        "freelancerValue": "Europe,Poland",
+                        "freelancerValueLabel": "Europe, Poland",
+                        "clientPreferredLabel": "Europe, Bulgaria, Cyprus, Czech Republic, Estonia, Georgia, Germany, Hungary, Latvia, Lithuania, Montenegro, Poland, Portugal, Romania, Slovakia, Spain, Turkey, Ukraine, Armenia, Moldova"
+                    },
+                    {
+                        "qualification": 8,
+                        "qualified": true,
+                        "clientPreferred": "ANY",
+                        "freelancerValue": "0.00",
+                        "freelancerValueLabel": "0.00",
+                        "clientPreferredLabel": "Any"
+                    },
+                    {
+                        "qualification": 10,
+                        "qualified": true,
+                        "clientPreferred": "Any",
+                        "freelancerValue": "en",
+                        "freelancerValueLabel": "English",
+                        "clientPreferredLabel": null
+                    }
+                ]
+            },
+            "applied": null,
+            "hired": null,
+            "contract": null,
+            "profileState": 10,
+            "hourlyRate": {
+                "currencyCode": "USD",
+                "amount": 56
+            },
+            "devProfileCiphertext": "~01256f0be21d7e2c1e",
+            "application": null,
+            "pendingInvite": null
+        }
+    },
+    "paths": {
+        "js": "/nx/jobs/search"
+    },
+    "ff": {
+        "isRemoveClientTotalSpentCap": true,
+        "isJobDetailsQuickJobPost": true,
+        "CFE6770ImprovedQualificationsSection": true,
+        "jdShowInvitesCount": true,
+        "enforceMinimumRateInProfile": true,
+        "TSV1877IDVatSubmitProposal": true,
+        "AG2156TeamsAddRoleFlow": true,
+        "CLOB6375ExpandedCompanyProfile": true
+    },
+    "qt": [],
+    "experiments": {
+        "idvOnSubmitProposals": {
+            "soft": false,
+            "hard": false,
+            "idv_required": false,
+            "idv_complete": false
+        }
+    },
+    "isVisitor": false
+}

@@ -8,6 +8,21 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions"/>
     <PackageReference Include="Microsoft.Extensions.Logging"/>
     <PackageReference Include="Microsoft.Extensions.Http"/>
+    <PackageReference Include="MongoDB.Driver"/>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Processor\Configuration\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Processor\Data\1767927420674441216-applicants.json" />
+    <None Remove="Processor\Data\1767927382390673408.json" />
+    <None Remove="Processor\Data\1767927382390673408-applicants.json" />
+    <None Remove="Processor\Data\1767908360627175424.json" />
+    <None Remove="Processor\Data\1767908360627175424-applicants.json" />
+    <None Remove="Processor\Data\1767849608805183488.json" />
+    <None Remove="Processor\Data\1767849608805183488-applicants.json" />
   </ItemGroup>
 
 </Project>

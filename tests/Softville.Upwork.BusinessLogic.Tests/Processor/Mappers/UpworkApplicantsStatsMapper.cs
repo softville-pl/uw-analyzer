@@ -3,7 +3,7 @@
 
 using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
-using Softville.Upwork.BusinessLogic.Tests.Processor.TestData;
+using Softville.Upwork.Tests.Common.Data;
 
 namespace Softville.Upwork.BusinessLogic.Tests.Processor.Mappers;
 
@@ -12,7 +12,7 @@ public class UpworkApplicantsStatsMapper
     [Fact]
     public async Task GivenUpworkApplicantsStats_WhenMapToBids_ThenCorrectlyMapped()
     {
-        await using Stream stream = ProcessorTestData.UpworkApplicants();
+        await using Stream stream = TestData.UpworkApplicants();
 
         CancellationToken ct = CancellationToken.None;
 

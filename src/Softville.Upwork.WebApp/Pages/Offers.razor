@@ -1,5 +1,6 @@
 ﻿@page "/offers"
 @using Softville.Upwork.Contracts
+@using System.Text.Json
 @inject HttpClient Http
 
 <PageTitle>Weather</PageTitle>
@@ -55,10 +56,16 @@ else
 
 @code {
     private Offer[]? _offers;
+    private static readonly JsonSerializerOptions JsonSerializerOptions = new() {PropertyNameCaseInsensitive = true};
 
     protected override async Task OnInitializedAsync()
     {
-        _offers = (await Http.GetFromJsonAsync<Offer[]>("sample-data/offers.json"))!
+        var getOffersResponse = await Http.GetAsync("offers");
+        var content = await getOffersResponse.Content.ReadAsStringAsync();
+        if (getOffersResponse.IsSuccessStatusCode is false)
+            throw new InvalidOperationException($"Retrieving offers failed: {getOffersResponse.StatusCode}: {content}");
+
+        _offers = JsonSerializer.Deserialize<Offer[]>(content, JsonSerializerOptions)!
             .OrderByDescending(o => o.PublishedTime)
             .ToArray();
     }

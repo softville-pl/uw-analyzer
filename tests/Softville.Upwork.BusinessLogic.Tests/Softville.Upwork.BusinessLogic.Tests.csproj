@@ -21,12 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj"/>
-  </ItemGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Include="Processor\TestData\upwork-fulldatamodel.json"/>
-    <EmbeddedResource Include="Processor\TestData\upwork-searchresultmodel.json"/>
-    <EmbeddedResource Include="Processor\TestData\upwork-applicantsmodel.json" />
+    <ProjectReference Include="..\Softville.Upwork.Tests.Common\Softville.Upwork.Tests.Common.csproj" />
   </ItemGroup>
 
 </Project>

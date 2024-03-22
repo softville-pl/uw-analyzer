@@ -9,7 +9,7 @@ internal class ApplicantsStatsProvider(IApplicantsClient applicantsClient) : IAp
 {
     public async Task<Contracts.ApplicantsStats> GetBidsStatsAsync(UpworkId id, CancellationToken ct)
     {
-        var applicantsStats = await applicantsClient.GetApplicantsStatsAsync(id, ct);
+        var applicantsStats = await applicantsClient.FetchApplicantsStatsAsync(id, ct);
 
         return applicantsStats.MapToStats();
     }

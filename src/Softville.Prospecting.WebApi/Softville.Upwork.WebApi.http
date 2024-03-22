@@ -1,0 +1,9 @@
+@Softville.Upwork.WebApi_HostAddress = http://localhost:5143
+
+GET {{Softville.Upwork.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Softville.Upwork.WebApi_HostAddress}}/offers
+Accept: application/json

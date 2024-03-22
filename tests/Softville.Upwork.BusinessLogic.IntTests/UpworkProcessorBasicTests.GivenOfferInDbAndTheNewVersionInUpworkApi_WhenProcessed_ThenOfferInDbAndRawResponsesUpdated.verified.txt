@@ -1,0 +1,146 @@
+﻿{
+  Title: Lead Sitecore / .Net Engineer needed,
+  Uid: 1745755393334956032,
+  Rid: 1010624703,
+  Cooperation: {
+    DurationLabel: More than 6 months,
+    Workload: More than 30 hrs/week,
+    NumberOfPositionsToHire: 1
+  },
+  CipherText: ~019bb7b2a2c6f33572,
+  Category: Web Development,
+  CategoryGroup: Web, Mobile & Software Dev,
+  PublishedTime: 2024-01-12 11:31:36.198 Local,
+  Rate: {
+    Minimum: 60.0,
+    Maximum: 80.0,
+    Currency: USD
+  },
+  LinkUrl: ~019bb7b2a2c6f33572,
+  Developers: {
+    MoreDevsExplicitly: false
+  },
+  Customer: {
+    Location: {
+      Country: Georgia,
+      City: Tbilisi
+    },
+    Profile: {
+      Industry: N/A,
+      Size: 100
+    },
+    Stats: {
+      TotalAssignments: 100,
+      ActiveAssignmentsCount: 0,
+      FeedbackCount: 400,
+      Score: 6.0,
+      TotalJobsWithHires: 500,
+      HoursCount: 1000.0,
+      TotalCharges: {
+        CurrencyCode: USD,
+        Amount: 1000000.0
+      }
+    }
+  },
+  BusinessDomain: N/A,
+  Technology: {
+    Architecture: N/A,
+    DotnetVersion: N/A,
+    BackendFrameworks: N/A,
+    FrontendFrameworks: N/A,
+    Databases: N/A,
+    Cloud: {
+      Provider: N/A,
+      Services: N/A
+    },
+    ThirdParty: N/A
+  },
+  ApplicationProcess: N/A,
+  UnusualRequirements: N/A,
+  Requirements: [
+    ASP.NET,
+    .NET Framework,
+    .NET Core,
+    ASP.NET Core,
+    API,
+    RESTful API,
+    Git,
+    Microservice,
+    Microsoft SQL Server,
+    C#,
+    Sitecore,
+    SQL
+  ],
+  Duties: N/A,
+  Questions: [
+    How many Microsoft apps have you built with wrappers around Angular?,
+    How many Microsoft apps have you built that can auto-populate data into forms on Windows pop ups?,
+    What core coding frameworks have you been working on in the last 5 years (please list top 2)?,
+    Who is the most notable company that you developed software for directly on your resume?
+  ],
+  ConnectPrice: 16,
+  Activity: {
+    LastBuyerActivity: 2024-01-15 08:31:26.4 Local,
+    TotalApplicants: 18,
+    TotalInvitedToInterview: 1,
+    InvitationsSent: 2
+  },
+  Qualifications: {
+    TotalQualifications: 5,
+    MatchedQualifications: 5,
+    QualificationsDetails: [
+      {
+        Qualified: true,
+        ClientPreferred: individuals,
+        FreelancerValue: IC,
+        FreelancerValueLabel: Not Specified,
+        ClientPreferredLabel: Freelancers only
+      },
+      {
+        Qualified: true,
+        ClientPreferred: 3,
+        FreelancerValue: 3,
+        FreelancerValueLabel: Fluent,
+        ClientPreferredLabel: Fluent
+      },
+      {
+        Qualified: true,
+        ClientPreferred: region=(Europe),country=(Poland),
+        FreelancerValue: Europe,Poland,
+        FreelancerValueLabel: Europe, Poland,
+        ClientPreferredLabel: Europe, Poland
+      },
+      {
+        Qualified: true,
+        ClientPreferred: ANY,
+        FreelancerValue: 0.00,
+        FreelancerValueLabel: 0.00,
+        ClientPreferredLabel: Any
+      },
+      {
+        Qualified: true,
+        ClientPreferred: Any,
+        FreelancerValue: en,
+        FreelancerValueLabel: English
+      }
+    ]
+  },
+  Stats: {
+    MinRateBid: {
+      CurrencyCode: USD,
+      Amount: 1.0
+    },
+    AvgRateBid: {
+      CurrencyCode: USD,
+      Amount: 500.0
+    },
+    MaxRateBid: {
+      CurrencyCode: USD,
+      Amount: 900.0
+    },
+    AvgInterviewedRateBid: {
+      CurrencyCode: USD,
+      Amount: 450.0
+    }
+  }
+}

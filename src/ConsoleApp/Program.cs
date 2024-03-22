@@ -4,19 +4,18 @@
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
-using Softville.Upwork.BusinessLogic.Processor;
+using Softville.Upwork.BusinessLogic.Processor.Migrator;
 
 using IHost host = CreateHostBuilder(args).Build();
 await host.StartAsync();
 
 CancellationToken ct = CancellationToken.None;
 
-// await host.Services.GetRequiredService<IUpworkProvider>().ProvideOffers(ct);
+// await host.Services.GetRequiredService<IUpworkProcessor>().ProcessOffersAsync(ct);
+await host.Services.GetRequiredService<IOffersMigrator>().MigrateAsync(ct);
 
-await host.Services.GetRequiredService<IUpworkProcessor>().ProcessOffersAsync(ct);
-
-Console.WriteLine("Press any key to continue");
-Console.ReadKey();
+// Console.WriteLine("Press any key to continue");
+// Console.ReadKey();
 
 static IHostBuilder CreateHostBuilder(string[] args)
 {

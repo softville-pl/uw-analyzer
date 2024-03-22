@@ -7,14 +7,14 @@ namespace Prospecting.WebJob.Common;
 
 public static class WebJobHostBuilder
 {
-    public static IHostBuilder CreateBuilder(string[] args)
+    public static IHostBuilder CreateBuilder(string[] args, bool isTextContext = false)
     {
         return Host.CreateDefaultBuilder(args)
             .ConfigureAppConfiguration((context, configBuilder) =>
             {
                 configBuilder
-                    .AddJsonFile("appSettings.json", false)
-                    .AddJsonFile($"appSettings.{context.HostingEnvironment.EnvironmentName}.json", true)
+                    .AddJsonFile("appsettings.json", isTextContext)
+                    .AddJsonFile($"appsettings.{context.HostingEnvironment.EnvironmentName}.json", true)
                     .AddEnvironmentVariables(
                         "UPWORK_ANALYZER:"); //https://learn.microsoft.com/en-us/dotnet/core/compatibility/extensions/7.0/environment-variable-prefixn
             })
@@ -23,6 +23,6 @@ public static class WebJobHostBuilder
                 .AddFilter("Microsoft.Hosting", LogLevel.Warning)
                 .AddFilter("System.Net.Http", LogLevel.Warning)
                 .SetMinimumLevel(LogLevel.Information))
-            .ConfigureServices((context, services) => { services.AddBusinessLogic(context.Configuration); });
+            .ConfigureServices((context, services) => { services.AddProcessorWebJob(context.Configuration); });
     }
 }

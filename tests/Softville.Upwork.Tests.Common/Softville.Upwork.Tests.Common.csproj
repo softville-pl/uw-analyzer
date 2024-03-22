@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <ItemGroup>
+      <PackageReference Include="AutoFixture" />
+      <PackageReference Include="AutoFixture.Xunit2" />
+      <PackageReference Include="Testcontainers">
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="Testcontainers.MongoDb">
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="WireMock.Net" PrivateAssets="all" />
+      <PackageReference Include="Verify.Xunit" PrivateAssets="all" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Include="Data\upwork-applicantsmodel-v2.json" />
+      <EmbeddedResource Include="Data\upwork-applicantsmodel.json" />
+      <EmbeddedResource Include="Data\upwork-fulldatamodel-v2.json" />
+      <EmbeddedResource Include="Data\upwork-fulldatamodel.json" />
+      <EmbeddedResource Include="Data\upwork-searchresultmodel.json" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\Prospecting.WebJob.Common\Prospecting.WebJob.Common.csproj" />
+      <ProjectReference Include="..\..\src\Softville.Upwork.BusinessLogic\Softville.Upwork.BusinessLogic.csproj" />
+    </ItemGroup>
+
+</Project>

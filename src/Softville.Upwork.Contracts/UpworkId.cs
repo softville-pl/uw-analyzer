@@ -3,7 +3,7 @@
 
 namespace Softville.Upwork.Contracts;
 
-public class UpworkId
+public record UpworkId
 {
     public string Uid { get; }
     public string CipherText { get; }
@@ -22,4 +22,6 @@ public class UpworkId
 
         CipherText = cipherText;
     }
+
+    public override string ToString() =>  $"{Uid}/{CipherText}";
 }
