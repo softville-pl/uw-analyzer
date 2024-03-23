@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0144226024ef901c68",
-    "rid": 1012149729,
-    "uid": "1770888041697730560",
+    "ciphertext": "~01aaa55ec37db68dd5",
+    "rid": 1012178889,
+    "uid": "1771340791296438272",
     "type": 2,
     "access": 4,
-    "title": "Implement VPN split tunneling service on Windows",
+    "title": "SAML .net",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,47 +20,56 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-21T18:59:45.531Z",
-    "postedOn": "2024-03-21T18:59:45.790Z",
-    "publishTime": "2024-03-21T18:59:45.790Z",
+    "createdOn": "2024-03-23T00:58:49.442Z",
+    "postedOn": "2024-03-23T01:13:24.728Z",
+    "publishTime": "2024-03-23T01:13:24.728Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 1002308347,
-    "durationIdV3": 1,
-    "durationLabel": "Less than a month",
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1001627518,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 80
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Implement independent component which provides \u0022Split tunneling\u0022 facilities. The component receives configuration of vpn tunnel and the list of applications which should bypass this tunnel and use local internet.\nRequirements: windows networking, windows drivers, WFP, c/c\u002B\u002B;",
+    "description": "To write code in C# - converting site minder code to SAML\nExample:\n1. we are able to get SAML attributes like FirstName, Email, UserID etc\n2. Form Authentication used in which we are passing cookie values like :\n    LastName=Challa|Email=pratyusha.challa@nih.gov|UserID=challap2|MiddleName=|FirstName=Pratyusha|Name=Pratyusha\n3. When we  redirect to another page (search.aspx, default.aspx) then it again automatically get back to \n   NIHLOgin.aspx page\n   \n   Still investigating why it is always redirect to nihlogin.aspx page",
     "attachments": null,
     "questions": [],
     "qualifications": {
       "type": 0,
-      "location": null,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Asia",
+        "offsetFromUtcMillis": null
+      },
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
       "countries": null,
-      "regions": null,
+      "regions": [
+        "Asia"
+      ],
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -72,22 +81,22 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_PROJECT",
-        "label": "One-time project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 0,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-22T16:14:09.975Z",
-      "totalApplicants": 15,
+      "lastBuyerActivity": "2024-03-23T11:44:30.040Z",
+      "totalApplicants": 12,
       "totalHired": 0,
-      "totalInvitedToInterview": 2,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "totalInvitedToInterview": 11,
+      "unansweredInvites": 12,
+      "invitationsSent": 26
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -97,16 +106,16 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-21T18:59:45.790Z",
-        "totalTimeJobPostFlowAIv2": "118",
+        "siteSource": "ios_client_rjp",
+        "publishTime": "2024-03-23T01:13:24.728Z",
+        "totalTimeJobPostFlowAIv2": "180",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "3",
+        "totalTimeSpentOnReviewPageAIv2": "2",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Macintosh",
-        "startTimeJobPostFlowAIv2": "1711047466101"
+        "browser": "AppleWebKit",
+        "device": "iPhone",
+        "startTimeJobPostFlowAIv2": "1711155348608"
       }
     },
     "isContractToHire": false,
@@ -115,47 +124,45 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 7200000,
-      "countryTimezone": "Greece (UTC\u002B02:00)",
-      "city": "Patras",
-      "country": "Greece"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (UTC-05:00)",
+      "city": null,
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 64,
-      "activeAssignmentsCount": 10,
-      "feedbackCount": 40,
-      "score": 5,
-      "totalJobsWithHires": 53,
-      "hoursCount": 14.666667,
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 7701.23
+        "amount": 0
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-12-21T00:00:00.000Z",
+      "contractDate": "2021-09-23T00:00:00.000Z",
       "profile": {
-        "size": "1",
-        "industry": "",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 29,
-      "openCount": 1
+      "postedCount": 9,
+      "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 23.466135830315096
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
+        "totalQualifications": 5,
         "totalMatches": 4,
         "matches": [
           {
@@ -173,6 +180,14 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "region=(Asia)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Asia"
           },
           {
             "qualification": 8,

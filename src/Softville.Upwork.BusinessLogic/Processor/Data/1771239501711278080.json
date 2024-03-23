@@ -1,33 +1,33 @@
 {
   "job": {
-    "ciphertext": "~0144226024ef901c68",
-    "rid": 1012149729,
-    "uid": "1770888041697730560",
+    "ciphertext": "~01892d1cf594f3eb64",
+    "rid": 1012172969,
+    "uid": "1771239501711278080",
     "type": 2,
     "access": 4,
-    "title": "Implement VPN split tunneling service on Windows",
+    "title": "Technical Proposal Writer (Data Solutions Architecture)",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Professional \u0026 Business Writing",
+      "urlSlug": "professional-business-writing"
     },
     "categoryGroup": {
-      "name": "Web, Mobile \u0026 Software Dev",
-      "urlSlug": "web-mobile-software-dev"
+      "name": "Writing",
+      "urlSlug": "writing"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-21T18:59:45.531Z",
-    "postedOn": "2024-03-21T18:59:45.790Z",
-    "publishTime": "2024-03-21T18:59:45.790Z",
+    "createdOn": "2024-03-22T18:16:20.124Z",
+    "postedOn": "2024-03-22T18:16:20.437Z",
+    "publishTime": "2024-03-22T18:16:20.437Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1002308347,
+    "companyRecno": 2834461,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -36,13 +36,22 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 80
+      "hourlyBudgetMin": 15,
+      "hourlyBudgetMax": 55
     },
-    "contractorTier": 3,
-    "description": "Implement independent component which provides \u0022Split tunneling\u0022 facilities. The component receives configuration of vpn tunnel and the list of applications which should bypass this tunnel and use local internet.\nRequirements: windows networking, windows drivers, WFP, c/c\u002B\u002B;",
+    "contractorTier": 2,
+    "description": "Seeking a Technical Proposal Writer to do the following\n- Analyze Government RFQs sourced from platforms like Biddingo, Merx, etc. \n- Design/Architect a solutions as a response to the RFP requirements\n- Do a writeup of the design as part of the proposal \n\n\nRequirements:\n- Experience writing technical proposals and documentation \n- Experience designing/architecting enterprise solutions such as ERPs\n- Experience architecting solutions that use tools like SQL, .Net, Python, PowerApps\n- Experience architecting business intelligence solutions (Data Warehousing, SQL, Power BI)\n- Excellent communication skills\n- Deadline-oriented mentality",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your experience in Solutions Architecture"
+      },
+      {
+        "position": 1,
+        "question": "Describe your experience in Technical Writing"
+      }
+    ],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -52,7 +61,7 @@
       "tests": null,
       "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 3,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -82,10 +91,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-22T16:14:09.975Z",
-      "totalApplicants": 15,
+      "lastBuyerActivity": "2024-03-22T18:16:20.034Z",
+      "totalApplicants": 5,
       "totalHired": 0,
-      "totalInvitedToInterview": 2,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -98,15 +107,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-21T18:59:45.790Z",
-        "totalTimeJobPostFlowAIv2": "118",
+        "publishTime": "2024-03-22T18:16:20.437Z",
+        "totalTimeJobPostFlowAIv2": "1041",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "3",
+        "totalTimeSpentOnReviewPageAIv2": "258",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Macintosh",
-        "startTimeJobPostFlowAIv2": "1711047466101"
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1711130340387"
       }
     },
     "isContractToHire": false,
@@ -115,40 +124,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 7200000,
-      "countryTimezone": "Greece (UTC\u002B02:00)",
-      "city": "Patras",
-      "country": "Greece"
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "Vaughan",
+      "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 64,
-      "activeAssignmentsCount": 10,
-      "feedbackCount": 40,
+      "totalAssignments": 57,
+      "activeAssignmentsCount": 12,
+      "feedbackCount": 37,
       "score": 5,
-      "totalJobsWithHires": 53,
-      "hoursCount": 14.666667,
+      "totalJobsWithHires": 42,
+      "hoursCount": 5699.16667,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 7701.23
+        "amount": 185598.9
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-12-21T00:00:00.000Z",
+      "contractDate": "2016-03-16T00:00:00.000Z",
       "profile": {
-        "size": "1",
-        "industry": "",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 29,
-      "openCount": 1
+      "postedCount": 51,
+      "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 23.466135830315096
+      "amount": 29.816906547847985
     }
   },
   "currentUserInfo": {
@@ -169,10 +178,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
           },
           {
             "qualification": 8,

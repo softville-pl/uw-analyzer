@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~0144226024ef901c68",
-    "rid": 1012149729,
-    "uid": "1770888041697730560",
+    "ciphertext": "~019704a76bd30582b5",
+    "rid": 1012186434,
+    "uid": "1771531106631553024",
     "type": 2,
     "access": 4,
-    "title": "Implement VPN split tunneling service on Windows",
+    "title": "Developer - .NET Framework with Angular | Agile",
     "status": 1,
     "category": {
-      "name": "Desktop Application Development",
-      "urlSlug": "desktop-application-development"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-21T18:59:45.531Z",
-    "postedOn": "2024-03-21T18:59:45.790Z",
-    "publishTime": "2024-03-21T18:59:45.790Z",
+    "createdOn": "2024-03-23T13:35:04.162Z",
+    "postedOn": "2024-03-23T13:35:07.656Z",
+    "publishTime": "2024-03-23T13:35:07.656Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 1002308347,
+    "companyRecno": 1012219494,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -35,12 +35,12 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 80
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Implement independent component which provides \u0022Split tunneling\u0022 facilities. The component receives configuration of vpn tunnel and the list of applications which should bypass this tunnel and use local internet.\nRequirements: windows networking, windows drivers, WFP, c/c\u002B\u002B;",
+    "description": "We\u0027re seeking a skilled developer proficient in .NET Framework and Angular to join our team.\nStrong communication skills, problem-solving abilities, and a proactive approach to learning new technologies are highly valued in this dynamic environment.\n\nWe will add a feature to an existing web application that runs on .NET Framework (approx version 4.7) with jQuery and Angular. The developer will work with the team Architect to determine the necessary SQL table structure to support the feature.\nThe candidate should have experience working in an Agile environment. The requirement will be provided in the form of user stories. Experience writing unit tests in xUnit desired as test scripts will be expected to be part of the deliverables.\n\nThe team has Figma screens available and is open to input from the developer if there are other UI/UX approaches that could be more effective.",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,12 +82,12 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-22T16:14:09.975Z",
-      "totalApplicants": 15,
-      "totalHired": 0,
-      "totalInvitedToInterview": 2,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "lastBuyerActivity": "2024-03-23T16:09:32.369Z",
+      "totalApplicants": 23,
+      "totalHired": 1,
+      "totalInvitedToInterview": 5,
+      "unansweredInvites": 7,
+      "invitationsSent": 9
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -98,15 +98,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-21T18:59:45.790Z",
-        "totalTimeJobPostFlowAIv2": "118",
+        "publishTime": "2024-03-23T13:35:07.656Z",
+        "totalTimeJobPostFlowAIv2": "510",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "3",
+        "totalTimeSpentOnReviewPageAIv2": "5",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Macintosh",
-        "startTimeJobPostFlowAIv2": "1711047466101"
+        "startTimeJobPostFlowAIv2": "1711200392725"
       }
     },
     "isContractToHire": false,
@@ -115,41 +115,39 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 7200000,
-      "countryTimezone": "Greece (UTC\u002B02:00)",
-      "city": "Patras",
-      "country": "Greece"
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (America/T)",
+      "city": null,
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 64,
-      "activeAssignmentsCount": 10,
-      "feedbackCount": 40,
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
       "score": 5,
-      "totalJobsWithHires": 53,
-      "hoursCount": 14.666667,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 7701.23
+        "amount": 100
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-12-21T00:00:00.000Z",
+      "contractDate": "2024-02-15T00:00:00.000Z",
       "profile": {
-        "size": "1",
-        "industry": "",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 29,
-      "openCount": 1
+      "postedCount": 1,
+      "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 23.466135830315096
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,

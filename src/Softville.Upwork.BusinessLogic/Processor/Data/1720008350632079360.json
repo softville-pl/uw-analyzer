@@ -21,7 +21,7 @@
       "amount": 0
     },
     "createdOn": "2023-11-02T09:22:02.172Z",
-    "postedOn": "2024-01-15T01:37:31.341Z",
+    "postedOn": "2024-03-22T15:03:50.574Z",
     "publishTime": "2023-11-02T09:22:02.764Z",
     "wasRenewed": true,
     "startDate": null,
@@ -99,8 +99,8 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-04T13:18:59.873Z",
-      "totalApplicants": 39,
+      "lastBuyerActivity": "2024-03-22T15:03:42.311Z",
+      "totalApplicants": 58,
       "totalHired": 11,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -119,10 +119,10 @@
         "siteSource": "desktop_rjp",
         "publishTime": "2023-11-02T09:22:02.764Z",
         "reuse": "1672619042682372096",
-        "sourcingUpdateCount": "2",
+        "sourcingUpdateCount": "3",
         "sourcingUpdateForbidden": "false",
         "type": "RJP",
-        "sourcingTime": "2024-01-15T01:37:31.341Z",
+        "sourcingTime": "2024-03-22T15:03:50.574Z",
         "browser": "Edge",
         "device": "Windows"
       }
@@ -139,12 +139,12 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 448,
-      "activeAssignmentsCount": 137,
+      "totalAssignments": 450,
+      "activeAssignmentsCount": 138,
       "feedbackCount": 229,
-      "score": 4.808189285,
-      "totalJobsWithHires": 181,
-      "hoursCount": 95893.500066,
+      "score": 4.80822521,
+      "totalJobsWithHires": 182,
+      "hoursCount": 96189.833399,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 2916761.59
@@ -162,11 +162,11 @@
       }
     },
     "jobs": {
-      "postedCount": 239,
+      "postedCount": 240,
       "openCount": 8
     },
     "avgHourlyJobsRate": {
-      "amount": 29.340572177087317
+      "amount": 29.366606845889045
     }
   },
   "currentUserInfo": {
