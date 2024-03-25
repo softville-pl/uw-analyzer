@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01fbc3ef8828d6cbed",
-    "rid": 1012035699,
-    "uid": "1769158271893286912",
+    "ciphertext": "~01c0e563fb48503b44",
+    "rid": 1012200469,
+    "uid": "1771820008910770176",
     "type": 2,
     "access": 4,
-    "title": "Long Term Company for long contract for developing Event Management System",
+    "title": "Azure Entra ID - Sync users and groups with SCIM",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,16 +20,16 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-17T00:26:16.301Z",
-    "postedOn": "2024-03-17T00:26:16.714Z",
-    "publishTime": "2024-03-17T00:26:16.714Z",
+    "createdOn": "2024-03-24T08:43:03.828Z",
+    "postedOn": "2024-03-24T08:43:04.245Z",
+    "publishTime": "2024-03-24T08:43:04.245Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1169306,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 211719,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
@@ -37,12 +37,17 @@
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
       "hourlyBudgetMin": 25,
-      "hourlyBudgetMax": 90
+      "hourlyBudgetMax": 60
     },
     "contractorTier": 3,
-    "description": "I am looking for \u0022 company\u0022 to develop Event management system to control Exhibition Registrations and Exhibitors and Visitors management with advanced features and approval and workflows, and related addons for printing badges and check in points and advance live reports and mobile application for both android and IOS, \nCompany should have strong profile and have and can achieve any requirements that and special requirements that can be requested . ",
+    "description": "I have an Asp. Net MVC 4 (.NET Framework) web application which I need to synchronize users and groups from Azure Active Directory using SCIM.\nOnly apply if you have implemented SCIM before.\nI do not need all the implementation, only a POC which I can integrate my own database tables. \nRequirements:\n- A working Visual Studio project which I can run \u0026 debug, set a breakpoint and see users and groups information pushed from Azure AD, so I can sync this data to my own database tables.\n\nIn addition to the working web application project, I will need a document with instructions on how to configure Azure app registration for this project to work.\n\nI also want to add my SaaS application to the Microsoft Entra application gallery, so I need help with that.",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Have you implemented users \u0026 groups sync using SCIM before? please describe the process"
+      }
+    ],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -50,11 +55,11 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 0,
-      "minJobSuccessScore": 0,
-      "risingTalent": false,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 90,
+      "risingTalent": true,
       "locationCheckRequired": false,
       "countries": null,
       "regions": null,
@@ -72,20 +77,20 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 0,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-23T14:34:56.462Z",
-      "totalApplicants": 19,
+      "lastBuyerActivity": "2024-03-24T09:01:17.701Z",
+      "totalApplicants": 8,
       "totalHired": 0,
-      "totalInvitedToInterview": 4,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -98,15 +103,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-17T00:26:16.714Z",
-        "totalTimeJobPostFlowAIv2": "559",
+        "publishTime": "2024-03-24T08:43:04.245Z",
+        "totalTimeJobPostFlowAIv2": "",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "8",
+        "totalTimeSpentOnReviewPageAIv2": "119",
         "type": "RJP",
-        "browser": "Chrome",
+        "browser": "Edge",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1710634615840"
+        "startTimeJobPostFlowAIv2": "1711269516127"
       }
     },
     "isContractToHire": false,
@@ -115,46 +120,48 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 10800000,
-      "countryTimezone": "Qatar (UTC\u002B03:00)",
-      "city": "doha",
-      "country": "Qatar"
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Israel (UTC\u002B02:00)",
+      "city": "Netanya",
+      "country": "Israel"
     },
     "stats": {
-      "totalAssignments": 113,
+      "totalAssignments": 11,
       "activeAssignmentsCount": 0,
-      "feedbackCount": 88,
-      "score": 4.658647748,
-      "totalJobsWithHires": 100,
-      "hoursCount": 0,
+      "feedbackCount": 8,
+      "score": 5,
+      "totalJobsWithHires": 10,
+      "hoursCount": 216.16667,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 7396.24
+        "amount": 4288.34
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2013-12-10T00:00:00.000Z",
+      "contractDate": "2010-06-25T00:00:00.000Z",
       "profile": {
-        "size": "1",
+        "size": "2",
         "industry": "Tech \u0026 IT",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 127,
+      "postedCount": 22,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 8.80505768997598
+    }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalQualifications": 6,
+        "totalMatches": 3,
         "matches": [
           {
             "qualification": 0,
@@ -165,20 +172,36 @@
             "clientPreferredLabel": "Any"
           },
           {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "90",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 90%"
+          },
+          {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
           },
           {
             "qualification": 8,
-            "qualified": true,
-            "clientPreferred": "ANY",
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_10000",
             "freelancerValue": "861.48",
             "freelancerValueLabel": "861.48",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "At Least 10000"
           },
           {
             "qualification": 10,

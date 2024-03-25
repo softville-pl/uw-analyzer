@@ -83,9 +83,9 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-12T20:14:55.478Z",
-      "totalApplicants": 33,
+      "totalApplicants": 32,
       "totalHired": 0,
-      "totalInvitedToInterview": 3,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -121,15 +121,15 @@
       "country": "Ireland"
     },
     "stats": {
-      "totalAssignments": 32,
-      "activeAssignmentsCount": 2,
+      "totalAssignments": 33,
+      "activeAssignmentsCount": 3,
       "feedbackCount": 20,
       "score": 4.2549791,
-      "totalJobsWithHires": 31,
+      "totalJobsWithHires": 32,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 4212
+        "amount": 4412
       }
     },
     "isEnterprise": false,
@@ -144,7 +144,7 @@
       }
     },
     "jobs": {
-      "postedCount": 69,
+      "postedCount": 70,
       "openCount": 1
     },
     "avgHourlyJobsRate": null

@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~01fbc3ef8828d6cbed",
-    "rid": 1012035699,
-    "uid": "1769158271893286912",
+    "ciphertext": "~01cc04f9710f94cfaa",
+    "rid": 1012210227,
+    "uid": "1771992842435940352",
     "type": 2,
     "access": 4,
-    "title": "Long Term Company for long contract for developing Event Management System",
+    "title": "Decompile / Reverse Engineer a Locked NinjaTrader Trading Indicator",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Scripts \u0026 Utilities",
+      "urlSlug": "scripts-utilities"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,27 +20,27 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-17T00:26:16.301Z",
-    "postedOn": "2024-03-17T00:26:16.714Z",
-    "publishTime": "2024-03-17T00:26:16.714Z",
+    "createdOn": "2024-03-24T20:09:50.571Z",
+    "postedOn": "2024-03-24T20:09:51.008Z",
+    "publishTime": "2024-03-24T20:09:51.008Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1169306,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 2073376,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 25,
-      "hourlyBudgetMax": 90
+      "hourlyBudgetMin": 10,
+      "hourlyBudgetMax": 100
     },
     "contractorTier": 3,
-    "description": "I am looking for \u0022 company\u0022 to develop Event management system to control Exhibition Registrations and Exhibitors and Visitors management with advanced features and approval and workflows, and related addons for printing badges and check in points and advance live reports and mobile application for both android and IOS, \nCompany should have strong profile and have and can achieve any requirements that and special requirements that can be requested . ",
+    "description": "I own a NinjaTrader trading indicator around which I want to build an automated strategy. The software is locked, but I need to access the source code. Ethically, this project is only for my personal use and will never be resold as a commercial product or otherwise distributed.\n\nThe environment is Microsoft .NET, the language is C#, and the scripting language is NinjaScript.\n\nhttps://ninjatrader.com/support/helpGuides/nt8/NT%20HelpGuide%20English.html?c_method_functions_reference.htm\n\nThe NinjaTrader software runs on Windows and can be trialed for free, so the project provider (you) can test it to ensure the indicator works without purchasing It.\n\nThe DLL is only 503 KB, which is relatively small in programming code. It mostly references existing NinjaTrader indicators.\n\nIf possible, I would prefer a fixed price for this project, but I will consider proposals at an hourly rate.\n\nI will provide the indicator only once the Upwork contract, including the NDA to protect confidentiality and privacy, is in place.\n\nPlease let me know if you have any questions or input.",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -50,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -72,22 +72,22 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 0,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-23T14:34:56.462Z",
-      "totalApplicants": 19,
-      "totalHired": 0,
-      "totalInvitedToInterview": 4,
-      "unansweredInvites": 0,
-      "invitationsSent": 0
+      "lastBuyerActivity": "2024-03-25T03:52:28.416Z",
+      "totalApplicants": 7,
+      "totalHired": 1,
+      "totalInvitedToInterview": 7,
+      "unansweredInvites": 20,
+      "invitationsSent": 30
     },
     "weeklyRetainerBudget": null,
     "annotations": {
@@ -98,15 +98,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-17T00:26:16.714Z",
-        "totalTimeJobPostFlowAIv2": "559",
+        "publishTime": "2024-03-24T20:09:51.008Z",
+        "totalTimeJobPostFlowAIv2": "1668",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "8",
+        "totalTimeSpentOnReviewPageAIv2": "29",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1710634615840"
+        "startTimeJobPostFlowAIv2": "1711309322881"
       }
     },
     "isContractToHire": false,
@@ -115,39 +115,41 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": 10800000,
-      "countryTimezone": "Qatar (UTC\u002B03:00)",
-      "city": "doha",
-      "country": "Qatar"
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (UTC-08:00)",
+      "city": "Edmonds",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 113,
-      "activeAssignmentsCount": 0,
-      "feedbackCount": 88,
-      "score": 4.658647748,
-      "totalJobsWithHires": 100,
-      "hoursCount": 0,
+      "totalAssignments": 172,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 34,
+      "score": 4.921153042,
+      "totalJobsWithHires": 151,
+      "hoursCount": 859.900015,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 7396.24
+        "amount": 43155.25
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": false,
-      "contractDate": "2013-12-10T00:00:00.000Z",
+      "isEDCReplicated": true,
+      "contractDate": "2002-07-13T00:00:00.000Z",
       "profile": {
-        "size": "1",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 127,
+      "postedCount": 159,
       "openCount": 0
     },
-    "avgHourlyJobsRate": null
+    "avgHourlyJobsRate": {
+      "amount": 21.44184170063074
+    }
   },
   "currentUserInfo": {
     "owner": false,

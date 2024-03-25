@@ -83,10 +83,10 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-23T16:09:32.369Z",
-      "totalApplicants": 23,
+      "totalApplicants": 48,
       "totalHired": 1,
-      "totalInvitedToInterview": 5,
-      "unansweredInvites": 7,
+      "totalInvitedToInterview": 8,
+      "unansweredInvites": 4,
       "invitationsSent": 9
     },
     "weeklyRetainerBudget": null,
@@ -121,11 +121,11 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 1,
-      "activeAssignmentsCount": 0,
+      "totalAssignments": 2,
+      "activeAssignmentsCount": 1,
       "feedbackCount": 1,
       "score": 5,
-      "totalJobsWithHires": 1,
+      "totalJobsWithHires": 2,
       "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
@@ -144,7 +144,7 @@
       }
     },
     "jobs": {
-      "postedCount": 1,
+      "postedCount": 2,
       "openCount": 0
     },
     "avgHourlyJobsRate": null
