@@ -33,11 +33,11 @@ public class JobSearch
     //ToDo consider using original Uid name
     [JsonPropertyName("Uid")] public required string Id { get; set; }
 
-    public int FreelancersToHire { get; set; }
-    public DateTime PublishedOn { get; set; }
+    public int? FreelancersToHire { get; set; }
+    public DateTime? PublishedOn { get; set; }
     public required List<Attr> Attrs { get; set; }
-    public bool IsLocal { get; set; }
-    public int ConnectPrice { get; set; }
+    public bool? IsLocal { get; set; }
+    public int? ConnectPrice { get; set; }
 }
 
 public class Attr
