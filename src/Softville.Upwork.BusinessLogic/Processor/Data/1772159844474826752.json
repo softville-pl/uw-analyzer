@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~010a93f3cbc4612bdb",
-    "rid": 1011342867,
-    "uid": "1757903947899990016",
+    "ciphertext": "~01abff9ddf954bfb28",
+    "rid": 1012217541,
+    "uid": "1772159844474826752",
     "type": 2,
     "access": 4,
-    "title": "Web Design",
+    "title": "Experienced C# Dotnet Developer needed",
     "status": 1,
     "category": {
-      "name": "Web \u0026 Mobile Design",
-      "urlSlug": "web-mobile-design"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,27 +20,27 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-14T23:05:36.406Z",
-    "postedOn": "2024-02-14T23:05:36.822Z",
-    "publishTime": "2024-02-14T23:05:36.822Z",
+    "createdOn": "2024-03-25T07:13:26.955Z",
+    "postedOn": "2024-03-25T07:13:27.413Z",
+    "publishTime": "2024-03-25T07:13:27.413Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 1010944656,
-    "durationIdV3": 2,
-    "durationLabel": "1 to 3 months",
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1003335756,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 0,
-      "hourlyBudgetMin": 55,
-      "hourlyBudgetMax": 80
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "We seek a comprehensive redesign of our website, encompassing the homepage and individual product pages. Our vision is for a design that embodies professionalism and trust, tailored to covert visitors into client. Key elements include intuitive navigation, compelling call-to-action buttons, and authentic customer testimonials, all optimized for SEO.\n\nCollaboration \u0026 Deliverables:\n\nThe selected designer will collaborate closely with our in-house full-stack developer (built on .NET) to bring this vision to life. Deliverables for this project include:\n- Design files in Figma\n- Fresh and revised web copy\n- Web assets: flat HTML files, sourced images, CSS, and JavaScript",
+    "description": "We are a building a coaching and booking app and seeking a motivated and detail-oriented .NET developer to join our dynamic team. You will contribute to the enhancement and maintenance of our cutting-edge coaching software.\n\nResponsibilities:\n- Collaborate with senior developers to design, develop, test, and maintain .NET applications using C#.\n- Write Unit Tests ensuring code meets requirements and passes all edge cases. \n- Create/Update API endpoints ensuring it meets requirements. \n- Utilise MongoDB for writing queries to our database.\n Work within Agile development methodologies, participating in sprint planning, reviews, and retrospectives.\n- Communicate effectively within the team and across departments to ensure project requirements are met.\n- Assist in the integration of additional functionalities and modules into the existing software infrastructure.\n- Troubleshoot and debug software to ensure optimal performance and user experience.\n\nRequirements:\n- Bachelor\u2019s degree in computer science or a related field or \u002B5 years experience.\n- \u002B3 years of practical experience in .NET development using C#.\n- Experience working with .NET 6 LTS or higher. \n- JIRA, Postman\n- Strong understanding of object-oriented programming principles and design patterns (SOLID, DDD).\n- Proficiency with CQRS with MediatR or equivalent. \n- Unit Testing (NUnit, XUnit or equivalent).\n- Experience in developing .NET API endpoints following industry best practices.\n- Experience using MongoDB or strong understanding of NoSQL designs. \n- Experience in Agile development methodologies.\n- Excellent communication and collaboration skills within a team environment.\n\nBonus Skills:\n- MongoDB Realm App Services.\n- CLEAN architecture.\n- Microservices architecture (RabbitMQ, Kafka, etc.) \n\nBenefits:\n- Opportunity to work with cutting-edge technologies in the sports technology industry.\n- Collaborative and supportive work environment fostering professional growth.\n- Competitive compensation package.\n\nCan you work 9am-5pm New Zealand timezone? Please only apply if you can work at this time zone.",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -50,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 30,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -60,7 +60,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -72,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-15T00:53:14.990Z",
-      "totalApplicants": 74,
+      "lastBuyerActivity": "2024-03-25T14:33:49.194Z",
+      "totalApplicants": 136,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -98,24 +98,16 @@
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "totalTimeSpentOnDescriptionPageAI": "143",
+        "siteSource": "android_client_rjp",
+        "publishTime": "2024-03-25T07:13:27.413Z",
+        "totalTimeJobPostFlowAIv2": "",
+        "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "144",
         "type": "RJP",
         "browser": "Chrome",
-        "timeSpentToGetAPIDescriptionAI": "4",
-        "generatedDescriptionAI": "We are looking for a skilled web designer to help us with a project that involves landing page creation, website redesign, and web development. The project is expected to last between 1 to 3 months. \n\nWe need a candidate who has a strong portfolio showcasing their expertise in web design and development. The ideal candidate should be able to create visually appealing landing pages that are optimized for conversions. They should also have experience in redesigning existing websites to improve user experience and enhance the overall design.\n\nIn your proposal, please describe how you can contribute to this project and what makes you the best fit for the job. Additionally, please provide links to past completed projects that demonstrate your skills in web design and development. We look forward to reviewing your proposal and discussing the project further.",
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-14T23:05:36.822Z",
-        "totalTimeJobPostFlowAIv2": "",
-        "inputsSkillsAI": "[{\u0022skillUid\u0022:\u00221031626753276624896\u0022,\u0022parentSkillUid\u0022:\u00221225465963618734080\u0022},{\u0022skillUid\u0022:\u00221045317707950489600\u0022,\u0022parentSkillUid\u0022:\u00221225465963618734080\u0022},{\u0022skillUid\u0022:\u00221031626795181916160\u0022},{\u0022skillUid\u0022:\u00221031626795211276288\u0022}]",
-        "sourcingUpdateCount": "0",
-        "totalDescriptionEditingTimeAI": "135",
-        "totalTimeSpentOnReviewPageAIv2": "57",
-        "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1707951084255",
-        "finalDescriptionAI": "We seek a comprehensive redesign of our website, encompassing the homepage and individual product pages. Our vision is for a design that embodies professionalism and trust, tailored to covert visitors into client. Key elements include intuitive navigation, compelling call-to-action buttons, and authentic customer testimonials, all optimized for SEO.\n\nCollaboration \u0026 Deliverables:\n\nThe selected designer will collaborate closely with our in-house full-stack developer (built on .NET) to bring this vision to life. Deliverables for this project include:\n- Design files in Figma\n- Fresh and revised web copy\n- Web assets: flat HTML files, sourced images, CSS, and JavaScript",
-        "inputsDurationAI": "474250516458926082",
-        "inputsTitleAI": "Web Design"
+        "device": "Android",
+        "startTimeJobPostFlowAIv2": "1711350321932"
       }
     },
     "isContractToHire": true,
@@ -124,40 +116,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -21600000,
-      "countryTimezone": "United States (America/M)",
-      "city": null,
-      "country": "United States"
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "New Zealand (UTC)",
+      "city": "Auckland",
+      "country": "New Zealand"
     },
     "stats": {
-      "totalAssignments": 10,
-      "activeAssignmentsCount": 6,
-      "feedbackCount": 3,
+      "totalAssignments": 13,
+      "activeAssignmentsCount": 7,
+      "feedbackCount": 5,
       "score": 5,
       "totalJobsWithHires": 8,
-      "hoursCount": 89.833333,
+      "hoursCount": 4845.666677,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 1989.9
+        "amount": 140716.16
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-11-23T00:00:00.000Z",
+      "contractDate": "2022-03-31T00:00:00.000Z",
       "profile": {
-        "size": null,
-        "industry": null,
-        "visible": false,
+        "size": "2",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
       "postedCount": 12,
-      "openCount": 0
+      "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 24.048200460290168
+      "amount": 27.950081800477914
     }
   },
   "currentUserInfo": {
