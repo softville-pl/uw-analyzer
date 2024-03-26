@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01efb5fbfd8aaddf05",
-    "rid": 1012241501,
-    "uid": "1772480476450390016",
+    "ciphertext": "~01c38979d2c9f007e3",
+    "rid": 1012249555,
+    "uid": "1772615836286464000",
     "type": 2,
     "access": 4,
-    "title": "Blockchain and Back-End Developer",
+    "title": "Senior .Net desktop developer with Kafka experience",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,29 +20,38 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-26T04:27:31.671Z",
-    "postedOn": "2024-03-26T04:27:31.964Z",
-    "publishTime": "2024-03-26T04:27:31.964Z",
+    "createdOn": "2024-03-26T13:25:23.926Z",
+    "postedOn": "2024-03-26T13:25:24.226Z",
+    "publishTime": "2024-03-26T13:25:24.226Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 1007978544,
-    "durationIdV3": 2,
-    "durationLabel": "1 to 3 months",
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1007424734,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 60,
-      "hourlyBudgetMax": 120
+      "hourlyBudgetMin": 20,
+      "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Smart Contracts / Blockchain  Experience\nMicrosoft Azure Experience\nC# Experience\n.Net Experience\n\nOur app frontend is in Next.js",
+    "description": "We have an existing desktop based low latency market scanner tool which subscribes with a Kafka based connection for a firehouse of pricing data. The system analyzes the incoming data and displays extremely large volumes of data in real time that is streamed from a Kafka connection to our data provider. Experience building advanced, low latency desktop applications is a mandatory requirement for this build, and examples in fintech/finance will be held in high regard for applying to this project.",
     "attachments": null,
-    "questions": [],
+    "questions": [
+      {
+        "position": 0,
+        "question": "Please write down any charting projects where you have worked on high throughput/low latency data processing."
+      },
+      {
+        "position": 1,
+        "question": "Describe your recent experience with similar projects"
+      }
+    ],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -50,9 +59,9 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 3,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -72,18 +81,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_POSITION",
-        "label": "Ongoing project",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
         "type": "EMPLOYMENT",
-        "sortOrder": 1,
+        "sortOrder": 2,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-26T04:27:31.492Z",
-      "totalApplicants": 59,
+      "lastBuyerActivity": "2024-03-26T13:40:55.642Z",
+      "totalApplicants": 0,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -99,15 +108,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-26T04:27:31.964Z",
-        "totalTimeJobPostFlowAIv2": "399",
+        "publishTime": "2024-03-26T13:25:24.226Z",
+        "totalTimeJobPostFlowAIv2": "310",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "32",
+        "totalTimeSpentOnReviewPageAIv2": "91",
         "type": "RJP",
-        "browser": "Edge",
+        "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1711426851679"
+        "startTimeJobPostFlowAIv2": "1711459213426"
       }
     },
     "isContractToHire": true,
@@ -116,40 +125,40 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (America/N)",
-      "city": "Cleveland",
+      "offsetFromUtcMillis": -25200000,
+      "countryTimezone": "United States (America/T)",
+      "city": "Fort Collins",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 25,
-      "activeAssignmentsCount": 6,
-      "feedbackCount": 14,
-      "score": 3.579842638,
-      "totalJobsWithHires": 13,
-      "hoursCount": 1743.833347,
+      "totalAssignments": 37,
+      "activeAssignmentsCount": 14,
+      "feedbackCount": 16,
+      "score": 4.910486456,
+      "totalJobsWithHires": 34,
+      "hoursCount": 1645.500011,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 105580.85
+        "amount": 44385.49
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-04-12T00:00:00.000Z",
+      "contractDate": "2023-02-24T00:00:00.000Z",
       "profile": {
-        "size": null,
-        "industry": null,
-        "visible": false,
+        "size": "2",
+        "industry": "Art \u0026 Design",
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 12,
-      "openCount": 0
+      "postedCount": 46,
+      "openCount": 3
     },
     "avgHourlyJobsRate": {
-      "amount": 58.49802114146634
+      "amount": 19.522369969768416
     }
   },
   "currentUserInfo": {
@@ -170,10 +179,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
           },
           {
             "qualification": 8,
