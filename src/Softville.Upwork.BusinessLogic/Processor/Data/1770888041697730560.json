@@ -121,11 +121,11 @@
       "country": "Greece"
     },
     "stats": {
-      "totalAssignments": 64,
-      "activeAssignmentsCount": 10,
-      "feedbackCount": 40,
+      "totalAssignments": 65,
+      "activeAssignmentsCount": 4,
+      "feedbackCount": 43,
       "score": 5,
-      "totalJobsWithHires": 53,
+      "totalJobsWithHires": 54,
       "hoursCount": 14.666667,
       "totalCharges": {
         "currencyCode": "USD",
@@ -144,7 +144,7 @@
       }
     },
     "jobs": {
-      "postedCount": 29,
+      "postedCount": 30,
       "openCount": 1
     },
     "avgHourlyJobsRate": {

@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01c38979d2c9f007e3",
-    "rid": 1012249555,
-    "uid": "1772615836286464000",
+    "ciphertext": "~0192b1b7eef6610636",
+    "rid": 1012252333,
+    "uid": "1772644202585690112",
     "type": 2,
     "access": 4,
-    "title": "Senior .Net desktop developer with Kafka experience",
+    "title": "Expert Angular/.NET Core 8 Developer",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,38 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-26T13:25:23.926Z",
-    "postedOn": "2024-03-26T13:25:24.226Z",
-    "publishTime": "2024-03-26T13:25:24.226Z",
+    "createdOn": "2024-03-26T15:18:06.918Z",
+    "postedOn": "2024-03-26T15:18:07.345Z",
+    "publishTime": "2024-03-26T15:18:07.345Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
-    "companyRecno": 1007424734,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "companyRecno": 1011210811,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 20,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 80,
+      "hourlyBudgetMax": 150
     },
     "contractorTier": 3,
-    "description": "We have an existing desktop based low latency market scanner tool which subscribes with a Kafka based connection for a firehouse of pricing data. The system analyzes the incoming data and displays extremely large volumes of data in real time that is streamed from a Kafka connection to our data provider. Experience building advanced, low latency desktop applications is a mandatory requirement for this build, and examples in fintech/finance will be held in high regard for applying to this project.",
+    "description": "Company Overview:\n\nWe\u0027re a tech company seeking a Senior .NET Core/Angular Developer to join our team. If you\u0027re skilled in .NET Core 8, Angular 16, and RESTful APIs, we want to hear from you.\n\nPosition Overview:\nAs a Senior .NET Core/Angular Developer, you\u0027ll design, develop, and maintain web apps using .NET Core, Angular, and RESTful APIs. Your expertise will drive project success and exceed client expectations.\n\nKey Responsibilities:\n\n- Develop scalable web apps using .NET Core 8 and Angular 16.\n- Design and implement RESTful APIs for front-end functionality.\n- Troubleshoot and debug issues to maintain app stability.\n- Stay updated with the latest tech trends in .NET Core and Angular.\n\nQualifications:\n\n8 years of experience in .NET Core and Angular development.\nProficiency in .NET Core 8, Angular 16, TypeScript, and RESTful APIs.\nStrong problem-solving skills and attention to detail.\nEffective communication and teamwork abilities.\n\nBenefits:\n\n- Competitive compensation and benefits package.\n- Opportunities for professional growth and advancement.\n\nIf you\u0027re a talented developer with .NET Core and Angular expertise, apply now to join our team!",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Please write down any charting projects where you have worked on high throughput/low latency data processing."
-      },
-      {
-        "position": 1,
-        "question": "Describe your recent experience with similar projects"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -61,7 +52,7 @@
       "tests": null,
       "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -81,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-26T15:59:03.235Z",
-      "totalApplicants": 1,
+      "lastBuyerActivity": "2024-03-26T15:18:06.820Z",
+      "totalApplicants": 51,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -108,15 +99,15 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-26T13:25:24.226Z",
-        "totalTimeJobPostFlowAIv2": "310",
+        "publishTime": "2024-03-26T15:18:07.345Z",
+        "totalTimeJobPostFlowAIv2": "121",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "91",
+        "totalTimeSpentOnReviewPageAIv2": "8",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Windows",
-        "startTimeJobPostFlowAIv2": "1711459213426"
+        "startTimeJobPostFlowAIv2": "1711466163044"
       }
     },
     "isContractToHire": true,
@@ -127,38 +118,40 @@
     "location": {
       "offsetFromUtcMillis": -25200000,
       "countryTimezone": "United States (America/T)",
-      "city": "Fort Collins",
+      "city": null,
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 37,
-      "activeAssignmentsCount": 14,
-      "feedbackCount": 16,
-      "score": 4.910486456,
-      "totalJobsWithHires": 34,
-      "hoursCount": 1647.333344,
+      "totalAssignments": 17,
+      "activeAssignmentsCount": 10,
+      "feedbackCount": 4,
+      "score": 2.772891566,
+      "totalJobsWithHires": 15,
+      "hoursCount": 248.166666,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 44385.49
+        "amount": 4066.37
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2023-02-24T00:00:00.000Z",
+      "contractDate": "2023-12-07T00:00:00.000Z",
       "profile": {
         "size": "2",
-        "industry": "Art \u0026 Design",
+        "industry": "Tech \u0026 IT",
         "visible": true,
-        "l3Occupations": []
+        "l3Occupations": [
+          "upworkOccupation:businessapplicationsdevelopment"
+        ]
       }
     },
     "jobs": {
-      "postedCount": 46,
-      "openCount": 3
+      "postedCount": 21,
+      "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 19.52067571334245
+      "amount": 16.541907364786855
     }
   },
   "currentUserInfo": {
@@ -179,10 +172,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 8,
