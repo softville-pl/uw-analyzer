@@ -86,7 +86,7 @@
       "totalApplicants": 7,
       "totalHired": 1,
       "totalInvitedToInterview": 3,
-      "unansweredInvites": 8,
+      "unansweredInvites": 6,
       "invitationsSent": 12
     },
     "weeklyRetainerBudget": null,
@@ -125,7 +125,7 @@
       "feedbackCount": 243,
       "score": 4.774928141,
       "totalJobsWithHires": 314,
-      "hoursCount": 367,
+      "hoursCount": 367.5,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 57315.62
@@ -147,7 +147,7 @@
       "openCount": 4
     },
     "avgHourlyJobsRate": {
-      "amount": 23.45727520435967
+      "amount": 23.47978231292517
     }
   },
   "currentUserInfo": {

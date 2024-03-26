@@ -1,15 +1,15 @@
 {
   "job": {
-    "ciphertext": "~01ff37b1eec11c31e2",
-    "rid": 1011746961,
-    "uid": "1764667106228187136",
+    "ciphertext": "~01cfe507822cdd11d4",
+    "rid": 1012242312,
+    "uid": "1772498426833264640",
     "type": 2,
-    "access": 4,
-    "title": "Senior Angular Developer",
+    "access": 1,
+    "title": "Front-End Nextjs - API - Ecommerce Marketplace for Platform",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Ecommerce Development",
+      "urlSlug": "ecommerce-development"
     },
     "categoryGroup": {
       "name": "Web, Mobile \u0026 Software Dev",
@@ -20,41 +20,41 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-04T14:59:59.202Z",
-    "postedOn": "2024-03-04T14:59:59.564Z",
-    "publishTime": "2024-03-04T14:59:59.564Z",
+    "createdOn": "2024-03-26T05:38:51.270Z",
+    "postedOn": "2024-03-26T05:38:51.492Z",
+    "publishTime": "2024-03-26T05:38:51.492Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "More than 30 hrs/week",
-    "companyRecno": 2841349,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "workload": "Hours to be determined",
+    "companyRecno": 1007978544,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 60
+      "hourlyBudgetMin": 40,
+      "hourlyBudgetMax": 75
     },
     "contractorTier": 3,
-    "description": "We\u0027re seeking a Senior Angular developer to join a fast-growing startup\n\n-Angular 16\u002B (no exceptions)\n-Expert at UI/markup/figma\n-TailwindCSS\n-Cypress\n-Storybook\n-Javascript\n-Indexdb, web workers  \n-Bonus if you have experience in .NET but not mandatory. \n\n**Freelancers only, no agencies please. ",
+    "description": "We are aiming to connect our platform to ecommerce marketplaces to connect our users online stores. ",
     "attachments": null,
     "questions": [],
     "qualifications": {
-      "type": 0,
+      "type": 1,
       "location": null,
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 40,
+      "minHoursWeek": 10,
       "group": null,
-      "prefEnglishSkill": 0,
-      "minJobSuccessScore": 0,
-      "risingTalent": false,
+      "prefEnglishSkill": 2,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
       "locationCheckRequired": false,
       "countries": null,
       "regions": null,
@@ -82,10 +82,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-13T15:21:40.874Z",
-      "totalApplicants": 288,
+      "lastBuyerActivity": "2024-03-26T05:38:51.174Z",
+      "totalApplicants": 135,
       "totalHired": 0,
-      "totalInvitedToInterview": 5,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -93,20 +93,20 @@
     "annotations": {
       "tags": [
         "contractToHireSet",
-        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-04T14:59:59.564Z",
-        "reuse": "1742980575553474560",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-26T05:38:51.492Z",
+        "totalTimeJobPostFlowAIv2": "333",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "80",
+        "totalTimeSpentOnReviewPageAIv2": "41",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Macintosh"
+        "urgency": "0",
+        "browser": "Edge",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1711431197654"
       }
     },
     "isContractToHire": false,
@@ -116,71 +116,87 @@
     "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "New York",
+      "countryTimezone": "United States (America/N)",
+      "city": "Cleveland",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 74,
-      "activeAssignmentsCount": 12,
-      "feedbackCount": 46,
-      "score": 4.917265462,
-      "totalJobsWithHires": 70,
-      "hoursCount": 12325.166679,
+      "totalAssignments": 25,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 14,
+      "score": 3.579842638,
+      "totalJobsWithHires": 13,
+      "hoursCount": 1743.833347,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 645660.11
+        "amount": 105580.85
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2016-03-18T00:00:00.000Z",
+      "contractDate": "2023-04-12T00:00:00.000Z",
       "profile": {
-        "size": "2",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 191,
+      "postedCount": 12,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 48.92075017754817
+      "amount": 58.49802114146634
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalQualifications": 6,
+        "totalMatches": 3,
         "matches": [
           {
             "qualification": 0,
             "qualified": true,
-            "clientPreferred": "all",
+            "clientPreferred": "individuals",
             "freelancerValue": "IC",
             "freelancerValueLabel": "Not Specified",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Freelancers only"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
           },
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "2",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Conversational"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
           },
           {
             "qualification": 8,
-            "qualified": true,
-            "clientPreferred": "ANY",
+            "qualified": false,
+            "clientPreferred": "AT_LEAST_1000",
             "freelancerValue": "861.48",
             "freelancerValueLabel": "861.48",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "At Least 1000"
           },
           {
             "qualification": 10,
