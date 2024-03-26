@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~01fc4b2b90e0b97da0",
-    "rid": 1011803132,
-    "uid": "1765420030866419712",
+    "ciphertext": "~01efb5fbfd8aaddf05",
+    "rid": 1012241501,
+    "uid": "1772480476450390016",
     "type": 2,
     "access": 4,
-    "title": ".NET / Azure Software Engineer needed for long term part time work",
+    "title": "Blockchain and Back-End Developer",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,42 +20,29 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-06T16:51:50.384Z",
-    "postedOn": "2024-03-06T16:51:50.911Z",
-    "publishTime": "2024-03-06T16:51:50.911Z",
+    "createdOn": "2024-03-26T04:27:31.671Z",
+    "postedOn": "2024-03-26T04:27:31.964Z",
+    "publishTime": "2024-03-26T04:27:31.964Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 2136679,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "companyRecno": 1007978544,
+    "durationIdV3": 2,
+    "durationLabel": "1 to 3 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 50
+      "hourlyBudgetMin": 60,
+      "hourlyBudgetMax": 120
     },
     "contractorTier": 3,
-    "description": "We need a capable software engineer, experienced in C#, .NET, Azure and Azure DevOps, and located in a compatible timezone to the US (Mexico / LatAm preferred).\n\nIdeal candidates will have a lot of experience in enterprise software development, including unit and end-to-end testing, automated pipelines etc. If you have an understanding of Pulumi, that\u0027s an advantage.\n\nWe\u0027re a team of 15 developers and managers, working with a couple of enterprise clients and your presence will assist us in growing! We\u0027ve been working together for years now and are a very tight-knit team.",
+    "description": "Smart Contracts / Blockchain  Experience\nMicrosoft Azure Experience\nC# Experience\n.Net Experience\n\nOur app frontend is in Next.js",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Are you comfortable with Azure DevOps?"
-      },
-      {
-        "position": 1,
-        "question": "Have you ever used Terraform or Pulumi to automate infrastructure?"
-      },
-      {
-        "position": 2,
-        "question": "Are you comfortable writing unit tests?"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -69,14 +56,7 @@
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
-      "countries": [
-        "Argentina",
-        "Chile",
-        "Mexico",
-        "United States",
-        "Costa Rica",
-        "Peru"
-      ],
+      "countries": null,
       "regions": null,
       "states": null,
       "timezones": null,
@@ -92,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-07T17:35:26.424Z",
-      "totalApplicants": 29,
+      "lastBuyerActivity": "2024-03-26T04:27:31.492Z",
+      "totalApplicants": 10,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -113,19 +93,21 @@
     "annotations": {
       "tags": [
         "jsi_contractToHire",
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-06T16:51:50.911Z",
-        "reuse": "1582885606412062720",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-26T04:27:31.964Z",
+        "totalTimeJobPostFlowAIv2": "399",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "205",
+        "totalTimeSpentOnReviewPageAIv2": "32",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Macintosh"
+        "browser": "Edge",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1711426851679"
       }
     },
     "isContractToHire": true,
@@ -134,47 +116,47 @@
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
-      "countryTimezone": "United States (UTC-08:00)",
-      "city": "Carlsbad",
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "United States (America/N)",
+      "city": "Cleveland",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 175,
-      "activeAssignmentsCount": 11,
-      "feedbackCount": 40,
-      "score": 4.979692848,
-      "totalJobsWithHires": 152,
-      "hoursCount": 14177.766716,
+      "totalAssignments": 25,
+      "activeAssignmentsCount": 6,
+      "feedbackCount": 14,
+      "score": 3.579842638,
+      "totalJobsWithHires": 13,
+      "hoursCount": 1743.833347,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 503442.06
+        "amount": 105580.85
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": true,
-      "contractDate": "2013-09-10T00:00:00.000Z",
+      "isEDCReplicated": false,
+      "contractDate": "2023-04-12T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 169,
+      "postedCount": 9,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 31.06181310650365
+      "amount": 58.49802114146634
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 5,
+        "totalQualifications": 4,
         "totalMatches": 4,
         "matches": [
           {
@@ -192,14 +174,6 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
-          },
-          {
-            "qualification": 3,
-            "qualified": false,
-            "clientPreferred": "country=(Argentina,Chile,Mexico,United States,Costa Rica,Peru)",
-            "freelancerValue": "Poland",
-            "freelancerValueLabel": "Poland",
-            "clientPreferredLabel": "Argentina, Chile, Mexico, United States, Costa Rica, Peru"
           },
           {
             "qualification": 8,

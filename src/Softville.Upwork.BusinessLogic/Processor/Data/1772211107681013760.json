@@ -83,7 +83,7 @@
     ],
     "clientActivity": {
       "lastBuyerActivity": "2024-03-25T13:54:14.059Z",
-      "totalApplicants": 6,
+      "totalApplicants": 7,
       "totalHired": 1,
       "totalInvitedToInterview": 3,
       "unansweredInvites": 8,
@@ -120,15 +120,15 @@
       "country": "Italy"
     },
     "stats": {
-      "totalAssignments": 333,
-      "activeAssignmentsCount": 41,
+      "totalAssignments": 334,
+      "activeAssignmentsCount": 42,
       "feedbackCount": 243,
       "score": 4.774928141,
-      "totalJobsWithHires": 313,
+      "totalJobsWithHires": 314,
       "hoursCount": 367,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 57258.17
+        "amount": 57315.62
       }
     },
     "isEnterprise": false,

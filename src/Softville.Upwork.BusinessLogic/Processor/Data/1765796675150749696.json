@@ -128,15 +128,15 @@
       "country": "Colombia"
     },
     "stats": {
-      "totalAssignments": 2,
-      "activeAssignmentsCount": 2,
+      "totalAssignments": 3,
+      "activeAssignmentsCount": 3,
       "feedbackCount": 0,
       "score": 0,
-      "totalJobsWithHires": 2,
+      "totalJobsWithHires": 3,
       "hoursCount": 2.5,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 0
+        "amount": 45.81
       }
     },
     "isEnterprise": false,

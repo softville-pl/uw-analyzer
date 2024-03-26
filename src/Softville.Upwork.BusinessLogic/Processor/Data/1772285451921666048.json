@@ -1,61 +1,48 @@
 {
   "job": {
-    "ciphertext": "~01fc4b2b90e0b97da0",
-    "rid": 1011803132,
-    "uid": "1765420030866419712",
+    "ciphertext": "~01afaaf64d054166cc",
+    "rid": 1012227480,
+    "uid": "1772285451921666048",
     "type": 2,
     "access": 4,
-    "title": ".NET / Azure Software Engineer needed for long term part time work",
+    "title": "Froala Editor managing Images",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Graphic, Editorial \u0026 Presentation Design",
+      "urlSlug": "graphic-editorial-presentation-design"
     },
     "categoryGroup": {
-      "name": "Web, Mobile \u0026 Software Dev",
-      "urlSlug": "web-mobile-software-dev"
+      "name": "Design \u0026 Creative",
+      "urlSlug": "design-creative"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-06T16:51:50.384Z",
-    "postedOn": "2024-03-06T16:51:50.911Z",
-    "publishTime": "2024-03-06T16:51:50.911Z",
+    "createdOn": "2024-03-25T15:32:34.243Z",
+    "postedOn": "2024-03-25T15:32:34.510Z",
+    "publishTime": "2024-03-25T15:32:34.510Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 2136679,
-    "durationIdV3": 4,
-    "durationLabel": "More than 6 months",
+    "companyRecno": 8382520,
+    "durationIdV3": 1,
+    "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 22,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "We need a capable software engineer, experienced in C#, .NET, Azure and Azure DevOps, and located in a compatible timezone to the US (Mexico / LatAm preferred).\n\nIdeal candidates will have a lot of experience in enterprise software development, including unit and end-to-end testing, automated pipelines etc. If you have an understanding of Pulumi, that\u0027s an advantage.\n\nWe\u0027re a team of 15 developers and managers, working with a couple of enterprise clients and your presence will assist us in growing! We\u0027ve been working together for years now and are a very tight-knit team.",
+    "description": "We are looking ofr someone to create a simple Image CRUD application using the Froala Editor using the .NET MVC Framework.\nBasically we are looking to get an MVC solution with a single View that has the Editor on it and thr necessary code to manage inserting, updating and deeting and retreiving images within the editor.\n\nPLEASE RESPOND ONLY if yu have complete knowledge of the Froala editor. Thanks.",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Are you comfortable with Azure DevOps?"
-      },
-      {
-        "position": 1,
-        "question": "Have you ever used Terraform or Pulumi to automate infrastructure?"
-      },
-      {
-        "position": 2,
-        "question": "Are you comfortable writing unit tests?"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -69,18 +56,11 @@
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
-      "countries": [
-        "Argentina",
-        "Chile",
-        "Mexico",
-        "United States",
-        "Costa Rica",
-        "Peru"
-      ],
+      "countries": null,
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -92,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 0,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-07T17:35:26.424Z",
-      "totalApplicants": 29,
+      "lastBuyerActivity": "2024-03-25T20:59:04.578Z",
+      "totalApplicants": 0,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -112,69 +92,68 @@
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
-        "jsi_contractToHire",
-        "searchable"
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-06T16:51:50.911Z",
-        "reuse": "1582885606412062720",
+        "publishTime": "2024-03-25T15:32:34.510Z",
+        "reuse": "1771701733325803520",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "205",
+        "totalTimeSpentOnReviewPageAIv2": "62",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Macintosh"
+        "device": "Windows"
       }
     },
-    "isContractToHire": true,
+    "isContractToHire": false,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -25200000,
-      "countryTimezone": "United States (UTC-08:00)",
-      "city": "Carlsbad",
-      "country": "United States"
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "Ireland (UTC)",
+      "city": "Tralee",
+      "country": "Ireland"
     },
     "stats": {
-      "totalAssignments": 175,
-      "activeAssignmentsCount": 11,
-      "feedbackCount": 40,
-      "score": 4.979692848,
-      "totalJobsWithHires": 152,
-      "hoursCount": 14177.766716,
+      "totalAssignments": 33,
+      "activeAssignmentsCount": 2,
+      "feedbackCount": 20,
+      "score": 4.2549791,
+      "totalJobsWithHires": 32,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 503442.06
+        "amount": 4412
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": true,
-      "contractDate": "2013-09-10T00:00:00.000Z",
+      "isEDCReplicated": false,
+      "contractDate": "2020-10-10T00:00:00.000Z",
       "profile": {
-        "size": "10",
-        "industry": "Tech \u0026 IT",
-        "visible": true,
+        "size": null,
+        "industry": null,
+        "visible": false,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 169,
-      "openCount": 0
+      "postedCount": 71,
+      "openCount": 1
     },
-    "avgHourlyJobsRate": {
-      "amount": 31.06181310650365
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 5,
+        "totalQualifications": 4,
         "totalMatches": 4,
         "matches": [
           {
@@ -192,14 +171,6 @@
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
             "clientPreferredLabel": "Any"
-          },
-          {
-            "qualification": 3,
-            "qualified": false,
-            "clientPreferred": "country=(Argentina,Chile,Mexico,United States,Costa Rica,Peru)",
-            "freelancerValue": "Poland",
-            "freelancerValueLabel": "Poland",
-            "clientPreferredLabel": "Argentina, Chile, Mexico, United States, Costa Rica, Peru"
           },
           {
             "qualification": 8,

@@ -21,9 +21,9 @@
       "amount": 0
     },
     "createdOn": "2024-03-20T12:50:34.944Z",
-    "postedOn": "2024-03-20T12:50:35.395Z",
+    "postedOn": "2024-03-25T17:11:28.884Z",
     "publishTime": "2024-03-20T12:50:35.395Z",
-    "wasRenewed": false,
+    "wasRenewed": true,
     "startDate": null,
     "deliveryDate": null,
     "workload": "More than 30 hrs/week",
@@ -89,7 +89,7 @@
       "earnings": null,
       "languages": null
     },
-    "isPremium": false,
+    "isPremium": true,
     "segmentationData": [
       {
         "name": "Employment",
@@ -103,16 +103,17 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-25T13:26:44.069Z",
-      "totalApplicants": 77,
+      "lastBuyerActivity": "2024-03-25T22:04:46.285Z",
+      "totalApplicants": 102,
       "totalHired": 0,
-      "totalInvitedToInterview": 12,
-      "unansweredInvites": 0,
-      "invitationsSent": 1
+      "totalInvitedToInterview": 30,
+      "unansweredInvites": 27,
+      "invitationsSent": 50
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
+        "premium",
         "contractToHireSet",
         "C2HJobsOptInEducation"
       ],
@@ -120,10 +121,11 @@
         "siteSource": "desktop_rjp",
         "publishTime": "2024-03-20T12:50:35.395Z",
         "totalTimeJobPostFlowAIv2": "",
-        "sourcingUpdateCount": "0",
+        "sourcingUpdateCount": "1",
         "sourcingUpdateForbidden": "false",
         "totalTimeSpentOnReviewPageAIv2": "1778",
         "type": "RJP",
+        "sourcingTime": "2024-03-25T17:11:28.884Z",
         "browser": "Chrome",
         "device": "Windows",
         "startTimeJobPostFlowAIv2": "1710936504776"
