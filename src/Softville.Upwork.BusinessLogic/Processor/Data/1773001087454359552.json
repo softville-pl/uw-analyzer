@@ -1,33 +1,33 @@
 {
   "job": {
-    "ciphertext": "~010258b9ed79c0657f",
-    "rid": 1012150061,
-    "uid": "1770891642265862144",
+    "ciphertext": "~0108890b2170112f2b",
+    "rid": 1012277411,
+    "uid": "1773001087454359552",
     "type": 2,
     "access": 4,
-    "title": "Senior Angular/.NET Engineer",
+    "title": "Middleware Administrator",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "Network \u0026 System Administration",
+      "urlSlug": "network-system-administration"
     },
     "categoryGroup": {
-      "name": "Web, Mobile \u0026 Software Dev",
-      "urlSlug": "web-mobile-software-dev"
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-21T19:14:03.988Z",
-    "postedOn": "2024-03-21T22:14:04.286Z",
-    "publishTime": "2024-03-21T22:14:04.286Z",
+    "createdOn": "2024-03-27T14:56:14.921Z",
+    "postedOn": "2024-03-27T14:56:15.526Z",
+    "publishTime": "2024-03-27T14:56:15.526Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 1000564178,
+    "workload": "Hours to be determined",
+    "companyRecno": 1012663727,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
@@ -36,31 +36,40 @@
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
-      "hourlyBudgetMax": 80
+      "hourlyBudgetMin": 100,
+      "hourlyBudgetMax": 120
     },
-    "contractorTier": 3,
-    "description": "Looking for senior Angular/.NET engineer who can work independently on our internal project. ",
+    "contractorTier": 2,
+    "description": "Duration: 24 months\n\nLanguage Requirements:\nVery good command of both English and German languages.\n\nResponsibilities:\nProvide technical support for operating web-based information management and collaboration platforms \u2013 particularly Doxis (SER).\nResponsible for technical analysis, specification, documentation, installation, maintenance, and troubleshooting of web application middleware (Microsoft IIS, .NET, Microsoft SharePoint Server, Apache HTTP Server, Apache Tomcat) and web applications.\nCoordinate and configure IT infrastructure services required to provide comprehensive platform services for web applications within the company.\nInteract with colleagues from other IT departments to solve cross-functional and cross-project issues.\nCoordinate and implement changes to web application middleware and web applications according to defined processes.\nIncident and problem management and fulfilling requests within Second/Third-Level support.\nProactively identify areas where system or process improvements can enhance efficiency and customer satisfaction.\n\nRequirements:\nCompleted relevant vocational training and professional experience or Bachelor degree in Computer Science (or equivalent).\nSpecialized technical knowledge in web application technology and web server environments, especially Java platforms (JEE), such as Apache Tomcat, etc., as well as Microsoft SharePoint, Microsoft.NET platform, and Microsoft Internet Information Services.\nKnowledge in operating web-based information management and collaboration platforms.\nTechnical understanding and knowledge in operating Windows (and Linux), Azure Cloud, and Docker / Kubernetes.\nKnowledge and experience with scripting languages (e.g., Windows PowerShell...).\nTechnical understanding and basic knowledge of relational databases.\nVery good command of both English and German languages.",
     "attachments": null,
     "questions": [],
     "qualifications": {
       "type": 0,
-      "location": null,
+      "location": {
+        "country": null,
+        "city": null,
+        "state": null,
+        "countryTimezone": null,
+        "worldRegion": "Europe",
+        "offsetFromUtcMillis": null
+      },
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 10,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 3,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
       "countries": null,
-      "regions": null,
+      "regions": [
+        "Europe"
+      ],
       "states": null,
       "timezones": null,
-      "localMarket": true,
+      "localMarket": false,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -82,10 +91,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-22T12:14:18.112Z",
-      "totalApplicants": 173,
+      "lastBuyerActivity": "2024-03-27T14:57:55.525Z",
+      "totalApplicants": 2,
       "totalHired": 0,
-      "totalInvitedToInterview": 5,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -94,49 +103,50 @@
       "tags": [
         "jsi_contractToHire",
         "contractToHireSet",
+        "firstJobPost",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-21T22:14:04.286Z",
-        "totalTimeJobPostFlowAIv2": "135",
+        "siteSource": "desktop_instant",
+        "publishTime": "2024-03-27T14:56:15.526Z",
+        "totalTimeJobPostFlowAIv2": "",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "3",
-        "type": "RJP",
-        "browser": "Chrome",
-        "device": "Macintosh",
-        "startTimeJobPostFlowAIv2": "1711048307879"
+        "totalTimeSpentOnReviewPageAIv2": "133",
+        "type": "FJP",
+        "browser": "Firefox",
+        "device": "Windows",
+        "startTimeJobPostFlowAIv2": "1711551063172"
       }
     },
     "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
-    "isPaymentMethodVerified": true,
+    "isPaymentMethodVerified": false,
     "location": {
-      "offsetFromUtcMillis": -18000000,
-      "countryTimezone": "United States (UTC-06:00)",
-      "city": "Dallas",
-      "country": "United States"
+      "offsetFromUtcMillis": 7200000,
+      "countryTimezone": "Bulgaria (UTC\u002B02:00)",
+      "city": "Sofia",
+      "country": "Bulgaria"
     },
     "stats": {
-      "totalAssignments": 72,
-      "activeAssignmentsCount": 20,
-      "feedbackCount": 39,
-      "score": 4.931398408,
-      "totalJobsWithHires": 53,
-      "hoursCount": 9043.666687,
+      "totalAssignments": 0,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 0,
+      "score": 0,
+      "totalJobsWithHires": 0,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 100264.15
+        "amount": 0
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2021-05-07T00:00:00.000Z",
+      "contractDate": null,
       "profile": {
         "size": null,
         "industry": null,
@@ -145,19 +155,17 @@
       }
     },
     "jobs": {
-      "postedCount": 93,
-      "openCount": 8
+      "postedCount": 0,
+      "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 10.253512564024021
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 4,
-        "totalMatches": 4,
+        "totalQualifications": 5,
+        "totalMatches": 5,
         "matches": [
           {
             "qualification": 0,
@@ -170,10 +178,18 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "0",
+            "clientPreferred": "3",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "region=(Europe)",
+            "freelancerValue": "Europe",
+            "freelancerValueLabel": "Europe",
+            "clientPreferredLabel": "Europe"
           },
           {
             "qualification": 8,

@@ -1,71 +1,73 @@
 {
   "job": {
-    "ciphertext": "~01590250ee93df025f",
-    "rid": 1011922481,
-    "uid": "1767360428574781440",
+    "ciphertext": "~01501eb1d6200d1624",
+    "rid": 1012272242,
+    "uid": "1772939021305466880",
     "type": 2,
-    "access": 4,
-    "title": "Only Vue.js with Web API .Net core. No php folks and SQL. Other will be reported.Long term project: ",
+    "access": 1,
+    "title": "Senior VueJS  Front-End Developer",
     "status": 1,
     "category": {
-      "name": "Web Development",
-      "urlSlug": "web-development"
+      "name": "ERP/CRM Software",
+      "urlSlug": "erp-crm-software"
     },
     "categoryGroup": {
-      "name": "Web, Mobile \u0026 Software Dev",
-      "urlSlug": "web-mobile-software-dev"
+      "name": "IT \u0026 Networking",
+      "urlSlug": "it-networking"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-12T01:22:17.103Z",
-    "postedOn": "2024-03-12T01:22:17.447Z",
-    "publishTime": "2024-03-12T01:22:17.447Z",
+    "createdOn": "2024-03-27T10:49:37.359Z",
+    "postedOn": "2024-03-27T10:49:37.828Z",
+    "publishTime": "2024-03-27T10:49:37.828Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 2494427,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 4473614,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
-    "numberOfPositionsToHire": 0,
+    "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
       "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 30,
+      "hourlyBudgetMin": 20,
       "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "Warning:  No TIME WASTERS..Only working directly with Developers only No third parties or Sales Guy or CEO prohibited on this project: will be reported n case of violence:\nmost of the bidders are just time wasters so please make sure you are not one of them dum persons. thanks\n\nwe are looking Expert in Vue JS - Front End - Web API .Net core and good knowledge of handling web api .net core and store procedure\nthis gonna be a long term project for a right and skilled dev we are looking, so no time wasters please bid only if you are skilled full because technical screening will be done before hiring over here. \nwe have project just started and right candidate expection is to grasp and get going on it\nwe are easy going company and only required a quality and on-time results that is it. we do throw bonuses based on the candidate performances.\n\nNOTE: this will be an NDA project",
+    "description": "We are a Digital Lending Solutions Provider focusing on building a complete suite of products for the Mortgage Industry. We are looking for a Full-Time Senior Level Front-End Developer with U.S. Residential Mortgage experience, to be a contributor to the development and enhancement of our cutting-edge projects, ensuring they meet the highest standards of performance and user experience. If you possess expertise in VueJS, Javascript, HTML5, CSS3, XML, JSON, along with other valuable skills, we want to hear from you!\n\nResponsibilities:\n\n*Utilize your expertise in VueJS, Javascript, HTML5, CSS3, JSON, XML,  to implement innovative features and functionalities.\n\n*Take ownership of code testing to ensure the reliability and efficiency of the applications.\n\n*Work closely with UX/UI designers to translate design concepts into intuitive and visually appealing user interfaces.\n\n*Participate in code reviews, offer constructive feedback, and encourage best practices.\n\n*Troubleshoot and resolve issues promptly to maintain optimal performance.\n\n*Stay updated with the latest industry trends and technologies, incorporating relevant advancements into the development process.\n\nRequirements:\n\n*Proven experience as a Front-End Developer with a focus on VueJS, Javascript, HTML5, CSS3, JSON, XML.\n \n*Work and be available during your time zones normal business hours.\n\n*Strong ability to test your own code, ensuring its quality and adherence to project specifications.\n\n*A keen eye for design, with a passion for creating user-friendly and aesthetically pleasing interfaces.\n\n*Fluent in English with excellent communication skills, both written and verbal.\n\n*Ability to work independently as well as collaboratively in a team environment.\n\n*Strong problem-solving skills and a proactive attitude towards challenges.\n\nIf you are an enthusiastic Senior Front-End Developer with a strong skill set in VueJS, Javascript, HTML5, CSS3, JSON and XML, and you possess the ability to test your own code while maintaining a keen eye for design, we encourage you to apply!  Please also mention if you have experience working with C#, asp.net, razor pages, mysql, sqlserver. Please do not respond with a standard cover letter.\n\nThank you for your time.  \n\n",
     "attachments": null,
     "questions": [
       {
         "position": 0,
-        "question": "Vue.js experience is mandatory. If you have please feel free to apply. And explain of you worked on Vue.js pinia insyead vuex"
-      },
-      {
-        "position": 1,
         "question": "Describe your recent experience with similar projects"
       }
     ],
     "qualifications": {
-      "type": 1,
+      "type": 2,
       "location": null,
       "minOdeskHours": 0,
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 0,
+      "prefEnglishSkill": 4,
       "minJobSuccessScore": 90,
       "risingTalent": true,
       "locationCheckRequired": false,
-      "countries": null,
+      "countries": [
+        "United States",
+        "Ukraine",
+        "Poland",
+        "Germany",
+        "Belarus"
+      ],
       "regions": null,
       "states": null,
       "timezones": null,
@@ -81,41 +83,40 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-14T02:24:52.446Z",
-      "totalApplicants": 15,
+      "lastBuyerActivity": "2024-03-27T16:33:34.880Z",
+      "totalApplicants": 54,
       "totalHired": 0,
-      "totalInvitedToInterview": 9,
+      "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
-      "invitationsSent": 1
+      "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
         "contractToHireSet",
-        "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
-        "siteSource": "ios_client_rjp",
-        "publishTime": "2024-03-12T01:22:17.447Z",
-        "reuse": "1738110091164024832",
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-27T10:49:37.828Z",
+        "reuse": "1706642815312371712",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "7",
+        "totalTimeSpentOnReviewPageAIv2": "201",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Android"
+        "device": "Windows"
       }
     },
     "isContractToHire": false,
@@ -126,54 +127,54 @@
     "location": {
       "offsetFromUtcMillis": -14400000,
       "countryTimezone": "United States (UTC-05:00)",
-      "city": "baltimore",
+      "city": "Davie",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 27,
+      "totalAssignments": 32,
       "activeAssignmentsCount": 7,
-      "feedbackCount": 11,
-      "score": 4.221288373,
-      "totalJobsWithHires": 23,
-      "hoursCount": 233.666665,
+      "feedbackCount": 20,
+      "score": 4.986504723,
+      "totalJobsWithHires": 30,
+      "hoursCount": 8906.166667,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 5474.69
+        "amount": 303486.55
       }
     },
     "isEnterprise": false,
     "company": {
-      "isEDCReplicated": true,
-      "contractDate": "2015-06-09T00:00:00.000Z",
+      "isEDCReplicated": false,
+      "contractDate": "2017-10-06T00:00:00.000Z",
       "profile": {
-        "size": null,
+        "size": "100",
         "industry": null,
-        "visible": false,
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 56,
-      "openCount": 0
+      "postedCount": 54,
+      "openCount": 2
     },
     "avgHourlyJobsRate": {
-      "amount": 19.682225532683493
+      "amount": 24.891852835118296
     }
   },
   "currentUserInfo": {
     "owner": false,
     "freelancerInfo": {
       "qualificationsMatches": {
-        "totalQualifications": 6,
+        "totalQualifications": 7,
         "totalMatches": 4,
         "matches": [
           {
             "qualification": 0,
             "qualified": true,
-            "clientPreferred": "individuals",
-            "freelancerValue": "IC",
+            "clientPreferred": "agencies",
+            "freelancerValue": "AC",
             "freelancerValueLabel": "Not Specified",
-            "clientPreferredLabel": "Freelancers only"
+            "clientPreferredLabel": "Agencies only"
           },
           {
             "qualification": 6,
@@ -185,11 +186,11 @@
           },
           {
             "qualification": 4,
-            "qualified": true,
-            "clientPreferred": "0",
+            "qualified": false,
+            "clientPreferred": "4",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Any"
+            "clientPreferredLabel": "Native"
           },
           {
             "qualification": 7,
@@ -198,6 +199,14 @@
             "freelancerValue": "false",
             "freelancerValueLabel": "no",
             "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 3,
+            "qualified": true,
+            "clientPreferred": "country=(United States,Ukraine,Poland,Germany,Belarus)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "United States, Ukraine, Poland, Germany, Belarus"
           },
           {
             "qualification": 8,

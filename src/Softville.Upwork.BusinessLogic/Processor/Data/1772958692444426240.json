@@ -1,11 +1,11 @@
 {
   "job": {
-    "ciphertext": "~0157fb2c1279b54de7",
-    "rid": 1011462590,
-    "uid": "1759982633243512832",
+    "ciphertext": "~013b974462fcc0b183",
+    "rid": 1012273482,
+    "uid": "1772958692444426240",
     "type": 2,
     "access": 4,
-    "title": "Expert .NET/Javascript Engineer - PDFs",
+    "title": "Lead Programmer",
     "status": 1,
     "category": {
       "name": "Web Development",
@@ -20,14 +20,14 @@
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-02-20T16:45:33.856Z",
-    "postedOn": "2024-02-20T16:45:34.430Z",
-    "publishTime": "2024-02-20T16:45:34.430Z",
+    "createdOn": "2024-03-27T12:07:47.283Z",
+    "postedOn": "2024-03-27T12:07:47.742Z",
+    "publishTime": "2024-03-27T12:07:47.742Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 2841349,
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1290436,
     "durationIdV3": 4,
     "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
@@ -35,12 +35,12 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 40,
-      "hourlyBudgetMax": 70
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
     },
     "contractorTier": 3,
-    "description": "I\u0027m seeking an expert Full-Stack engineer who has experience with debugging PDFs and general PDF libraries, including:\n\n-pdfpig\n-QuestPDF\n-pdfjs\n-itextsharp\n-muPDF, etc. \n\nAnd also:\n-Angular\n-.NET framework ",
+    "description": "Description:  Our fast-growing Edtech company provides K12 schools with systems that better track and improve student attendance, we love our work because we truly believe we are making a difference in the many communities we serve.  Our company strives for constant improvement in our products and our performance.   \nWe utilize desktop software and mobile apps that connect to a centralized SAAS backend SQL server database.   This database shares data with over 400 client systems through SFTP imports/exports and direct API\u2019s.\n\nDuties:  After many years at the helm, our current Chief Programmer will be leaving our organization.  We are looking for a key addition to our team to replace him.   You will supervise a team of 3 and be in charge of all backend and front end SAAS operations.   Keeping our system running and troubleshooting specific client issues Monday through Friday.\n\nYou are a technology rock star, a technical switchblade with full stack knowledge.  Education Industry experience a plus.   Powerschool, etc\u2026.\nYou are Captain Kirk, Mr. Spock, and Scottie rolled into one.    There is nothing you can\u2019t figure out and a good day for you is when you have to do very little to keep the system humming along and performing for our clients.  \n\nYou will cross-train and groom your team.  Putting in place development guidelines and product rollout strategies as well as performance monitors that alert the team of system anomalies.     You will bring this company to the next level of its growth and be rewarded with a percentage of the recurring revenue after 2 years.\n\nHOURS:   40 hours, start time 6am EST, AFTER HOURS AS EMERGENCIES ARISE\n\n\nSkills required:\n1.\tMust be proficient with Microsoft SQL server, including creating tables and fields, creating SSIS packages, writing stored procedures, and writing optimized queries\n2.\tHTML (with HTML5 experience), CSS, jQuery/Bootstrap, and JSON\n3.\tASP.NET, C#, Typescript, Angular, Reacts, .Net Core 3/5/6\n4.\tExperience with GitLab/GitHub/Bitbucket or other DVCS\n5.\tExperience with building and integrating REST APIs\n6.\tExperience with Building IOS and Android Apps\n7.\tExperience with KendoUI jQuery toolkit.\n8.\tExperience using MongoDB or other document database.\n9.\tExperience with event driven architectures\n10.\tUnderstanding of open source projects ServiceStack, Mass Transit\n11.\tExperience with Golang\n12.\tExperience writing WPF applications",
     "attachments": null,
     "questions": [],
     "qualifications": {
@@ -50,7 +50,7 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
       "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
@@ -72,83 +72,84 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_COMPLEX_PROJECT",
-        "label": "Complex project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 2,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-02-29T07:00:15.776Z",
-      "totalApplicants": 193,
+      "lastBuyerActivity": "2024-03-27T16:44:04.670Z",
+      "totalApplicants": 70,
       "totalHired": 0,
-      "totalInvitedToInterview": 12,
-      "unansweredInvites": 4,
-      "invitationsSent": 13
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
     },
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
+        "jsi_contractToHire",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-02-20T16:45:34.430Z",
-        "reuse": "1754201297918947328",
+        "publishTime": "2024-03-27T12:07:47.742Z",
+        "reuse": "1769453142574678016",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "30",
+        "totalTimeSpentOnReviewPageAIv2": "78",
         "type": "RJP",
         "browser": "Chrome",
-        "device": "Macintosh"
+        "device": "Windows"
       }
     },
-    "isContractToHire": false,
+    "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "United States (UTC-05:00)",
-      "city": "New York",
+      "offsetFromUtcMillis": -10800000,
+      "countryTimezone": "United States (UTC-03:00)",
+      "city": "St Augustine",
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 74,
-      "activeAssignmentsCount": 12,
-      "feedbackCount": 46,
-      "score": 4.924378958,
-      "totalJobsWithHires": 70,
-      "hoursCount": 12348.333346,
+      "totalAssignments": 15,
+      "activeAssignmentsCount": 5,
+      "feedbackCount": 3,
+      "score": 4.94,
+      "totalJobsWithHires": 13,
+      "hoursCount": 3597.166674,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 645660.11
+        "amount": 49229.45
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2016-03-18T00:00:00.000Z",
+      "contractDate": "2014-03-10T00:00:00.000Z",
       "profile": {
         "size": "2",
-        "industry": "Tech \u0026 IT",
+        "industry": "Education",
         "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 191,
+      "postedCount": 23,
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 48.90671340643933
+      "amount": 12.09683452104616
     }
   },
   "currentUserInfo": {

@@ -121,12 +121,12 @@
       "country": "Canada"
     },
     "stats": {
-      "totalAssignments": 152,
+      "totalAssignments": 153,
       "activeAssignmentsCount": 14,
-      "feedbackCount": 98,
+      "feedbackCount": 99,
       "score": 3.950161062,
-      "totalJobsWithHires": 125,
-      "hoursCount": 4145.000016,
+      "totalJobsWithHires": 126,
+      "hoursCount": 4153.166683,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 83863.11
@@ -148,7 +148,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 15.43581899952398
+      "amount": 15.446399072444835
     }
   },
   "currentUserInfo": {
