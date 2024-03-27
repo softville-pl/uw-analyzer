@@ -1,0 +1,231 @@
+{
+  "job": {
+    "ciphertext": "~011c229c0a900edc5e",
+    "rid": 1012268276,
+    "uid": "1772867233775169536",
+    "type": 2,
+    "access": 4,
+    "title": "Consultancy on new online payment processor",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-27T06:04:21.707Z",
+    "postedOn": "2024-03-27T06:04:22.054Z",
+    "publishTime": "2024-03-27T06:04:22.054Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1001363164,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "We are embarking on an ambitious project to develop a cutting-edge payment processor and are in search of a seasoned consultant and developer with extensive experience in fintech and payment solutions. The ideal candidate will possess a deep understanding of payment processing systems, including but not limited to transaction handling, security measures, compliance, and user experience design. This project aims to innovate within the payments industry, offering a seamless, secure, and efficient processing solution for both businesses and consumers.\n\nResponsibilities:\n\nConduct a comprehensive analysis of existing payment processors, identifying their strengths, weaknesses, and areas for innovation.\nCollaborate with our team to define project requirements, objectives, and timelines, ensuring alignment with our strategic goals.\nDesign a scalable and secure architecture for the new payment processor, incorporating the latest technologies and industry best practices.\nDevelop a detailed project plan, including milestones, deliverables, and resource allocation, to guide the development process.\nLead the development and implementation of the payment processor, ensuring code quality, performance, and security standards are met.\nProvide expert advice on regulatory compliance and data security, ensuring the solution adheres to all relevant laws and industry standards.\nWork closely with UX/UI designers to create an intuitive and user-friendly interface for the payment processor.\nConduct thorough testing and quality assurance to identify and resolve any issues before launch.\nOffer ongoing support and consultancy post-launch to ensure smooth operation and address any emerging challenges.\n\nRequirements:\n\nProven experience in fintech, specifically in developing and consulting on payment processing solutions.\nStrong knowledge of payment industry standards, compliance regulations (such as PCI DSS), and data security protocols.\nProficiency in relevant programming languages and technologies used in payment processing development (e.g., Java, C\u002B\u002B, Python, blockchain technologies, etc.).\nExcellent problem-solving skills and the ability to think strategically about innovative payment solutions.\nStrong project management skills, with a track record of leading projects from conception to launch.\nExceptional communication and collaboration skills, with the ability to work effectively in a team and with stakeholders at all levels.\nA portfolio of previous projects in payment processing or related fintech areas.",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": null,
+      "totalApplicants": null,
+      "totalHired": null,
+      "totalInvitedToInterview": null,
+      "unansweredInvites": null,
+      "invitationsSent": null
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-27T06:04:22.054Z",
+        "totalTimeJobPostFlowAIv2": "748",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "13",
+        "type": "RJP",
+        "browser": "Safari",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1711518711888"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 28800000,
+      "countryTimezone": "Hong Kong (UTC\u002B08:00)",
+      "city": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    "stats": {
+      "totalAssignments": 27,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 21,
+      "score": 4.995048679,
+      "totalJobsWithHires": 27,
+      "hoursCount": 1006.833338,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 35391.48
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2021-08-19T00:00:00.000Z",
+      "profile": {
+        "size": "100",
+        "industry": "Travel \u0026 Hospitality",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 21,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": {
+      "amount": 32.81989059444514
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 4,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

@@ -122,12 +122,12 @@
       "country": "United States"
     },
     "stats": {
-      "totalAssignments": 80,
-      "activeAssignmentsCount": 8,
+      "totalAssignments": 81,
+      "activeAssignmentsCount": 9,
       "feedbackCount": 52,
       "score": 4.921167676,
-      "totalJobsWithHires": 72,
-      "hoursCount": 38004.166672,
+      "totalJobsWithHires": 73,
+      "hoursCount": 38012.333338,
       "totalCharges": {
         "currencyCode": "USD",
         "amount": 1339007.89
@@ -149,7 +149,7 @@
       "openCount": 0
     },
     "avgHourlyJobsRate": {
-      "amount": 34.85916219223553
+      "amount": 34.859192626182484
     }
   },
   "currentUserInfo": {

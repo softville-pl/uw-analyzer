@@ -1,0 +1,256 @@
+{
+  "job": {
+    "ciphertext": "~019b3930e862cbe29b",
+    "rid": 1012256474,
+    "uid": "1772675265891618816",
+    "type": 2,
+    "access": 4,
+    "title": "IT Dev Support ",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-26T17:21:33.061Z",
+    "postedOn": "2024-03-26T17:21:33.506Z",
+    "publishTime": "2024-03-26T17:21:33.506Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Hours to be determined",
+    "companyRecno": 1006238428,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 1,
+      "hourlyBudgetMin": 55,
+      "hourlyBudgetMax": 70
+    },
+    "contractorTier": 3,
+    "description": "We are seeking a skilled and proactive IT Service Support to provide a full range of IT services, both  projects as well as everyday IT support through our Jira ticketing system. \n\nAs support, you will be required to deliver high-quality technical support and solutions, ensuring that our IT backend systems and software operate efficiently and effectively. You will work closely with the in-house IT team to understand their needs, provide recommendations, and assist in resolving any technical issues they may encounter. This role requires excellent communication skills, strong problem-solving abilities, and a deep understanding of our IT systems.\n\nResponsibilities: \n-\tProvide exceptional technical support responding promptly to inquiries and resolving issues efficiently. \n-\tCollaborate with the management team to understand their business objectives and IT requirements, offering solutions that meet their needs.\n-\tDebugging and maintaining written code.\n-\tReporting and resolving issues \n-\tPerform system analysis and troubleshooting to identify and resolve software related problems.\n-\tPerform regular system maintenance, including patching, updates, and backups, to ensure system stability and data security. \n-\tCreate new tables/views/stored procedure on SQL Server.\n-\tCollaborate with cross-functional teams to resolve complex technical issues and escalate problems as necessary.\n-\tDocument all support activities, including resolutions, troubleshooting steps, and configurations, in a clear and organized manner.\n\n \nAd-Hoc IT Support Examples:\nThey would come in the form of Jira\u2019s from our internal staff\n1)\tMailchimp script not working \n2)\tPull data/reports/lists from our ecommerce backend \n3)\tInvestigate internal login issues \u2013 staff unable to log into our ecommerce system \n4)\tInvestigation into websites crashing \n5)\tSupport in the movement of our system to a cloud-based server (Azure)\n",
+    "attachments": null,
+    "questions": [
+      {
+        "position": 0,
+        "question": "Describe your recent experience with similar projects"
+      },
+      {
+        "position": 1,
+        "question": "What frameworks have you worked with?"
+      }
+    ],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 10,
+      "group": null,
+      "prefEnglishSkill": 3,
+      "minJobSuccessScore": 80,
+      "risingTalent": true,
+      "locationCheckRequired": false,
+      "countries": null,
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": false,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_PROJECT",
+        "label": "One-time project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 0,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-26T17:21:32.953Z",
+      "totalApplicants": 26,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 0,
+      "invitationsSent": 0
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-26T17:21:33.506Z",
+        "reuse": "1767270480518422528",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "41",
+        "type": "RJP",
+        "browser": "Edge",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": false,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": -14400000,
+      "countryTimezone": "Canada (UTC-05:00)",
+      "city": "Westmount",
+      "country": "Canada"
+    },
+    "stats": {
+      "totalAssignments": 10,
+      "activeAssignmentsCount": 3,
+      "feedbackCount": 7,
+      "score": 5,
+      "totalJobsWithHires": 10,
+      "hoursCount": 305.333334,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 18061.95
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-11-22T00:00:00.000Z",
+      "profile": {
+        "size": null,
+        "industry": null,
+        "visible": false,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 7,
+      "openCount": 2
+    },
+    "avgHourlyJobsRate": {
+      "amount": 58.177991139349366
+    }
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 6,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 6,
+            "qualified": false,
+            "clientPreferred": "80",
+            "freelancerValue": "0",
+            "freelancerValueLabel": "0%",
+            "clientPreferredLabel": "At least 80%"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "3",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Fluent"
+          },
+          {
+            "qualification": 7,
+            "qualified": false,
+            "clientPreferred": "true",
+            "freelancerValue": "false",
+            "freelancerValueLabel": "no",
+            "clientPreferredLabel": "yes"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}

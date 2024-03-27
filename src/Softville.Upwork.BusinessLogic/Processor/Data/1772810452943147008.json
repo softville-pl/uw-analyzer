@@ -1,0 +1,243 @@
+{
+  "job": {
+    "ciphertext": "~019613394af901559a",
+    "rid": 1012265816,
+    "uid": "1772810452943147008",
+    "type": 2,
+    "access": 4,
+    "title": "Software Developer",
+    "status": 1,
+    "category": {
+      "name": "Web Development",
+      "urlSlug": "web-development"
+    },
+    "categoryGroup": {
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
+    },
+    "hideBudget": false,
+    "budget": {
+      "currencyCode": "USD",
+      "amount": 0
+    },
+    "createdOn": "2024-03-27T02:18:44.269Z",
+    "postedOn": "2024-03-27T03:02:46.806Z",
+    "publishTime": "2024-03-27T03:02:46.806Z",
+    "wasRenewed": false,
+    "startDate": null,
+    "deliveryDate": null,
+    "workload": "Less than 30 hrs/week",
+    "companyRecno": 1003644576,
+    "durationIdV3": 3,
+    "durationLabel": "3 to 6 months",
+    "notSureProjectDuration": false,
+    "notSureFreelancersToHire": false,
+    "notSureExperienceLevel": false,
+    "numberOfPositionsToHire": 1,
+    "extendedBudgetInfo": {
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
+    },
+    "contractorTier": 3,
+    "description": "Hi Please what are your thoughts of below?:\n\nJob Title\t\tSoftware Developer\n\nJOB DESCRIPTION/PURPOSE\n\nResponsible to Senior Software Developer to ensure an excellent level of technical design and development is delivered across to our customer meeting their needs.  \n\nThe Developer is part of an agile development team, that builds and works on software systems on top of the Microsoft.NET development stack. The Developer is involved in assigned areas of development from design to development to testing as identified by Senior Developer. The Developer will perform Hardware and Software design work as required of the company on projects as identified by the Senior Developer and Group Technical Director.\n\nBack-end coder for:\n\u2022\tA Functional Directory like interactive Yellow Pages\n\u2022\tElectronic Health record \u2013 for patients and solicitors/ hospital use\n\u2022\tE commerce like any large online retailer\n\u2022\tMicrosoft Teams, Microsoft Shift etc integration\n\n\nPRINCIPAL RESPONSIBILITIES\n1.\tWorking with an agile team to develop, test, and maintain desktop, web-based applications and server-based business applications for all development projects and client deliveries.\n2.\tResponsible for own day-to-day technical design and development work and for Mentoring Junior Software Developer. \n3.\tPreparing reports, manuals and other documentation on the status, operation and maintenance of software\n4.\tDesign, develop, and unit test applications in accordance with established standards\n5.\tParticipate in reviews of solutions designs and related code\n6.\tPackage and support deployment of developed solutions and releases\n7.\tDeveloping, refining, and tuning integrations between applications\n8.\tAnalysing and resolving technical and application problems.\n9.\tAdhering to high-quality development principles while delivering software solutions on-time and on-budget. \n10.\tProviding support to customers\n11.\tDeliver against department SLA\u2019s and KPI\u2019s. \n12.\tBuild close relationships with the key business stakeholders and clients\n13.\tIdentify and achieve improvements in Design performance.\n14.\tComply with culture of customer service and continual improvement.\n15.\tBuild close partnerships with our critical technology and service partners to enhance the relationship and quality of service.\n16.\tAdhere and strive to achieve Design \u0026 Development strategies and objectives.\n\n\n\nCOMPETENCY\n1.\tEducated to a degree level or equivalent\n2.\tSignificant background of Design \u0026 Development with at least 4 years\u2019 experience service delivery or systems projects delivery\n3.\tHands on expertise across a broad range of ICT technologies (clients, applications, networks, infrastructure) \n4.\tExperienced in influencing across the business management team.\n5.\tStructured approach to change control, design control and continual improvement.\n6.\tDemonstrates creativity in identifying opportunities and finding design solutions\n7.\tThe ability to inspire, motivate.\n8.\tInitiative, drive and enthusiasm and results driven\n9.\tSupervisory skills required, including the ability to coordinate the work of others.\n10.\tPossess a broad range of IT knowledge, and willing to take on design based technical issues.\n11.\tPossess a background in a Design \u0026 Development position, with a proven track record of leading staff to consistently meet and exceed the required levels of customer design.\n12.\tExpert understanding of object orientated programming concepts\n13.\tExpert understanding of relational database design and querying concepts\n14.\tFamiliarity with version control concepts  JNR\n15.\tAt Least 4 Years experience in using Microsoft .NET development using C#\n16.\tAt Least 4 Years experience in web development, UI/UX front end development using ASP.Net Core, Razor and Entity Framework.\n17.\tAt Least 4 Years experience of client/server application development\n18.\tAt Least 4 Years experience of agile development methodologies\n19.\tComprehensive Knowledge of unit testing theory\n",
+    "attachments": null,
+    "questions": [],
+    "qualifications": {
+      "type": 0,
+      "location": null,
+      "minOdeskHours": 0,
+      "groupRecno": null,
+      "shouldHavePortfolio": false,
+      "tests": null,
+      "minHoursWeek": 30,
+      "group": null,
+      "prefEnglishSkill": 0,
+      "minJobSuccessScore": 0,
+      "risingTalent": false,
+      "locationCheckRequired": false,
+      "countries": [
+        "United States",
+        "United Kingdom",
+        "Japan",
+        "Germany"
+      ],
+      "regions": null,
+      "states": null,
+      "timezones": null,
+      "localMarket": true,
+      "onSiteType": null,
+      "locations": null,
+      "localDescription": null,
+      "localFlexibilityDescription": null,
+      "earnings": null,
+      "languages": null
+    },
+    "isPremium": false,
+    "segmentationData": [
+      {
+        "name": "Employment",
+        "value": "EMPLOYMENT_COMPLEX_PROJECT",
+        "label": "Complex project",
+        "type": "EMPLOYMENT",
+        "sortOrder": 2,
+        "typeUid": "535792587707281410",
+        "customValue": null,
+        "skill": null
+      }
+    ],
+    "clientActivity": {
+      "lastBuyerActivity": "2024-03-27T02:36:10.743Z",
+      "totalApplicants": 9,
+      "totalHired": 0,
+      "totalInvitedToInterview": 0,
+      "unansweredInvites": 1,
+      "invitationsSent": 1
+    },
+    "weeklyRetainerBudget": null,
+    "annotations": {
+      "tags": [
+        "jsi_contractToHire",
+        "contractToHireSet",
+        "searchable",
+        "C2HJobsOptInEducation"
+      ],
+      "customFields": {
+        "siteSource": "desktop_rjp",
+        "publishTime": "2024-03-27T03:02:46.806Z",
+        "reuse": "1734330596963311616",
+        "totalTimeJobPostFlowAIv2": "0",
+        "sourcingUpdateCount": "0",
+        "sourcingUpdateForbidden": "false",
+        "totalTimeSpentOnReviewPageAIv2": "11",
+        "type": "RJP",
+        "browser": "Chrome",
+        "device": "Windows"
+      }
+    },
+    "isContractToHire": true,
+    "recruitingServices": null
+  },
+  "buyer": {
+    "isPaymentMethodVerified": true,
+    "location": {
+      "offsetFromUtcMillis": 0,
+      "countryTimezone": "United Kingdom (UTC)",
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "stats": {
+      "totalAssignments": 1,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 1,
+      "score": 5,
+      "totalJobsWithHires": 1,
+      "hoursCount": 0,
+      "totalCharges": {
+        "currencyCode": "USD",
+        "amount": 103.5
+      }
+    },
+    "isEnterprise": false,
+    "company": {
+      "isEDCReplicated": false,
+      "contractDate": "2022-04-21T00:00:00.000Z",
+      "profile": {
+        "size": "10",
+        "industry": "Health \u0026 Fitness",
+        "visible": true,
+        "l3Occupations": []
+      }
+    },
+    "jobs": {
+      "postedCount": 13,
+      "openCount": 0
+    },
+    "avgHourlyJobsRate": null
+  },
+  "currentUserInfo": {
+    "owner": false,
+    "freelancerInfo": {
+      "qualificationsMatches": {
+        "totalQualifications": 5,
+        "totalMatches": 4,
+        "matches": [
+          {
+            "qualification": 0,
+            "qualified": true,
+            "clientPreferred": "all",
+            "freelancerValue": "IC",
+            "freelancerValueLabel": "Not Specified",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 4,
+            "qualified": true,
+            "clientPreferred": "0",
+            "freelancerValue": "3",
+            "freelancerValueLabel": "Fluent",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 3,
+            "qualified": false,
+            "clientPreferred": "country=(United States,United Kingdom,Japan,Germany)",
+            "freelancerValue": "Poland",
+            "freelancerValueLabel": "Poland",
+            "clientPreferredLabel": "United States, United Kingdom, Japan, Germany"
+          },
+          {
+            "qualification": 8,
+            "qualified": true,
+            "clientPreferred": "ANY",
+            "freelancerValue": "861.48",
+            "freelancerValueLabel": "861.48",
+            "clientPreferredLabel": "Any"
+          },
+          {
+            "qualification": 10,
+            "qualified": true,
+            "clientPreferred": "Any",
+            "freelancerValue": "en, pl",
+            "freelancerValueLabel": "English, Polish",
+            "clientPreferredLabel": null
+          }
+        ]
+      },
+      "applied": null,
+      "hired": null,
+      "contract": null,
+      "profileState": 10,
+      "hourlyRate": {
+        "currencyCode": "USD",
+        "amount": 56
+      },
+      "devProfileCiphertext": "~01256f0be21d7e2c1e",
+      "application": null,
+      "pendingInvite": null
+    }
+  },
+  "paths": {
+    "js": "/nx/search/jobs"
+  },
+  "ff": {
+    "isRemoveClientTotalSpentCap": true,
+    "isJobDetailsQuickJobPost": true,
+    "CFE6770ImprovedQualificationsSection": true,
+    "jdShowInvitesCount": true,
+    "enforceMinimumRateInProfile": true,
+    "TSV1877IDVatSubmitProposal": true,
+    "AG2156TeamsAddRoleFlow": true,
+    "CLOB6375ExpandedCompanyProfile": true
+  },
+  "qt": [],
+  "experiments": {
+    "idvOnSubmitProposals": {
+      "soft": false,
+      "hard": false,
+      "idv_required": false,
+      "idv_complete": false
+    }
+  },
+  "isVisitor": false
+}
