@@ -17,5 +17,6 @@ await host.Services.GetRequiredService<IUpworkProcessor>().ProcessOffersAsync(ct
 static IHostBuilder CreateHostBuilder(string[] args)
 {
     return WebJobHostBuilder.CreateBuilder(args)
-        .UseConsoleLifetime();
+        // .UseConsoleLifetime()
+        ;
 }

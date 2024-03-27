@@ -19,7 +19,7 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
     {
         using HttpClient httpClient = httpClientFactory.CreateClient(UpworkHttpClient.UpworkClientName);
 
-        int page = 2418;
+        int page = 2838;
         int totalCount;
         List<JobSearch> foundOffers = new();
 
@@ -76,7 +76,7 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
 
         if (page == 1)
         {
-            var fileFull = Path.Join(@"d:\Misc\Temp\UpworkData\SearchResults\2024-03-23\", $"{page}-full-result.json");
+            var fileFull = Path.Join(@"d:\Misc\Temp\UpworkData\SearchResults\2024-03-26\", $"{page}-full-result.json");
 
             await using FileStream fileStream = File.Open(fileFull, FileMode.CreateNew);
             await stream.CopyToAsync(fileStream, ct);
@@ -87,7 +87,7 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
             stream.Position = 0;
         }
 
-        var file = Path.Join(@"d:\Misc\Temp\UpworkData\SearchResults\2024-03-23\", $"{page}-result.json");
+        var file = Path.Join(@"d:\Misc\Temp\UpworkData\SearchResults\2024-03-26\", $"{page}-result.json");
 
         var jObject = await JsonNode.ParseAsync(stream, cancellationToken: ct) ??
                       throw new InvalidOperationException($"Incorrect syntaxt of json. Query: `{searchQuery}`");
@@ -96,7 +96,7 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
 
         string jobsJson = jobs.ToJsonString().JsonPrettify();
 
-        if (jobsJson.Contains("~01bae2aa462eb28307"))
+        if (jobsJson.Contains("~01e67df8ccf49a6df2"))
             return null;
 
         await File.WriteAllTextAsync(file, jobsJson, ct);
