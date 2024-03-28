@@ -1,22 +1,15 @@
 ﻿// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 
-using System.Net;
 using Microsoft.Extensions.Logging;
-using Softville.Upwork.BusinessLogic.Processor.Parsers;
-using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 
 namespace Softville.Upwork.BusinessLogic.Processor.Providers.Search;
 
-internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpClientFactory httpClientFactory)
+internal class SearchResultProvider(ISearchUpworkClient searchClient, ILogger<SearchResultProvider> logger)
     : ISearchResultProvider
 {
-    private const int PageSize = 50;
-
     public async Task<List<JobSearch>> SearchAsync(CancellationToken ct)
     {
-        using HttpClient httpClient = httpClientFactory.CreateClient(UpworkHttpClient.UpworkClientName);
-
         int page = 0;
         int totalCount;
         List<JobSearch> foundOffers = new();
@@ -24,12 +17,12 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
         do
         {
             page++;
-            UpworkSearchResult result = await FetchSearchResultPage(httpClient, page, ct);
+            UpworkSearchResult result = await searchClient.FetchSearchResultPage(page, ct);
 
             foundOffers.AddRange(result.SearchResults.Jobs);
 
             totalCount = result.SearchResults.Paging.Total;
-        } while (page * PageSize < totalCount);
+        } while (page * searchClient.PageSize < totalCount);
 
         logger.LogInformation("Found '{foundItems}' in total", foundOffers.Count);
 
@@ -41,34 +34,4 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
 
         return foundOffers;
     }
-
-    private async Task<UpworkSearchResult> FetchSearchResultPage(HttpClient httpClient, int page,
-        CancellationToken ct)
-    {
-        int pageSize = PageSize;
-        logger.LogInformation("Fetching #{page} page for {pageSize} items", page, pageSize);
-
-        HttpResponseMessage offersSearchResponse = await httpClient.GetAsync(
-            GetSearchQuery(page, pageSize),
-            ct);
-
-        if (!offersSearchResponse.IsSuccessStatusCode)
-        {
-            throw new WebException(
-                $"Failed to query Upwork search. Response: {await offersSearchResponse.Content.ReadAsStringAsync(ct)}");
-        }
-
-        Stream responseStream = await offersSearchResponse.Content.ReadAsStreamAsync(ct);
-
-        UpworkSearchResult result = await UpworkSearchResultParser.ParseSearchResults(
-            responseStream,
-            ct);
-
-        logger.LogDebug("Fetch #{page} page with {foundItems} items", page, result.SearchResults.Jobs.Count);
-
-        return result;
-    }
-
-    private static string GetSearchQuery(int page, int pageSize) =>
-        $"ab/jobs/search/url?hourly_rate=50-&page={page}&per_page={pageSize}&q=.net&sort=recency&t=0";
 }

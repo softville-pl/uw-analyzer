@@ -46,6 +46,7 @@ public static class Registration
             .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
+            .AddScoped<ISearchUpworkClient, SearchUpworkClient>()
             .AddScoped<IOfferProcessorRepository, OfferProcessorRepository>()
             .AddScoped<IOffersMigrator, OffersMigrator>()
             .AddMongo()
