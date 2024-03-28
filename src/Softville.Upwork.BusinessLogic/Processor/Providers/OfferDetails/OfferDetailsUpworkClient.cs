@@ -3,10 +3,11 @@
 
 using System.Net;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
+using Softville.Upwork.BusinessLogic.Processor.Storing;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Contracts;
 
-namespace Softville.Upwork.BusinessLogic.Processor.OfferDetails;
+namespace Softville.Upwork.BusinessLogic.Processor.Providers.OfferDetails;
 
 internal class OfferDetailsUpworkClient(IUpworkApiCaller apiCaller, IHttpResponseStoring storing) : IOfferDetailsUpworkClient
 {

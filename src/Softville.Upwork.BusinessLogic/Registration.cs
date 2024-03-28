@@ -8,10 +8,12 @@ using Microsoft.Extensions.DependencyInjection;
 using Softville.Upwork.BusinessLogic.Common.Configuration;
 using Softville.Upwork.BusinessLogic.Common.Database;
 using Softville.Upwork.BusinessLogic.Processor;
-using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
 using Softville.Upwork.BusinessLogic.Processor.Migrator;
-using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
+using Softville.Upwork.BusinessLogic.Processor.Providers.ApplicantsStats;
+using Softville.Upwork.BusinessLogic.Processor.Providers.OfferDetails;
+using Softville.Upwork.BusinessLogic.Processor.Providers.Search;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
+using Softville.Upwork.BusinessLogic.Processor.Storing;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.BusinessLogic.Queries.Offers;
 
@@ -44,6 +46,7 @@ public static class Registration
             .AddScoped<IApplicantsStatsProvider, ApplicantsStatsProvider>()
             .AddScoped<IOfferDetailsProvider, OfferDetailsProvider>()
             .AddScoped<IOfferDetailsUpworkClient, OfferDetailsUpworkClient>()
+            .AddScoped<ISearchUpworkClient, SearchUpworkClient>()
             .AddScoped<IOfferProcessorRepository, OfferProcessorRepository>()
             .AddScoped<IOffersMigrator, OffersMigrator>()
             .AddMongo()

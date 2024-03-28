@@ -4,7 +4,7 @@
 using System.Data.SqlTypes;
 using Softville.Upwork.Contracts;
 
-namespace Softville.Upwork.BusinessLogic.Processor;
+namespace Softville.Upwork.BusinessLogic.Processor.Models;
 
 internal static class UpworkOfferMapper
 {
