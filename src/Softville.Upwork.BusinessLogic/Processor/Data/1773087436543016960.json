@@ -1,57 +1,48 @@
 {
   "job": {
-    "ciphertext": "~011cce4948bacd3ee6",
-    "rid": 1012262157,
-    "uid": "1772745341934972928",
+    "ciphertext": "~01ffee26e7560ef9c2",
+    "rid": 1012285926,
+    "uid": "1773087436543016960",
     "type": 2,
     "access": 4,
-    "title": "Data Solutions Architecture",
+    "title": "Full Stack Developer",
     "status": 1,
     "category": {
-      "name": "Professional \u0026 Business Writing",
-      "urlSlug": "professional-business-writing"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
-      "name": "Writing",
-      "urlSlug": "writing"
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-26T22:00:00.740Z",
-    "postedOn": "2024-03-26T22:00:01.281Z",
-    "publishTime": "2024-03-26T22:00:01.281Z",
+    "createdOn": "2024-03-27T20:39:22.187Z",
+    "postedOn": "2024-03-27T20:39:22.626Z",
+    "publishTime": "2024-03-27T20:39:22.626Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
-    "workload": "Less than 30 hrs/week",
-    "companyRecno": 2834461,
-    "durationIdV3": 1,
-    "durationLabel": "Less than a month",
+    "workload": "More than 30 hrs/week",
+    "companyRecno": 1850200,
+    "durationIdV3": 4,
+    "durationLabel": "More than 6 months",
     "notSureProjectDuration": false,
     "notSureFreelancersToHire": false,
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 15,
-      "hourlyBudgetMax": 55
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 25,
+      "hourlyBudgetMax": 50
     },
-    "contractorTier": 2,
-    "description": "Seeking a Solutions Architect to do the following\n- Analyze project requirements for large initiatives\n- Design/Architect a solutions as a response to requirements\n- Create detailed project designs that include the technical architecture, execution plans, and timelines\n\n\nRequirements:\n- Experience creating technical documentation \n- Experience designing/architecting enterprise solutions such as ERPs\n- Experience architecting solutions that use tools like SQL, .Net, Python, PowerApps\n- Experience architecting business intelligence solutions (Data Warehousing, SQL, Power BI)\n- Excellent communication skills\n- Deadline-oriented mentality",
+    "contractorTier": 3,
+    "description": "need a full stack developer\n\nRequirements:\n\n    Bachelor\u0027s degree in Computer Science or related field\n    Proven experience as a React developer\n    Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model\n    Familiarity with modern front-end build pipelines and tools\n    Experience with popular React workflows such as Redux or Flux\n    Knowledge of RESTful APIs\n    Excellent problem-solving skills\n    Good communication and teamwork skills\n\nPreferred qualifications:\n\n    Familiarity with GraphQL\n    Experience with server-side rendering\n    Knowledge of web performance optimization techniques\n    Experience with version control systems such as Git.\n",
     "attachments": null,
-    "questions": [
-      {
-        "position": 0,
-        "question": "Describe your experience in Solutions Architecture"
-      },
-      {
-        "position": 1,
-        "question": "Describe your experience in Technical Writing"
-      }
-    ],
+    "questions": [],
     "qualifications": {
       "type": 0,
       "location": null,
@@ -59,9 +50,9 @@
       "groupRecno": null,
       "shouldHavePortfolio": false,
       "tests": null,
-      "minHoursWeek": 30,
+      "minHoursWeek": 40,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -81,18 +72,18 @@
     "segmentationData": [
       {
         "name": "Employment",
-        "value": "EMPLOYMENT_PROJECT",
-        "label": "One-time project",
+        "value": "EMPLOYMENT_POSITION",
+        "label": "Ongoing project",
         "type": "EMPLOYMENT",
-        "sortOrder": 0,
+        "sortOrder": 1,
         "typeUid": "535792587707281410",
         "customValue": null,
         "skill": null
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-27T20:20:18.324Z",
-      "totalApplicants": 23,
+      "lastBuyerActivity": "2024-03-27T20:39:22.041Z",
+      "totalApplicants": 14,
       "totalHired": 0,
       "totalInvitedToInterview": 0,
       "unansweredInvites": 0,
@@ -101,64 +92,63 @@
     "weeklyRetainerBudget": null,
     "annotations": {
       "tags": [
+        "jsi_contractToHire",
         "contractToHireSet",
         "searchable",
         "C2HJobsOptInEducation"
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-26T22:00:01.281Z",
-        "reuse": "1771239501711278080",
-        "totalTimeJobPostFlowAIv2": "0",
+        "publishTime": "2024-03-27T20:39:22.626Z",
+        "totalTimeJobPostFlowAIv2": "87",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "156",
+        "totalTimeSpentOnReviewPageAIv2": "5",
         "type": "RJP",
-        "browser": "Chrome",
-        "device": "Windows"
+        "browser": "Firefox",
+        "device": "Macintosh",
+        "startTimeJobPostFlowAIv2": "1711571874214"
       }
     },
-    "isContractToHire": false,
+    "isContractToHire": true,
     "recruitingServices": null
   },
   "buyer": {
     "isPaymentMethodVerified": true,
     "location": {
-      "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "Canada (UTC-05:00)",
-      "city": "Vaughan",
-      "country": "Canada"
+      "offsetFromUtcMillis": 19800000,
+      "countryTimezone": "India (UTC\u002B05:30)",
+      "city": "Panipat, Haryana",
+      "country": "India"
     },
     "stats": {
-      "totalAssignments": 57,
-      "activeAssignmentsCount": 12,
-      "feedbackCount": 37,
-      "score": 5,
-      "totalJobsWithHires": 42,
-      "hoursCount": 5705.333337,
+      "totalAssignments": 6,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 5,
+      "score": 4.947368421,
+      "totalJobsWithHires": 6,
+      "hoursCount": 0,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 185911.45
+        "amount": 190
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2016-03-16T00:00:00.000Z",
+      "contractDate": "2015-03-13T00:00:00.000Z",
       "profile": {
-        "size": null,
-        "industry": null,
-        "visible": false,
+        "size": "1",
+        "industry": "Tech \u0026 IT",
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 52,
-      "openCount": 2
+      "postedCount": 32,
+      "openCount": 0
     },
-    "avgHourlyJobsRate": {
-      "amount": 29.819733563448406
-    }
+    "avgHourlyJobsRate": null
   },
   "currentUserInfo": {
     "owner": false,
@@ -178,10 +168,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 8,

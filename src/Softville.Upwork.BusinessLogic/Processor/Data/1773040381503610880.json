@@ -1,33 +1,33 @@
 {
   "job": {
-    "ciphertext": "~011cce4948bacd3ee6",
-    "rid": 1012262157,
-    "uid": "1772745341934972928",
+    "ciphertext": "~01c1ff1d524e028605",
+    "rid": 1012281898,
+    "uid": "1773040381503610880",
     "type": 2,
     "access": 4,
-    "title": "Data Solutions Architecture",
+    "title": "Connect to Google Ads API from Azure Data Factory",
     "status": 1,
     "category": {
-      "name": "Professional \u0026 Business Writing",
-      "urlSlug": "professional-business-writing"
+      "name": "Web Development",
+      "urlSlug": "web-development"
     },
     "categoryGroup": {
-      "name": "Writing",
-      "urlSlug": "writing"
+      "name": "Web, Mobile \u0026 Software Dev",
+      "urlSlug": "web-mobile-software-dev"
     },
     "hideBudget": false,
     "budget": {
       "currencyCode": "USD",
       "amount": 0
     },
-    "createdOn": "2024-03-26T22:00:00.740Z",
-    "postedOn": "2024-03-26T22:00:01.281Z",
-    "publishTime": "2024-03-26T22:00:01.281Z",
+    "createdOn": "2024-03-27T17:32:23.603Z",
+    "postedOn": "2024-03-27T17:32:23.920Z",
+    "publishTime": "2024-03-27T17:32:23.920Z",
     "wasRenewed": false,
     "startDate": null,
     "deliveryDate": null,
     "workload": "Less than 30 hrs/week",
-    "companyRecno": 2834461,
+    "companyRecno": 1007347768,
     "durationIdV3": 1,
     "durationLabel": "Less than a month",
     "notSureProjectDuration": false,
@@ -35,21 +35,17 @@
     "notSureExperienceLevel": false,
     "numberOfPositionsToHire": 1,
     "extendedBudgetInfo": {
-      "hourlyBudgetType": 1,
-      "hourlyBudgetMin": 15,
-      "hourlyBudgetMax": 55
+      "hourlyBudgetType": 0,
+      "hourlyBudgetMin": 30,
+      "hourlyBudgetMax": 50
     },
-    "contractorTier": 2,
-    "description": "Seeking a Solutions Architect to do the following\n- Analyze project requirements for large initiatives\n- Design/Architect a solutions as a response to requirements\n- Create detailed project designs that include the technical architecture, execution plans, and timelines\n\n\nRequirements:\n- Experience creating technical documentation \n- Experience designing/architecting enterprise solutions such as ERPs\n- Experience architecting solutions that use tools like SQL, .Net, Python, PowerApps\n- Experience architecting business intelligence solutions (Data Warehousing, SQL, Power BI)\n- Excellent communication skills\n- Deadline-oriented mentality",
+    "contractorTier": 3,
+    "description": "I need an expert in ADF and Google APIs to help me establish the connection to my Google Ads Account in Azure Data Factory.\n\nI have my Basic Access Developer Token on my Google Ads Manager Account and a Service Account for the Google Ads API, and I have a test account in Azure Data Factory. I\u0027m just having difficulty using the Google Ads Linked Service in ADF and would like assistance in establishing the connection.\n\nThe ultimate goal is to pull reporting data from Google Ads and fold it into my existing data architecture in Microsoft Fabric Lakehouses. I can write the GAQL Queries that are needed and do the remaining transforms - I just need an expert to actually establish the connection in an automated way so that I can run Data Pipelines and Queries without having to refresh or update my credentials.\n\nShould be a short project - just establishing the connection so that it\u0027s fully hands-off. I can do most of the remaining work myself.",
     "attachments": null,
     "questions": [
       {
         "position": 0,
-        "question": "Describe your experience in Solutions Architecture"
-      },
-      {
-        "position": 1,
-        "question": "Describe your experience in Technical Writing"
+        "question": "Describe your recent experience with similar projects"
       }
     ],
     "qualifications": {
@@ -61,7 +57,7 @@
       "tests": null,
       "minHoursWeek": 30,
       "group": null,
-      "prefEnglishSkill": 3,
+      "prefEnglishSkill": 0,
       "minJobSuccessScore": 0,
       "risingTalent": false,
       "locationCheckRequired": false,
@@ -69,7 +65,7 @@
       "regions": null,
       "states": null,
       "timezones": null,
-      "localMarket": false,
+      "localMarket": true,
       "onSiteType": null,
       "locations": null,
       "localDescription": null,
@@ -91,10 +87,10 @@
       }
     ],
     "clientActivity": {
-      "lastBuyerActivity": "2024-03-27T20:20:18.324Z",
-      "totalApplicants": 23,
+      "lastBuyerActivity": "2024-03-27T22:10:30.949Z",
+      "totalApplicants": 19,
       "totalHired": 0,
-      "totalInvitedToInterview": 0,
+      "totalInvitedToInterview": 2,
       "unansweredInvites": 0,
       "invitationsSent": 0
     },
@@ -107,12 +103,12 @@
       ],
       "customFields": {
         "siteSource": "desktop_rjp",
-        "publishTime": "2024-03-26T22:00:01.281Z",
-        "reuse": "1771239501711278080",
+        "publishTime": "2024-03-27T17:32:23.920Z",
+        "reuse": "1772626910641606656",
         "totalTimeJobPostFlowAIv2": "0",
         "sourcingUpdateCount": "0",
         "sourcingUpdateForbidden": "false",
-        "totalTimeSpentOnReviewPageAIv2": "156",
+        "totalTimeSpentOnReviewPageAIv2": "5",
         "type": "RJP",
         "browser": "Chrome",
         "device": "Windows"
@@ -125,39 +121,39 @@
     "isPaymentMethodVerified": true,
     "location": {
       "offsetFromUtcMillis": -14400000,
-      "countryTimezone": "Canada (UTC-05:00)",
-      "city": "Vaughan",
-      "country": "Canada"
+      "countryTimezone": "United States (America/N)",
+      "city": "MIddletown",
+      "country": "United States"
     },
     "stats": {
-      "totalAssignments": 57,
-      "activeAssignmentsCount": 12,
-      "feedbackCount": 37,
+      "totalAssignments": 9,
+      "activeAssignmentsCount": 0,
+      "feedbackCount": 7,
       "score": 5,
-      "totalJobsWithHires": 42,
-      "hoursCount": 5705.333337,
+      "totalJobsWithHires": 9,
+      "hoursCount": 102.666661,
       "totalCharges": {
         "currencyCode": "USD",
-        "amount": 185911.45
+        "amount": 2745.55
       }
     },
     "isEnterprise": false,
     "company": {
       "isEDCReplicated": false,
-      "contractDate": "2016-03-16T00:00:00.000Z",
+      "contractDate": "2023-02-18T00:00:00.000Z",
       "profile": {
-        "size": null,
-        "industry": null,
-        "visible": false,
+        "size": "1",
+        "industry": "Manufacturing \u0026 Construction",
+        "visible": true,
         "l3Occupations": []
       }
     },
     "jobs": {
-      "postedCount": 52,
-      "openCount": 2
+      "postedCount": 5,
+      "openCount": 1
     },
     "avgHourlyJobsRate": {
-      "amount": 29.819733563448406
+      "amount": 17.039221719697302
     }
   },
   "currentUserInfo": {
@@ -178,10 +174,10 @@
           {
             "qualification": 4,
             "qualified": true,
-            "clientPreferred": "3",
+            "clientPreferred": "0",
             "freelancerValue": "3",
             "freelancerValueLabel": "Fluent",
-            "clientPreferredLabel": "Fluent"
+            "clientPreferredLabel": "Any"
           },
           {
             "qualification": 8,
