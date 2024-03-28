@@ -1,0 +1,123 @@
+{
+  "title": "Azure SQL Expert",
+  "createdOn": "2024-02-29T08:26:45\u002B00:00",
+  "type": 2,
+  "ciphertext": "~019695143830c8a8f8",
+  "description": "We have a table with 1,1 mio entries.\nIn our local sql db, a simple select query takes like 10 seconds.\n\ni.e: select Articles from XYZ\n\nIn Azure sql (2 v cores) the query takey  over 90 seconds. (workload under 50%).\n\nWe need somebody who can help us with that problem.,",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011655637,
+  "uid": "1763118597714870272",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Austria"
+    },
+    "totalSpent": 5974.17,
+    "totalReviews": 12,
+    "totalFeedback": 4.941256767,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.94 Stars, based on 12 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022101\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": true,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709195206000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-29T08:26:46\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782389288960",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure SQL Database"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914246",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668419",
+      "prefLabel": "IT \u0026 Networking"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057033",
+        "prefLabel": "Database Management \u0026 Administration"
+      }
+    ],
+    "oservice": {
+      "uid": "1017484851352699011",
+      "prefLabel": "Database Administration"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$99.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 40,
+    "max": 99
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

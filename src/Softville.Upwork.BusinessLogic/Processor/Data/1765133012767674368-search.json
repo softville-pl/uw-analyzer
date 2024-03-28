@@ -1,0 +1,179 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E developer backend api development",
+  "createdOn": "2024-03-05T21:51:19\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01a72042d1476cf2e2",
+  "description": "We are looking for a Senior \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Backend Developer to test and help in developing  a \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E CORE API that integrates with a filing API. The API will handle the filing of eviction cases, document uploads, fee submissions, and notifications from the E-Filing Manager (EFM). The project includes database integration with MS SQL Server for retrieving case data in XML format. The developer will be responsible for writing relevant code for the API is secure, performant, scalable, and follows best practices for error handling, logging, and documentation.\n\nHow fast you need it delivered:\nThe project timeline is aggressive, and we need the API to be developed within 1 week. We already have an implementation with required libraries and development environment ready with a v0 version of the API code in a github repo. \nThe developer will be added to the repo and be given the dev environment or any tools required including AI tools. \nThey should be able to work efficiently and meet the deadlines for each task outlined in the project timeline.\n\nThe developer will work independently on the development of the API but will collaborate closely with our team to gather requirements, provide progress updates, and address any issues or concerns. Regular communication and coordination with the team are essential for the success of the project.\n\nIf there\u0027s potential for more work:\nDepending on the success of this project and the quality of work delivered, there may be potential for ongoing maintenance, enhancements, and additional features for the Eviction Case Filing API. We are looking to establish a long-term partnership with a skilled developer who can contribute to the growth and improvement of our API.\n\nWhat you don\u0027t understand about the job and how they can help:\nIf there are any aspects of the project requirements or specifications that are unclear or need further clarification, please feel free to ask questions. We value open communication and want to ensure that the developer has a clear understanding of the project scope and expectations. If you have any suggestions or recommendations based on your expertise and experience, we welcome your input to help improve the API development process.\n\nRequired experience:\n- 5\u002B years of experience in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E backend development.\n- Strong proficiency in C#, \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core, and Web API development.\n- Expertise in designing and developing RESTful APIs.\n- Experience with SOAP-based web services and XML data handling.\n- Familiarity with Azure API Management service.\n- Knowledge of database integration, particularly with MS SQL Server.\n- Understanding of security best practices, including HTTPS, TLS, and certificate-based authentication.\n- Experience with implementing Swagger UI for API documentation.\n- Proficient in writing unit tests and ensuring code quality.\n\nHelpful links and references to explain the desired style:\n- [\u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core Web API documentation](https://docs.microsoft.com/en-us/aspnet/core/web-api/)\n- [Azure API Management documentation](https://docs.microsoft.com/en-us/azure/api-management/)\n- [Swagger UI documentation](https://swagger.io/docs/open-source-tools/swagger-ui/usage/installation/)\n- [Best practices for \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/advanced/best-practices)\n- [Serilog logging library](https://serilog.\u003Cspan class=\u0022highlight\u0022\u003Enet\u003C/span\u003E/)\n- [SoapCore library for SOAP support in \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core](https://github.com/DigDes/SoapCore)\n\nWe highly value the effort and consideration that freelancers put into their proposals. We have provided detailed information about the project requirements, timeline, and expectations to help you understand the scope of the work. If you have any questions or need further clarification, please don\u0027t hesitate to reach out. We are excited to review your proposal and potentially work with you on this project.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011783631,
+  "uid": "1765133012767674368",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "India"
+    },
+    "totalSpent": 78.75,
+    "totalReviews": 1,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 1 feedback",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002285\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709675480000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-05T21:51:20\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914246",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628000108546",
+      "highlighted": false,
+      "prettyName": "PostgreSQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482566246400",
+      "highlighted": false,
+      "prettyName": "API Integration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626781382656000",
+      "highlighted": false,
+      "prettyName": "Software Architecture \u0026 Design"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626714051493888",
+      "highlighted": false,
+      "prettyName": "API Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580682663907328",
+      "highlighted": false,
+      "prettyName": "RESTful API"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$16.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 16,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

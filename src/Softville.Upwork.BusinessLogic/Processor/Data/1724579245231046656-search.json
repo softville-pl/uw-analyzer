@@ -1,0 +1,131 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E developer with specific experience with EDI",
+  "createdOn": "2023-11-15T00:05:08\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01fc1579bafdfcbf69",
+  "description": "I\u0027m looking to work with an experience \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E developer to help build an integration with an EDI provider\n\nThe provider we will be using is OpenText\nhttps://www.opentext.com/products/b2b-edi-integration\nwho have a very specific file format\n\nExperience with EDI is essential.\n\nWe will essentially need to consume these files, map to our domain objects, and call internal APIs to our despatch system.\nI can help with our despatch system, and integrating with that, but it\u0027s the EDI part we will specifically need help with.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1009519534,
+  "uid": "1724579245231046656",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United Kingdom"
+    },
+    "totalSpent": 155834.05,
+    "totalReviews": 155,
+    "totalFeedback": 4.654202061,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.65 Stars, based on 155 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022132\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1700006708000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2023-11-15T00:05:08\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876970299899904",
+      "highlighted": false,
+      "prettyName": "EDIFACT"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626733966049280",
+      "highlighted": false,
+      "prettyName": "Electronic Data Interchange"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$55.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 55
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Technical Manager",
+  "createdOn": "2024-03-01T23:32:29\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01432cb0665b54250b",
+  "description": "We\u0027re looking for an experienced technical professional that is well versed in the Microsoft technology stack, to take on a key role within our team. This role has the potential for both customer-facing engagements as well as internal projects. Qualified candidates will have experience in at least some of the following areas:\n\n*Microsoft SQL\n*.\u003Cspan class=\u0022highlight\u0022\u003ENET\u003C/span\u003E Development\n*Technical Project Management/Product Ownership\n*Microsoft Dynamics\n*Management of technical teams\n\nWe\u0027re looking for a self-driven, professional, and service-oriented individual (no agencies or companies please).",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011697520,
+  "uid": "1763708918149644288",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 70623.59,
+    "totalReviews": 68,
+    "totalFeedback": 4.858944419,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.86 Stars, based on 68 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002295\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "5 to 10",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709335949000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-01T23:32:29\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782364123136",
+      "highlighted": false,
+      "prettyName": "SQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580710090461184",
+      "highlighted": false,
+      "prettyName": "Technical Project Management"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668419",
+      "prefLabel": "IT \u0026 Networking"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057037",
+        "prefLabel": "DevOps \u0026 Solution Architecture"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580765614657536",
+      "prefLabel": "Solution Architecture"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$88.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 40,
+    "max": 88
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

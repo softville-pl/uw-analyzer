@@ -1,0 +1,115 @@
+{
+  "title": "Sale Invoice Import Adapter in .cs",
+  "createdOn": "2024-02-22T13:15:24\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01814c912ac847d366",
+  "description": "We are seeking a skilled developer to create a sale/purchase invoice import adapter in .cs. The adapter will be responsible for importing xml files and synchronizing them with our system. The main objective of this project is to automate the process of invoice import and eliminate manual data entry. \n\nSkills required:\n- .cs development\n- XML, CSV and JSON parsing\n- Database integration\n\nThere is already an import adapter created id .dll format, we have an original purchase invoice .cs file, but we need to make adjustments to it to be fit for wider range of import possibilities or make additional separate adapter (-s).\n\nThe size of this project is small/medium, as it requires up to a few days to complete. Want this job to be done within a month. \nIn the future if all goes well, we would have more such type of tasks.\n\nWe are looking for an intermediate-level developer who has experience in .cs development and is familiar with CSV, XML, JSON parsing.\n\nThe accounting software has been created in \u003Cspan class=\u0022highlight\u0022\u003EVB.NET\u003C/span\u003E older language.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "not_sure",
+  "shortEngagement": "not_sure",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011506362,
+  "uid": "1760654523200307200",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Lithuania"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022113\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1708610087000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-22T13:54:47\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580669632204800",
+      "highlighted": false,
+      "prettyName": "Purchase Orders"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282584862721",
+      "prefLabel": "Accounting \u0026 Consulting"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282601639943",
+        "prefLabel": "Accounting \u0026 Bookkeeping"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748954882048",
+      "prefLabel": "Bookkeeping"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 40,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

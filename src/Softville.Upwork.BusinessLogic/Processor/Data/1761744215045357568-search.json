@@ -1,0 +1,150 @@
+{
+  "title": "Front End Developer (\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Razor) with great CSS skills",
+  "createdOn": "2024-02-25T13:25:27\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01e1f16a7d5b605214",
+  "description": "Looking for an experienced front end developer to implement a number of Figma designs as well as for general CSS work.\n\nWebsite is targeting an RTL language exclusively so experience with RTL is a must. \n\nWork involves taking existing functional web pages and either implementing Figma designs or just improving on the current CSS and design. \n\nThe website is running on \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core and the web pages are razor (cshtml) pages  experience in this environment as well as using Kendo UI (Telerik) components is required.\n\nOngoing Tasks will be discussed and reviewed in joint session using screen share and chat.\n\nKindly respect regional preferences.\n\nIndependent freelancers only.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011563048,
+  "uid": "1761744215045357568",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 162345.17,
+    "totalReviews": 96,
+    "totalFeedback": 4.629045545,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.63 Stars, based on 96 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022108\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709040362000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "United States",
+    "Israel"
+  ],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-02-25T13:25:27\u002B00:00",
+  "renewedOn": "2024-02-27T13:26:02\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716534521856",
+      "highlighted": true,
+      "prettyName": "ASP.NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626740031012864",
+      "highlighted": false,
+      "prettyName": "Front-End Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691475",
+      "highlighted": false,
+      "prettyName": "Kendo UI"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626745118703616",
+      "highlighted": false,
+      "prettyName": "HTML5"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626728794472448",
+      "highlighted": false,
+      "prettyName": "CSS"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1052162208781094930",
+      "highlighted": false,
+      "prettyName": "Figma"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755057594368",
+      "prefLabel": "Front-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 20,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

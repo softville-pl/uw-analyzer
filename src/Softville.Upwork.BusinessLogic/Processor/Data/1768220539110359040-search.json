@@ -1,0 +1,171 @@
+{
+  "title": "Outlook Plugin development exe",
+  "createdOn": "2024-03-14T10:20:03\u002B00:00",
+  "type": 2,
+  "ciphertext": "~010a1bcaaa77650b4b",
+  "description": "Objective\nPrevent users to open all attachments and hyperlinks in the email body from MS-Outlook received from unwanted senders who is not in the specified Whitelist (containing domains) or is in the mentioned Blacklist (containing emails).\nWhitelist: Contains all allowed domains that are allowed\nBlacklist: Contains all emails (within the Whitelist) that should be blocked.\nRequirements\nPlug-in should be Microsoft Office 365 compatible.\nMS-Access Database to be used instead of SQL Server. Two separate tables \u2013 one table for Whitelist Domains and another table for Blacklist Emails.\nThe plug-in should function as desired without internet connection.\nA \u201CRefresh\u201D option required to refresh the local cache from the database.\nNetwork database path can be changed dynamically. No further installations be required in case of change in path.\nThe Plug-in must not hamper the normal operational efficiency of MS-Outlook.\nThe plug-in must not conflict with any other Endpoint solutions like \u2013 Symantc, TrendMicro, Sentinel, etc.\nPlatform\nLanguage : C#\nDatabase : MS-Access\nNote : Any third party components cannot be used other than Microsoft.\nOperation\nThe plugin fetches the Whitelist and Blacklist while Outlook is launched. The list is stored in local cache. If database cannot be reached, an alert should be raised to the user and plug-in should continue to function normally with the last known Domain Whitelist and Email Blacklist.\nIf database is reachable, the local cache list will be auto-refreshed hourly.\nWhen user clicks any received email, the plug-in should raise an alert if the sender of the mail does not belong to the Whitelist or belong to the Blacklist.\nNo action to be taken if the sender of the email is validated.\nIf the sender is not in the Whitelist or in the Blacklist, then the user cannot open any attached document and hyperlink in that particular email. \n",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011979744,
+  "uid": "1768220539110359040",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United Kingdom"
+    },
+    "totalSpent": 3918.19,
+    "totalReviews": 20,
+    "totalFeedback": 4.941221216,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.94 Stars, based on 20 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002260\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710411603000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-14T10:20:03\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626758217515008",
+      "highlighted": false,
+      "prettyName": "Microsoft Access"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759010238464",
+      "highlighted": false,
+      "prettyName": "Microsoft Outlook Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580484306882560",
+      "highlighted": false,
+      "prettyName": "Application Installer"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759408697344",
+      "highlighted": false,
+      "prettyName": "Visual Basic"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580702553296896",
+      "highlighted": false,
+      "prettyName": "Standalone Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580484373991424",
+      "highlighted": false,
+      "prettyName": "Application Integration"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$10.00-$60.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 10,
+    "max": 60
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

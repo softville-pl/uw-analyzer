@@ -1,0 +1,123 @@
+{
+  "title": "Visual C\u002B\u002B Developer for a small project",
+  "createdOn": "2024-03-01T10:47:09\u002B00:00",
+  "type": 2,
+  "ciphertext": "~014f95777af101fb7c",
+  "description": "We\u0027ve a working Visual C\u002B\u002B software. We need to create a \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Wrapper around it. All the data types have already been mapped. We need someone with experience who understand how C\u002B\u002B works and how we export functionality from C\u002B\u002B to \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E. \nThe work will be done remotely on a RDP environment, so a very good internet connection is required.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011682872,
+  "uid": "1763516314619170816",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Sweden"
+    },
+    "totalSpent": 39474.93,
+    "totalReviews": 11,
+    "totalFeedback": 4.999318099,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 11 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002296\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709290029000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-01T10:47:09\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759492583424",
+      "highlighted": false,
+      "prettyName": "Microsoft Visual C\u002B\u002B"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274378",
+      "highlighted": false,
+      "prettyName": "Microsoft Windows"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759559692288",
+      "highlighted": false,
+      "prettyName": "Microsoft Visual Studio"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$16.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 16,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

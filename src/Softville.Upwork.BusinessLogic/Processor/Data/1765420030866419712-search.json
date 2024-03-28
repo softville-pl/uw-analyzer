@@ -1,0 +1,146 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E / Azure Software Engineer needed for long term part time work",
+  "createdOn": "2024-03-06T16:51:50\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01fc4b2b90e0b97da0",
+  "description": "We need a capable software engineer, experienced in C#, \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, Azure and Azure DevOps, and located in a compatible timezone to the US (Mexico / LatAm preferred).\n\nIdeal candidates will have a lot of experience in enterprise software development, including unit and end-to-end testing, automated pipelines etc. If you have an understanding of Pulumi, that\u0027s an advantage.\n\nWe\u0027re a team of 15 developers and managers, working with a couple of enterprise clients and your presence will assist us in growing! We\u0027ve been working together for years now and are a very tight-knit team.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011803132,
+  "uid": "1765420030866419712",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 500450.44,
+    "totalReviews": 40,
+    "totalFeedback": 4.979692848,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.98 Stars, based on 40 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002283\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709743910000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Argentina",
+    "Chile",
+    "Mexico",
+    "United States",
+    "Costa Rica",
+    "Peru"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-06T16:51:50\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716534521856",
+      "highlighted": true,
+      "prettyName": "ASP.NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1204836445183918080",
+      "highlighted": false,
+      "prettyName": "Azure DevOps"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

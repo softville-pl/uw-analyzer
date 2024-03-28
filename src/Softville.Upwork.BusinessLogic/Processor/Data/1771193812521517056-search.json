@@ -1,0 +1,147 @@
+{
+  "title": "Middleware Admin - EU Candidates ONLY with fluent German",
+  "createdOn": "2024-03-22T15:14:46\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0196f2b5c904201ac3",
+  "description": "Middleware Admin\nLocation: ONLY candidates based in the EU\nType: Remote | Full-time\nDuration: 24 months\n\nLanguage Requirements:\nVery good command of both English and German languages.\n\nResponsibilities:\nProvide technical support for operating web-based information management and collaboration platforms \u2013 particularly Doxis (SER).\nResponsible for technical analysis, specification, documentation, installation, maintenance, and troubleshooting of web application middleware (Microsoft IIS, \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, Microsoft SharePoint Server, Apache HTTP Server, Apache Tomcat) and web applications.\nCoordinate and configure IT infrastructure services required to provide comprehensive platform services for web applications within the company.\nInteract with colleagues from other IT departments to solve cross-functional and cross-project issues.\nCoordinate and implement changes to web application middleware and web applications according to defined processes.\nIncident and problem management and fulfilling requests within Second/Third-Level support.\nProactively identify areas where system or process improvements can enhance efficiency and customer satisfaction.\n\nRequirements:\nCompleted relevant vocational training and professional experience or Bachelor degree in Computer Science (or equivalent).\nSpecialized technical knowledge in web application technology and web server environments, especially Java platforms (JEE), such as Apache Tomcat, etc., as well as Microsoft SharePoint, Microsoft.\u003Cspan class=\u0022highlight\u0022\u003ENET\u003C/span\u003E platform, and Microsoft Internet Information Services.\nKnowledge in operating web-based information management and collaboration platforms.\nTechnical understanding and knowledge in operating Windows (and Linux), Azure Cloud, and Docker / Kubernetes.\nKnowledge and experience with scripting languages (e.g., Windows PowerShell...).\nTechnical understanding and basic knowledge of relational databases.\nVery good command of both English and German languages.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012168238,
+  "uid": "1771193812521517056",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Bulgaria"
+    },
+    "totalSpent": 3984.37,
+    "totalReviews": 25,
+    "totalFeedback": 4.532422344,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.53 Stars, based on 25 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002235\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "5 to 10",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711120487000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-22T15:14:47\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759643578368",
+      "highlighted": false,
+      "prettyName": "Microsoft Windows PowerShell"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626754568470528",
+      "highlighted": false,
+      "prettyName": "Linux"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626713875333120",
+      "highlighted": false,
+      "prettyName": "Apache Tomcat"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759157039104",
+      "highlighted": false,
+      "prettyName": "Microsoft SharePoint Administration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732393185280",
+      "highlighted": false,
+      "prettyName": "Docker"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626753024966656",
+      "highlighted": false,
+      "prettyName": "Kubernetes"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668419",
+      "prefLabel": "IT \u0026 Networking"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057035",
+        "prefLabel": "Network \u0026 System Administration"
+      }
+    ],
+    "oservice": {
+      "uid": "1017484851352698927",
+      "prefLabel": "Systems Administration"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$70.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 70
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 15
+}

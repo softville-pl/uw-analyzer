@@ -1,0 +1,163 @@
+{
+  "title": "Full-stack Web Developer with experience in Vue.JS 3.0 and Postgres",
+  "createdOn": "2024-03-12T02:49:32\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0112581b5d9a3d8289",
+  "description": "We are seeking a highly skilled and experienced Web App Developer to join our dynamic team. As a Web App Developer, you will be responsible for designing, developing, and maintaining web applications that meet our company\u0027s needs and exceed our users\u0027 expectations. You will play a crucial role in the entire app lifecycle, from concept stage until delivery and post-launch support. Our ideal candidate is someone who is passionate about building efficient, scalable web applications and is always eager to learn and apply new technologies.\nResponsibilities\nDesign and develop high-quality web applications using VueJS 3.0, Node.js, \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E (transitioning to Node.js), and Django (transitioning to Node.js).\nWork with databases, primarily Postgres, and ensure data integrity and performance.\nUtilize GraphQL for data querying and manipulation.\nWork with a DevOps engineer to maintain CI/CD pipelines using GitHub and GitHub Actions to automate testing and deployment processes.\nCollaborate with the team to integrate front-end and back-end aspects of the web applications.\nEnsure applications are secure, scalable, and responsive across different devices and browsers.\nParticipate in code reviews to maintain high code quality and encourage knowledge sharing.\nStay up-to-date with emerging trends and technologies in web development and suggest improvements to our tech stack and development processes.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011923610,
+  "uid": "1767382385648050176",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "India"
+    },
+    "totalSpent": 1667.78,
+    "totalReviews": 1,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 1 feedback",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002268\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710211772000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-12T02:49:32\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626741293498368",
+      "highlighted": false,
+      "prettyName": "Git"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626743004774400",
+      "highlighted": false,
+      "prettyName": "GraphQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580737240190976",
+      "highlighted": false,
+      "prettyName": "Web Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762785112064",
+      "highlighted": false,
+      "prettyName": "NGINX"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626794477273088",
+      "highlighted": false,
+      "prettyName": "Vue.js"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628000108546",
+      "highlighted": false,
+      "prettyName": "PostgreSQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762999021568",
+      "highlighted": false,
+      "prettyName": "Node.js"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

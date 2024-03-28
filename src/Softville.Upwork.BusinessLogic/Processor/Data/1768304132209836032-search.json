@@ -1,0 +1,179 @@
+{
+  "title": "Software Engineering Partnership",
+  "createdOn": "2024-03-14T15:52:13\u002B00:00",
+  "type": 2,
+  "ciphertext": "~010d00edddf769e6cf",
+  "description": "We are looking for a software engineering partnership to collaborate on a great opportunity together.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011985754,
+  "uid": "1768304132209836032",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002259\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710433731000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-14T16:28:51\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762999021568",
+      "highlighted": false,
+      "prettyName": "Node.js"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274386",
+      "highlighted": false,
+      "prettyName": "Python"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732309299200",
+      "highlighted": false,
+      "prettyName": "Django"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691471",
+      "highlighted": false,
+      "prettyName": "Amazon Web Services"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626742031695872",
+      "highlighted": false,
+      "prettyName": "Google Cloud Platform"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626773660942336",
+      "highlighted": false,
+      "prettyName": "React"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$50.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 50,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

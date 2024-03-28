@@ -1,0 +1,133 @@
+{
+  "title": "MongoDB Build, Webcrawlers, PDF OCR, and LLMs",
+  "createdOn": "2024-03-19T02:03:30\u002B00:00",
+  "type": 2,
+  "ciphertext": "~019f9679143f74c56e",
+  "description": "**I\u0027m looking for someone highly experienced with MondoDB, ROBUST web crawling applications, OCR technology, language learning models (AI?). Someone who can suggest certain technologies and architectures with efficiency and cost in mind. This is phase 1 of a potentially 10-15 phase project. The goal is to build Phase 1, and evaluate effectiveness and cost, and understand if continuing to additional phases is worth the cost.  I would prefer to pay per project, but willing to entertain an hourly cost. Hourly price will depend greatly on experience and resume!\n\n**PLEASE READ PROJECT VISION AND PHASE 1 ATTACHMENTS. WATCH VIDEO FOR MORE DETAIL.  \n\nVideo: https://www.dropbox.com/scl/fi/a5httd7bqa38xqs6b5xyi/Data-Project.mp4?rlkey=c69lge1x13l7uz1tgbb2gmum5\u0026amp;dl=0\n\nCompany Background:\nEquity Connect (HQ: Phoenix, AZ) is a real estate investment firm that has created a niche in distressed acquisitions through proprietary data harvesting and analysis, where they purchase directly from the homeowner, and without the use of real estate agents. \n\nProblem:\nEquity Connect currently uses stand alone and independent software\u2019s to extract data from many different sources. Data is warehoused independently and analyzed independently. They also use overseas assistants to manually read through PDF to harvest data that can later be used. The combination of these things creates a very inefficient, highly manual system, without the ability the re-use data because there is no centralized data warehouse.  \n\nSolution:\nCreate robust web crawlers for data extraction. Implement OCR/LLMs to scan and extract plain text from thousands of PDFs daily. Discard or warehouse the plain text that is extracted from PDFs using specific parameters. All extracted data (web crawled) is tied to a specific piece of real estate where the property locations are displayed in one of three ways 1) address, 2) parcel number, or 3) legal description. All results must be normalized into Address format. Student is allowed to hire subject matter experts for help, in addition to labor on repetitive tasks with approval of company. \n\nScope A \u0026amp; B: Build web crawler in MondoDB to Extract information via OCR\n\u2022\tBuild Web crawler to scrape \u201CMaricopa County Recorder\u201D https://recorder.maricopa.gov/recdocdata/ Document Codes to search and harvest:\n1.\tSubstitution of Trustee on Deed of Trust\n2.\tNotice of Trustee Sale\n3.\tLis Pendens\n\u2022\tEvery night, at midnight, initiate webcrawler application\n\u2022\tNeed ability to specify \u201CBegin Date\u201D \u0026amp; \u201CEnd Date\u201D\n\u2022\tNeed ability to specify \u201CDocument Code\u201D \n\u2022\tRate limits, shuffle IP\u2019s AWS hosted\n\u2022\t\u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E application / HTTP Requests\n\u2022\tEach record will have a corresponding PDF \u2013 We need to OCR to read this PDF, and based on the parameters provided (Use LLMs?), import data into Database\no\tEach Recording will have a different set of parameters than need to be harvested. \no\tEach Recording will have a different data sets than need to be imported into database. \nNote: The objective is to associate each of the #1-4 recordings above, with a property address. And there will be three ways a property is identified within each PDF:\no\tProperty Address\no\tAssessor Parcel Number (\u201CAPN\u201D)\no\tLegal Description\nNote: Inside the database will be a \u201CMaster List\u201D of all parcels within Maricopa County. Steps for obtaining a property address based on what is provided below. \no\tProperty Address \u2013 No Master Database Search. Verify Address via USPS Validation\no\tAssessor Parcel Number (\u201CAPN\u201D) \u2013 Search Master List by APN to obtain property address, then validate property address via USPS Validation\no\tLegal Description - Search Master List by Legal Description to obtain property address, then validate property address via USPS Validation\n\u2022\tWhen validating address via USPS validation \u2013 we need to specify which addresses are Vacant inside MongoDB",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012080880,
+  "uid": "1769907515395624960",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 70488.65,
+    "totalReviews": 72,
+    "totalFeedback": 4.993316789,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.99 Stars, based on 72 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002249\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710813810000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Canada"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-19T02:03:30\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914245",
+      "highlighted": false,
+      "prettyName": "MongoDB"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274386",
+      "highlighted": false,
+      "prettyName": "Python"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580541227782144",
+      "highlighted": false,
+      "prettyName": "Database"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626730405085184",
+      "highlighted": false,
+      "prettyName": "Data Scraping"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$75.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 75
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

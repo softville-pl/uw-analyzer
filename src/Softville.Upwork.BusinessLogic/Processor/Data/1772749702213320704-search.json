@@ -1,0 +1,139 @@
+{
+  "title": "I am looking for \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E Support which involves MicroServices, Cosmos, Web API",
+  "createdOn": "2024-03-26T22:17:19\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01a05575105d60f9ec",
+  "description": "I need a \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E Support freelancer to work on MicroServices, Cosmos, Web API \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E support project. The ideal candidate should have the following skills:\n\n- \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E\n- Microservices\n- Cosmos\n- Web API\nWe can discuss further when we connect.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012262481,
+  "uid": "1772749702213320704",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002214\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711491440000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-26T22:17:20\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$15.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 15,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

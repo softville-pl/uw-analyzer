@@ -1,0 +1,179 @@
+{
+  "title": "Front-End Nextjs - API - Ecommerce Marketplace for Platform",
+  "createdOn": "2024-03-26T05:38:51\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01cfe507822cdd11d4",
+  "description": "We are aiming to connect our platform to ecommerce marketplaces to connect our users online stores. ",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Hours to be determined",
+  "shortEngagement": "Hours to be determined",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012242312,
+  "uid": "1772498426833264640",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 105580.85,
+    "totalReviews": 14,
+    "totalFeedback": 3.579842638,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "3.58 Stars, based on 14 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002220\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711431531000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-26T05:38:51\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914242",
+      "highlighted": false,
+      "prettyName": "Azure Cosmos DB"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482566246400",
+      "highlighted": false,
+      "prettyName": "API Integration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626779570716672",
+      "highlighted": false,
+      "prettyName": "Shopify"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626797916602368",
+      "highlighted": false,
+      "prettyName": "Zen Cart"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626773660942336",
+      "highlighted": false,
+      "prettyName": "React"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762688643072",
+      "highlighted": false,
+      "prettyName": "Next.js"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1484275266592886784",
+      "highlighted": false,
+      "prettyName": "Ecommerce Order Fulfillment"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1484275082567798784",
+      "highlighted": false,
+      "prettyName": "Ecommerce Platform"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057026",
+        "prefLabel": "Ecommerce Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1017484851352698949",
+      "prefLabel": "Ecommerce Website Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$75.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 40,
+    "max": 75
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Full Stack Developer - Build the Backbone of a Fitness Revolution",
+  "createdOn": "2024-03-13T13:39:34\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01c8ecbfb6a9f0bf0f",
+  "description": "We\u0027re seeking a highly skilled Full Stack Developer to join our team and build the core functionalities that will power our client experience.\nThe Project:\nWe\u0027re moving away from clunky paper systems and embracing the future of fitness management. You\u0027ll be the architect, building a secure and scalable web application that handles everything from client accounts to fitness tracking.\nResponsibilities:\nFront-End Development:\nCollaborate with designers to translate UI mockups into a user-friendly and responsive web interface.\nImplement interactive features for client account management (signup, login, membership management).\nDevelop functionality for booking classes, viewing instructor details, and managing schedules.\nBack-End Development:\nDesign and build a secure and scalable back-end system using robust technologies (e.g., Node.js, Python, Django).\nImplement secure user authentication and authorization to manage client data.\nDevelop APIs to connect the web app with existing payment gateways and scheduling platforms (if applicable).\nIntegrate with fitness tracking devices or APIs (if applicable) to facilitate workout tracking.\nFull Stack Expertise:\nWrite clean, maintainable, and well-tested code to ensure application stability and performance.\nImplement unit and integration tests to guarantee code quality and functionality.\nStay up-to-date with the latest web development trends and technologies.\nWe\u0027re looking for a freelancer who:\nHas a minimum of 3 years experience as a Full Stack Developer.\nPossesses a strong understanding of both front-end and back-end development principles.\nIs proficient in modern frameworks and libraries (e.g., React, Angular, Node.js).\nThrives in a collaborative environment and enjoys working with passionate teams.\nCan manage their time effectively and meet deadlines.\nBonus points for:\nExperience with building secure and scalable web applications.\nFamiliarity with fitness or health-related APIs or data structures.\nA portfolio showcasing your full-stack development capabilities.\n\nReady to Code the Future of Fitness?\nIf you\u0027re a talented Full Stack Developer who loves a coding challenge and wants to make a real impact, we want to hear from you! Submit your Upwork profile link, portfolio (if applicable), and a cover letter explaining your experience and why you\u0027d be a perfect fit for this project. Let\u0027s build something revolutionary together!",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011958442,
+  "uid": "1767908360627175424",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 900,
+    "totalReviews": 3,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 3 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002265\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710337174000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-13T13:39:34\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762999021568",
+      "highlighted": false,
+      "prettyName": "Node.js"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691466",
+      "highlighted": false,
+      "prettyName": "React Native"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626728794472448",
+      "highlighted": false,
+      "prettyName": "CSS"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$50.00-$80.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 50,
+    "max": 80
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

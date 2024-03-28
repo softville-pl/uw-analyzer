@@ -1,0 +1,133 @@
+{
+  "title": "Senior Fullstack Engineer - \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E/C# and Angular",
+  "createdOn": "2024-03-15T04:37:59\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01cf91fa2d52fb825a",
+  "description": "We\u0027re looking for a highly skilled senior full-stack engineer (\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E/C# and Angular - bonus: Python) to join our small but mighty team. You will be responsible for developing our employer-facing web app and work alongside our existing engineering team and our founders.\n\n**Responsibilities**\n\n- Develop and maintain our web application and APIs, ensuring high performance and responsiveness\n- Manage and optimise container orchestration with Kubernetes (K8s) to streamline deployment and scaling of our applications\n- Create user-friendly, efficient, and visually appealing front-end interfaces\n- Implement best practices for code quality, security, and scalability\n- Continuously monitor and improve application performance and usability\n- Help foster a culture of technical excellence and collaborate with the team to improve software design\n\n# **Requirements**\n\n- Strong background in full-stack development, ideally in a startup\n- Deep customer empathy and passion for solving gnarly problems with tech\n- Strong proficiency in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E/C# and Angular (bonus: Python)\n- Expertise in AWS cloud services (EKS, S3, CloudWatch) and familiarity with cloud architecture best practices\n- Solid understanding and practical experience with Kubernetes for container orchestration\n- Excellent problem-solving abilities and a detail-oriented mindset\n- Strong English communication skills and ability to work collaboratively in a team environment\n- ***Bonus:*** Experience with LLMs (OpenAI, Claude) and vector databases",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011998734,
+  "uid": "1768496843567648768",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "Australia"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002256\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710477479000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Vietnam"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-15T04:37:59\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914247",
+      "highlighted": false,
+      "prettyName": "MySQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

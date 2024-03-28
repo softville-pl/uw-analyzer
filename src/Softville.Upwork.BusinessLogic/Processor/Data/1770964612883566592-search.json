@@ -1,0 +1,179 @@
+{
+  "title": "Develop a custom CRM for Real Estate website",
+  "createdOn": "2024-03-22T00:04:01\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0109d02533d72deafe",
+  "description": "Project involves the development and incorporation of a custom CRM into a real estate listing website where multiple users can track and manage visitor leads and then market their listings to those prospective buyer leads.  \n\nI would like to hire a developer that has prior experience in building a custom CRM preferably for the real estate industry.... So please list any relevant CRM projects that you or your company have completed. \n\nThe CRM should have basic marketing automation and the ability to initiate and track multiple forms of communication.  Any AI integration or functionality is a plus. ",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012155351,
+  "uid": "1770964612883566592",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 1007.75,
+    "totalReviews": 2,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 2 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002239\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711065841000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-22T00:04:01\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626712877088768",
+      "highlighted": false,
+      "prettyName": "AngularJS"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626720951123968",
+      "highlighted": false,
+      "prettyName": "Bootstrap"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580541408137216",
+      "highlighted": false,
+      "prettyName": "Database Architecture"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914247",
+      "highlighted": false,
+      "prettyName": "MySQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626725023793152",
+      "highlighted": false,
+      "prettyName": "Cloudflare"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626728555397120",
+      "highlighted": false,
+      "prettyName": "Customer Relationship Management"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$55.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 20,
+    "max": 55
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 18
+}

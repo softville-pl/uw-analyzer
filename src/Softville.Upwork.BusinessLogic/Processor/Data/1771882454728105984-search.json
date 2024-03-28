@@ -1,0 +1,131 @@
+{
+  "title": "Aiuto nell\u0027implementazione di un ERP sviluppato in C# \u0026amp; Angular",
+  "createdOn": "2024-03-24T12:51:12\u002B00:00",
+  "type": 2,
+  "ciphertext": "~018705941f4153e43a",
+  "description": "Buongiorno,\n\nscrivo questo post alla ricerca di un professionista abituato a lavorare su progetti terzi.\nDa 7 anni sviluppiamo un ERP custom e siamo leggermente bloccati sulla velocit\u00E0 di sviluppo a causa della dimensione del progetto.\nLa persona di riferimento \u00E8 tremendamente oberata e pu\u00F2 capitare che sia il filtro degli sviluppi.\nAbbiamo per\u00F2 conosciuto negli anni professionisti estremamente bravi ad entrare nelle logiche e ne stiamo cercando altri.\nOffriamo piccoli lavori per lavorare insieme e conoscersi con lo scopo di creare un rapporto full-time ( o in base alla disponibilit\u00E0 ). Apprezziamo un approccio imprenditoriale da parte del professionista con piccoli sacrifici nella parte iniziale per poi finalizzare un rapporto duraturo.\nLa necessit\u00E0 \u00E8 full time.\nImportante, non indispensabile, visto la complessit\u00E0 ( non \u00E8 la parola complessa, forse meglio usare articolato ) poter parlare in ITALIANO\ngrazie\nRoberto",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012203206,
+  "uid": "1771882454728105984",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Italy"
+    },
+    "totalSpent": 2130.15,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002229\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711284672000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-24T12:51:12\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$15.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 15,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 18
+}

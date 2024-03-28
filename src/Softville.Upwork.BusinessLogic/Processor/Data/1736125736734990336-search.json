@@ -1,0 +1,115 @@
+{
+  "title": "Build web platform in Blazor / MySql",
+  "createdOn": "2023-12-16T20:46:46\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01e44c08478b00f036",
+  "description": "We are currently seeking one or two senior developers with proven experience in Blazor, demonstrating a solid understanding and proficiency in utilizing the new features of Blazor \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8. Additionally, familiarity with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E MAUI is highly valued.\n\nOur goal is to completely rewrite our web platform (which is currently developed in Laravel).\n\nWe are looking for two key roles:\n\n- A high-level consultant capable of guiding us in the selection and optimization of the Blazor \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8 architecture specific to our case.\n- A developer capable of building the web platform from scratch using Blazor.\n\nThese two roles can be fulfilled by the same individual.\n\nThe work is fully remote, and we offer maximum flexibility regarding the number of weekly hours you can dedicate to the project.\n\nPlease note: kindly apply only if you can provide concrete evidence of your extensive experience in Blazor projects.\n\n\nThank you very much!",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1010142776,
+  "uid": "1736125736734990336",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United Kingdom"
+    },
+    "totalSpent": 180,
+    "totalReviews": 2,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 2 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 2,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022131\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1702759906000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2023-12-16T20:51:46\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876962720792576",
+      "highlighted": false,
+      "prettyName": "Blazor"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$45.00-$70.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 45,
+    "max": 70
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

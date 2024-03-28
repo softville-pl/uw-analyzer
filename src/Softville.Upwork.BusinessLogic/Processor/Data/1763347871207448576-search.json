@@ -1,0 +1,141 @@
+{
+  "title": "SQL Server Database Modernisation Specialist",
+  "createdOn": "2024-02-29T23:37:48\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01aa551bb358fcfe75",
+  "description": "As a Database Modernization Specialist, you will play a crucial role in optimizing our database infrastructure to support enhanced performance, scalability, and reliability. You will lead efforts to rewrite and optimize queries, redesign indexes, and implement a robust maintenance plan to ensure our databases meet the evolving needs of our applications and services. Your expertise will also guide the design and implementation of a change data capture regime to support real-time data processing and analytics.\n\nKey Responsibilities:\n\u2022\tManage a production high-volume SQL server in Azure.\n\u2022\tConduct thorough assessments of current database structures and queries to identify optimization opportunities.\n\u2022\tRewrite and optimize SQL queries and indexes to improve performance and efficiency.\n\u2022\tDesign and implement a regular maintenance plan for database health, including backups, integrity checks, and performance tuning.\n\u2022\tDevelop and integrate a change data capture (CDC) strategy to enable effective data synchronization and real-time analytics.\n\u2022\tRefactor tables and stored procedures to enhance scalability and maintainability.\n\u2022\tCollaborate with development teams to ensure seamless integration of database changes into application layers, leveraging Entity Framework (EF) where applicable.\n\u2022\tProvide guidance and best practices on database design and management to the development team.\n\u2022\tStay abreast of the latest trends and technologies in database management and optimization to drive continuous improvement.\n\u2022\tWrite Ad-Hoc Reports: Utilize advanced SQL skills to create ad-hoc reports that support business decisions, demonstrating flexibility and responsiveness to immediate data analysis needs.\n\nQualifications:\n\u2022\tProven experience in database optimization, including query rewriting, index tuning, and performance troubleshooting.\n\u2022\tStrong understanding of SQL Server or comparable database technologies.\n\u2022\tExperience with database design principles, including normalization, partitioning, and data warehousing concepts. Knowledge of data warehouse implementation and maintenance is crucial.\n\u2022\tFamiliarity with change data capture (CDC) techniques and tools.\n\u2022\tDesirable: Experience with Microsoft Fabric, showcasing an ability to work with cutting-edge data warehousing and analytics platforms.\n\u2022\tExperience with Entity Framework (EF) and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E development is highly desirable.\n\u2022\tStrong analytical and problem-solving skills, with a keen attention to detail.\n\u2022\tExcellent communication and collaboration skills, capable of working effectively in a team environment.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011673947,
+  "uid": "1763347871207448576",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "Australia"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002299\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709249869000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Australia"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-29T23:37:49\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782364123136",
+      "highlighted": false,
+      "prettyName": "SQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759224147968",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server Administration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914246",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914247",
+      "highlighted": false,
+      "prettyName": "MySQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759249313792",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server Programming"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668419",
+      "prefLabel": "IT \u0026 Networking"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057033",
+        "prefLabel": "Database Management \u0026 Administration"
+      }
+    ],
+    "oservice": {
+      "uid": "1017484851352699011",
+      "prefLabel": "Database Administration"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$50.00-$60.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 50,
+    "max": 60
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

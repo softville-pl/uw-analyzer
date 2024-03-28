@@ -1,0 +1,126 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core Developer",
+  "createdOn": "2024-02-15T19:52:07\u002B00:00",
+  "type": 2,
+  "ciphertext": "~014c45c5f5843533e1",
+  "description": "SermonSpark is AI software that we\u0027ve built for pastors to use when preparing and distributing their sermons. It is built in \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core.  We are now seeking a full stack \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core developer to help us add more features. You can view the software here: https://sermonspark.ai/",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011362779,
+  "uid": "1758217645348495360",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 3499675.95,
+    "totalReviews": 93,
+    "totalFeedback": 4.99180153,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.99 Stars, based on 93 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022120\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1708026762000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Canada",
+    "United States"
+  ],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-02-15T19:52:09\u002B00:00",
+  "renewedOn": "2024-02-15T19:52:42\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716534521856",
+      "highlighted": true,
+      "prettyName": "ASP.NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1691099314241679360",
+      "highlighted": false,
+      "prettyName": "AI App Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$50.00-$65.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 50,
+    "max": 65
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

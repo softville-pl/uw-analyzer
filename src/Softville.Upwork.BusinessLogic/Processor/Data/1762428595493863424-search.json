@@ -1,0 +1,139 @@
+{
+  "title": "Package a WPF application using WiX Toolset",
+  "createdOn": "2024-02-27T10:44:56\u002B00:00",
+  "type": 2,
+  "ciphertext": "~018aa19bbd300ba455",
+  "description": "We cant to create an installer for our WPF/Avalonia application.\nIt should install \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E core and SQL Server express instance silently and configure connection to it.\n\nThe application is already existing and working but it\u0027s under development.\n\nThe result should be an Exe and Msi installer with all dlls and tools that the application need to execute on the client machine.\n\nWe\u0027d like also to make an option for SQL Server express instance, and give the choice to the user to install it or no.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011605218,
+  "uid": "1762428595493863424",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "France"
+    },
+    "totalSpent": 2600,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022109\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709030697000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-27T10:44:57\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580484306882560",
+      "highlighted": false,
+      "prettyName": "Application Installer"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914246",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

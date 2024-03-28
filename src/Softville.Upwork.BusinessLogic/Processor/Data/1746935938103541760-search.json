@@ -1,0 +1,107 @@
+{
+  "title": "SaaS Data Enhancement",
+  "createdOn": "2024-01-15T16:42:39\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0111192789a6fe4ec3",
+  "description": "Hi! We run https://bulletbrief.com/, a tool that connects to your Google Cal and then is supposed to send background \u0026amp; info on the person you have meetings with.\n\nOur data is mediocre, even though we\u0027ve connected it with ProxyCurl (Nubela) \u002B GPT.\n\nLooking for an expert to come in an solve the problems to make the platform better.\n\nWhen applying, give us 2 specific things you\u0027d be implementing w/ timeline needed:\n\nBackend:\n    * Framework: \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8\n    * Database: MS SQL (using Entity Framework for database interaction)\n    * Logging: NLog\n    * Architecture: CQRS (Command Query Responsibility Segregation) using Mediatr\n\nFrontend:\n    * Framework: Angular 17\n    * UI Component Library: PrimeNG\n    * Forms Handling: Reactive Forms\n\nHosting:\n    * Cloud Service: AWS\n    * Virtualization: Hosting using a virtual machine\n\nExternal Services/Platforms:\n        * Connected Services:\n        * Loops\n        * ProxyCurl (Nubela)\n        * ChatGPT\n        * Google API (Authentication, People API, Calendar API)",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1010686026,
+  "uid": "1746935938103541760",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Estonia"
+    },
+    "totalSpent": 197388.82,
+    "totalReviews": 71,
+    "totalFeedback": 4.557050766,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.56 Stars, based on 71 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022130\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1705336959000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-01-15T16:42:39\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

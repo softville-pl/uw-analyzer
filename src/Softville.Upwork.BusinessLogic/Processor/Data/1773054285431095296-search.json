@@ -1,0 +1,179 @@
+{
+  "title": "Software Engineer",
+  "createdOn": "2024-03-27T18:27:38\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01028e025afbc3c203",
+  "description": "Responsibilities:\n\nDesign, develop, and maintain firmware and software components for HSMs, ensuring high performance, reliability, and security.\nImplement features related to Multisig and MPC to support advanced cryptographic operations.\nWrite efficient and maintainable code in languages such as C or Rust, optimizing performance and minimizing resource utilization.\nConduct code reviews and participate in software architecture discussions to ensure code quality and consistency.\nCollaborate with cross-functional teams to integrate cryptographic solutions into existing products or to develop new ones.\nCollaborate with other engineers to interface firmware and software with HSM hardware components.\nParticipate in datacenter visits to perform hands-on testing, troubleshooting, and validation of HSMs and hardware boards.\nCreate technical documentation, including design specifications, API documentation, and user guides.\nProvide technical support to customers, partners, and internal teams on HSM-related issues and integration challenges.\nQualifications:\n\nBachelor\u0027s or Master\u0027s degree in Computer Science, Cryptography, or a related field.\nAt least 5 years of experience working in firmware and software development for embedded systems, preferably in the field of hardware security modules (HSMs).\nStrong understanding of cryptographic algorithms and protocols such as RSA, ECC, AES, and SHA.\nExperience in designing and implementing cryptographic solutions for enterprise-level systems.\nStrong programming skills in one or more programming languages such as C, C\u002B\u002B, Rust, Java, or Python is a plus.\nAbility to work independently and collaboratively in a team environment.\nExperience with hardware/software integration, including interacting with hardware components and peripherals.\nExcellent problem-solving skills and attention to detail, with the ability to troubleshoot complex issues and debug software/hardware interactions.\nEffective communication skills, both verbal and written, with the ability to collaborate effectively with cross-functional teams.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012283322,
+  "uid": "1773054285431095296",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u00224\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711564058000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-27T18:27:38\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274386",
+      "highlighted": false,
+      "prettyName": "Python"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274381",
+      "highlighted": false,
+      "prettyName": "C\u002B\u002B"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274382",
+      "highlighted": false,
+      "prettyName": "Java"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626728794472448",
+      "highlighted": false,
+      "prettyName": "CSS"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$58.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 58
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

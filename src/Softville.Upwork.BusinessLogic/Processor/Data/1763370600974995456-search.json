@@ -1,0 +1,139 @@
+{
+  "title": "Senior \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Software Developer with Angular experience",
+  "createdOn": "2024-03-01T01:08:08\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01425900f8d06fd04f",
+  "description": "Hi, \n\nI need a Senior \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E Software Developer with Angular experience to join our cross-functional team to develop and scale HR, Tax, and compliance software platforms. This role offers a collaborative environment for growth, working with new technologies that directly impact customers.\n\nResponsibilities:\n- Maintain and enhance existing solutions for optimal performance and availability.\n- Design and deploy innovative, scalable solutions.\n- Collaborate with team members in an Agile (SCRUM) environment.\n\nRequirements:\n- Bachelor\u2019s in Computer Science or related field.\n- 4\u002B years in software development, with expertise in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E and C#.\n- Proficiency in Angular (v8\u002B), SQL Server, web services (SOAP, REST, JSON), HTML, CSS, and JavaScript.\n- Experience with API development and integrating third-party tools.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011675198,
+  "uid": "1763370600974995456",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 12788.53,
+    "totalReviews": 4,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 4 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002298\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709256793000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-01T01:33:13\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782364123136",
+      "highlighted": false,
+      "prettyName": "SQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

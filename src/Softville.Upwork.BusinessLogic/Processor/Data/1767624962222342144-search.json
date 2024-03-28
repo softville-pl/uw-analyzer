@@ -1,0 +1,131 @@
+{
+  "title": "C# Developer (WinForms / DevExpress)",
+  "createdOn": "2024-03-12T18:53:26\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01c0a402f9e3e28e9c",
+  "description": "Hello C# Gurus,\n\nWe are looking for a senior C# developer to help with our application development.\n\nAt the moment, we use WinForms with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E and the DevExpress library to build the UI.\n\nWe are looking for a candidate who have 1) Strong C# experience and 2) Strong understanding of the DevExpress library especially wizards, data grid, and the diagramming component with custom shapes.\n\nThe project is still in it is infancy so there is a lot of work to be done and a lot of decisions to be made so we are looking for someone with experience to help shape the product going forward.\n\nMore details will be shared in our initial call.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Hours to be determined",
+  "shortEngagement": "Hours to be determined",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011941357,
+  "uid": "1767624962222342144",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 38091.7,
+    "totalReviews": 12,
+    "totalFeedback": 4.975352401,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.98 Stars, based on 12 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002266\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710269607000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-12T18:53:27\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731478827008",
+      "highlighted": false,
+      "prettyName": "DevExpress"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

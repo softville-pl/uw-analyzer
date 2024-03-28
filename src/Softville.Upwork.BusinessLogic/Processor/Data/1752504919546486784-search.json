@@ -1,0 +1,170 @@
+{
+  "title": "GraphQL API integration with MYOB API",
+  "createdOn": "2024-01-31T01:31:47\u002B00:00",
+  "type": 2,
+  "ciphertext": "~010cd2a5e6b195f588",
+  "description": "We are a parts supply company implementing a new ERP and inventory management platform called Quantum Control (https://www.componentcontrol.com/platform/quantum-control-on-premises). \n\nQuantum Control has a GraphQL WebAPI that we need to use to interface with our accounting platform, MYOB (https://developer.myob.com/api/myob-business-api/api-overview/). \n\nWe\u0027re looking for someone with deep API development experience to assist us in creating the connection between Quantum Control and MYOB so that we can manage our business inside Quantum, but all of our accounting inside MYOB. \n\nNote that Quantum Control has an existing \u0026quot;bridge\u0026quot; between Quickbooks and Quantum, so we may be able to utilise that as the basis for creating this new \u0026quot;bridge\u0026quot;. \n\nExperiencing with basic accounting principles would be of assistance, however we will provide a full specification document showing how data recorded in Quantum should appear in MYOB. \n\nThis is an important project for our organisation and as such, you should expect proper project management, communication and assistance from our end. We will de everything we can to ensure that you have the information and support you need to complete the project successfully. \n\nAvailability during Australian business hours would be an advantage, however we appreciate that this may be a project that you are taking on as freelance work outside of your regular job and as such we will make ourselves available to assist you outside of our business hours if necessary. \n\nWe utilise the Atlassian suite for project management. \n\nA brief breakdown of the project timelines would run as follows: \n\n- By 12 Feb - selection of programmer\n- By 19 Feb - completion of initial discussions and review of API documentation\n- By 26 Feb - completion of Project Specification and commencement of API development work\n- By 25 March - bulk of API work compete and beginning of testing program\n- By 15 April - completion of testing and preparation of \u0026quot;go live\u0026quot;\n- By 1 June - \u0026quot;go live\u0026quot; and project completion",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011021203,
+  "uid": "1752504919546486784",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Australia"
+    },
+    "totalSpent": 7490.92,
+    "totalReviews": 43,
+    "totalFeedback": 4.836817702,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.84 Stars, based on 43 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022129\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1706664708000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Australia",
+    "New Zealand",
+    "United States",
+    "United Kingdom",
+    "Ukraine",
+    "Canada"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-01-31T01:31:48\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626714051493888",
+      "highlighted": false,
+      "prettyName": "API Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580682663907328",
+      "highlighted": false,
+      "prettyName": "RESTful API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626743004774400",
+      "highlighted": false,
+      "prettyName": "GraphQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876978222940160",
+      "highlighted": false,
+      "prettyName": "JSON API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482566246400",
+      "highlighted": false,
+      "prettyName": "API Integration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626714059882496",
+      "highlighted": false,
+      "prettyName": "API Documentation"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$50.00-$80.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 50,
+    "max": 80
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

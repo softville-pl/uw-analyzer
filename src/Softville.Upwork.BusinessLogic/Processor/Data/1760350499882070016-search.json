@@ -1,0 +1,131 @@
+{
+  "title": "C# \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, WPF desktop application",
+  "createdOn": "2024-02-21T17:07:19\u002B00:00",
+  "type": 2,
+  "ciphertext": "~013551b28dfb4c22ee",
+  "description": "As a C# \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E WPF developer, we are expecting a combination of technical skills, experience, and knowledge to develop our applications. Here\u0027s a list of requirements typically expected of our developer:\n\nProficiency in C#: Strong understanding and experience with the C# programming language, including its features, syntax, and best practices.\n\nExperience with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework or \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core: Knowledge of the \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E framework or \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core, including familiarity with common libraries, frameworks, and tools provided by Microsoft.\n\nWPF Fundamentals: Deep understanding of Windows Presentation Foundation (WPF) concepts, including XAML (eXtensible Application Markup Language), data binding, styles, templates, resources, and controls.\n\nMVVM (Model-View-ViewModel) Architecture: Proficiency in implementing the MVVM design pattern for separating concerns in WPF applications, including the use of data binding and commands to achieve loose coupling between components.\n\nUI/UX Design Principles: Understanding of user interface (UI) and user experience (UX) design principles, including layout design, usability, accessibility, and responsiveness.\n\nXAML Markup Language: Strong knowledge of XAML markup language for defining user interfaces and layouts in WPF applications.\n\nData Binding: Experience with data binding techniques to connect UI elements to data sources, including binding to objects, collections, and dependency properties.\n\nAsynchronous Programming: Proficiency in asynchronous programming techniques using async/await keywords to handle long-running operations without blocking the UI thread.\n\nDebugging and Testing: Ability to debug and test WPF applications effectively using Visual Studio or other debugging tools, including unit testing frameworks such as NUnit or MSTest.\n\nProblem-Solving Skills: Strong problem-solving skills to troubleshoot issues, optimize application performance, and implement efficient solutions.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011487625,
+  "uid": "1760350499882070016",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "India"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022115\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1708542101000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-21T19:01:41\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795949473792",
+      "highlighted": false,
+      "prettyName": "Windows App Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Full Stack Application Developer",
+  "createdOn": "2024-03-04T23:53:30\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01908e95a7097d3f56",
+  "description": "We have developed a Fintech Application Platform for Asset Based Loans. Looking for a Full Stack developer with experience and knowldge using the MS Azure development platform and coding with languages in \u003Cspan class=\u0022highlight\u0022\u003EASP.Net\u003C/span\u003E/Reactjs and more. \n\nThe successful candidtae we are looking for needs to have some very good experience creating/managing financial applications, creating/managing database containers,  knowldge of how calculations work. UX/UI interface for web development and creating/managing modern user interfaces for public use.Plus capabilities to troubleshoot all bugs and issues.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "not_sure",
+  "shortEngagement": "not_sure",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011759151,
+  "uid": "1764801372847058944",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "Canada"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002287\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709596411000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Canada"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-04T23:53:31\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580737240190976",
+      "highlighted": false,
+      "prettyName": "Web Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626773660942336",
+      "highlighted": false,
+      "prettyName": "React"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626729578807296",
+      "highlighted": false,
+      "prettyName": "Database Design"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580726997700608",
+      "highlighted": false,
+      "prettyName": "UX \u0026 UI"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

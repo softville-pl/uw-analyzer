@@ -1,0 +1,139 @@
+{
+  "title": "C\u002B\u002B Developer",
+  "createdOn": "2024-03-22T10:27:02\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01a22cbf168756f7fe",
+  "description": "I am looking for a skilled C\u002B\u002B developer to join my team and contribute to the development of various software applications. The ideal candidate should have a strong understanding of the C\u002B\u002B programming language and be able to work independently or collaboratively. This role requires a good grasp of object-oriented programming and the ability to write clean, efficient, and well-documented code. The successful candidate will be responsible for designing and implementing various software components, testing and debugging code, and ensuring the quality of the software products. Additionally, the developer should be able to communicate effectively with the team and provide timely updates on their progress.\n\nRelevant skills:\n- C\u002B\u002B programming\n- Object-oriented programming\n- Code writing and testing\n- Debugging and troubleshooting\n- Communication skills",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012163024,
+  "uid": "1771121400530489344",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "South Africa"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002237\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711103223000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-22T10:27:03\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274381",
+      "highlighted": false,
+      "prettyName": "C\u002B\u002B"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274379",
+      "highlighted": false,
+      "prettyName": "C"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 20,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 10
+}

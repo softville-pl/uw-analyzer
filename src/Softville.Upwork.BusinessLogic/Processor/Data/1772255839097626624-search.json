@@ -1,0 +1,179 @@
+{
+  "title": "Software Engineer - Windows Desktop apllications",
+  "createdOn": "2024-03-25T13:34:54\u002B00:00",
+  "type": 2,
+  "ciphertext": "~011e04f65758e01803",
+  "description": "DESIRED SKILLS AND EXPERIENCE\n\nHands on experience in C\u002B\u002B, Object-Oriented Programming, C# WinForms, SQL Server, Mongo DB, Entity Framework, LINQ, MVC \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E, ADO \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, Java Scripts, HTML, Style Sheets (CSS)\nGood Understanding of and implementation of Algorithms (Stack, Queue, LinkedList, Tress and, BFS/DFS etc.), Design Patterns, STL and Multi-Threading\nKnowledge on OPC-DA and UA (Server \u0026amp; Client), COM-DCOM, and SVN \u0026amp; Bitbucket version control\nInstallation/deployment/configuration of software services on client machines\n\nEDUCATION\n\nB.E/B.Tech or M.Tech in Computer Science or Information Science \u0026amp; Technology from a reputed university\n\nRESPOSIBILITIES\n\nParticipate in bug investigations and root cause analysis\nImproving system quality by identifying issues and common patterns, and developing standard operating procedures\nMaintaining and improving existing codebases and peer review code changes\nProficiency in own competence area by performing a variety of technology/engineering assignments, which demonstrates the independent ability to recognize problems and provide input to solution.\nContribute to R\u0026amp;D projects with creative ideas. Propose follow-up projects and activities within own technical area based on new ideas",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012224525,
+  "uid": "1772255839097626624",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "India"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002225\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "5 to 10",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711374769000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-25T13:52:49\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580702553296896",
+      "highlighted": false,
+      "prettyName": "Standalone Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1225465929703591936",
+      "highlighted": false,
+      "prettyName": "Application Improvement"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626729578807296",
+      "highlighted": false,
+      "prettyName": "Database Design"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274378",
+      "highlighted": false,
+      "prettyName": "Microsoft Windows"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914240",
+      "highlighted": false,
+      "prettyName": "Objective-C"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759559692288",
+      "highlighted": false,
+      "prettyName": "Microsoft Visual Studio"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626741293498368",
+      "highlighted": false,
+      "prettyName": "Git"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$10.00-$55.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 10,
+    "max": 55
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 14
+}

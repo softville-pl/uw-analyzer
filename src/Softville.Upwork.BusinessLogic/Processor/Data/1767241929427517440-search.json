@@ -1,0 +1,163 @@
+{
+  "title": "Lead Sitecore Developer",
+  "createdOn": "2024-03-11T17:31:24\u002B00:00",
+  "type": 2,
+  "ciphertext": "~018bed3ffe245b875f",
+  "description": "Job Description-\n\n\u00B7  7\u002B years of overall development experience with C#, \u003Cspan class=\u0022highlight\u0022\u003EASP.net\u003C/span\u003E and web development.\n\n\u00B7 5\u002B years of experience in Sitecore coding (including version 8.2 or 9\u002B)\n\n\u00B7 Knowledge of Sitecore Forms, SXA/Helix/Habitat, xDB and TDS/Unicorn\n\u00B7 Experience of Solr search including customizing and deploying Solr Cloud\n\u00B7 Some NoSQL experience with Sitecore \u2013 MongoDB, Redis\n\u00B7 Expert level experience in the following technologies: \u003Cspan class=\u0022highlight\u0022\u003EASP.Net\u003C/span\u003E MVC with Sitecore, RESTful services, Entity Framework, LINQ\n\u00B7 Experience with design patterns, Object-Oriented programming\n\u00B7 Proficient knowledge of code versioning tools such as Git, preference of using GitFlow mechanism.\n\u00B7 Strong knowledge of Continuous Integration concepts and experience using Bamboo/Jenkins\n\u00B7 Proficient soft-skills are essential day to day skills to help with client communication via email, conference calls, team chat etc.\n\u00B7 Knowledge, core understanding and experience of working in a team that made use of cloud networking including but not limited to network load balances, SSL, web apps, web servers, CDN\u2019s, Web Application Firewalls etc.\n\u00B7 Experience of deploying to Azure web apps or web servers.\n\u00B7 Ability to constantly learn and stay in touch with evolving standards and development technologies\n\u00B7 Open to learn and work on other CMS, e.g., Optimizely and Core \u003Cspan class=\u0022highlight\u0022\u003E.Net\u003C/span\u003E\n\u00B7 Open to work in Application Support and Maintenance\n\nNice to have-\n\n\u00B7 Experience in working with Optimizely CMS\n\u00B7 Sitecore Certification\n\u00B7 Knowledge of other Sitecore CMS competitors is useful (AEM, EPiServer, etc)",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011913637,
+  "uid": "1767241929427517440",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 879.65,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002270\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710178285000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-11T17:31:25\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716547104768",
+      "highlighted": true,
+      "prettyName": "ASP.NET MVC"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914245",
+      "highlighted": false,
+      "prettyName": "MongoDB"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626774218784768",
+      "highlighted": false,
+      "prettyName": "Redis"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626780229222400",
+      "highlighted": false,
+      "prettyName": "Sitecore"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626725212536832",
+      "highlighted": false,
+      "prettyName": "CMS Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$65.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 20,
+    "max": 65
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

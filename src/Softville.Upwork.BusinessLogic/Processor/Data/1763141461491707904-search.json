@@ -1,0 +1,139 @@
+{
+  "title": "Software developer to rewrite libraries from \u003Cspan class=\u0022highlight\u0022\u003EVB.net\u003C/span\u003E to \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E core",
+  "createdOn": "2024-02-29T09:57:36\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01f210ff6b1d711ad0",
+  "description": "We are seeking a skilled software developer who can rewrite our existing libraries from \u003Cspan class=\u0022highlight\u0022\u003EVB.net\u003C/span\u003E to \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core. The ideal candidate should have a strong background in C# and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core development, as well as experience in migrating existing applications to the \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core framework. The primary goal of this project is to optimize performance and ensure compatibility with modern \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core frameworks. The successful candidate will be responsible for analyzing the current codebase, identifying areas for improvement, and implementing necessary changes to convert the libraries to \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core. They will also be expected to provide thorough documentation and test cases to ensure the code\u0027s reliability and functionality. Required skills:\n- Proficiency in C# and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core\n- Experience in \u003Cspan class=\u0022highlight\u0022\u003EVB.net\u003C/span\u003E to \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core migration\n- Strong understanding of \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core frameworks\n- Analytical and problem-solving skills\n- Excellent written and verbal communication",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011657270,
+  "uid": "1763141461491707904",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "India"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022100\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709200657000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-29T09:57:37\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759408697344",
+      "highlighted": false,
+      "prettyName": "Visual Basic"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 20,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

@@ -1,0 +1,147 @@
+{
+  "title": "Java API Integrations engineer - Europe only",
+  "createdOn": "2024-02-05T15:43:12\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01dd670f20d7c1a9be",
+  "description": "You are an experienced Software Engineer who is passionate about engineering practices like Agile, CI / CD, test-driven development, OOP concepts and solid principles. A SaaS class-leader is looking for talented individuals to help integrate their platform into 3rd party vendors and data suppliers.\n\nYou should have solid experience as an engineer designing, developing and maintaining API driven solutions, and have a strong understanding of how a microservice architecture works, as well as implementing and designing RESTful and SOAP APIs with data transformation.\n\nYou have strong communication skills, high integrity and great attention to detail who is happy working in a remote team, alone, or together in a group.\n\nYou will have the opportunity to learn and work primarily with the following technologies:\n\n\u25CF Java with Spring Boot\n\u25CF AWS Gateway Services, Lamba serverless, AWS Fargate\n\u25CF PostgreSQL\n\u25CF EKS, Kubernetes, Docker\n\u25CF JSON, VTL, XML\n\u25CF Fluency in English\nYou will also interact with the rest of our stack, which includes\n\u25CF C# with \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E and \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E core\n\u25CF MSSQL\n\u25CF Looker via Redshift\n\u25CF AWS PaaS offerings\n\u25CF Terraform\n\u25CF Datadog Monitoring and Observability",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011137211,
+  "uid": "1754531123472809984",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Switzerland"
+    },
+    "totalSpent": 26265.97,
+    "totalReviews": 16,
+    "totalFeedback": 4.915735843,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.92 Stars, based on 16 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022128\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1707147792000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-05T15:43:12\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626718476484608",
+      "highlighted": false,
+      "prettyName": "AWS Lambda"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580682663907328",
+      "highlighted": false,
+      "prettyName": "RESTful API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274382",
+      "highlighted": false,
+      "prettyName": "Java"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626714051493888",
+      "highlighted": false,
+      "prettyName": "API Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1733104400605790217",
+      "highlighted": false,
+      "prettyName": "SOAP API"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

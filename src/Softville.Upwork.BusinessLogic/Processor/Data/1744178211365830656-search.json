@@ -1,0 +1,142 @@
+{
+  "title": "Junior Software Dev \u0026amp; Support (Australia/New Zealand only!)",
+  "createdOn": "2024-01-08T02:04:25\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0172cdee6a38bc58a9",
+  "description": "We are a real estate tech startup building software products and integrations for the industry.\nWe support Australia, New Zealand, USA and UK clients. \nOur current development team is based in India. We are seeking an Australian/New Zealand team member to cover earlier hours for dev and support. You\u0027ll be available from 9am AEST.\n\nWe\u0027re working on a variety of projects and code bases so you\u0027ll be flexible and willing to learn. Primary experience should be in nodejs and react/angular. we also have projects in php, wordpress, \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E. \n\nAs a team, we\u0027re all remote. you\u0027ll report with the CEO based in Brisbane and work along side our global team including principal engineer in India, Project Manager in South Africa and clients internationally.\nDay to day we use Slack, Clickup, Github, AWS.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1010522748,
+  "uid": "1744178211365830656",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Australia"
+    },
+    "totalSpent": 49962.22,
+    "totalReviews": 23,
+    "totalFeedback": 4.94438916,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.94 Stars, based on 23 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022123\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1707872027000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Australia",
+    "New Zealand"
+  ],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-01-08T02:04:26\u002B00:00",
+  "renewedOn": "2024-02-14T00:53:47\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626773660942336",
+      "highlighted": false,
+      "prettyName": "React"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782364123136",
+      "highlighted": false,
+      "prettyName": "SQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626729100656640",
+      "highlighted": false,
+      "prettyName": "Customer Service"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1484275193301618688",
+      "highlighted": false,
+      "prettyName": "NodeJS Framework"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$60.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 60
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

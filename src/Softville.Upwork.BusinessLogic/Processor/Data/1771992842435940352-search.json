@@ -1,0 +1,131 @@
+{
+  "title": "Decompile / Reverse Engineer a Locked NinjaTrader Trading Indicator",
+  "createdOn": "2024-03-24T20:09:50\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01cc04f9710f94cfaa",
+  "description": "I own a NinjaTrader trading indicator around which I want to build an automated strategy. The software is locked, but I need to access the source code. Ethically, this project is only for my personal use and will never be resold as a commercial product or otherwise distributed.\n\nThe environment is Microsoft \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, the language is C#, and the scripting language is NinjaScript.\n\nhttps://ninjatrader.com/support/helpGuides/nt8/NT%20HelpGuide%20English.html?c_method_functions_reference.htm\n\nThe NinjaTrader software runs on Windows and can be trialed for free, so the project provider (you) can test it to ensure the indicator works without purchasing It.\n\nThe DLL is only 503 KB, which is relatively small in programming code. It mostly references existing NinjaTrader indicators.\n\nIf possible, I would prefer a fixed price for this project, but I will consider proposals at an hourly rate.\n\nI will provide the indicator only once the Upwork contract, including the NDA to protect confidentiality and privacy, is in place.\n\nPlease let me know if you have any questions or input.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012210227,
+  "uid": "1771992842435940352",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 43155.25,
+    "totalReviews": 34,
+    "totalFeedback": 4.921153042,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.92 Stars, based on 34 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002228\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "Less than 5",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711310991000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-24T20:09:51\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762910941184",
+      "highlighted": false,
+      "prettyName": "NinjaTrader"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626775099588608",
+      "highlighted": false,
+      "prettyName": "Reverse Engineering"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057028",
+        "prefLabel": "Scripts \u0026 Utilities"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580764771602432",
+      "prefLabel": "Scripting \u0026 Automation"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$10.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 10,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 13
+}

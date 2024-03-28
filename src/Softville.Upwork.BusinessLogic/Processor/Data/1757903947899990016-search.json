@@ -1,0 +1,131 @@
+{
+  "title": "Web Design",
+  "createdOn": "2024-02-14T23:05:36\u002B00:00",
+  "type": 2,
+  "ciphertext": "~010a93f3cbc4612bdb",
+  "description": "We seek a comprehensive redesign of our website, encompassing the homepage and individual product pages. Our vision is for a design that embodies professionalism and trust, tailored to covert visitors into client. Key elements include intuitive navigation, compelling call-to-action buttons, and authentic customer testimonials, all optimized for SEO.\n\nCollaboration \u0026amp; Deliverables:\n\nThe selected designer will collaborate closely with our in-house full-stack developer (built on \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E) to bring this vision to life. Deliverables for this project include:\n- Design files in Figma\n- Fresh and revised web copy\n- Web assets: flat HTML files, sourced images, CSS, and JavaScript",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011342867,
+  "uid": "1757903947899990016",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 570.45,
+    "totalReviews": 3,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 3 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022121\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1707951936000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-14T23:05:36\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626753276624896",
+      "highlighted": false,
+      "prettyName": "Landing Page"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1045317707950489600",
+      "highlighted": false,
+      "prettyName": "Website Redesign"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795181916160",
+      "highlighted": false,
+      "prettyName": "Web Design"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057029",
+        "prefLabel": "Web \u0026 Mobile Design"
+      }
+    ],
+    "oservice": {
+      "uid": "1044578476142100494",
+      "prefLabel": "Web Design"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$55.00-$80.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 55,
+    "max": 80
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

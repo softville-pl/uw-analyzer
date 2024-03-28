@@ -1,0 +1,173 @@
+{
+  "title": "Super Sinior C# Backend Developer (with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core \u0026amp; AWS)",
+  "createdOn": "2024-03-19T20:42:05\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01a571bb0f4898cbb2",
+  "description": "Position Summary:\n\nWe are seeking a skilled and passionate C# Backend Developer to join our dynamic development team. The ideal candidate will have a strong foundation in C# and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core development, with extensive experience working within AWS environments. You will play a crucial role in designing, developing, and maintaining scalable and high-performing backend services that meet our business objectives and customer needs.\n\nKey Responsibilities:\n\nDesign and develop robust, scalable, and high-performance backend services using C# and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core.\nWork closely with the development team to integrate backend services with cloud-based AWS infrastructure.\nEnsure the implementation of best practices for code quality, security, and performance.\nParticipate in the full software development lifecycle, including requirements analysis, design, implementation, testing, and deployment.\nCollaborate with cross-functional teams (including front-end developers, UX/UI designers, and product managers) to define and achieve project goals.\nTroubleshoot, debug, and upgrade existing systems.\nContribute to the evolution of our technology stack and development practices.\nStay abreast of emerging technologies and industry trends, and evaluate their applicability to our goals and needs.\n\nRequired Skills \u0026amp; Qualifications:\n\nMaster degree in Computer Science, Information Technology, or related field.\nMinimum of 10 years of experience in backend development with a strong proficiency in C# and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core.\nProven experience with AWS cloud services (e.g., EC2, S3, Lambda, RDS, DynamoDB).\nFamiliarity with RESTful API design and microservices architecture.\nSolid understanding of database technologies (SQL/NoSQL).\nExperience with version control tools, such as Git.\nStrong analytical and problem-solving skills.\nExcellent communication and teamwork abilities.\nPreferred Skills \u0026amp; Qualifications:\nExperience with containerization technologies (e.g., Docker, Kubernetes).\nKnowledge of CI/CD pipelines and automation tools.\nFamiliarity with Agile development methodologies.\nCertifications in AWS or \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E technologies.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Hours to be determined",
+  "shortEngagement": "Hours to be determined",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012101814,
+  "uid": "1770189018699767808",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 1336968.4,
+    "totalReviews": 52,
+    "totalFeedback": 4.921167676,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.92 Stars, based on 52 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 2,
+  "relevanceEncoded": "{\u0022position\u0022:\u002244\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710880953000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Ukraine"
+  ],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-03-19T20:42:05\u002B00:00",
+  "renewedOn": "2024-03-19T20:42:33\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716547104768",
+      "highlighted": true,
+      "prettyName": "ASP.NET MVC"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580541408137216",
+      "highlighted": false,
+      "prettyName": "Database Architecture"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1204836451894804480",
+      "highlighted": false,
+      "prettyName": "Database Maintenance"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626729578807296",
+      "highlighted": false,
+      "prettyName": "Database Design"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580541227782144",
+      "highlighted": false,
+      "prettyName": "Database"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626781382656000",
+      "highlighted": false,
+      "prettyName": "Software Architecture \u0026 Design"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

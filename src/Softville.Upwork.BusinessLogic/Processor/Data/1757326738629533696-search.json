@@ -1,0 +1,147 @@
+{
+  "title": "Microsoft Developer for CSP Licensing Management Application",
+  "createdOn": "2024-02-13T08:51:58\u002B00:00",
+  "type": 2,
+  "ciphertext": "~017422c1f81a8b3478",
+  "description": "Project Brief:\nA1 Technologies, a leading Microsoft consultancy and managed services provider based in Australia, is seeking an experienced Microsoft developer to create a sophisticated application tailored for managing and sourcing information on Microsoft Cloud Solution Provider (CSP) licenses for each of our esteemed customers. This application is vital for enhancing our ability to provide our clients with productive, collaborative, and secure Microsoft Cloud solutions.\n\nCore Features:\nThe application must be capable of:\n\nSourcing Microsoft CSP Licenses Information: Efficiently retrieve detailed information regarding Microsoft CSP licenses assigned to each customer.\nLicense Quantification: Display the quantity of each type of CSP license currently held by a customer.\nLicense Management: Track and communicate key dates, including the expiry and renewal dates for each CSP license, ensuring our clients are always ahead of their renewal schedules.\nData Presentation: The application should offer versatile data presentation formats to cater to various user preferences and reporting needs.\nSkills and Qualifications:\nThe ideal candidate will possess:\n\nProven experience in Microsoft development environments, with a strong portfolio showcasing similar projects.\nDeep understanding of Microsoft CSP licensing and the technical nuances involved in sourcing and managing such information.\nProficiency in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E, C#, Azure Cloud Services, and PowerShell scripting, with the ability to craft clean, efficient, and robust code.\nExperience in developing applications with user-friendly interfaces and diverse data presentation capabilities (e.g., tables, graphs, reports).\nStrong problem-solving skills and the ability to work independently to meet project milestones and deadlines.\nExcellent communication skills, with proficiency in English, to ensure clear and continuous communication throughout the project lifecycle.\nKnowledge of Microsoft 365, Azure Cloud, and Power Platform is highly desirable, aligning with A1 Technologies\u0027 core service offerings.\nProject Deliverables:\nA fully functional application that meets the outlined core features.\nDocumentation detailing the application setup, operation, and maintenance.\nA brief training session for our team to ensure smooth adoption and management of the application.\nApplication Process:\nInterested candidates are invited to submit their proposals, including:\n\nA detailed project plan outlining your approach to developing the application.\nA portfolio of previous projects, particularly those involving Microsoft technologies and licensing management.\nAn estimated timeline and budget for the project completion.\nAny questions or clarifications you might need about the project.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011302825,
+  "uid": "1757326738629533696",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Australia"
+    },
+    "totalSpent": 108570.87,
+    "totalReviews": 34,
+    "totalFeedback": 4.923691786,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.92 Stars, based on 34 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022125\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "Less than 5",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1707814343000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-02-13T08:51:59\u002B00:00",
+  "renewedOn": "2024-02-13T08:52:23\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580737240190976",
+      "highlighted": false,
+      "prettyName": "Web Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580484373991424",
+      "highlighted": false,
+      "prettyName": "Application Integration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628016885777",
+      "highlighted": false,
+      "prettyName": "User Authentication"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

@@ -1,0 +1,181 @@
+{
+  "title": "C# \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E  MVC Core with Javascript Experience",
+  "createdOn": "2024-02-27T19:36:14\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01181e6a9c24ebe6b8",
+  "description": "We have an \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E MVC Application and one of the pages we need a form added. The form has some complexity. We want to provide a dataset to the page, for which the developer shall write code to create a web form that is generated dynamically. Elements in the web form are provided by an API call. We need the developer to: 1. Take the contents of the data provided by the API. 2. For the dimensions in the contents of the data - create web form that filters the contents of the data. 3. This would then update the contents of the page on which the web form filter is provided. The contents of the data dimensions can have a varying number of fields and the web form needs to be dynamic to handle. Think of how a pivot table works in Excel is how we want this page functionality to work for this application. More information can be provided soon.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011617428,
+  "uid": "1762562299420192768",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022106\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709062574000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "United States"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-27T19:36:14\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716547104768",
+      "highlighted": true,
+      "prettyName": "ASP.NET MVC"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716534521856",
+      "highlighted": true,
+      "prettyName": "ASP.NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626751737315328",
+      "highlighted": false,
+      "prettyName": "jQuery"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482566246400",
+      "highlighted": false,
+      "prettyName": "API Integration"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580726997700608",
+      "highlighted": false,
+      "prettyName": "UX \u0026 UI"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626758578225152",
+      "highlighted": false,
+      "prettyName": "Entity Framework"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$15.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 15,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

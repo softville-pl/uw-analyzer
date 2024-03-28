@@ -1,0 +1,123 @@
+{
+  "title": "Senior Software Engineer",
+  "createdOn": "2024-02-27T14:27:47\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0105ba66d2ddb1b3ac",
+  "description": "Position Overview: \nWe are seeking an experienced Senior Engineer Contractor with experience developing Windows applications and agents. The ideal candidate should have a background in the \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework, API development, and possess hands-on experience in proxy servers.\n\nKey Responsibilities:\n\u2022\tDesign, develop, and maintain Windows applications and agents.\n\u2022\tDesign and implement proxy servers to facilitate network communication and data exchange.\n\u2022\tCreate robust, secure, and efficient software solutions within the \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework.\n\u2022\tDevelop and maintain APIs, ensuring seamless integration with other systems and services.\n\u2022\tCollaborate with project teams to understand requirements and deliver tailored technical solutions.\n\u2022\tProduce comprehensive technical documentation to support development efforts and ensure maintainability.\n\nQualifications:\n\u2022\tBachelor\u0027s in Computer Science, Engineering, or a related field.\n\u2022\tStrong experience in software development, focusing on Windows applications.\n\u2022\tProficiency in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework, C#, and relevant programming languages.\n\u2022\tDemonstrated experience in creating proxy servers.\n\u2022\tSolid understanding of API development and management.\n\u2022\tAbility to collaborate effectively with cross-functional teams and contribute to project success.\n\u2022\tProven track record of delivering high-quality, reliable software solutions.\n\nDesired Skills:\n\u2022\tExperience with cloud services (e.g., Azure, AWS) and familiarity with containerization technologies.\n\u2022\tKnowledge of continuous integration/continuous deployment (CI/CD) processes and tools.\n\u2022\tFamiliarity with cybersecurity principles and best practices.\n\u2022\tDatabase design and development experience.\n\nContractor Benefits:\n\u2022\tCompetitive hourly or project-based pay.\n\u2022\tFlexible working arrangements.\n\u2022\tOpportunity to work on forward-thinking and innovative projects.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011609588,
+  "uid": "1762484677909819392",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022107\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709044068000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-27T14:27:48\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$75.00-$150.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 75,
+    "max": 150
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

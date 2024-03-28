@@ -1,0 +1,139 @@
+{
+  "title": "Blazor \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8 Senior Developer needed",
+  "createdOn": "2024-03-13T20:37:11\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0149c6a4e8b8d14848",
+  "description": "We are seeking a senior Blazor \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8 web developer with expertise in implementing real-time communication for our online courses platform.\n\nThe primary challenge involves managing 15,000 students concurrently online and engaging in real-time interactions with both their peers and the teacher.\n\nThe right candidate will have:\n\n- Proven expertise to design and implement the right architecture to handle such load (interactive client-side or server-side rendering modes, use of SignalR or SocketIO, caching, load balancing, load testing etc.)\n- Over 2 years of solid Blazor experience, including the latest \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E 8 rendering modes\n- Over 7 years of C#/\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E experience\n- Strong experience of API integration\n- Azure experience is a plus\n- Experience with MAUI is advantageous, as the development of a mobile app could be a future stage of the project.\n\nThe project is expected to last 4 to 6 months.\nThe work is fully remote.\nWe offer flexibility in terms of the weekly hours you can commit to the project.\nOur preferred compensation model is an hourly tariff rather than a fixed project fee.\n\nThis is an innovative and exciting project where you will have the opportunity to shape the future of online education!\n\nPlease only apply if you have proven experience in Blazor.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011968114,
+  "uid": "1768013460007133184",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United Kingdom"
+    },
+    "totalSpent": 180,
+    "totalReviews": 2,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 2 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002262\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710362320000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": true,
+  "plusBadge": null,
+  "publishedOn": "2024-03-13T20:42:12\u002B00:00",
+  "renewedOn": "2024-03-13T20:38:40\u002B00:00",
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914247",
+      "highlighted": false,
+      "prettyName": "MySQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876962720792576",
+      "highlighted": false,
+      "prettyName": "Blazor"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626779805597696",
+      "highlighted": false,
+      "prettyName": "SignalR"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$60.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 40,
+    "max": 60
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

@@ -1,0 +1,115 @@
+{
+  "title": "SciChart Expert",
+  "createdOn": "2024-03-20T19:40:15\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01f66e109676bc447c",
+  "description": "We need someone who has experience in SciChart deploying on a desktop \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E application. IF YOU DO NOT HAVE THIS EXPERIENCE, DO NOT APPLY.  No other graphing experience will be accepted. We are a software company looking for an additional set of hands. Do not apply if you cannot answer basic questions about WPF and C#.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012125912,
+  "uid": "1770535843290284032",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 61903.15,
+    "totalReviews": 38,
+    "totalFeedback": 4.895733434,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.90 Stars, based on 38 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002243\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710963615000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-20T19:40:15\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626796855443456",
+      "highlighted": false,
+      "prettyName": "XAML"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668420",
+      "prefLabel": "Data Science \u0026 Analytics"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282593251330",
+        "prefLabel": "Data Analysis \u0026 Testing"
+      }
+    ],
+    "oservice": {
+      "uid": "1031626803117539328",
+      "prefLabel": "Data Visualization"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$20.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 20,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

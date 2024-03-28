@@ -1,0 +1,123 @@
+{
+  "title": "Azure \u002B WordPress 403 and 404 Error Specialist",
+  "createdOn": "2024-03-19T02:14:46\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01352fd98a2f7d9dc8",
+  "description": "I\u0027m looking for an Azure specialist that understands 403 (webpage/resource forbidden) and 404 (http status) Errors. \n\n\u003Cspan class=\u0022highlight\u0022\u003EASP.net\u003C/span\u003E Core 3/C-Sharp programmer to initially correct the 403 and 404 Errors. \n\nThe program is built via:\nMicrosoft Azure as the single comprehensive platform technology solution, utilizing:\n   - App Server for middle-tier\n   - SQL Services for back-end\n   - Storage Account for File share storage\n   - Application Insight for performance and load monitoring  \n \nProgramming:\n   - Backend: MS SQL Server\n   - Client Side: React.JS\n   - Middle Tier: \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core 3/C-Sharp\n   - Authentication: OAUTH / OpenID Connect\n \nIntegration with 3rd party providers:\n   - SendGrid integration for emails exchange and notification\n   - Cronofy integration for calendar synchronization\n   - Twilio integration for text messages\n \nProprietary User Account Management System:\n  - Support for single account with roles within multiple events\n  - SSO (Single Sign-on) with Linked-in\n  - Dual login mode - to the platform (with selection of event) and individual events via event-specific URL \n- Complete technological audit trail - all user, admin and system action are audited with the ability to query audit and runs BI analysis\n- Open API for integration with 3rd party systems\n \nHourly compensation at market rates based on experience and/or as negotiated on a feature/project specific basis at Programmers own time.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "3 to 6 months",
+  "shortDuration": "3-6 months",
+  "durationLabel": "3 to 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012081047,
+  "uid": "1769910354515210240",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 326,
+    "totalReviews": 3,
+    "totalFeedback": 5,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 3 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002248\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "15 to 20",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710814487000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-19T02:14:47\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1052162208999198724",
+      "highlighted": false,
+      "prettyName": "WordPress"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668419",
+      "prefLabel": "IT \u0026 Networking"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057035",
+        "prefLabel": "Network \u0026 System Administration"
+      }
+    ],
+    "oservice": {
+      "uid": "1017484851352698927",
+      "prefLabel": "Systems Administration"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$40.00-$75.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 40,
+    "max": 75
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

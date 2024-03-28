@@ -1,0 +1,163 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Architect for Code Analysis",
+  "createdOn": "2024-02-20T07:55:59\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01f7b9b2ff37b6c998",
+  "description": "We are seeking an experienced \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E developer with a strong background in code analysis, optimization, and security review to conduct a thorough examination of our existing \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E application. \n\nProject Scope:\nObjective: The main goal is to conduct a detailed analysis of our \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E code base to identify performance bottlenecks, security vulnerabilities, areas for refactoring, and to prepare for potential technology upgrades.\nProject Background: Our application is built on the \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework, incorporating \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E MVC and Entity Framework. Required Skills and Experience:\nProficiency in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E technologies, specifically experience with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework, \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core, \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E MVC, and Entity Framework.\nStrong understanding of software architecture, design patterns, and best practices.\nExperience in conducting code reviews and analysis with a focus on performance optimization and security.\nFamiliarity with SQL Server is required\nExcellent problem-solving skills and attention to detail.\nDeliverables:\nA comprehensive analysis of the code base, to be discussed over several meetings. \n\nTo be considered for this project, please submit the following:\n\nA brief introduction highlighting your experience with \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E technologies and code analysis projects as an architect.\nYour availability to start and estimated time to complete the analysis.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011452477,
+  "uid": "1759849361223598080",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Bangladesh"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022117\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "20 to 50",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1708417163000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-20T08:19:23\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716547104768",
+      "highlighted": true,
+      "prettyName": "ASP.NET MVC"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364627995914246",
+      "highlighted": false,
+      "prettyName": "Microsoft SQL Server"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626782364123136",
+      "highlighted": false,
+      "prettyName": "SQL"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626745110315008",
+      "highlighted": false,
+      "prettyName": "HTML"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

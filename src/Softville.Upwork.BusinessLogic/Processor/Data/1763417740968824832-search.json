@@ -1,0 +1,123 @@
+{
+  "title": "LAMP / \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E Framework  Developer",
+  "createdOn": "2024-03-01T04:15:27\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01d31ba81396119c12",
+  "description": "Looking for a LAMP Expert and a Window \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E framework expert to help on a long term contracting basis remotely which can troubleshoot issues. Our environment is a crossbreed between Linux Ubuntu servers and Window servers with the windows servers running custom written programs running on \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E framework.\n \nCURRENTLY LOOKING FOR:\nOn our windows boxes which have certain custom built applications on the \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E framework, we would like someone to review the custom applications and help update the code as needed and migrate them to a new windows server 2022 box. \n\nFor these custom applications running on window servers to be migrated, there are  connections to Ubuntu boxes that need to be reviewed and that\u2019s where your LAMP skillset would come into play.\n\nIf you are well versed in \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E framework and as a LAMP expert, and if you are looking for a long term gig, this position would be ideal for you.\n \nI\n----------------------------------------------------------------------------------------------------------\nMUST HAVE:\n\u2022\tHTML / \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework\n\u2022\tCSS 3.0\n\u2022\tJavaScript\n\u2022\tMobile first design\n\u2022\tLinux\n\u2022\tApache\n\u2022\tPHP\n\u2022\tMySQL\n\u2022\tStored Procedures\n\u2022\tGIT, SVN or other version control system\n\u2022\tFamiliarity debugging and repairing existing and aging software\n\u2022\tUI/UX design\n\u2022\tAbility to gather requirements and translate those requirements into functional software\n\n\nNice to haves\n\u2022\tExperience with Single Page Applications (Angular, React)\n\u2022\tExperience launching production software applications and knowledge of the Software Development Lifecycle.\n\u2022\tExperience with test Driven development\n\u2022\tWriting both unit and functional tests\n\u2022\tBe able to write clear concise design documents",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Hours to be determined",
+  "shortEngagement": "Hours to be determined",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011677468,
+  "uid": "1763417740968824832",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 25,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002297\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709266527000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-01T04:15:27\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274385",
+      "highlighted": false,
+      "prettyName": "PHP"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580615445991424",
+      "highlighted": false,
+      "prettyName": "LAMP Stack"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$100.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 100
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

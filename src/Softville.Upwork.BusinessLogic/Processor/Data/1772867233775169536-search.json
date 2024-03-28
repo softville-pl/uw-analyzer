@@ -1,0 +1,179 @@
+{
+  "title": "Consultancy on new online payment processor",
+  "createdOn": "2024-03-27T06:04:21\u002B00:00",
+  "type": 2,
+  "ciphertext": "~011c229c0a900edc5e",
+  "description": "We are embarking on an ambitious project to develop a cutting-edge payment processor and are in search of a seasoned consultant and developer with extensive experience in fintech and payment solutions. The ideal candidate will possess a deep understanding of payment processing systems, including but not limited to transaction handling, security measures, compliance, and user experience design. This project aims to innovate within the payments industry, offering a seamless, secure, and efficient processing solution for both businesses and consumers.\n\nResponsibilities:\n\nConduct a comprehensive analysis of existing payment processors, identifying their strengths, weaknesses, and areas for innovation.\nCollaborate with our team to define project requirements, objectives, and timelines, ensuring alignment with our strategic goals.\nDesign a scalable and secure architecture for the new payment processor, incorporating the latest technologies and industry best practices.\nDevelop a detailed project plan, including milestones, deliverables, and resource allocation, to guide the development process.\nLead the development and implementation of the payment processor, ensuring code quality, performance, and security standards are met.\nProvide expert advice on regulatory compliance and data security, ensuring the solution adheres to all relevant laws and industry standards.\nWork closely with UX/UI designers to create an intuitive and user-friendly interface for the payment processor.\nConduct thorough testing and quality assurance to identify and resolve any issues before launch.\nOffer ongoing support and consultancy post-launch to ensure smooth operation and address any emerging challenges.\n\nRequirements:\n\nProven experience in fintech, specifically in developing and consulting on payment processing solutions.\nStrong knowledge of payment industry standards, compliance regulations (such as PCI DSS), and data security protocols.\nProficiency in relevant programming languages and technologies used in payment processing development (e.g., Java, C\u002B\u002B, Python, blockchain technologies, etc.).\nExcellent problem-solving skills and the ability to think strategically about innovative payment solutions.\nStrong project management skills, with a track record of leading projects from conception to launch.\nExceptional communication and collaboration skills, with the ability to work effectively in a team and with stakeholders at all levels.\nA portfolio of previous projects in payment processing or related fintech areas.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012268276,
+  "uid": "1772867233775169536",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Hong Kong"
+    },
+    "totalSpent": 35391.48,
+    "totalReviews": 21,
+    "totalFeedback": 4.995048679,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "5.00 Stars, based on 21 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002210\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711519462000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-27T06:04:22\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580737240190976",
+      "highlighted": false,
+      "prettyName": "Web Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626773660942336",
+      "highlighted": false,
+      "prettyName": "React"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626762999021568",
+      "highlighted": false,
+      "prettyName": "Node.js"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628012691468",
+      "highlighted": false,
+      "prettyName": "Angular"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626775913283584",
+      "highlighted": false,
+      "prettyName": "Ruby"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626745118703616",
+      "highlighted": false,
+      "prettyName": "HTML5"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626714051493888",
+      "highlighted": false,
+      "prettyName": "API Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626733781499904",
+      "highlighted": false,
+      "prettyName": "Ecommerce Website Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}

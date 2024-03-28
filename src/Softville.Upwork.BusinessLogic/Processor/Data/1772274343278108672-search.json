@@ -1,0 +1,179 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003ENET\u003C/span\u003E Developer",
+  "createdOn": "2024-03-25T14:48:25\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0119d054c562a111e8",
+  "description": "Role\n\nWork closely as a member of a highly skilled, distributed development team on a polyglot, next generation risk system;\nDesign and implement solutions in support of critical daily business functions, including margin calculation, backtest, reporting, and model configuration management;\nMake key contributions to the design and development of data-intensive back-end distributed systems and the front-end applications used to manage and interface with them;\nCollaborate on architectural direction, platform evolution, and innovative solutions to challenging problems;\nHave the opportunity to learn from professionals with years of experience in the financial industry and a seasoned team of technologists passionate about financial software\n\nResponsibilities\n\nUnderstand complex business systems and workflows and explain them to other developers\nDevelop component designs that work cohesively in the context of existing architecture\nExercise judgment within defined standard practices and procedures to analyze, test, design, program, debug, modify and implement system requirements\nWork closely with the business units and stakeholders on gathering and understanding system requirements\nPlan and estimate the development for key components, applications and systems\nBalance design considerations with delivering specified requirements\nSolve business problems through the use of applied proven technologies\nWork with system operations, database administration and systems software in production support and defining system recovery procedures\nDevelop high performance and business critical applications that work on large data sets in a clustered environment\nIdentify root causes and develop solutions for program failures\nCollaborate with business analysts and QA analysts in the design and execution of business feature, regression and integration testing\nPlan and execute unit tests to ensure the developed code is free of functional defects\n\nExperience\n\nBachelor\u2019s degree in Computer Science or related field required\n5\u002B years of experience developing software within a \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E development environment\n\nStrong Working Knowledge Of\n\nC#/\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Framework\nRESTful API design (and how to implement in \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Web API)\nData structures, Algorithms, and Object-Oriented Design\nDesign Patterns (and how to implement them in C#)\nRelational Databases (such as Oracle), SQL, PL/SQL\nORM technologies (NHibernate, Entity Framework)\nMulti-threaded server-side development\nHTML5/Javascript/CSS and UI frameworks such as ReactJS and Redux\nExperience building production web applications with modern javascript frameworks\nExperience in performance tuning, debugging and memory profiling\nAble to work productively under pressure\nAble to multi-task effectively\nStrong collaboration and technical skills in articulating technical infrastructure and concepts\nStrong interpersonal skills and able to work well in a team environment\nExcellent communication and technical documentation skills\nExposure to the financial services domain, particularly in futures and options\nExposure to the Java enterprise technology stack and Spring framework\nExperience implementing Big Data pipelines for Data Ingestion, Storage, Distributed Processing \u0026amp; Consumption using frameworks like Hadoop, Spark, Flink, Storm, etc\nExperience with distributed storage solutions and/or NoSQL databases \u2013 e.g. HDFS, Cassandra",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012226250,
+  "uid": "1772274343278108672",
+  "client": {
+    "paymentVerificationStatus": null,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002224\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711378463000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-25T14:54:23\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716547104768",
+      "highlighted": true,
+      "prettyName": "ASP.NET MVC"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1192876983507763200",
+      "highlighted": true,
+      "prettyName": ".NET Core"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482322976768",
+      "highlighted": false,
+      "prettyName": "API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274383",
+      "highlighted": false,
+      "prettyName": "JavaScript"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626751737315328",
+      "highlighted": false,
+      "prettyName": "jQuery"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 25,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 10
+}

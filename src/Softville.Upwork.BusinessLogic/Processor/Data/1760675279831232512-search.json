@@ -1,0 +1,179 @@
+{
+  "title": "C\u002B\u002B/ C# based, PDF editor \u0026amp; converter desktop  app",
+  "createdOn": "2024-02-22T14:37:53\u002B00:00",
+  "type": 2,
+  "ciphertext": "~0186546f560a91bec9",
+  "description": "I\u2019d like to evaluate if we should use an open-source application (native)\nWe should be able to use it and modify it to our usage (brand)\nWe need an app that we can rebrand the open-source app (or that the developer has the TM \u0026amp; and usage rights for)\n- If an open source: the licence should be one of the  below: MIT, Apache2 or BSD\n- IT should be complied on \u003Cspan class=\u0022highlight\u0022\u003E.net\u003C/span\u003E environment with  on Visual basic\n- The gig should include the source code\n- Easily rebranded (easy access to reskin/design)\n- No malware issues when running on Virus Total\n- Full offline functionality\n- Design can be very minimal but editable from the source code\n- Base functions:\n1. PDFConverter (pdf to doc and vice versa is the minimum, sign and edit pdf strongly preferred)\n2. PDF Reader (can be set as default reader app on Win PC)\n3. No limitations on downloading it from an S3 bucket\n4. Uninstall",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011507908,
+  "uid": "1760675279831232512",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Israel"
+    },
+    "totalSpent": 2326,
+    "totalReviews": 4,
+    "totalFeedback": 4.623706491,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.62 Stars, based on 4 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u0022112\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1708612673000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-02-22T14:37:53\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580484306882560",
+      "highlighted": false,
+      "prettyName": "Application Installer"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274378",
+      "highlighted": false,
+      "prettyName": "Microsoft Windows"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1225465937601466368",
+      "highlighted": false,
+      "prettyName": "Desktop Application Testing"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274381",
+      "highlighted": false,
+      "prettyName": "C\u002B\u002B"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626731394940928",
+      "highlighted": false,
+      "prettyName": "Desktop Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580702553296896",
+      "highlighted": false,
+      "prettyName": "Standalone Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795949473792",
+      "highlighted": false,
+      "prettyName": "Windows App Development"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626759492583424",
+      "highlighted": false,
+      "prettyName": "Microsoft Visual C\u002B\u002B"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$80.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 30,
+    "max": 80
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

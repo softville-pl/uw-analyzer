@@ -1,0 +1,139 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003EASP.net\u003C/span\u003E dev",
+  "createdOn": "2024-03-07T17:48:29\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01352d6309d9824035",
+  "description": "Position Overview:\nWe are looking for a skilled \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Developer who will be responsible for designing, developing, and maintaining web applications using the \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E framework. The ideal candidate will have a solid understanding of software development best practices, excellent problem-solving skills, and a passion for delivering high-quality solutions. As part of our development team, you will collaborate closely with other developers, designers, and project managers to deliver projects on time and within budget.\n\nKey Responsibilities:\n\nDesign, develop, and maintain web applications using the \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E framework and related technologies.\nCollaborate with cross-functional teams to gather and analyze requirements, and translate them into technical specifications.\nWrite clean, scalable, and maintainable code following best practices and coding standards.\nConduct code reviews to ensure quality and adherence to coding standards.\nTroubleshoot and debug issues reported by users or identified during testing.\nOptimize application performance to ensure scalability and efficiency.\nStay up-to-date with the latest trends and technologies in web development and software engineering.\nRequirements:\n\nBachelor\u0027s degree in Computer Science, Engineering, or a related field.\nProven experience as a \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Developer or \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Developer.\nStrong proficiency in \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E, C#, and \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E framework.\nExperience with web development technologies such as HTML, CSS, JavaScript, and jQuery.\nFamiliarity with relational databases and SQL.\nExperience with version control systems (e.g., Git, SVN).\nExcellent problem-solving and analytical skills.\nStrong communication and collaboration skills.\nAbility to work effectively in a fast-paced environment and meet deadlines.\nPreferred Qualifications:\n\nExperience with \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E MVC or \u003Cspan class=\u0022highlight\u0022\u003EASP.NET\u003C/span\u003E Core.\nKnowledge of front-end frameworks such as Angular, React, or Vue.js.\nExperience with cloud platforms such as Azure or AWS.\nExperience with Agile development methodologies.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "1 to 3 months",
+  "shortDuration": "1-3 months",
+  "durationLabel": "1 to 3 months",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011831732,
+  "uid": "1765796675150749696",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Colombia"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002280\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709835274000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-07T18:14:34\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716513550336",
+      "highlighted": true,
+      "prettyName": "ASP.NET"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626716563881984",
+      "highlighted": true,
+      "prettyName": "ASP.NET Web API"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580737240190976",
+      "highlighted": false,
+      "prettyName": "Web Application"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580482566246400",
+      "highlighted": false,
+      "prettyName": "API Integration"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580755107926016",
+      "prefLabel": "Full Stack Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$15.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 15,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 12
+}

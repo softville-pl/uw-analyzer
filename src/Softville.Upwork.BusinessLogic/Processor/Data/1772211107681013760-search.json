@@ -1,0 +1,131 @@
+{
+  "title": "Firmware development Ezairo 7160 SL",
+  "createdOn": "2024-03-25T10:37:09\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01bae9cbddf354b296",
+  "description": "We are in search of a skilled and experienced programmer to assist us with a project involving the Ezairo 7160 SL Pre Suite, which includes the Ezairo 7160 SL hybrid module and the Ezairo 7160 SL Firmware Bundle. This project requires a professional with specific expertise and experience in the following areas:\n\n1. Firmware Proficiency: The ideal candidate should have prior experience working with the Ezairo 7160 SL firmware. A deep understanding of its functionalities and capabilities is essential **as we will need a firmware to match our needs and settings**\n\n2. Configuration Expertise: We require someone who is adept at enabling and disabling various settings within the firmware, ensuring optimal performance and customization according to project requirements.\n\n3. Batch File Creation: The ability to create batch files for streamlined, multiple installations is crucial. This skill will significantly enhance the efficiency of our deployment process.\n\n 4. Frontend Interface Development in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E: A key aspect of this project is developing a user-friendly interface for end-users. This interface should allow customers to manage specific settings tailored to their needs, ensuring a seamless and intuitive user experience.\n\n5. Remote Collaboration: The selected candidate must be willing and able to work remotely on our designated computer system. This system is directly connected to the necessary hardware and has the Ezairo software installed. This requirement is crucial for real-time testing and development.\n\nFor a comprehensive understanding of the Ezairo 7160 SL Pre Suite, we recommend reviewing the following resource: Ezairo 7160 SL Getting Started Manual.\n\nWe are looking for a professional who is not only technically proficient but also demonstrates strong problem-solving skills, attention to detail, and the ability to work collaboratively in a remote setting.\n\nIf you meet these qualifications and are interested in contributing to a cutting-edge project, we would be delighted to hear from you. Please respond with your resume, a brief overview of relevant projects you have completed, and your availability for a preliminary discussion. \n\nWe are looking for a fixed price\nWe are going to give access on the hardware through anydesk\n\nThanks",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1012220584,
+  "uid": "1772211107681013760",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Italy"
+    },
+    "totalSpent": 57258.17,
+    "totalReviews": 243,
+    "totalFeedback": 4.774928141,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.77 Stars, based on 243 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002226\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "5 to 10",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1711363029000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-25T10:37:09\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1110580547284357120",
+      "highlighted": false,
+      "prettyName": "Firmware"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626758133628928",
+      "highlighted": false,
+      "prettyName": "Microcontroller Programming"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274379",
+      "highlighted": false,
+      "prettyName": "C"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626738688835584",
+      "highlighted": false,
+      "prettyName": "Firmware Programming"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057032",
+        "prefLabel": "Other - Software Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580754940153856",
+      "prefLabel": "Firmware Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$25.00-$70.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 25,
+    "max": 70
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 13
+}

@@ -1,0 +1,115 @@
+{
+  "title": "\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Engine very strong in Azure to debug crashing event",
+  "createdOn": "2024-03-07T02:55:23\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01631b8488f6bf23e0",
+  "description": "I need someone to brainstorm and consult me regarding the behavior of my platform and give me ideas as to why it is crashing quite suddenly. My team has been helpless for 3 days and I need someone to give me new ideas.\n\nIt\u0027s \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core running on Azure as a web app.\n\nI am only interested in talking to someone who is very advanced in \u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E Core and knows Azure quite well.\n\nI hope that you will have ideas and then I can connect you with my developer to help research these ideas further.  I hope that you will be able to get the code to build and deploy and research this. \n\nI want a fresh set of eyes on this problem.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "Less than 1 month",
+  "shortDuration": "1 month",
+  "durationLabel": "Less than 1 month",
+  "engagement": "Less than 30 hrs/week",
+  "shortEngagement": "Less than 30",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011814581,
+  "uid": "1765571919619534848",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "United States"
+    },
+    "totalSpent": 93593.25,
+    "totalReviews": 132,
+    "totalFeedback": 4.774450009,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "4.77 Stars, based on 132 feedbacks",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 1,
+  "relevanceEncoded": "{\u0022position\u0022:\u002281\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Intermediate",
+  "tier": "Intermediate",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "50\u002B",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1709780123000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-07T02:55:23\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626732825198592",
+      "highlighted": true,
+      "prettyName": ".NET Framework"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795962056704",
+      "highlighted": false,
+      "prettyName": "Microsoft Azure"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282584862733",
+        "prefLabel": "Web Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580748673863680",
+      "prefLabel": "Back-End Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$16.00-$50.00",
+  "hourlyBudget": {
+    "type": "MANUAL",
+    "min": 16,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 8
+}

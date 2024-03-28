@@ -1,0 +1,121 @@
+{
+  "title": "Software Developers",
+  "createdOn": "2024-03-13T14:55:09\u002B00:00",
+  "type": 2,
+  "ciphertext": "~01256247a14a2d415d",
+  "description": "We are requesting Software Developers with the following profile:\nEngineer\nMinimum experience of 8 years in the area\nAdvanced command of English (Essential)\nC#/\u003Cspan class=\u0022highlight\u0022\u003E.NET\u003C/span\u003E proficiency (Essential)\nFronted Development (React, Angular)\nMicrosoft Citacore, SharePoint\nImmediate availability\nStable internet connection\nFull time availability\nIf you meet the profile, do not hesitate to apply for this opportunity.",
+  "category2": null,
+  "subcategory2": null,
+  "duration": "More than 6 months",
+  "shortDuration": "6 months\u002B",
+  "durationLabel": "More than 6 months",
+  "engagement": "30\u002B hrs/week",
+  "shortEngagement": "30\u002B",
+  "amount": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "recno": 1011960231,
+  "uid": "1767927382390673408",
+  "client": {
+    "paymentVerificationStatus": 1,
+    "location": {
+      "country": "Venezuela"
+    },
+    "totalSpent": 0,
+    "totalReviews": 0,
+    "totalFeedback": 0,
+    "companyRid": 0,
+    "companyName": null,
+    "edcUserId": 0,
+    "lastContractPlatform": null,
+    "lastContractRid": 0,
+    "lastContractTitle": null,
+    "feedbackText": "No feedback yet",
+    "companyOrgUid": null,
+    "hasFinancialPrivacy": false
+  },
+  "freelancersToHire": 10,
+  "relevanceEncoded": "{\u0022position\u0022:\u002264\u0022}",
+  "isSTSVectorSearchResult": false,
+  "enterpriseJob": false,
+  "tierText": "Expert",
+  "tier": "Expert",
+  "tierLabel": "Experience Level",
+  "isSaved": null,
+  "feedback": "",
+  "proposalsTier": "10 to 15",
+  "isApplied": false,
+  "sticky": false,
+  "stickyLabel": "",
+  "jobTs": "1710341709000",
+  "prefFreelancerLocationMandatory": false,
+  "prefFreelancerLocation": [
+    "Venezuela",
+    "Colombia",
+    "Ecuador",
+    "Mexico",
+    "Brazil"
+  ],
+  "premium": false,
+  "plusBadge": null,
+  "publishedOn": "2024-03-13T14:55:09\u002B00:00",
+  "renewedOn": null,
+  "sandsService": null,
+  "sandsSpec": null,
+  "sandsAttrs": null,
+  "occupation": null,
+  "attrs": [
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "996364628025274380",
+      "highlighted": false,
+      "prettyName": "C#"
+    },
+    {
+      "parentSkillUid": null,
+      "freeText": null,
+      "skillType": 3,
+      "uid": "1031626795211276288",
+      "highlighted": false,
+      "prettyName": "Web Development"
+    }
+  ],
+  "isLocal": false,
+  "workType": null,
+  "locations": [],
+  "occupations": {
+    "category": {
+      "uid": "531770282580668418",
+      "prefLabel": "Web, Mobile \u0026 Software Dev"
+    },
+    "subcategories": [
+      {
+        "uid": "531770282589057025",
+        "prefLabel": "Desktop Application Development"
+      }
+    ],
+    "oservice": {
+      "uid": "1110580753069494272",
+      "prefLabel": "Desktop Software Development"
+    }
+  },
+  "weeklyBudget": {
+    "currencyCode": "USD",
+    "amount": 0
+  },
+  "hourlyBudgetText": "$30.00-$50.00",
+  "hourlyBudget": {
+    "type": "DEFAULT",
+    "min": 30,
+    "max": 50
+  },
+  "tags": [],
+  "clientRelation": null,
+  "totalFreelancersToHire": null,
+  "teamUid": null,
+  "multipleFreelancersToHirePredicted": null,
+  "connectPrice": 16
+}
