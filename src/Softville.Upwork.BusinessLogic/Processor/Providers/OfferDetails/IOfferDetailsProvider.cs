@@ -3,7 +3,7 @@
 
 using Softville.Upwork.Contracts;
 
-namespace Softville.Upwork.BusinessLogic.Processor.OfferDetails;
+namespace Softville.Upwork.BusinessLogic.Processor.Providers.OfferDetails;
 
 public interface IOfferDetailsProvider
 {

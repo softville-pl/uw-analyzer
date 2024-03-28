@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
 using Prospecting.WebJob.Common;
 using Softville.Upwork.BusinessLogic.Common.Configuration;
-using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.BusinessLogic.Processor.Storing;
 using Softville.Upwork.Tests.Common.Stubs;
 
 namespace Softville.Upwork.Tests.Common.Components;

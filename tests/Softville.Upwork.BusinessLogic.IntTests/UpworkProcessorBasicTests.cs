@@ -55,6 +55,9 @@ public class UpworkProcessorBasicTests(IntPrpContext ctx) : BusinessLogicTestBas
 
         Ctx.Job.Services.ResponseStoring.GetApplicants(expectedId).Should().NotBeNull().And
             .Contain("avgInterviewedRateBid");
+
+        // Ctx.Job.Services.ResponseStoring.GetSearchResult(expectedId).Should().NotBeNull().And
+        //     .Contain("\"freelancersToHire\": 1");
     }
 
     [Fact(DisplayName = "Updated offers from search result updated in db and responses persisted during processing")]

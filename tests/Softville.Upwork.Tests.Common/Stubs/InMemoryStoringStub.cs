@@ -3,7 +3,7 @@
 
 using System.Collections.Concurrent;
 using System.Text;
-using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.BusinessLogic.Processor.Storing;
 using Softville.Upwork.Contracts;
 using Softville.Upwork.Tests.Common.Data;
 
@@ -15,6 +15,7 @@ public class InMemoryStoringStub : IHttpResponseStoring
 
     public string? GetDetails(UpworkId id) => GetImpl(DetailsRequest.Instance, id);
     public string? GetApplicants(UpworkId id) => GetImpl(ApplicantsRequest.Instance, id);
+    public string? GetSearchResult(UpworkId id) => GetImpl(SearchRequest.Instance, id);
 
     private string? GetImpl(IUpworkRequestType requestType, UpworkId id)
     {

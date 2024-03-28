@@ -2,7 +2,7 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Microsoft.Extensions.DependencyInjection;
-using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+using Softville.Upwork.BusinessLogic.Processor.Storing;
 using Softville.Upwork.Tests.Common.Stubs;
 
 namespace Softville.Upwork.Tests.Common.Components;

@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Processor.Parsers;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 
-namespace Softville.Upwork.BusinessLogic.Processor;
+namespace Softville.Upwork.BusinessLogic.Processor.Providers.Search;
 
 internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpClientFactory httpClientFactory)
     : ISearchResultProvider
@@ -58,8 +58,10 @@ internal class SearchResultProvider(ILogger<SearchResultProvider> logger, IHttpC
                 $"Failed to query Upwork search. Response: {await offersSearchResponse.Content.ReadAsStringAsync(ct)}");
         }
 
+        Stream responseStream = await offersSearchResponse.Content.ReadAsStreamAsync(ct);
+
         UpworkSearchResult result = await UpworkSearchResultParser.ParseSearchResults(
-            await offersSearchResponse.Content.ReadAsStreamAsync(ct),
+            responseStream,
             ct);
 
         logger.LogDebug("Fetch #{page} page with {foundItems} items", page, result.SearchResults.Jobs.Count);

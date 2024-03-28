@@ -2,8 +2,9 @@
 // The .NET Foundation licenses this file to you under the MIT license.
 
 using Microsoft.Extensions.Logging;
-using Softville.Upwork.BusinessLogic.Processor.ApplicantsStats;
-using Softville.Upwork.BusinessLogic.Processor.OfferDetails;
+using Softville.Upwork.BusinessLogic.Processor.Providers.ApplicantsStats;
+using Softville.Upwork.BusinessLogic.Processor.Providers.OfferDetails;
+using Softville.Upwork.BusinessLogic.Processor.Providers.Search;
 using Softville.Upwork.BusinessLogic.Processor.Repositories;
 using Softville.Upwork.BusinessLogic.Processor.UpworkApi;
 using Softville.Upwork.Contracts;

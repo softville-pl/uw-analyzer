@@ -12,10 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Processor\Configuration\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Remove="Processor\Data\1767927420674441216-applicants.json" />
     <None Remove="Processor\Data\1767927382390673408.json" />
     <None Remove="Processor\Data\1767927382390673408-applicants.json" />

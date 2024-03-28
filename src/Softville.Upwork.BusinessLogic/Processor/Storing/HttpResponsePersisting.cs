@@ -7,7 +7,7 @@ using Microsoft.Extensions.Logging;
 using Softville.Upwork.BusinessLogic.Common.Extensions;
 using Softville.Upwork.Contracts;
 
-namespace Softville.Upwork.BusinessLogic.Processor.UpworkApi;
+namespace Softville.Upwork.BusinessLogic.Processor.Storing;
 
 internal class LocalDiskStoring(ILogger<LocalDiskStoring> logger) : IHttpResponseStoring
 {
