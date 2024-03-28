@@ -47,6 +47,13 @@ public class InMemoryStoringStub : IHttpResponseStoring
         return response;
     }
 
+    public ValueTask PersistJsonAsync(UpworkId id, IUpworkRequestType requestType, string jsonString,
+        CancellationToken ct)
+    {
+        AddImpl(id, requestType, jsonString);
+        return ValueTask.CompletedTask;
+    }
+
     public Task<string?> ReadAsync(UpworkId id, IUpworkRequestType requestType, CancellationToken ct)
     {
         _cache.TryGetValue((requestType, id), out string? result);

@@ -19,16 +19,17 @@ internal class LocalDiskStoring(ILogger<LocalDiskStoring> logger) : IHttpRespons
         CancellationToken ct)
     {
         if (response.IsSuccessStatusCode)
-        {
-            string textHttpContent = await response.Content.ReadAsStringAsync(ct);
-
-            string outputPath = Path.Combine(LocalDir,
-                $"{id.Uid}{GetPostfix(requestType)}.json");
-
-            await File.WriteAllTextAsync(outputPath, textHttpContent.JsonPrettify(), ct);
-        }
+            await PersistJsonAsync(id, requestType, await response.Content.ReadAsStringAsync(ct), ct);
 
         return response;
+    }
+
+    public async ValueTask PersistJsonAsync(UpworkId id, IUpworkRequestType requestType, string jsonString,
+        CancellationToken ct)
+    {
+        string outputPath = Path.Combine(LocalDir, $"{id.Uid}{GetPostfix(requestType)}.json");
+
+        await File.WriteAllTextAsync(outputPath, jsonString.JsonPrettify(), ct);
     }
 
     public async Task<string?> ReadAsync(UpworkId id, IUpworkRequestType requestType,
@@ -58,7 +59,7 @@ internal class LocalDiskStoring(ILogger<LocalDiskStoring> logger) : IHttpRespons
         return result;
     }
 
-    static readonly Regex _regex = new ("\"ciphertext\":\\s*\"([^\"]*)\"", RegexOptions.Compiled);
+    static readonly Regex _regex = new("\"ciphertext\":\\s*\"([^\"]*)\"", RegexOptions.Compiled);
 
     public async ValueTask<UpworkId[]> ListAllAsync(CancellationToken ct)
     {
